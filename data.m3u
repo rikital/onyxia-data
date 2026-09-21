@@ -7150,6 +7150,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
