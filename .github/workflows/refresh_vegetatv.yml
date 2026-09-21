@@ -1,0 +1,66 @@
+name: refresh-vegetatv
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-vegetatv-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests
+
+      - name: Generer le registre FR Vegeta
+        env:
+          VEGETA_OUT: data/vegetatv/vegeta-fr.json
+          VEGETA_OUT_FULL: ${{ runner.temp }}/vegeta-fr-full.json
+        run: python scripts/vegetatv/refresh_vegetatv.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/vegetatv/vegeta-fr.json || true
+          if git diff --cached --quiet; then
+            echo "Aucun changement Vegeta"
+          else
+            git commit -m "chore(vegetatv): refresh vegeta-fr.json"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && exit 0
+              echo "push rejete, retry $i..."; sleep 6
+            done
+            echo "push echoue"; exit 1
+          fi
+
+      # 2026-09-13 : le registre COMPLET (sans plafond) est publie comme FICHIER DE RELEASE,
+      #   jamais commite. Une release ne conserve pas les versions precedentes : chaque passage
+      #   remplace la precedente, donc zero octet ajoute a l'historique git (le depot pesait
+      #   deja 315 Mo pour 44 Mo de fichiers, a cause des gros JSON reecrits en boucle).
+      #   URL stable pour l'application :
+      #   https://github.com/xdata-mix/nx-data/releases/download/vegeta-full/vegeta-fr-full.json
+      - name: Publier le registre complet en release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          f="${{ runner.temp }}/vegeta-fr-full.json"
+          if [ ! -f "$f" ]; then echo "pas de registre complet, on passe"; exit 0; fi
+          ls -lh "$f"
+          gh release view vegeta-full >/dev/null 2>&1 || gh release create vegeta-full \
+            --title "Registre Vegeta complet" \
+            --notes "Registre complet sans plafond, remplace a chaque rafraichissement. Genere automatiquement, ne pas supprimer : l'application telecharge ce fichier."
+          gh release upload vegeta-full "$f" --clobber

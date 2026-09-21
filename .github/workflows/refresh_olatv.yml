@@ -1,0 +1,56 @@
+name: refresh-olatv
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-olatv-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests pycryptodome
+
+      - name: Classement des cids FR -> live-cids.json
+        env:
+          OLA_OUT: data/olatv/live-cids.json
+        run: python scripts/olatv/refresh_olatv.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/olatv/live-cids.json || true
+          if git diff --cached --quiet; then
+            echo "Aucun changement OlaTV."
+          else
+            git commit -m "chore(olatv): refresh cids FR classes [skip ci]"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main \
+                && git push origin main \
+                && { echo "push OK (essai $i)"; break; }
+              echo "push rejete, retry $i"; sleep 6
+            done
+          fi
+
+      - name: Nettoyage automatique des anciens flux de travail
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 5

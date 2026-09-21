@@ -1,0 +1,96 @@
+# Serveurs SUPPLEMENTAIRES pour Vegeta TV (lus par scripts/vegetatv/refresh_vegetatv.py).
+# Ils s'ajoutent aux serveurs de vegetatv.duckdns.org/data/server_status.json, en DERNIER
+# dans le round-robin : ils ne prennent une place que si les serveurs Vegeta n'en ont pas
+# assez, mais ils sauvent les chaines qui n'ont AUCUN serveur (Canal+/Cine+ hors serveur 52).
+#
+# Une ligne par serveur, au choix :
+#   http://host:port/get.php?username=USER&password=PASS&type=m3u_plus&output=m3u8
+#   host:port USER PASS          (l'URL est construite ; si get.php repond 404 -> player_api.php)
+#   - soit un lien M3U direct : n'importe quelle adresse qui renvoie une playlist
+#     (.m3u, .m3u8, ou une page qui en sert une). Elle est telechargee telle quelle,
+#     sans identifiants ; il n'y a donc pas de repli player_api si elle tombe.
+#     Exemple : https://exemple.fr/ma-playlist.m3u
+#     Seules les chaines francaises reconnues y sont retenues (TF1, M6, Canal+,
+#     France 2, BFM, Arte...), le reste de la playlist est ignore.
+# Lignes vides et lignes commencant par # ignorees. Un compte mort ne produit aucun flux :
+# il disparait du JSON au cron suivant, pas besoin de le retirer d'urgence.
+# serverIdx dans l'app = 100 pour la 1re ligne, 101 pour la 2e, etc.
+
+# 2026-09-13 - compte Telegram (fichier "EU _ FR _ 24_7 FRANCAIS.html"), expire 2027-01-11,
+#   max_connections = 1 : souvent occupe, secours uniquement.
+rudytv123.xyz:80 4VHK8UYX3Y8PU2Z AnOF4aVPXs
+
+# 2026-09-13 - panels extraits des flux Bowd (balayage des 2000 chaines FR de leur API,
+#   champ streams[].direct.url). Bowd accumule ces comptes et bascule dessus selon la
+#   charge : on ingere les memes. Nombre de chaines vu chez Bowd en commentaire.
+stap2025.me:80 javimaiz55678UIJ k5iqjr2t24      # 821
+blkntv.com:2095 dragan dragan                   # 103
+portal4k.vip:80 nawalfouziafrfr gyfueblw5w      # 66
+flixigo-iptvpremium.com:80 fatoubeye beyefatou  # 35
+play-plus.net:80 HilijjiElmehdi 3bae8shv0m      # 7
+
+# Deja presents dans la liste Vegeta (52 et 26), inutile de les redoubler :
+#   july.misekran.xyz:8080 (= Vegeta 52)  /  8923828.maxnow.cx (= Vegeta 26)
+
+# 2026-09-13 — testes en direct sur telephone : francais, multi-connexions, actifs.
+skupi.club:8080 Afro-ExchangE LPvuaAUegd
+
+# 2026-09-13 — comptes FR a 1 connexion, testes en direct (vivants + contenu FR).
+# OK maintenant que l'app bascule automatiquement quand un compte est occupe (509).
+packpremium70.me:8080 qmtkco9w5j ojus6sn052
+148568385423.elg-26.com:80 slq5c4cmiz a16k3cxdwa
+153617313963.fug-26.com:80 Moha8Qm0H111 qioywybttv
+728119394188.elg-26.com:80 fathi789456 vryghqc2x3
+superott.top:80 5337163751 7212357367
+d4k.pi1995.net:80 e33cah6ml6 2s79u5sn68
+dramatv4k.xyz:8080 mhxjd2khuk laqrx3dx93
+117648478994.elg-26.com:80 blygsqklur 9tbf1bh4ww
+apex-ayoumas.com:80 122A13D3CHAYBC5 xxHGylmCsy
+cccoooeee.com:80 2AVDHSB DP3YEBK
+daxenon.com:80 3TU645Y425D9CY2 aQpbkFbX8N
+digistreamtv.com:80 376WW2G9NKH9T45 lOG6dR253G
+zyplo.me:80 64:e7:d8:b0:91:8d MEQTC88
+saidmag.xyz:80 Cissesomone 10FJSJP
+www.magnum-ott.net:80 G80UPDE S5L3KZ9
+star44.xyz:80 A5C8A8A331D36A0 4122054E3580
+suprbigo.xyz:80 ULES4QX 9AX4J12
+astott21.xyz:80 6479863171191047 DOZM02czex
+dottv.xyz:80 771173887305 1D37F8C2252A
+aguauzua.com:80 362F61868777302 RbawbggjK8
+aishadr.vip:80 174984AAF9A345C qMwkFaiXaS
+bestiptvgo.net:80 1AF1FA835210514 8hRgUjBe0V
+alb4k.tv:80 5MK8BM39539VMJY Kv9zKuUKx5
+leone62.com:80 002CDD7CA38450C oFY4tGEKQw
+for-smart.cc:80 MAG389NDEZ MAGWUW9MDD
+ernstan.online:80 F34D2645D8C36AC nsyKtKG93g
+abidtech.org:80 0070370940617 al7cfO9JCi
+media4k1.com:8080 CQLZMARCzb UsCtjyroSo
+ege8k.com:8080 fwT91WtRrh W0GB5db7ze
+euro-deluxe.com:8080 4e12eda8cfaae112 cad10b
+maindnskullanma.com:8080 vGDBZzSJ epkJ6sNCHjUd
+cinebelge.xyz:80 185459241352F95 CaKd6lXjmL
+ifraneipt.xyz:80 26B7J7T923J87TC p2QHmDBtd5
+corelnserv.com:80 1119098689177 XR3icL7qGN
+beyonddeals2026.com:80 6UFRZAQ OdI00jwRPr
+beunm.yt:80 0070306058527 S4PaKNtXAV
+bga55.xyz:80 1202c567d752573 axakmdbse6
+abc.gentv.to:8080 8Um1e7qjJo jyAz2eYPuk
+boski.streamtv.to:8080 12G0207pjk GsJbM1q4BA
+clearhd.club:8080 abone438.01 63028827270
+38hacibaba38.gentv.to:8080 12win22112503 vh3759ZBLT
+eempiree.com:8080 7c4d786550df6f25 b04c05ceb903ac26
+albshqipe.com:80 07XUQ6U1DM6JZF1 cJ3AhbpVaP
+allprodtv.com:80 1S4KBA1T6KPSPT5 TrgfJFpDIA
+gold126g.xyz:80 238688105578158 MlfTHPtGDp
+golden01.store:80 MAGJHJFLN1 MAGYRV8J3C
+a17092014c.xyz:80 040308205172D23 HI85JAEJiM
+amster.live:8080 QSerkN968 nTqwuy
+bsvpn.cc:80 10D2822FDD21183 eL3XasL0GI
+dany46pi.giize.com:80 YFJbGTN8y3 sDHUDH6fzK
+baztic-iptv.com:80 0072D230702A924 ZkMpPCrIyb
+5.196.40.73:8080 2Q3byoXI bjcTH5pc
+5.252.33.34:88 227456844583649 227456844583649
+dailyfunnews.bond:80 098011853226290 gMTx1tn8nr
+alextv.gentv.to:8080 pcsline07 MN6FuAliGD
+185.187.159.2:80 377272palu 849198185
+arm-bes.xyz:80 3A232A2655435F9 yXTm5mlxWX

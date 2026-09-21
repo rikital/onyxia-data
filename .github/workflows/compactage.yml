@@ -1,0 +1,58 @@
+name: compactage-depot
+
+# 2026-09-13 (user « il va falloir faire du vide, et que chaque courant supprime le precedent
+#   a une certaine limite ») : les gros fichiers de donnees sont reecrits plusieurs fois par jour
+#   et git garde CHAQUE version. Au 13/09/2026 le depot pesait 315 Mo pour seulement 44 Mo de
+#   fichiers reels, et grossissait d'environ 100 Mo par mois.
+#   Ce workflow reecrit `main` en UN SEUL commit contenant l'etat courant et efface tout
+#   l'historique precedent, mais seulement au-dela du seuil ci-dessous.
+#   Les URL ne changent pas : l'application lit toujours la branche main, rien a republier.
+#   ATTENTION : l'operation est IRREVERSIBLE (historique perdu, scripts compris).
+
+on:
+  workflow_dispatch:
+    inputs:
+      forcer:
+        description: "Compacter meme sous le seuil (oui/non)"
+        required: false
+        default: "non"
+
+concurrency:
+  group: compactage-depot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  compacter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Compacter si le depot depasse le seuil
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SEUIL_KO: '512000'   # 500 Mo
+          FORCER: ${{ github.event.inputs.forcer }}
+        run: |
+          set -e
+          taille=$(gh api repos/${{ github.repository }} --jq .size)
+          echo "taille du depot : ${taille} Ko (seuil ${SEUIL_KO} Ko)"
+          if [ "$taille" -lt "$SEUIL_KO" ] && [ "$FORCER" != "oui" ]; then
+            echo "sous le seuil : rien a faire."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan compactage
+          git add -A
+          git commit -m "compactage : etat courant, historique precedent efface (depot a ${taille} Ko)"
+          git push -f origin compactage:main
+          echo "-----"
+          echo "historique reecrit en un commit unique."
+          echo "La taille affichee par GitHub ne baisse pas immediatement : elle suit leur"
+          echo "nettoyage interne (git gc), qui passe dans les jours suivants."

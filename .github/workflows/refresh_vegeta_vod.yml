@@ -1,0 +1,56 @@
+name: refresh-vegeta-vod
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-vegeta-vod-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests
+
+      - name: Generer l'index VOD FR Vegeta (films + series + episodes)
+        env:
+          VEGETA_VOD_OUT: data/vegetatv/vegeta-vod-fr.json
+          VEGETA_VOD_EP_DIR: data/vegetatv/vod-ep
+        run: python scripts/vegetatv/refresh_vegeta_vod.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          python - <<'EOF'
+          import json, sys
+          d = json.load(open("data/vegetatv/vegeta-vod-fr.json", encoding="utf-8"))
+          n, m = len(d.get("films", [])), len(d.get("series", []))
+          print("films:", n, "series:", m, "serveurs:", len(d.get("servers", {})))
+          if n < 500 or m < 200:
+              print("index trop petit -> on ne pousse pas"); sys.exit(1)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/vegetatv/vegeta-vod-fr.json data/vegetatv/vod-ep || true
+          if git diff --cached --quiet; then
+            echo "Aucun changement Vegeta VOD"
+          else
+            git commit -m "chore(vegetatv): refresh vegeta-vod-fr.json + vod-ep"
+            for i in 1 2 3 4 5; do
+              git fetch origin main && git reset --hard origin/main && git checkout ORIG_HEAD -- data/vegetatv/vegeta-vod-fr.json data/vegetatv/vod-ep && { git diff --cached --quiet && echo "deja identique a origin" && exit 0 || git commit -m "chore(vegetatv): rafraichir vegeta-vod-fr.json + vod-ep"; } && git push && exit 0
+              echo "push rejete, retry $i..."; sleep 6
+            done
+            echo "push echoue"; exit 1
+          fi

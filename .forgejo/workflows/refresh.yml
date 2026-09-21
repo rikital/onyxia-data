@@ -1,0 +1,45 @@
+# Forgejo Actions workflow: refresh dead M3U URLs from ParaTV main
+# v2: asyncio HEAD parallel (script tourne en 30-60s au lieu de 5+ min)
+# v3: fetch-depth 0 + git pull --rebase pour eviter conflits push apres commit manuel
+name: refresh-m3u-urls
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+# Concurrency : un seul run actif à la fois.
+# Si un nouveau run démarre (cron ou manuel), annule celui en cours/queue.
+# Évite l'empilement quand le runner codeberg-medium est saturé.
+
+jobs:
+  refresh:
+    runs-on: codeberg-medium
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Python deps
+        run: pip install --no-cache-dir --break-system-packages aiohttp
+
+      - name: Run refresh script
+        run: python scripts/refresh_urls.py
+
+      - name: Commit & push if changed
+        env:
+          CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+        run: |
+          if [ -n "$(git status --porcelain data.m3u)" ]; then
+            git config user.email "ci@codeberg.org"
+            git config user.name "Codeberg CI"
+            git add data.m3u
+            git commit -m "Auto-refresh: dead URLs replaced [skip ci]"
+            # Sync avec remote en cas de commit manuel pendant le run
+            git pull --rebase origin main || (git rebase --abort; exit 1)
+            git push https://xdata:$CODEBERG_TOKEN@codeberg.org/xdata/nx-data.git HEAD:main
+          else
+            echo "No URL changes - nothing to commit"
+          fi

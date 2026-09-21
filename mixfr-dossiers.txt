@@ -1,0 +1,25 @@
+# DOSSIERS MIX FR — colle ici tes liens M3U, un par ligne :
+#
+#     Nom du dossier | https://exemple.com/playlist.m3u
+#
+# - Le nom devient un dossier dans l'appli : Autres Replays > Mix FR > « Nom du dossier ».
+# - Toute la playlist du lien est importee dans data.m3u sous ce dossier (section
+#   « DOSSIERS MIX FR » en fin de fichier), a chaque passage du refresh (20 min).
+# - Ces chaines ne sont JAMAIS testees, remplacees ni supprimees par le refresh :
+#   c'est le contenu du lien, tel quel. Si le lien ne repond pas, l'ancien contenu reste.
+# - Une ligne sans nom (« https://... » seul) tombe dans le dossier « Playlist ».
+# - Une ligne commencant par # est ignoree.
+
+
+# ================= DOSSIER « Zone 18@ » (Mix FR) =================
+# Colle tes liens M3U ci-dessous, UN PAR LIGNE, toujours avec le meme nom devant :
+#     Zone 18@ | https://exemple.com/playlist1.m3u
+#     Zone 18@ | https://exemple.com/playlist2.m3u
+# Plusieurs liens = un seul dossier « Zone 18@ » dans l'appli (les playlists s'additionnent).
+# Retire une ligne pour retirer ses chaines. Rien d'autre a toucher.
+
+Zone 18@ | https://iptvmate.net/files/adult.m3u
+Zone 18@ | https://iptvmate.net/files/xxx.m3u
+Zone 18@ | https://adultm3u.com/dl/x-adultm3u-com-07-03-2022.m3u
+Zone 18@ | https://adultm3u.com/dl/x-adultm3u-com-07-03-2022-2.m3u
+

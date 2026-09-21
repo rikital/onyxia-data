@@ -1,0 +1,57 @@
+name: refresh-tokyvideo
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-tokyvideo-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests
+
+      - name: Generer l'index Tokyvideo (vieilles series + films VF)
+        env:
+          TOKY_OUT: data/tokyvideo/index.json
+          TOKY_WORKERS: '3'
+          TOKY_DELAI: '0.5'
+        run: python scripts/tokyvideo/refresh_tokyvideo.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          python - <<'EOF'
+          import json, sys
+          d = json.load(open("data/tokyvideo/index.json", encoding="utf-8"))
+          n, m = len(d.get("series", [])), len(d.get("films", []))
+          print("series:", n, "films:", m)
+          if n < 20 or m < 100:
+              print("index trop petit -> on ne pousse pas"); sys.exit(1)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tokyvideo/index.json || true
+          if git diff --cached --quiet; then
+            echo "Aucun changement Tokyvideo"
+          else
+            git commit -m "chore(tokyvideo): refresh index.json"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && exit 0
+              echo "push rejete, retry $i..."; sleep 6
+            done
+            echo "push echoue"; exit 1
+          fi

@@ -1,0 +1,47 @@
+# Workflow refresh_francetv : génère data-replay-francetv.m3u + concat dans data-replay.m3u
+name: refresh-francetv
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: refresh-francetv-only
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run refresh_francetv.py
+        run: python scripts/refresh_francetv.py
+      - name: Combine into data-replay.m3u
+        run: python scripts/combine_replays.py
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data-replay-francetv.m3u data-replay.m3u
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto: refresh data-replay-francetv.m3u (France TV)"
+            git pull --rebase origin main || git rebase --abort
+            git push
+          fi
+      - name: Auto-cleanup old workflow runs
+        if: always()
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 10

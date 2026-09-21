@@ -1,0 +1,53 @@
+# GitHub Actions workflow: refresh dead M3U URLs from ParaTV main.
+# Déclenchement = ping externe (cron-job.org) via API workflow_dispatch,
+# toutes les 20 min (aligné sur rotation ParaTV).
+# Auto-cleanup des vieux runs en fin pour éviter accumulation.
+name: refresh-m3u-urls
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: refresh-m3u-urls-only
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install aiohttp
+        run: pip install aiohttp
+      - name: Run refresh script
+        run: python scripts/refresh_urls.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.m3u
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto: refresh m3u URLs"
+            # Récupère les pushs concurrents AVANT le push (workflows replay split)
+            git pull --rebase origin main || git rebase --abort
+            git push
+          fi
+      # 2026-06-16 (user "on va en avoir des milliers, fais autosuppression") :
+      # supprime les vieux runs > 14 h (retain_days=1) pour éviter accumulation.
+      # Garde 50 derniers par sécurité. Tourne à chaque run, donc cleanup continu.
+      - name: Auto-cleanup old workflow runs
+        if: always()
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 10

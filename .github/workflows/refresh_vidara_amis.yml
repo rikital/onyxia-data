@@ -1,0 +1,42 @@
+# « Partage de la communaute » Vidara -> data/vidara_amis.json
+#
+# Meme principe que refresh_vidara.yml : les cles API des amis vivent dans le
+# secret VIDARA_AMIS ("prenom:CLE1,autre:CLE2"), seule la table titre -> filecode
+# (+ dossier) est publiee. Lecture publique sur https://vidara.to/e/{filecode}.
+#
+# Pour ajouter un ami : Settings > Secrets and variables > Actions > VIDARA_AMIS,
+# ajouter ",prenom:CLE" a la valeur. Aucun changement de code ni d'APK.
+#
+# Cadence : declenchee par cron-job.org comme les autres jobs nx-data. PAS de
+#   schedule: ici, sinon double execution.
+name: refresh-vidara-amis
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: refresh-vidara-amis-only
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run refresh_vidara_amis.py
+        env:
+          VIDARA_AMIS: ${{ secrets.VIDARA_AMIS }}
+        run: python scripts/refresh_vidara_amis.py
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/vidara_amis.json
+          git diff --cached --quiet || (git commit -m "auto: refresh index Vidara amis" && git pull --rebase origin main && git push)

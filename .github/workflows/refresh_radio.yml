@@ -1,0 +1,72 @@
+# Refresh radio-fr.json from RadioBrowser API.
+# Triggered by cron-job.org via workflow_dispatch (weekly).
+# Fetches 2000 FR stations, slims to needed fields, commits.
+name: refresh-radio-fr
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: refresh-radio-fr-only
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fetch and update radio-fr.json
+        run: |
+          # Try all 4 mirrors
+          for mirror in de1 nl1 fr1 at1; do
+            curl -sf --retry 2 --retry-delay 3 --max-time 30 \
+              "https://${mirror}.api.radio-browser.info/json/stations/search?countrycode=FR&hidebroken=true&order=votes&reverse=true&limit=2000" \
+              -o /tmp/raw.json && break
+            echo "Mirror ${mirror} failed, trying next..."
+          done
+          if [ ! -s /tmp/raw.json ]; then
+            echo "All mirrors failed"
+            exit 1
+          fi
+          python3 -c "
+          import json
+          with open('/tmp/raw.json') as f:
+              raw = json.load(f)
+          slim = [{
+              'stationuuid': s.get('stationuuid',''),
+              'name': (s.get('name','') or '').strip(),
+              'url_resolved': s.get('url_resolved',''),
+              'url': s.get('url',''),
+              'favicon': s.get('favicon',''),
+              'country': s.get('country',''),
+              'language': s.get('language',''),
+              'tags': s.get('tags',''),
+              'votes': s.get('votes',0)
+          } for s in raw if (s.get('name','') or '').strip() and (s.get('url_resolved','') or s.get('url',''))]
+          with open('data/radio-fr.json', 'w') as f:
+              json.dump(slim, f, separators=(',',':'), ensure_ascii=False)
+          print(f'Written {len(slim)} stations')
+          "
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/radio-fr.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "auto: refresh radio-fr.json"
+            git pull --rebase origin main || git rebase --abort
+            git push
+          fi
+      - name: Auto-cleanup old workflow runs
+        if: always()
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 10
