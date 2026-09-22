@@ -37,6 +37,8 @@ bfmplay://NEUF_BFMTV_BFM1021143163386
 bfmplay://NEUF_BFMTV_BFM1021145198702
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021138930327" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/3/9e01ad90c4db1f3102e2b8d9e3846411_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Jerôme Barella : les secrets d’un prédateur
 bfmplay://NEUF_BFMTV_BFM1021138930327
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246466" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/6/4/77f584c62bd7ce604ed5237d5cc279aa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Émission du 22 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151246466
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244321" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/2/3/2059e38a3d594f06cb25b5b1e4ffcc2a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Frédéric Encel face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244321
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0143" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/1/00cd5ce1ebeade1de2f49c8f2143312b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Menace Russe : la France se prépare
@@ -71,8 +73,6 @@ bfmplay://NEUF_BFMTV_BFM1021151244477
 bfmplay://NEUF_BFMTV_BFMFAB0006
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMFAB0005" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/0/0/7c4cdec7ea7b3789db0f9f99c567a174_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Invité : Eric Zemmour
 bfmplay://NEUF_BFMTV_BFMFAB0005
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021150368260A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/A/0/6/4194b79b49790696bee546102db04630_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Campagne: le goût du terroir
-bfmplay://NEUF_BFMTV_BFM1021150368260A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021156035074" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/7/0/74d5937cfc5b8c01ee479b0b81f3073f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion, ses retrouvailles avec la France
 bfmplay://NEUF_BFMTV_BFM1021156035074
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020907829676" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/6/176655703ef79b32cd6a50463ca6f054_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion : la dame de fer
@@ -143,6 +143,26 @@ bfmplay://NEUF_BFMTV_BFM1021151244285
 bfmplay://NEUF_BFMTV_BFM1021151244459
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244123" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/2/1/b1daece000cccac6811f53db222ae8c3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Roland Lescure face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244123
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764472" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/4/36c146f237e5e92ef4846a57f552cf30_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 22 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764472
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764394" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/9/3/7a0ada608b9c737f8087cd0b9a496355_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 21 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764394
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764466" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/6/4/6502787dd111395c8a5edab24982a4b8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 18 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764466
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764460" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/6/4/f4c6c30b0161c0c22bb0aae108711df4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 17 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764460
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764382" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/8/3/cee89a908255a9e54b08cd950284e779_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 16 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764382
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764090" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/9/0/2942ae6b953e385b43c75868ecac7c13_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 15 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764090
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764376" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/3/feb489ba4d28568ebc5980d030647885_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 14 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764376
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764448" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/4/4/f0d8fc27796ce1863cff708268c26b06_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 11 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764448
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764370" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/7/3/167b99e149ccda0bcf221b52797be0a7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 10 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764370
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764078" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/7/0/2fb974f4d18899be8baee0473990b062_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 9 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764078
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020926916445" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/4/4/31dce6d5e1cd7369673c0cd3f303b59f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Météo - Prévisions du 22 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1020926916445
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020926916443" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/4/367b21d630903a39664ed6fa6451cb5c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Météo - Prévisions de ce soir et du 22 septembre 2026
@@ -215,6 +235,8 @@ bfmplay://NEUF_BFMTV_BFM1021151203105
 bfmplay://NEUF_BFMTV_BFM1021151203070
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151202905" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/0/9/91e1073998290152d4faa39d1642c997_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",100% Mabrouk - Invités : Sébastien Chenu et David Lisnard
 bfmplay://NEUF_BFMTV_BFM1021151202905
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021150368260A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/A/0/6/4194b79b49790696bee546102db04630_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",2027 Les émissions spéciales - Campagne: le goût du terroir
+bfmplay://NEUF_BFMTV_BFM1021150368260A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021150368296A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/A/6/9/2428670cee85b799c69742fcb7585453_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",2027 Les émissions spéciales - Souffler sur les braises
 bfmplay://NEUF_BFMTV_BFM1021150368296A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021150368254A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/A/4/5/5bed3554dfd0a775a125213f401fae4b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",2027 Les émissions spéciales - Course à l’Elysée : en être ou ne pas en être ?
@@ -275,8 +297,6 @@ bfmplay://NEUF_BFMTV_BFM1021151251478
 bfmplay://NEUF_BFMTV_BFM1021151251472
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251358" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/5/3/3e3dd1abde46cbde39b267830c1ee052_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 9 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151251358
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251322" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/2/3/587c48876e7cc57d7414c51576e55ff8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 8 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251322
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240377" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/7/3/365deaf54abcf0a7f3ee2fb74986cacd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 21 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151240377
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151239999" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/9/9/a538bd40f10480d0e565160f0414fb6d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 18 septembre 2026
@@ -309,24 +329,6 @@ bfmplay://NEUF_BFMTV_BFM1021151246280
 bfmplay://NEUF_BFMTV_BFM1021151246580
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246418" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/1/4/228904b7c696c4820b848286f16c5aa2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 9 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246418
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764394" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/9/3/7a0ada608b9c737f8087cd0b9a496355_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 21 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764394
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764466" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/6/4/6502787dd111395c8a5edab24982a4b8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 18 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764466
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764460" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/6/4/f4c6c30b0161c0c22bb0aae108711df4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 17 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764460
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764382" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/8/3/cee89a908255a9e54b08cd950284e779_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 16 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764382
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764090" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/9/0/2942ae6b953e385b43c75868ecac7c13_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 15 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764090
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764376" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/3/feb489ba4d28568ebc5980d030647885_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 14 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764376
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764448" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/4/4/f0d8fc27796ce1863cff708268c26b06_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 11 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764448
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764370" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/7/3/167b99e149ccda0bcf221b52797be0a7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 10 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764370
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764078" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/7/0/2fb974f4d18899be8baee0473990b062_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 9 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021152764078
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151266985" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/8/9/acb34eaa9d3810798812ee87908f71dd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire Suivante - Le violeur de la Guillotière
 bfmplay://NEUF_BFMTV_BFM1021151266985
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151267033" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/3/0/ca05632717d89f07e1d452c65e6370a9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire Suivante - États-Unis : Affaire Lindsay Clancy
@@ -1169,6 +1171,8 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000822
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000762
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000709" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/0/7/bc35b61e2bd978af4928398309eaa6a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",C'est votre argent - Édition spéciale du 28 août 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000709
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022234" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/3/2/91507bfebe172028b92322068b3fc29a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Carburants : des infirmiers libéraux obligés de faire le tri des patients. Les travailleurs au bord du gouffre ?
+bfmplay://NEUF_NUM23_N231021132022234
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022220" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/2/2/d2a371095e76262bfdb7751501a384a2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Les règles sur les découverts bancaires dès 200 euros vont bientôt se durcir  : intenable ?
 bfmplay://NEUF_NUM23_N231021132022220
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022206" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/0/2/37defacf3d0c586eb4b92468a1c25294_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - « Je kiffe ce pays » : le nouveau joueur des Bleus, Esteban Lepaul, traité de « facho » pour avoir déclaré sa flamme à la France. Choquant ?
@@ -1359,8 +1363,6 @@ bfmplay://NEUF_NUM23_N231021134773775A
 bfmplay://NEUF_NUM23_N231021134773762C
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773762B" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/B/2/6/0599c9eb42e2948976b17af3f7ea0d00_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Folie du running : prêts à vous mettre à la course à pied ?
 bfmplay://NEUF_NUM23_N231021134773762B
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773762A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/A/2/6/959d4f3823d085e624fafa6e9abd0c84_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Classement Pisa : la France au plus bas. Faut-il revoir tout le système  scolaire ?
-bfmplay://NEUF_NUM23_N231021134773762A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC693978117527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/338a2b55d3f94f9a3dd2ef5acd411b65_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S3E27 - La folle cavale de Lionel Cardon
 bfmplay://NEUF_RMCDEC_RMC693978117527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020912279181" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/8/1/15c306beb271fb4127421fa843fbeffa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S6E22 - Edgar Boulai, les disparus de Vaux-le-Pénil
@@ -5217,8 +5219,6 @@ bfmplay://NEUF_RMCDEC_RMC984149008527
 bfmplay://NEUF_RMCDEC_RMC984148998527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC984148988527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/934bfef7a74bff5454acb461c105612d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S6E3 - Rivière dangereuse
 bfmplay://NEUF_RMCDEC_RMC984148988527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC984148978527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/1c2abd20713bf3b246cf27cd429ada11_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S6E2 - A l'heure d'hiver
-bfmplay://NEUF_RMCDEC_RMC984148978527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098565" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/6/5/6fbeb411580c9b8b006005ad6fbdfaf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E9 - Cap sur l'inconnu
 bfmplay://NEUF_RMCDEC_RMC1020979098565
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098579" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/7/5/fa97e881ee506c7e8b0c41df7823cf2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E11 - L'appel de la forêt
