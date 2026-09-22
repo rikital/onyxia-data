@@ -37,6 +37,8 @@ bfmplay://NEUF_BFMTV_BFM1021143163386
 bfmplay://NEUF_BFMTV_BFM1021145198702
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021138930327" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/3/9e01ad90c4db1f3102e2b8d9e3846411_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Jerôme Barella : les secrets d’un prédateur
 bfmplay://NEUF_BFMTV_BFM1021138930327
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0143" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/1/00cd5ce1ebeade1de2f49c8f2143312b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Menace Russe : la France se prépare
+bfmplay://NEUF_BFMTV_BFMES0143
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020926916443A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/A/3/4/4d53b45032464bc92ce520f84d4ae6a1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Le module 20.27 du 21 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1020926916443A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246430" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/3/4/960fb2a015ad7b7cd3f4de7172fbd057_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Émission du 21 septembre 2026
@@ -71,8 +73,6 @@ bfmplay://NEUF_BFMTV_BFMFAB0005
 bfmplay://NEUF_BFMTV_BFM1021150368260A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246622" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/2/6/3daa7edb26552ac23faf28c3a6bc371b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Émission du 17 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246622
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244183" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/8/1/80d3adedbcc05f9e6fe09980250d1647_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Alice Rufo face à Apolline de Malherbe
-bfmplay://NEUF_BFMTV_BFM1021151244183
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021156035074" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/7/0/74d5937cfc5b8c01ee479b0b81f3073f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion, ses retrouvailles avec la France
 bfmplay://NEUF_BFMTV_BFM1021156035074
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020907829676" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/6/176655703ef79b32cd6a50463ca6f054_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion : la dame de fer
@@ -105,6 +105,22 @@ bfmplay://NEUF_BFMTV_BFM1021141374052
 bfmplay://NEUF_BFMTV_BFM1021131655978
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021137626197" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/9/1/b1ac4cd4893e912d3700b1fcb38c0d8e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Lyhanna, révélations sur le drame qui choque la France
 bfmplay://NEUF_BFMTV_BFM1021137626197
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0140" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/4/1/4727bfcaab2aa1403cb150cf1f2ab998_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Alerte climat : nos politiques hors sol ? - Partie 2
+bfmplay://NEUF_BFMTV_BFMES0140
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0139" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/3/1/f99cca87d23a115342854a2fb0566e89_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Alerte climat : nos politiques hors sol ? - Partie 1
+bfmplay://NEUF_BFMTV_BFMES0139
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0138" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/3/1/b26f3571fa515a4ae9de2f7307d40ccd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Le débat Dominique de Villepin - François Ruffin
+bfmplay://NEUF_BFMTV_BFMES0138
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0137" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/3/1/9df296debd0652fb2d1427809ba2a251_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Présidentielle 2027 :  Les candidats face aux patrons
+bfmplay://NEUF_BFMTV_BFMES0137
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0030" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/3/0/57b2cfef41bf87ee2933282411e0c063_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans qui ont bouleversé la France - soirée événement
+bfmplay://NEUF_BFMTV_BFMES0030
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0029" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/2/0/df23ad2659cc771b6678f3a9e11e30c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans autour du monde - soirée événement
+bfmplay://NEUF_BFMTV_BFMES0029
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0028" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/2/0/cdb7bda0f3776a5f633be8c9e27a6783_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans d'actualité politique - soirée événement
+bfmplay://NEUF_BFMTV_BFMES0028
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0027" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/0/db013161014e07107400ae5d4472f7db_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans auprès de vous - soirée événement
+bfmplay://NEUF_BFMTV_BFMES0027
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152766397" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/9/3/ad4b264ac3c947d4f60002dc20524b05_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Grand soir - Émission du 21 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021152766397
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152766607" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/0/6/8e72627e1ccb198f2d541268e9576e35_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Grand soir - Émission du 20 septembre 2026
@@ -257,6 +273,8 @@ bfmplay://NEUF_BFMTV_BFM1021151246580
 bfmplay://NEUF_BFMTV_BFM1021151246418
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246412" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/1/4/9170f022d2d1f45b2cc724e4e1d1ff6e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 8 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246412
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244183" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/8/1/80d3adedbcc05f9e6fe09980250d1647_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Alice Rufo face à Apolline de Malherbe
+bfmplay://NEUF_BFMTV_BFM1021151244183
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244147" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/4/1/e2ea60a6c818a159bfe8bc43a4f464c5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Fabien Roussel face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244147
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244177" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/7/1/c0d990b18cd71e96ef4453db11c050ec_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Michel-Édouard Leclerc face à Apolline de Malherbe
@@ -543,22 +561,6 @@ bfmplay://NEUF_BFMTV_BFM0300016038E
 bfmplay://NEUF_BFMTV_BFM0300016038F
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM0300016038G" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/G/8/3/c65d6ca298541dd586ebe770d40fa3a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Un Monde Bleu - Invité : Jean Krug
 bfmplay://NEUF_BFMTV_BFM0300016038G
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0140" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/4/1/4727bfcaab2aa1403cb150cf1f2ab998_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Alerte climat : nos politiques hors sol ? - Partie 2
-bfmplay://NEUF_BFMTV_BFMES0140
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0139" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/3/1/f99cca87d23a115342854a2fb0566e89_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Alerte climat : nos politiques hors sol ? - Partie 1
-bfmplay://NEUF_BFMTV_BFMES0139
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0138" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/3/1/b26f3571fa515a4ae9de2f7307d40ccd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Le débat Dominique de Villepin - François Ruffin
-bfmplay://NEUF_BFMTV_BFMES0138
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0137" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/3/1/9df296debd0652fb2d1427809ba2a251_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Présidentielle 2027 :  Les candidats face aux patrons
-bfmplay://NEUF_BFMTV_BFMES0137
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0030" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/3/0/57b2cfef41bf87ee2933282411e0c063_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans qui ont bouleversé la France - soirée événement
-bfmplay://NEUF_BFMTV_BFMES0030
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0029" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/2/0/df23ad2659cc771b6678f3a9e11e30c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans autour du monde - soirée événement
-bfmplay://NEUF_BFMTV_BFMES0029
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0028" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/2/0/cdb7bda0f3776a5f633be8c9e27a6783_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans d'actualité politique - soirée événement
-bfmplay://NEUF_BFMTV_BFMES0028
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0027" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/0/db013161014e07107400ae5d4472f7db_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans auprès de vous - soirée événement
-bfmplay://NEUF_BFMTV_BFMES0027
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMAFFD0041" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/4/0/1971c022e65e0ec239d9b1ac1d6fabd9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire suivante, faits divers - L’omerta est encore plus forte qu’à Bétharram": une journaliste révèle la face cachée de l’établissement privé Stanislas
 bfmplay://NEUF_BFMTV_BFMAFFD0041
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMAFFD0040" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/4/0/b1d7262cc0b390a6b11ef36f7415db43_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire suivante, faits divers - Affaire Sonia Bellina : face aux violences, les travailleuses du sexe sont-elles suffisamment protégées ?
@@ -841,6 +843,12 @@ bfmplay://NEUF_BFMTV_BFM0300016541A
 bfmplay://NEUF_BFMTV_BFM1021080916544
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021080916531" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/3/5/5e28e71b80418bfff6a60ca9c115a68a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Affaire suivante",Les disparues de Saône-et-Loire : un cold case toujours non élucidé
 bfmplay://NEUF_BFMTV_BFM1021080916531
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000946" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/4/9/899ca32b678c2961ec53a5dcfdb576f7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les nuits du Cazarre enchaîné - Émission du 17 septembre 2026
+bfmplay://NEUF_BFMRADIO_BRA50000000000946
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000936" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/3/9/d7227f0ce404c868d26fde8f87312615_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les nuits du Cazarre enchaîné - Émission du 16 septembre 2026
+bfmplay://NEUF_BFMRADIO_BRA50000000000936
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000916" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/1/9/56e470ed0cd5a89b4e8e280282e899ea_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les nuits du Cazarre enchaîné - Émission du 14 septembre 2026
+bfmplay://NEUF_BFMRADIO_BRA50000000000916
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000974" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/4/7/9/7a32bca59b41f25170d1227776df83b7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - Le début de saison très convaincant du PFC de Rosenior  - Partie 2
 bfmplay://NEUF_BFMRADIO_BRA50000000000974
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000973" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/7/9/f13a44ffbda231ef4fcdc01a2873d520_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - OM-PSG : Daniel Riolo exaspéré par la com' de Bruno Genesio - Partie 1
@@ -1175,10 +1183,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000822
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000762
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000709" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/0/7/bc35b61e2bd978af4928398309eaa6a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",C'est votre argent - Édition spéciale du 28 août 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000709
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000879" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/7/8/b0d020e86f1cec1b71919c258a0d777e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",BFM Crypto - Le Clarity Act à l'arrêt
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000879
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000818" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/1/8/3b2f2a2dfbdadb6e9b1c9b569497158a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",BFM Crypto - Le "Clarity Act" de retour au sénat américain
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000818
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773879TC" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/C/T/9/10c23f14691d65771b9523907de37130_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Se mettre à son compte : enfer ou paradis ?
 bfmplay://NEUF_NUM23_N231021134773879TC
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773879TB" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/B/T/9/0af5b9035cde727fa7186de499884049_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Geler les APL : pour ou contre ?
@@ -6669,6 +6673,10 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000811
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000800
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000788" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/8/7/29a1b62fe33f536183940e7dbd1228bb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Tech&Co, la quotidienne - XPeng lance une usine de robots humanoïdes
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000788
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000879" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/7/8/b0d020e86f1cec1b71919c258a0d777e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",BFM Crypto - Le Clarity Act à l'arrêt
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000879
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000818" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/1/8/3b2f2a2dfbdadb6e9b1c9b569497158a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",BFM Crypto - Le "Clarity Act" de retour au sénat américain
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000818
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000878" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/7/8/6fc972f4cb1fe6afaa08583e382e46e1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",La France a tout pour réussir - Émission du 18 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000878
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000817" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/7/1/8/b5475768cf2d50eae5efbed3c3414f23_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",La France a tout pour réussir - Émission du 11 septembre 2026
@@ -7817,12 +7825,6 @@ bfmplay://NEUF_RMC_LIFE_RIF853900257527
 bfmplay://NEUF_RMC_LIFE_RIF1021130040947
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021020689708" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/0/7/c6fce8cfcd8d61c1cdac248d072ae049_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Life - Les docs du moment",Lena Situations : la femme la plus influente de France
 bfmplay://NEUF_RMC_LIFE_RIF1021020689708
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000946" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/4/9/899ca32b678c2961ec53a5dcfdb576f7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Les nuits du Cazarre enchaîné - Émission du 17 septembre 2026
-bfmplay://NEUF_BFMRADIO_BRA50000000000946
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000936" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/3/9/d7227f0ce404c868d26fde8f87312615_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Les nuits du Cazarre enchaîné - Émission du 16 septembre 2026
-bfmplay://NEUF_BFMRADIO_BRA50000000000936
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000916" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/1/9/56e470ed0cd5a89b4e8e280282e899ea_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Les nuits du Cazarre enchaîné - Émission du 14 septembre 2026
-bfmplay://NEUF_BFMRADIO_BRA50000000000916
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000878" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/7/8/c411ccf0166ca53ff507fc81b50cfd87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Stephen Brunch - Pour continuer à gagner, Luis Enrique doit-il ajuster son management ?
 bfmplay://NEUF_BFMRADIO_BRA50000000000878
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000833" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/3/8/1f64194557f530270841f384c19d27f8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Stephen Brunch - Invitées: Gabby Williams, Joueuse de basket-ball et Delphine Benouaich, Combattante française de MMA
@@ -9489,6 +9491,8 @@ bfmplay://NEUF_RMCDEC_RMC1020917851525
 bfmplay://NEUF_RMCDEC_RMC1020936093511
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",San Andreas : l'apocalypse bientôt en Californie ?
 bfmplay://NEUF_RMCDEC_RMC892203776527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC974752979527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6871a54ceb940e302bf200d59fd0bca5_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Nostradamus : la vérité sur ses prophéties
+bfmplay://NEUF_RMCDEC_RMC974752979527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC978714206527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/9fe5946da3d6dfcbb5480f2af4c7ae95_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Titanic : le naufrage aurait-il pu être évité ?
 bfmplay://NEUF_RMCDEC_RMC978714206527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
@@ -9503,8 +9507,6 @@ bfmplay://NEUF_RMCDEC_RMC1020915593692
 bfmplay://NEUF_RMCDEC_RMC1020917326694
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC941942786527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6586631a2f4a6ee0ab12552f70e1e105_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Château Gaillard, une forteresse imprenable
 bfmplay://NEUF_RMCDEC_RMC941942786527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC974752979527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6871a54ceb940e302bf200d59fd0bca5_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Nostradamus : la vérité sur ses prophéties
-bfmplay://NEUF_RMCDEC_RMC974752979527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC966734122527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/64021aa5ae79ea9bb57d68f608eedb69_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Le Colisée, une mégastructure romaine
 bfmplay://NEUF_RMCDEC_RMC966734122527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1021023612434" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/3/4/2bd35f989b6b073b46761c7ab2939903_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Versailles : les 10 secrets du château des rois
