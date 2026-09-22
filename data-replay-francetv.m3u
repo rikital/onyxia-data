@@ -797,8 +797,12 @@ francetv://07240417-4994-4398-af6b-660126b1fa66
 francetv://cc828f62-21c5-499e-a06c-bac03846690b
 #EXTINF:-1 tvg-id="francetv-c49441fe-f95b-42e0-83a8-7d3d3a21fdb4" tvg-logo="https://medias.france.tv/tatKAUwVmnt2SNfhgjigs_46-v0/400x0/filters:quality(85)/0/0/c/5409c641d8994f26b3fb7093a5c2bc00.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'été qui a tout changé
 francetv://c49441fe-f95b-42e0-83a8-7d3d3a21fdb4
+#EXTINF:-1 tvg-id="francetv-dea03e62-b686-11f1-aec0-57a09c50f7ce" tvg-logo="https://medias.france.tv/i_BMVz8sSUdbPTLZid-J0joQeqM/400x0/filters:quality(85)/f/a/6/9e3f814c76ed4aafba77b6bf5e4f86af.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 22/09/2026 - Le fil info 14H
+francetv://dea03e62-b686-11f1-aec0-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-083afb52-b66b-11f1-852b-957ddefc544d" tvg-logo="https://medias.france.tv/3zDyOsUOg8fy2b0PhdggSRs1ucU/400x0/filters:quality(85)/e/6/c/44211f174b50418e90c00c6066849c6e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 22/09/2026 Le fil info 11H
 francetv://083afb52-b66b-11f1-852b-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-698c3110-c40a-4752-ab9b-5468a203bb60" tvg-logo="https://medias.france.tv/t-Phd-jIE9YtAV3jUvqkIuSeW9s/400x0/filters:quality(85)/5/3/7/0da79d1a671046b4bdaa64db525b1735.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du mardi 22 septembre 2026
+francetv://698c3110-c40a-4752-ab9b-5468a203bb60
 #EXTINF:-1 tvg-id="francetv-df2c61dd-3007-4e03-ad91-e7db7729024b" tvg-logo="https://medias.france.tv/JooGInvSR4_KASvw7A-8BJhIt0Y/400x0/filters:quality(85)/6/9/c/35b6fab91d244e1cb9f69ef61cf4dc96.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du mardi 22 septembre 2026
 francetv://df2c61dd-3007-4e03-ad91-e7db7729024b
 #EXTINF:-1 tvg-id="francetv-95badce7-5cd7-4358-b1eb-111e5a7082ca" tvg-logo="https://medias.france.tv/xU-dC4bw8U0jrK8TXAyUkBj_YJY/400x0/filters:quality(85)/f/c/9/fe8ab05d28114f34bd481a13e39c79cf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — La matinale
@@ -833,10 +837,6 @@ francetv://b09b39ad-2d23-47ca-aa20-7a140b102428
 francetv://feb89dff-f3e0-4f0a-9adf-0f1acbb2be33
 #EXTINF:-1 tvg-id="francetv-2ce41f09-6102-4e13-9dea-587f3c0d82ad" tvg-logo="https://medias.france.tv/vavAVivYyF3N1crQC_-Rc6-EFAg/400x0/filters:quality(85)/c/8/1/f36917cb5e844877920ac001a408c18c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://2ce41f09-6102-4e13-9dea-587f3c0d82ad
-#EXTINF:-1 tvg-id="francetv-6a56dc40-13d8-44bc-adf2-eb5057e01360" tvg-logo="https://medias.france.tv/7847HCF8srU4G7lJ835vZI8NXLM/400x0/filters:quality(85)/d/b/9/9c06be91145b46979bfc7225c81299bd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — La matinale
-francetv://6a56dc40-13d8-44bc-adf2-eb5057e01360
-#EXTINF:-1 tvg-id="francetv-9e6ee370-0649-498b-9b41-0534582555b1" tvg-logo="https://medias.france.tv/h3-wEQP5aV43_AvDiGEBbWnPXZ4/400x0/filters:quality(85)/d/d/f/76b81ccf7f91430fa0a7b4fc913a9fdd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
-francetv://9e6ee370-0649-498b-9b41-0534582555b1
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -1913,6 +1913,8 @@ francetv://program/france-2_dix-pour-cent
 francetv://program/arte_catastrophe
 #EXTINF:-1 tvg-id="francetv-prog-arte_please-like-me" tvg-logo="https://medias.france.tv/0POf0Or0SmqUx_ZQGC_49xvWiUY/400x0/filters:quality(85)/4/1/p/phpik9p14.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",Please Like Me
 francetv://program/arte_please-like-me
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_fauchees" tvg-logo="https://medias.france.tv/eCNekR7aBnW5M4XzapeN_XIol68/400x0/filters:quality(85)/3/f/5/6a8e67614527410b899cfe689656f5f3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",Fauchées
+francetv://program/tv5-monde_fauchees
 #EXTINF:-1 tvg-id="francetv-prog-slash_le-magasin" tvg-logo="https://medias.france.tv/CNcTU8n6HCz3h7iUQTVhnmEZcwA/400x0/filters:quality(85)/g/k/q/phpreeqkg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",Le magasin
 francetv://program/slash_le-magasin
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_les-grands" tvg-logo="https://medias.france.tv/nPKdl3Z-qnZL098inP7SiJvz838/400x0/filters:quality(85)/0/c/3/e0c5fa4b088a47e1984ef9c6d09723c0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",LES GRANDS
@@ -2993,6 +2995,8 @@ francetv://267f4a4f-1f93-41ff-b18d-0e56eff7282f
 francetv://483d3c5f-b103-4651-a023-c02e9864cd8e
 #EXTINF:-1 tvg-id="francetv-ca8b16fd-e5d2-46dc-91d1-9f0ccd170a5b" tvg-logo="https://medias.france.tv/MG7jk9y2SVN2IX_E8KxgqQrZMYg/400x0/filters:quality(85)/n/w/5/php5f85wn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Courts métrages",Libre court — Le dernier quart d'heure
 francetv://ca8b16fd-e5d2-46dc-91d1-9f0ccd170a5b
+#EXTINF:-1 tvg-id="francetv-23e70d74-b59d-11f1-9593-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/qUa9TOswivlMRUkA80sx5H8H-KQ/400x0/filters:quality(85)/8/e/5/510961a1839c42c993abea3132d8a5e8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films du moment",Doivent-ils exclure leur élève ?
+francetv://23e70d74-b59d-11f1-9593-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-61e4be20-acfe-11f1-87b7-19616fa871f9" tvg-logo="https://medias.france.tv/wc-kqHi8K3X5iwm-pBBZ3xuv0Lo/400x0/filters:quality(85)/c/9/d/23976ec2da4045ff9da20d669a002d9c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films du moment",La belle chanson d'Isabelle Huppert
 francetv://61e4be20-acfe-11f1-87b7-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-bf5087fe-aabc-11f1-8519-957ddefc544d" tvg-logo="https://medias.france.tv/sGznmXSW8S2z1g-spvNvsVClAFY/400x0/filters:quality(85)/b/1/6/c3bf272d2cf7422891dc3cf21c2b561b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films du moment",Son patient refuse de se faire soigner
