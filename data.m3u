@@ -7198,6 +7198,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",Trace Latina (1080p) [bugsfreeweb]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="France TV backup - Autres",Trace Latina (1080p) [iptv-org-fr]
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
