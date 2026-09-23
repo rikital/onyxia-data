@@ -11,3 +11,7 @@ https://cdn-nl1.lulzy.eu/vdance_720/main_stream.m3u8
 #EXTINF:-1 group-title="Musique",NR1 Dance TV (TR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/viva-tv.webp" group-title="Musique",VIVA TV (RU)
+https://vkvideo.ru/video_ext.php?oid=-177948463&id=456239339&hd=4
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/tmf-rus.webp" group-title="Musique",TMF (RU)
+https://ok.ru/videoembed/6195706404393
