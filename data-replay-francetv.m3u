@@ -807,6 +807,8 @@ francetv://cc828f62-21c5-499e-a06c-bac03846690b
 francetv://c49441fe-f95b-42e0-83a8-7d3d3a21fdb4
 #EXTINF:-1 tvg-id="francetv-8efd878e-b749-11f1-87ca-19616fa871f9" tvg-logo="https://medias.france.tv/lxhbVACCOW1WB6FkLPneGKWJQKk/400x0/filters:quality(85)/9/8/6/5a55819af8eb429a89b4dad83945f689.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 23/09/2026 Le fil info 14H
 francetv://8efd878e-b749-11f1-87ca-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-07e51ff6-453f-4ecc-9312-293b15e4598d" tvg-logo="https://medias.france.tv/TTd-L0ATwtd73pfxuh5THFFJWkM/400x0/filters:quality(85)/0/9/6/d309f1a79f4c40c48bb901ca586a7690.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — 8h30 franceinfo
+francetv://07e51ff6-453f-4ecc-9312-293b15e4598d
 #EXTINF:-1 tvg-id="francetv-c942b095-aabc-4df7-a140-7f963bddcb35" tvg-logo="https://medias.france.tv/sFQm-X1TTC18KZ91oyRJTIHe_z0/400x0/filters:quality(85)/e/4/7/0afa15574beb457aa1163d4ac259a74e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",8h30 franceinfo — Émission du mercredi 23 septembre 2026
 francetv://c942b095-aabc-4df7-a140-7f963bddcb35
 #EXTINF:-1 tvg-id="francetv-4bf9c1a0-b749-11f1-8530-957ddefc544d" tvg-logo="https://medias.france.tv/SdE2ihofR3eJqp0I0eSjUZzlG8A/400x0/filters:quality(85)/5/d/2/74928b59ee16486c9cd97fb905f982d5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 23/09/2026 Le fil nfo 11H
@@ -843,8 +845,6 @@ francetv://95badce7-5cd7-4358-b1eb-111e5a7082ca
 francetv://8507b5b4-1483-460e-9625-9ec16bde42c0
 #EXTINF:-1 tvg-id="francetv-45194a50-faf2-41d0-b71b-265b963cdd3d" tvg-logo="https://medias.france.tv/P6aMdW8FCF3nYPf4ShJb_VdfCkg/400x0/filters:quality(85)/6/8/1/a460df32456e4ca983e6f87f23ea8186.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — La matinale
 francetv://45194a50-faf2-41d0-b71b-265b963cdd3d
-#EXTINF:-1 tvg-id="francetv-15082ad6-d089-43ec-b120-0b5b9b7e1b90" tvg-logo="https://medias.france.tv/nfXG8VSH0SuYMLQy1eG_hl-eOeg/400x0/filters:quality(85)/0/7/0/51238fd805eb4d27ba71a0226b199070.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h — 23h info
-francetv://15082ad6-d089-43ec-b120-0b5b9b7e1b90
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2865,8 +2865,12 @@ francetv://d585d779-ca25-4dfc-9231-535c1a310979
 francetv://8b5d4e90-29d8-4002-8357-fc9e63cc2de5
 #EXTINF:-1 tvg-id="francetv-639511f7-65e6-4328-9026-f01b792120a8" tvg-logo="https://medias.france.tv/V4dbH8yA8ns5d1UYffjsV80l03s/400x0/filters:quality(85)/5/a/a/73c44fabf5a44f5ba2b02c37799f9aa5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",La place d'une autre
 francetv://639511f7-65e6-4328-9026-f01b792120a8
+#EXTINF:-1 tvg-id="francetv-8119f114-67a0-4583-b42c-3f802eddd03f" tvg-logo="https://medias.france.tv/y2myuYUldmw2a-0_-iQmwOoT-70/400x0/filters:quality(85)/3/2/1/f92f6bdc84b04a4fb085340ef8bdb123.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Une affaire privée
+francetv://8119f114-67a0-4583-b42c-3f802eddd03f
 #EXTINF:-1 tvg-id="francetv-fe87680f-9b12-4f01-bae2-a0034c412439" tvg-logo="https://medias.france.tv/HkRwmz2bi1Xq96DFporLeAEgQR0/400x0/filters:quality(85)/6/8/8/319bb396ddf04926978b38bf0d8c9886.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Cette femme-là
 francetv://fe87680f-9b12-4f01-bae2-a0034c412439
+#EXTINF:-1 tvg-id="francetv-3f99adfe-936b-4097-b409-f4a018bbe16c" tvg-logo="https://medias.france.tv/9XXd8Axs3ofXza7Cjw2VeB8Xm04/400x0/filters:quality(85)/a/6/c/c4c16683d536433c8999770f820f3c6a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",La clef
+francetv://3f99adfe-936b-4097-b409-f4a018bbe16c
 #EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Trilogie Le Parrain — Le parrain
 francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
 #EXTINF:-1 tvg-id="francetv-2a7204ba-5621-4241-8e84-7e90fbc44a3c" tvg-logo="https://medias.france.tv/xp-RydLkQJn7H1NR6IezDtyLH_I/400x0/filters:quality(85)/r/r/w/phplbpwrr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Nikita
