@@ -1871,7 +1871,7 @@ https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" group-title="France TV backup - Autres",TV3V (720p) [kilirushi]
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="France TV backup - Autres",TV7 Colmar (576p) [kilirushi]
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="RTLZwee.lu@SD" group-title="Généralistes - 100% Français",RTL Zwee (1080p)
@@ -2813,7 +2813,7 @@ https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="France TV backup - Autres",TV7 Colmar (576p) [kilirushi]
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="enquetes-de-choc-fast-media" group-title="France TV backup - Autres",ENQUÊTES DE CHOC [schumijo]
@@ -3092,7 +3092,7 @@ https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="France TV backup - Autres",TV7 Colmar (576p) [kilirushi]
-https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
 #EXTINF:-1 tvg-chno="1116" tvg-id="FRBD2900001M3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2900001M3_20241015T040416SQUARE.png" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",1116. World Poker Tour [1080p-samsungtvplus]
