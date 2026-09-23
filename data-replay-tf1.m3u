@@ -97,6 +97,8 @@ tf1plus://tf1/le-dentiste-boucher-aux-300-victimes
 tf1plus://tf1/broceliande
 #EXTINF:-1 tvg-id="tf1plus-tf1-addict-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-fed8c9-b10717-4267f0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Addict
 tf1plus://tf1/addict
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-smala-sen-mele-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2c7091-2b9923-a641ac-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",La Smala Sen Mele
+tf1plus://tf1/la-smala-sen-mele
 #EXTINF:-1 tvg-id="tf1plus-tf1-rien-ne-tefface-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-322704-f2ab78-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Rien Ne Tefface
 tf1plus://tf1/rien-ne-tefface
 #EXTINF:-1 tvg-id="tf1plus-tf1-sam-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-682bee-7421ba-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Sam
@@ -567,8 +569,6 @@ tf1plus://tf1/suspectes
 tf1plus://tf1/cinq-soeurs
 #EXTINF:-1 tvg-id="tf1plus-tf1-quai-numero-1-femmes-inspirantes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-8c019b-74a15b-b30de6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Femmes inspirantes",Quai Numero 1
 tf1plus://tf1/quai-numero-1
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-smala-sen-mele-femmes-inspirantes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2c7091-2b9923-a641ac-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Femmes inspirantes",La Smala Sen Mele
-tf1plus://tf1/la-smala-sen-mele
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-rebelle-les-séries-cultes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-72e3e5-e307a8-9cb995-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Les séries cultes",Le Rebelle
 tf1plus://tf1/le-rebelle
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-dessous-de-palm-beach-les-séries-cultes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-0afb60-bee231-698b28-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Les séries cultes",Les Dessous de Palm Beach
@@ -1165,30 +1165,30 @@ tf1plus://tf1/quest-il-arrive-a-cari-farver
 tf1plus://tf1/comme-mon-fils
 #EXTINF:-1 tvg-id="tf1plus-tf1-frere-de-sang-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-70a4d4-b81ead-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Frere de Sang
 tf1plus://tf1/frere-de-sang
-#EXTINF:-1 tvg-id="tf1plus-tf1-sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-8b6ec7-a37e30-3cf86d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Sous les Coups de Mon Mari Laffaire Lorena Bobbitt
-tf1plus://tf1/sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt
 #EXTINF:-1 tvg-id="tf1plus-tf1-une-rose-pour-sa-tombe-lhistoire-vraie-de-cynthia-baumgartner-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-804491-a07877-107557-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Une Rose Pour Sa Tombe Lhistoire Vraie de Cynthia Baumgartner
 tf1plus://tf1/une-rose-pour-sa-tombe-lhistoire-vraie-de-cynthia-baumgartner
-#EXTINF:-1 tvg-id="tf1plus-tf1-les-7-femmes-de-mon-mari-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-les-7-femmes-de-mon-mari-503e3f-644ccd-52946a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Les 7 Femmes de Mon Mari
-tf1plus://tf1/les-7-femmes-de-mon-mari
+#EXTINF:-1 tvg-id="tf1plus-tf1-sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-8b6ec7-a37e30-3cf86d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Sous les Coups de Mon Mari Laffaire Lorena Bobbitt
+tf1plus://tf1/sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-jour-ou-j-ai-brule-mon-coeur-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-le-jour-ou-jai-brule-mon-coeur-78afa7-e49a09-2e79b5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Jour Ou J Ai Brule Mon Coeur
 tf1plus://tf1/le-jour-ou-j-ai-brule-mon-coeur
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-folie-dune-mere-lhistoire-vraie-de-debora-green-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-la-folie-dune-mere-lhistoire-vraie-de-debora-green-928d00-59612d-523ec3-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",La Folie Dune Mere Lhistoire Vraie de Debora Green
+tf1plus://tf1/la-folie-dune-mere-lhistoire-vraie-de-debora-green
+#EXTINF:-1 tvg-id="tf1plus-tf1-tu-ne-me-voleras-pas-ma-fille-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a9b248-4127ea-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Tu Ne Me Voleras Pas Ma Fille
+tf1plus://tf1/tu-ne-me-voleras-pas-ma-fille
+#EXTINF:-1 tvg-id="tf1plus-tf1-les-7-femmes-de-mon-mari-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-les-7-femmes-de-mon-mari-503e3f-644ccd-52946a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Les 7 Femmes de Mon Mari
+tf1plus://tf1/les-7-femmes-de-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-lyceenne-parfaite-pour-crime-parfait-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-a9b3e3-c86367-f0e52d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Lyceenne Parfaite Pour Crime Parfait
 tf1plus://tf1/lyceenne-parfaite-pour-crime-parfait
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-reines-malefiques-du-lycee-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-562152-bcd0f7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Les Reines Malefiques du Lycee
 tf1plus://tf1/les-reines-malefiques-du-lycee
-#EXTINF:-1 tvg-id="tf1plus-tf1-tu-ne-me-voleras-pas-ma-fille-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a9b248-4127ea-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Tu Ne Me Voleras Pas Ma Fille
-tf1plus://tf1/tu-ne-me-voleras-pas-ma-fille
+#EXTINF:-1 tvg-id="tf1plus-tf1-je-sais-que-ma-fille-est-vivante-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-567584-7545ff-bb023c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Je Sais Que Ma Fille Est Vivante
+tf1plus://tf1/je-sais-que-ma-fille-est-vivante
 #EXTINF:-1 tvg-id="tf1plus-tf1-linternat-de-la-honte-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-421b22-828e90-bcbbe9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Linternat de la Honte
 tf1plus://tf1/linternat-de-la-honte
 #EXTINF:-1 tvg-id="tf1plus-tf1-moi-kamiyah-enlevee-a-la-naissance-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-9cd663-49b3d7-95fa65-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Moi Kamiyah Enlevee A la Naissance
 tf1plus://tf1/moi-kamiyah-enlevee-a-la-naissance
-#EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-harcelee-et-laissee-pour-morte-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-239553-2e3a56-90100b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Ma Fille Harcelee et Laissee Pour Morte
-tf1plus://tf1/ma-fille-harcelee-et-laissee-pour-morte
-#EXTINF:-1 tvg-id="tf1plus-tf1-secrets-en-pays-amish-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-006ff2-4b7009-52d08a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Secrets En Pays Amish
-tf1plus://tf1/secrets-en-pays-amish
-#EXTINF:-1 tvg-id="tf1plus-tf1-je-sais-que-ma-fille-est-vivante-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-567584-7545ff-bb023c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Je Sais Que Ma Fille Est Vivante
-tf1plus://tf1/je-sais-que-ma-fille-est-vivante
+#EXTINF:-1 tvg-id="tf1plus-tf1-noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-554ac8-98c899-8a3d0f-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Noyee Dans Ses Mensonges Lhistoire Vraie de Sherri Papini
+tf1plus://tf1/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini
 #EXTINF:-1 tvg-id="tf1plus-tf1-priez-pour-la-mariee-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b55ec1-6243a7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Priez Pour la Mariee
 tf1plus://tf1/priez-pour-la-mariee
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-mystere-et-sable-fin-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-93b653-a0f9da-bc65e9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Coup de Foudre Mystere et Sable Fin
@@ -1755,6 +1755,8 @@ tf1plus://tf1/kidnappee-par-un-amish
 tf1plus://tf1/rescapee-dune-secte
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-seducteur-en-jeu-sous-emprise" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-12cdb0-a5c12f-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous emprise",Un Seducteur En Jeu
 tf1plus://tf1/un-seducteur-en-jeu
+#EXTINF:-1 tvg-id="tf1plus-tf1-secrets-en-pays-amish-sous-emprise" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-006ff2-4b7009-52d08a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous emprise",Secrets En Pays Amish
+tf1plus://tf1/secrets-en-pays-amish
 #EXTINF:-1 tvg-id="tf1plus-tf1-nina-captive-dune-secte-sous-emprise" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-nina-captive-dune-secte-27b264-3b6d44-378a60-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous emprise",Nina Captive Dune Secte
 tf1plus://tf1/nina-captive-dune-secte
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-nouvelle-vie-loin-des-amish-sous-emprise" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-6d2df9-ef2286-b47fbb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous emprise",Ma Nouvelle Vie Loin des Amish
@@ -1871,10 +1873,10 @@ tf1plus://tfx/les-anges
 tf1plus://tfx/la-bataille-la-malediction-de-lile
 #EXTINF:-1 tvg-id="tf1plus-tfx-jlc-family-lincroyable-ete-de-jazz-et-laurent-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-47347c-ccb9c2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Jlc Family Lincroyable Ete de Jazz et Laurent
 tf1plus://tfx/jlc-family-lincroyable-ete-de-jazz-et-laurent
-#EXTINF:-1 tvg-id="tf1plus-tfx-tricheurs-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersives-tricheurs-tv-real-6779f5-bc723d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Tricheurs
-tf1plus://tfx/tricheurs
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-couples-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-la-bataille-des-couples-la-finale-bf2d29-d01c6d-c5b9f4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",La Bataille des Couples
 tf1plus://tfx/la-bataille-des-couples
+#EXTINF:-1 tvg-id="tf1plus-tfx-tricheurs-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersives-tricheurs-tv-real-6779f5-bc723d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Tricheurs
+tf1plus://tfx/tricheurs
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-clans-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-86e80d-0eb714-214a89-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",La Bataille des Clans
 tf1plus://tfx/la-bataille-des-clans
 #EXTINF:-1 tvg-id="tf1plus-tfx-excape-island-coinces-avec-nos-exs-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-059752-e5a835-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Excape Island Coinces Avec Nos Exs
@@ -1883,10 +1885,10 @@ tf1plus://tfx/excape-island-coinces-avec-nos-exs
 tf1plus://tfx/time-to-love
 #EXTINF:-1 tvg-id="tf1plus-tfx-mamans-et-celebres-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2f6401-8b9c4e-14399c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Mamans et Celebres
 tf1plus://tfx/mamans-et-celebres
-#EXTINF:-1 tvg-id="tf1plus-tf1-house-of-ho-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4d208c-e52344-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",House Of Ho
-tf1plus://tf1/house-of-ho
 #EXTINF:-1 tvg-id="tf1plus-tf1-million-dollar-weekend-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-million-dollar-weekend-saison-1-c22d63-cfed66-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Million Dollar Weekend
 tf1plus://tf1/million-dollar-weekend
+#EXTINF:-1 tvg-id="tf1plus-tf1-house-of-ho-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4d208c-e52344-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",House Of Ho
+tf1plus://tf1/house-of-ho
 #EXTINF:-1 tvg-id="tf1plus-tfx-mamans-et-celebres-fetent-noel-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-bc2977-e8ba39-922de4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Mamans et Celebres Fetent Noel
 tf1plus://tfx/mamans-et-celebres-fetent-noel
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-20-ans-de-la-telerealite-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-20-ans-de-tv-realite-07d475-f3bfaf-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Les 20 Ans de la Telerealite
@@ -3973,8 +3975,6 @@ tf1plus://tf1/la-fille-du-chef
 tf1plus://tf1/la-fille-que-jai-perdue
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-folie-des-grandeurs-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-folie-des-grandeurs-12421635-1755889775-6db814-b2280c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La Folie des grandeurs
 tf1plus://tf1/la-folie-des-grandeurs
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-folie-dune-mere-lhistoire-vraie-de-debora-green-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-folie-dune-mere-lhistoire-vraie-de-debora-green-41070264-1753580369-4cf9a6-cf121b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La folie d'une mère : l'histoire vraie de Debora Green
-tf1plus://tf1/la-folie-dune-mere-lhistoire-vraie-de-debora-green
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-grazia-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-09b23f-b97207-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La grazia
 tf1plus://tf1/la-grazia
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-greve-des-femmes-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-greve-des-femmes-83091329-1743100256-91c726-4b5b5c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La Grève des femmes
@@ -4687,6 +4687,8 @@ tf1plus://tf1/ma-famille-tadore-deja
 tf1plus://tf1/ma-fille-cette-inconnue
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-est-une-camgirl-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-est-une-camgirl-36513870-1714582188-d4f9f7-1f2f76-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille est une camgirl
 tf1plus://tf1/ma-fille-est-une-camgirl
+#EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-harcelee-et-laissee-pour-morte-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-harcelee-et-laissee-pour-morte-07016437-1706760167-80aeba-9278d6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille, harcelée et laissée pour morte
+tf1plus://tf1/ma-fille-harcelee-et-laissee-pour-morte
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-rattrapee-par-son-passe-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-rattrapee-par-son-passe-52866852-1714322724-4cb715-3bf1b7-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille, rattrapée par son passé
 tf1plus://tf1/ma-fille-rattrapee-par-son-passe
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-star-des-reseaux-sociaux-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-star-des-reseaux-sociaux-11270439-1718383420-42396f-9cc47c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille, star des réseaux sociaux...
@@ -4985,8 +4987,6 @@ tf1plus://tf1/nous-les-leroy
 tf1plus://tf1/nouveau-lycee-nouveau-danger
 #EXTINF:-1 tvg-id="tf1plus-tf1-novocaine-smx" tvg-logo="https://photos.tf1.fr/1200/720/novocaine-04925747-1756405118-fe92f1-e0f86a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Novocaïne
 tf1plus://tf1/novocaine
-#EXTINF:-1 tvg-id="tf1plus-tf1-noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-smx" tvg-logo="https://photos.tf1.fr/1200/720/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-14376683-1727317695-66d466-ff51cf-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Noyée dans ses mensonges : l'histoire vraie de sherri Papini
-tf1plus://tf1/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini
 #EXTINF:-1 tvg-id="tf1plus-tf1-nuit-blanche-smx" tvg-logo="https://photos.tf1.fr/1200/720/nuit-blanche-s01-e02-0f15c0-c80f58-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Nuit Blanche
 tf1plus://tf1/nuit-blanche
 #EXTINF:-1 tvg-id="tf1plus-tf1-nuit-de-cauchemar-a-laeroport-smx" tvg-logo="https://photos.tf1.fr/1200/720/nuit-de-cauchemar-a-laeroport-830bca-88b19b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Nuit de cauchemar à l'aéroport
