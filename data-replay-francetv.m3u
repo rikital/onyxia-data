@@ -189,6 +189,8 @@ francetv://program/france-3_5eme-b-une-autre-histoire-de-france
 francetv://program/info_meteo_les-dossiers-d-ici
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_le-brame-du-cerf" tvg-logo="https://medias.france.tv/yDHogSgd9lJY-KUtviEEnCZa5lA/400x0/filters:quality(85)/r/t/t/phpkhgttr.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le brame du cerf
 francetv://program/documentaires_le-brame-du-cerf
+#EXTINF:-1 tvg-id="francetv-prog-societe_chill" tvg-logo="https://medias.france.tv/D2Xr8BGQUH85zcls27Lg6-_3diQ/400x0/filters:quality(85)/0/0/c/phpbfic00.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Chill
+francetv://program/societe_chill
 #EXTINF:-1 tvg-id="francetv-prog-france-3_grand-est_cosy-le-mag-deco" tvg-logo="https://medias.france.tv/9CqKuWU1wR8oLLJ9WUKHSb7z_vk/400x0/filters:quality(85)/p/v/i/phpn32ivp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Cosy, le mag déco
 francetv://program/france-3_grand-est_cosy-le-mag-deco
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/C5GHly4IaXPDnEyqGSh2YfFWmHY/400x0/filters:quality(85)/t/d/d/php0spddt.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les as du jardin
@@ -1411,12 +1413,32 @@ francetv://program/france-2_les-rescapes-de-l-ariana
 francetv://program/arte_rosehaven
 #EXTINF:-1 tvg-id="francetv-5ca1c649-2008-43fe-b7bd-7694aa6ce7d1" tvg-logo="https://medias.france.tv/HRXh6tDbAftFJutfo6otGIW0EDU/400x0/filters:quality(85)/b/f/d/85bf9b47147449f7a373b3d53d5abdfb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les mystères de l'école de gendarmerie — Les mystères de l'école de la gendarmerie
 francetv://5ca1c649-2008-43fe-b7bd-7694aa6ce7d1
+#EXTINF:-1 tvg-id="francetv-647cef95-0752-4a8f-ae34-7188def9bf65" tvg-logo="https://medias.france.tv/nWhsPHWr6XU7a5EBq0PXnquhMLs/400x0/filters:quality(85)/l/i/w/phpt2vwil.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Pilote
+francetv://647cef95-0752-4a8f-ae34-7188def9bf65
+#EXTINF:-1 tvg-id="francetv-f7110210-a095-4d62-b102-45fbb05b6684" tvg-logo="https://medias.france.tv/dHzdTRgXvsnGkfKRWcZpnsGgAyo/400x0/filters:quality(85)/x/3/c/php4sdc3x.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Sang et eaux
+francetv://f7110210-a095-4d62-b102-45fbb05b6684
+#EXTINF:-1 tvg-id="francetv-59851927-ce9d-470e-bd94-0527b62afe52" tvg-logo="https://medias.france.tv/iSOH4-OlHu0atqxSt03Ehe8DltA/400x0/filters:quality(85)/r/w/q/phpezzqwr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Sombres desseins
+francetv://59851927-ce9d-470e-bd94-0527b62afe52
+#EXTINF:-1 tvg-id="francetv-1071f4e9-2200-40ae-a058-6d4f63072f7c" tvg-logo="https://medias.france.tv/4_AYwaydTj_N9U6ov0qk0UHwiaA/400x0/filters:quality(85)/n/g/a/php7j1agn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Tout l'or du Rhin
+francetv://1071f4e9-2200-40ae-a058-6d4f63072f7c
+#EXTINF:-1 tvg-id="francetv-529442ee-9a3e-429b-aece-41b43a2696c7" tvg-logo="https://medias.france.tv/C5d8gK_mzxBf2nY7-iWwHCBZtWg/400x0/filters:quality(85)/d/c/u/phpnxyucd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Alex Hugo — Un rêve impossible
+francetv://529442ee-9a3e-429b-aece-41b43a2696c7
+#EXTINF:-1 tvg-id="francetv-622ac81c-0e8d-420d-b639-ead89efd5eb5" tvg-logo="https://medias.france.tv/qXyIyriE2u8UTJgTsl-5A_7jqXo/400x0/filters:quality(85)/y/o/i/php2fgioy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres à Château-Thierry
+francetv://622ac81c-0e8d-420d-b639-ead89efd5eb5
+#EXTINF:-1 tvg-id="francetv-07386923-4b14-482c-a4db-21d0e7402227" tvg-logo="https://medias.france.tv/olGUf1bCqMXdutn1WBrB2dBjmoI/400x0/filters:quality(85)/n/h/d/phplxkdhn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres en Cornouaille
+francetv://07386923-4b14-482c-a4db-21d0e7402227
 #EXTINF:-1 tvg-id="francetv-prog-arte_motherland" tvg-logo="https://medias.france.tv/aaorQMs-X-YOFIrl7tlW3VtP5qU/400x0/filters:quality(85)/e/f/f/9800831d663f467c97404e4461f22ffe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Motherland
 francetv://program/arte_motherland
 #EXTINF:-1 tvg-id="francetv-prog-france-2_l-eclipse" tvg-logo="https://medias.france.tv/CQ4zDC1xPkTTlJUNSG_5xwfgHVk/400x0/filters:quality(85)/c/x/n/phpkwcnxc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",L'éclipse
 francetv://program/france-2_l-eclipse
+#EXTINF:-1 tvg-id="francetv-a15bdfd4-45d7-4f84-a968-d53d446b3678" tvg-logo="https://medias.france.tv/2YRiglPAv-ZddZHVkQsLh_u1s70/400x0/filters:quality(85)/m/t/8/phprtu8tm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Un mariage, deux enterrements
+francetv://a15bdfd4-45d7-4f84-a968-d53d446b3678
+#EXTINF:-1 tvg-id="francetv-3ad144a0-23e5-44f2-b611-825473c75203" tvg-logo="https://medias.france.tv/tJZpNdgOte0PAZPd-ihLHKsHb4o/400x0/filters:quality(85)/q/j/y/phpvafyjq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",César Wagner — Les liens du sang
+francetv://3ad144a0-23e5-44f2-b611-825473c75203
 #EXTINF:-1 tvg-id="francetv-0fa8f736-c675-4fa1-aae4-df39b3d70d45" tvg-logo="https://medias.france.tv/LlvNzv6jKAwISVHjrMWTZnvaUAE/400x0/filters:quality(85)/b/n/w/php2lawnb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Mortelles calanques
 francetv://0fa8f736-c675-4fa1-aae4-df39b3d70d45
+#EXTINF:-1 tvg-id="francetv-951e6df8-57e4-49ea-a3be-9030d1f27ed6" tvg-logo="https://medias.france.tv/_3jLHXZaDzvPRqUZmF8x1O5l2V8/400x0/filters:quality(85)/4/a/4/94021911f240410fa7ea992c9d62d4a4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Alexandra Ehle — La peste
+francetv://951e6df8-57e4-49ea-a3be-9030d1f27ed6
 #EXTINF:-1 tvg-id="francetv-2b32e3a9-8176-4108-ad8f-ac716f357e16" tvg-logo="https://medias.france.tv/GLiHLndVrcgSY7Kpnz9wZzRYHsg/400x0/filters:quality(85)/e/3/4/phper843e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les mystères des majorettes
 francetv://2b32e3a9-8176-4108-ad8f-ac716f357e16
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/uG1pGJa2dHhnjDwbHxz9kVCmHgU/400x0/filters:quality(85)/v/z/1/phpmfs1zv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries à binger",Le Rouge et le Noir
@@ -2551,7 +2573,7 @@ francetv://eac594d7-440c-4de3-8a77-cb2b4f2af72b
 francetv://4ac4b54c-e1ec-4024-a031-397aaf8254a4
 #EXTINF:-1 tvg-id="francetv-ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b" tvg-logo="https://medias.france.tv/ubzIc7R0cWeuE9_CpKO-GKOfTlc/400x0/filters:quality(85)/w/f/i/phpkirifw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Chez nous
 francetv://ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b
-#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/jEQQ-eybtcRC9ItXXwnYqf7qS1I/400x0/filters:quality(85)/e/4/a/cb0cd56d667f4c029c58528bf59dea4e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Trilogie Le Parrain — Le parrain
+#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Trilogie Le Parrain — Le parrain
 francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
 #EXTINF:-1 tvg-id="francetv-b69078db-ce6c-4bc6-ad1d-0835afac41a6" tvg-logo="https://medias.france.tv/1OXpvxcz1ECNuPdLl7bW662uStc/400x0/filters:quality(85)/g/a/c/phpuxncag.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Les ogres
 francetv://b69078db-ce6c-4bc6-ad1d-0835afac41a6
@@ -2839,7 +2861,7 @@ francetv://d585d779-ca25-4dfc-9231-535c1a310979
 francetv://8b5d4e90-29d8-4002-8357-fc9e63cc2de5
 #EXTINF:-1 tvg-id="francetv-639511f7-65e6-4328-9026-f01b792120a8" tvg-logo="https://medias.france.tv/V4dbH8yA8ns5d1UYffjsV80l03s/400x0/filters:quality(85)/5/a/a/73c44fabf5a44f5ba2b02c37799f9aa5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",La place d'une autre
 francetv://639511f7-65e6-4328-9026-f01b792120a8
-#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/jEQQ-eybtcRC9ItXXwnYqf7qS1I/400x0/filters:quality(85)/e/4/a/cb0cd56d667f4c029c58528bf59dea4e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Trilogie Le Parrain — Le parrain
+#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Trilogie Le Parrain — Le parrain
 francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
 #EXTINF:-1 tvg-id="francetv-2a7204ba-5621-4241-8e84-7e90fbc44a3c" tvg-logo="https://medias.france.tv/xp-RydLkQJn7H1NR6IezDtyLH_I/400x0/filters:quality(85)/r/r/w/phplbpwrr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Nikita
 francetv://2a7204ba-5621-4241-8e84-7e90fbc44a3c
@@ -3355,6 +3377,8 @@ francetv://71a6fc41-0184-4ba9-855c-7ce124ede24f
 francetv://77f8e3d9-1408-40da-9553-71f7b2403e50
 #EXTINF:-1 tvg-id="francetv-bbe6f2b9-0055-445c-a343-b9639f4e0e4c" tvg-logo="https://medias.france.tv/tA0pUDgP-ztA6TJhtKkbfdgrFjs/400x0/filters:quality(85)/9/8/e/d4648659cd6d419e8ded2d25fbdb4e89.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Telegram, l'affaire Pavel Dourov
 francetv://bbe6f2b9-0055-445c-a343-b9639f4e0e4c
+#EXTINF:-1 tvg-id="francetv-prog-slash_dans-la-peau-d-une-influenceuse" tvg-logo="https://medias.france.tv/ReknTOnEy3561pS2vJk1nC5FzHs/400x0/filters:quality(85)/e/i/c/phpm56cie.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Dans la peau d'une influenceuse
+francetv://program/slash_dans-la-peau-d-une-influenceuse
 #EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Envoyé spécial — Doctolib, votre santé est leur business
 francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-0ff1a65b-27e8-4a73-a997-4d5398d651ca" tvg-logo="https://medias.france.tv/Tg-L5qtCY4JvzJoiEu79sNKlzxs/400x0/filters:quality(85)/b/6/d/f808fcd0ff894d9d8dd5e70bd52d9d6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Féminin Sacré : enquête sur des dérives sectaires - Le documentaire
@@ -3391,8 +3415,6 @@ francetv://1468f744-01bb-4ed3-a353-a603193ffb49
 francetv://7be2a6b6-7f22-4d1f-9bbf-24e75df041de
 #EXTINF:-1 tvg-id="francetv-94560f29-203c-4e18-858e-ffa04e4f2696" tvg-logo="https://medias.france.tv/lycLyLNrwikr3DnKTnsnszoVdYQ/400x0/filters:quality(85)/0/9/c/8f5e63caa67d46f1ab6412c325117c90.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Pédocriminels - Enquêtes dans le dark web
 francetv://94560f29-203c-4e18-858e-ffa04e4f2696
-#EXTINF:-1 tvg-id="francetv-421d1faa-f5dc-4dcc-8e19-7bdd20b6ef4c" tvg-logo="https://medias.france.tv/2VexSX2zhyWuxZQMC6VHy4-Vvp4/400x0/filters:quality(85)/s/r/w/phpuqlwrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Sur le front — D'où viennent les chiens à la mode ?
-francetv://421d1faa-f5dc-4dcc-8e19-7bdd20b6ef4c
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",C à vous
 francetv://program/france-5_c-a-vous
 #EXTINF:-1 tvg-id="francetv-prog-france-2_envoye-special" tvg-logo="https://medias.france.tv/5QnvX03Gg4fKBUhrbtZmT0qGEm0/400x0/filters:quality(85)/i/9/a/phpznaa9i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Envoyé spécial
