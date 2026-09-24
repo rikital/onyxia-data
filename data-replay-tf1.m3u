@@ -547,6 +547,8 @@ tf1plus://tf1/doctor-john
 tf1plus://tf1/intervention
 #EXTINF:-1 tvg-id="tf1plus-tf1-lhopital-séries-médicales" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-888744-c2cbfb-be9b0e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries médicales",Lhopital
 tf1plus://tf1/lhopital
+#EXTINF:-1 tvg-id="tf1plus-tf1-oradour-séries-médicales" tvg-logo="https://photos.tf1.fr/217/289/face-au-doute-1787034260-1f1c2d-c014fd-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries médicales",Oradour
+tf1plus://tf1/oradour
 #EXTINF:-1 tvg-id="tf1plus-tf1-nos-chers-voisins-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-nos-chers-voisins-75d947-923a0d-8fe093-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Comédies",Nos Chers Voisins
 tf1plus://tf1/nos-chers-voisins
 #EXTINF:-1 tvg-id="tf1plus-tfx-sisbro-comédies" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-2-sisbro-20af9b-a25402-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Comédies",Sisbro
@@ -931,6 +933,8 @@ tf1plus://tmc/21h-medias-rire-en-2024
 tf1plus://tmc/21h-medias-le-crash-dsk
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-xavier-dupont-de-ligonnes-la-chasse-au-scoop-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-21h-medias-xavier-dupont-de-ligonnes-la-chasse-au-scoop-9518e8-53a950-f9cf16-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Xavier Dupont de Ligonnes la Chasse Au Scoop
 tf1plus://tmc/21h-medias-xavier-dupont-de-ligonnes-la-chasse-au-scoop
+#EXTINF:-1 tvg-id="tf1plus-tf1-oradour-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-9670cf-2b53c7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Oradour
+tf1plus://tf1/oradour
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-danger-est-a-ma-porte-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-f46e11-718009-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Le Danger Est A Ma Porte
 tf1plus://tf1/le-danger-est-a-ma-porte
 #EXTINF:-1 tvg-id="tf1plus-tf1-pasteur-et-predateur-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d4fbb5-d588d2-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Pasteur et Predateur
@@ -949,14 +953,14 @@ tf1plus://tf1/au-coeur-de-la-vengeance
 tf1plus://tf1/un-automne-a-deux
 #EXTINF:-1 tvg-id="tf1plus-tf1-rendez-vous-mystere-avec-lamour-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1cb5e6-3b6b62-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Rendez Vous Mystere Avec Lamour
 tf1plus://tf1/rendez-vous-mystere-avec-lamour
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-des-innocentes-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-b84ff1-03127e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Le Pacte des Innocentes
-tf1plus://tf1/le-pacte-des-innocentes
 #EXTINF:-1 tvg-id="tf1plus-tfx-le-defi-de-noel-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cd0e0b-f620ab-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Le Defi de Noel
 tf1plus://tfx/le-defi-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-je-nai-pas-tue-mon-mari-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-441a5e-7f05be-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Je Nai Pas Tue Mon Mari
 tf1plus://tf1/je-nai-pas-tue-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-prisonniere-sur-le-campus-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-d0fe6e-1306a9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Prisonniere Sur le Campus
 tf1plus://tf1/prisonniere-sur-le-campus
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-des-innocentes-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-b84ff1-03127e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Le Pacte des Innocentes
+tf1plus://tf1/le-pacte-des-innocentes
 #EXTINF:-1 tvg-id="tf1plus-tf1-une-romance-royale-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-156dd1-6e0a2d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Une Romance Royale
 tf1plus://tf1/une-romance-royale
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-de-fidelite-les-immanquables-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-a479ff-42b06e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les immanquables du moment",Le Pacte de Fidelite
@@ -1063,8 +1067,6 @@ tf1plus://tf1/un-meurtre-presque-parfait
 tf1plus://tf1/l-emprise
 #EXTINF:-1 tvg-id="tf1plus-tf1-francoise-dolto-desir-de-vivre-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-3ac2c5-d9ee7c-01fd7a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Francoise Dolto Desir de Vivre
 tf1plus://tf1/francoise-dolto-desir-de-vivre
-#EXTINF:-1 tvg-id="tf1plus-tf1-filip-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-filip-d70a58-f14339-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Filip
-tf1plus://tf1/filip
 #EXTINF:-1 tvg-id="tf1plus-tf1-20-ans-a-nouveau-c'est-une-romance" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-20ansanouve-022fce-893af6-603a0e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - C'est une romance",20 Ans A Nouveau
 tf1plus://tf1/20-ans-a-nouveau
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-la-francaise-c'est-une-romance" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-coup-de-foudre-a-la-francaise-f28e85-0b3717-9b21ce-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - C'est une romance",Coup de Foudre A la Francaise
@@ -1365,8 +1367,6 @@ tf1plus://tf1/the-money
 tf1plus://tf1/un-fugitif-dans-ma-maison
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-a-tue-ma-mere-le-poids-du-passé" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-d7166f-3e9abb-c7231e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Le poids du passé",Qui A Tue Ma Mere
 tf1plus://tf1/qui-a-tue-ma-mere
-#EXTINF:-1 tvg-id="tf1plus-tf1-laissee-pour-morte-par-mon-mari-le-poids-du-passé" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2332d7-6ec19b-e58989-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Le poids du passé",Laissee Pour Morte Par Mon Mari
-tf1plus://tf1/laissee-pour-morte-par-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-sand-dollar-cove-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-4b5ecd-2b6fdd-419007-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Coup de Foudre A Sand Dollar Cove
 tf1plus://tf1/coup-de-foudre-a-sand-dollar-cove
 #EXTINF:-1 tvg-id="tf1plus-tf1-hold-up-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2fa0cf-372540-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Hold Up
@@ -1393,10 +1393,14 @@ tf1plus://tf1/ensemble-a-tout-prix-272
 tf1plus://tf1/une-mere-de-trop
 #EXTINF:-1 tvg-id="tf1plus-tf1-disparue-dans-les-everglades-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-39c1ca-3b9878-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Disparue Dans les Everglades
 tf1plus://tf1/disparue-dans-les-everglades
+#EXTINF:-1 tvg-id="tf1plus-tf1-filip-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-filip-d70a58-f14339-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Filip
+tf1plus://tf1/filip
 #EXTINF:-1 tvg-id="tf1plus-tf1-trahie-par-lamour-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-34d887-c6f04a-e2cac9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Trahie Par Lamour
 tf1plus://tf1/trahie-par-lamour
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-dernier-bal-des-debutantes-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait_tle-dernier-bal-des-debutantes_2023-a31308-739421-e9b5af-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Le Dernier Bal des Debutantes
 tf1plus://tf1/le-dernier-bal-des-debutantes
+#EXTINF:-1 tvg-id="tf1plus-tf1-laissee-pour-morte-par-mon-mari-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2332d7-6ec19b-e58989-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Laissee Pour Morte Par Mon Mari
+tf1plus://tf1/laissee-pour-morte-par-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-ivre-au-volant-a-17-ans-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-ivre-au-volant-a-17-ans-5d4bac-44d28f-69fc19-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Ivre Au Volant A 17 Ans
 tf1plus://tf1/ivre-au-volant-a-17-ans
 #EXTINF:-1 tvg-id="tf1plus-tf1-clara-et-son-juge-sombres-tragédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-065864-1b196a-e8cd92-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sombres tragédies",Clara et Son Juge
@@ -2543,10 +2547,6 @@ tf1plus://tf1/le-pigeon
 tf1plus://tf1/merci-patron
 #EXTINF:-1 tvg-id="tf1plus-tf1-drive-hard-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-5b42c5-dbf7aa-be295b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Drive Hard
 tf1plus://tf1/drive-hard
-#EXTINF:-1 tvg-id="tf1plus-tfx-limitless-le-film-thrillers" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-841481-875785-0bbc92-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",Limitless le Film
-tf1plus://tfx/limitless-le-film
-#EXTINF:-1 tvg-id="tf1plus-tf1-series-films-seven-thrillers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-c46c1a-678cef-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",Seven
-tf1plus://tf1-series-films/seven
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-duke-thrillers" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-aa62d3-8c88df-9e6e30-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",The Duke
 tf1plus://tf1/the-duke
 #EXTINF:-1 tvg-id="tf1plus-tf1-tokarev-thrillers" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-f19d10-306ae7-95100b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",Tokarev
@@ -2597,6 +2597,8 @@ tf1plus://tf1/un-homme-et-son-chien
 tf1plus://tf1/irenas-vow
 #EXTINF:-1 tvg-id="tf1plus-tf1-beaute-fatale-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-25812e-ff2bbe-d60102-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Drames",Beaute Fatale
 tf1plus://tf1/beaute-fatale
+#EXTINF:-1 tvg-id="tf1plus-tf1-chloe-and-theo-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-chloe-et-theo-7cdf35-9954c5-956c68-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Drames",Chloe And Theo
+tf1plus://tf1/chloe-and-theo
 #EXTINF:-1 tvg-id="tf1plus-tfx-cash-cinéma-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a36d85-036d30-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma français",Cash
 tf1plus://tfx/cash
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-maiden-heist-un-plan-denfer-policiers" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2-d2b0fe-86b752-144ea6-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Policiers",The Maiden Heist un Plan Denfer
@@ -2717,8 +2719,6 @@ tf1plus://tf1/la-victoire-dans-le-sang-trading-paint
 tf1plus://tf1/le-sang-du-cartel
 #EXTINF:-1 tvg-id="tf1plus-tf1-jiu-jitsu-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a75222-97e0e4-2dea54-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Jiu Jitsu
 tf1plus://tf1/jiu-jitsu
-#EXTINF:-1 tvg-id="tf1plus-tf1-chloe-and-theo-entre-filles" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-chloe-et-theo-7cdf35-9954c5-956c68-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre filles",Chloe And Theo
-tf1plus://tf1/chloe-and-theo
 #EXTINF:-1 tvg-id="tf1plus-tf1-good-kids-ados" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-317ce4-ba4dd1-4edd2b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Ados",Good Kids
 tf1plus://tf1/good-kids
 #EXTINF:-1 tvg-id="tf1plus-tf1-jt-20h-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2a6a1e-03a126-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Jt 20h
