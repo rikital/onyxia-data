@@ -21315,12 +21315,12 @@ francetv://program/france-2_n-oubliez-pas-les-paroles
 francetv://program/france-2_les-enfants-de-la-tele
 #EXTINF:-1 tvg-id="francetv-a88a10a2-4076-4dfe-b13e-da081f73b082" tvg-logo="https://medias.france.tv/-rVJ9dNIjbbC8NEPSlVcXtnB1Ho/400x0/filters:quality(85)/a/g/e/phplmtega.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Des Racines et Des Ailes — Passion patrimoine : l'Alsace, terre de passion
 francetv://a88a10a2-4076-4dfe-b13e-da081f73b082
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Narcorama, il était une fois Marseille
+francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-95755888-a3c6-4edc-8aeb-e1a06bc18c43" tvg-logo="https://medias.france.tv/NMNAtbRGBg_IXlDBBl5UnLrzU5Y/400x0/filters:quality(85)/a/8/2/417d1bc45807438592e68eab55c8028a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le brame du cerf : Le Live
 francetv://95755888-a3c6-4edc-8aeb-e1a06bc18c43
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La Stagiaire
 francetv://program/france-3_la-stagiaire
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Narcorama, il était une fois Marseille
-francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-1d37943b-fe1f-4f39-a2dd-ec536303a3ad" tvg-logo="https://medias.france.tv/85mqD_M-eDdRcpAucFpFHSY8fDk/400x0/filters:quality(85)/d/9/1/ad2b10842d5f4726a915c6d02ec46c3f768fbb4e0ce6b29984a768ba23e0919d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Et pour quelques dollars de plus
 francetv://1d37943b-fe1f-4f39-a2dd-ec536303a3ad
 #EXTINF:-1 tvg-id="francetv-prog-france-3_brokenwood" tvg-logo="https://medias.france.tv/C2c1C0sBzLJuPnsv6-pMKYYLMtA/400x0/filters:quality(85)/a/d/f/phphx0fda.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Brokenwood
@@ -21725,8 +21725,6 @@ francetv://c283ea1a-9f2d-4a44-92cb-47b16e000800
 francetv://a66b2fe2-8f8d-4068-9b02-dcbc86b794c0
 #EXTINF:-1 tvg-id="francetv-2566c050-d28b-4d43-a387-31956cfb9b93" tvg-logo="https://medias.france.tv/ZqUqCXULnLuigw-NhNSsqPDVu08/400x0/filters:quality(85)/a/y/h/phpac9hya.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Science grand format — La guerre des Gaules : César nous a-t-il menti ?
 francetv://2566c050-d28b-4d43-a387-31956cfb9b93
-#EXTINF:-1 tvg-id="francetv-aa685d6f-480d-4686-9ca0-9e4fd41d3ca4" tvg-logo="https://medias.france.tv/cooGUhvuoLuy6N0Qmvi3enktS38/400x0/filters:quality(85)/l/7/d/php4usd7l.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — François-Henri Désérable, Catherine Meurisse, Sophie Divry, Mathias Enard, Élise Lespade
-francetv://aa685d6f-480d-4686-9ca0-9e4fd41d3ca4
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-dbd126e6-9f17-4549-ac36-fa3f822aa4b8" tvg-logo="https://medias.france.tv/iM9H4KQ8tce_L6tzTQ4RAUZ77Yo/400x0/filters:quality(85)/d/1/u/phptpuu1d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Légitime défense - L'affaire de la route toxique
@@ -24207,40 +24205,44 @@ francetv://dacbb1aa-5b68-11f1-845a-957ddefc544d
 francetv://e6a04552-3969-11f1-ade3-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-c478740e-2839-11f1-835a-957ddefc544d" tvg-logo="https://medias.france.tv/2fP1wGstPaXhtCxLcQS-4je2jVs/400x0/filters:quality(85)/9/6/9/7e27f61b04594007aa89c17b1fd05969.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films du moment","L'avenir" : Son mari lui fait une annonce difficile
 francetv://c478740e-2839-11f1-835a-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-0b34cf4e-e23c-4a45-98a6-b33f0159827b" tvg-logo="https://medias.france.tv/n-0pGDNFGLEuuIcITedSUTZnd70/400x0/filters:quality(85)/n/j/z/phpbaczjn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le monde de Jamy — Manger de la viande, un crime pour la planète ?
-francetv://0b34cf4e-e23c-4a45-98a6-b33f0159827b
 #EXTINF:-1 tvg-id="francetv-prog-slash_dans-la-peau-d-une-influenceuse" tvg-logo="https://medias.france.tv/ReknTOnEy3561pS2vJk1nC5FzHs/400x0/filters:quality(85)/e/i/c/phpm56cie.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Dans la peau d'une influenceuse
 francetv://program/slash_dans-la-peau-d-une-influenceuse
-#EXTINF:-1 tvg-id="francetv-e46ac8e4-83a6-4de9-b14e-888bf2ff0986" tvg-logo="https://medias.france.tv/XtBiUROheXyJNa9dKOa2WWOWL3w/400x0/filters:quality(85)/c/q/g/phpwfvgqc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Infrarouge — Un p'tit truc en moins, vivre avec Alzheimer
-francetv://e46ac8e4-83a6-4de9-b14e-888bf2ff0986
-#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
-francetv://program/france-2_ca-commence-aujourd-hui
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Narcorama, il était une fois Marseille
-francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
-#EXTINF:-1 tvg-id="francetv-prog-societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre" tvg-logo="https://medias.france.tv/C8W4gzUp2eejjJ1cGzjGc7tDuPc/400x0/filters:quality(85)/f/k/s/phpi0pskf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",À toi qui viens d'apprendre
-francetv://program/societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre
-#EXTINF:-1 tvg-id="francetv-3d0f9bb2-0d59-439f-8195-8fa39e571215" tvg-logo="https://medias.france.tv/gxqMhAj_rg4lA7-gywLgRhl7BVw/400x0/filters:quality(85)/p/y/k/phpf4vkyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Complément d'enquête — Rachida Dati, la conquête à tout prix
-francetv://3d0f9bb2-0d59-439f-8195-8fa39e571215
-#EXTINF:-1 tvg-id="francetv-e680e558-0332-4a57-957a-a5dfd69b8ddd" tvg-logo="https://medias.france.tv/7-C9xoY-Lgu1_sx5TCyCeWpwJK0/400x0/filters:quality(85)/s/p/b/php1o9bps.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Les rencontres du Papotin — Kad Merad
-francetv://e680e558-0332-4a57-957a-a5dfd69b8ddd
-#EXTINF:-1 tvg-id="francetv-prog-france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta" tvg-logo="https://medias.france.tv/azHmW_21tisSURpwh9xO9Mcn1RY/400x0/filters:quality(85)/w/r/j/phphsqjrw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Les cercles du silence : L'affaire Le Scouarnec, une histoire d'omerta
-francetv://program/france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta
-#EXTINF:-1 tvg-id="francetv-prog-france-2_telematin" tvg-logo="https://medias.france.tv/LuwNKrC_Y4sm3y6hOiehhq9QccM/400x0/filters:quality(85)/a/c/k/phptbikca.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Télématin
-francetv://program/france-2_telematin
-#EXTINF:-1 tvg-id="francetv-dbd126e6-9f17-4549-ac36-fa3f822aa4b8" tvg-logo="https://medias.france.tv/iM9H4KQ8tce_L6tzTQ4RAUZ77Yo/400x0/filters:quality(85)/d/1/u/phptpuu1d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Légitime défense - L'affaire de la route toxique
-francetv://dbd126e6-9f17-4549-ac36-fa3f822aa4b8
-#EXTINF:-1 tvg-id="francetv-182a031e-d47e-44ee-9f3e-144453dcc4a4" tvg-logo="https://medias.france.tv/TIS46rQTHS6RYCEQumimkh7Kt7g/400x0/filters:quality(85)/r/x/q/phpsdwqxr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",13h15, le samedi — Les aveux de Cédric Jubillar
-francetv://182a031e-d47e-44ee-9f3e-144453dcc4a4
-#EXTINF:-1 tvg-id="francetv-prog-france-3_la-france-des-villages" tvg-logo="https://medias.france.tv/kNnhPY5a7mzRqrUp_LCQRY5rDVw/400x0/filters:quality(85)/y/t/x/phpz1wxty.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France des villages
-francetv://program/france-3_la-france-des-villages
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_ce-qui-nous-tient-debout" tvg-logo="https://medias.france.tv/fNAnezix6rK4lhelZHla0wx2rz0/400x0/filters:quality(85)/p/8/c/php5l0c8p.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ce qui nous tient debout
-francetv://program/documentaires_documentaires-societe_ce-qui-nous-tient-debout
-#EXTINF:-1 tvg-id="francetv-prog-arte_ultra-riches-taxe-moi-si-tu-peux" tvg-logo="https://medias.france.tv/q8A9_FNOfhT66jV90zOPrWCdRL8/400x0/filters:quality(85)/h/k/c/phpat5ckh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ultra-riches - Taxe-moi (si tu peux !)
-francetv://program/arte_ultra-riches-taxe-moi-si-tu-peux
 #EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Envoyé spécial — Doctolib, votre santé est leur business
 francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-da529b9d-ef4b-4df3-b12d-bd9f4cafb434" tvg-logo="https://medias.france.tv/kqzs6LCQlwNGdXiMlheovqjrwF4/400x0/filters:quality(85)/q/x/b/php5yobxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Aux arts et cætera — Paris capitale de la mode, 50 ans de Fashion Week !
-francetv://da529b9d-ef4b-4df3-b12d-bd9f4cafb434
+#EXTINF:-1 tvg-id="francetv-0b34cf4e-e23c-4a45-98a6-b33f0159827b" tvg-logo="https://medias.france.tv/n-0pGDNFGLEuuIcITedSUTZnd70/400x0/filters:quality(85)/n/j/z/phpbaczjn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le monde de Jamy — Manger de la viande, un crime pour la planète ?
+francetv://0b34cf4e-e23c-4a45-98a6-b33f0159827b
+#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
+francetv://program/france-2_ca-commence-aujourd-hui
+#EXTINF:-1 tvg-id="francetv-a628a8f1-06f6-4621-aa0b-35a16481fbae" tvg-logo="https://medias.france.tv/TK6O7NltVEsA9YYPbruGTHElB6U/400x0/filters:quality(85)/a/e/9/a23a0300e0264707b6274f9f47f769ea.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En immersion — Maire courage, au chevet de son village
+francetv://a628a8f1-06f6-4621-aa0b-35a16481fbae
+#EXTINF:-1 tvg-id="francetv-prog-societe_chill" tvg-logo="https://medias.france.tv/D2Xr8BGQUH85zcls27Lg6-_3diQ/400x0/filters:quality(85)/0/0/c/phpbfic00.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Chill
+francetv://program/societe_chill
+#EXTINF:-1 tvg-id="francetv-e680e558-0332-4a57-957a-a5dfd69b8ddd" tvg-logo="https://medias.france.tv/7-C9xoY-Lgu1_sx5TCyCeWpwJK0/400x0/filters:quality(85)/s/p/b/php1o9bps.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Les rencontres du Papotin — Kad Merad
+francetv://e680e558-0332-4a57-957a-a5dfd69b8ddd
+#EXTINF:-1 tvg-id="francetv-c55c6c41-09d2-4cda-8262-b462b0f0ad8c" tvg-logo="https://medias.france.tv/qpjRqW_TK1L7IP4K1LmKSTw1qMc/400x0/filters:quality(85)/2/1/j/phpi2sj12.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France en Vrai - Bourgogne-Franche-Comté — Maman a les cheveux blancs
+francetv://c55c6c41-09d2-4cda-8262-b462b0f0ad8c
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-ce-soir" tvg-logo="https://medias.france.tv/FrZm91Y32fBFJIawfflX_OI4yxc/400x0/filters:quality(85)/0/s/c/phpdkdcs0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",C ce soir
+francetv://program/france-5_c-ce-soir
+#EXTINF:-1 tvg-id="francetv-a1d6f4a6-ce16-412b-b675-4b98682d7940" tvg-logo="https://medias.france.tv/wgvNwS8kJfuOER_9L5gc-oWDqzc/400x0/filters:quality(85)/b/h/d/phpxasdhb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France en Vrai - Centre-Val de Loire — La caserne des volontaires
+francetv://a1d6f4a6-ce16-412b-b675-4b98682d7940
+#EXTINF:-1 tvg-id="francetv-prog-france-2_telematin" tvg-logo="https://medias.france.tv/LuwNKrC_Y4sm3y6hOiehhq9QccM/400x0/filters:quality(85)/a/c/k/phptbikca.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Télématin
+francetv://program/france-2_telematin
+#EXTINF:-1 tvg-id="francetv-prog-arte_ultra-riches-taxe-moi-si-tu-peux" tvg-logo="https://medias.france.tv/q8A9_FNOfhT66jV90zOPrWCdRL8/400x0/filters:quality(85)/h/k/c/phpat5ckh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ultra-riches - Taxe-moi (si tu peux !)
+francetv://program/arte_ultra-riches-taxe-moi-si-tu-peux
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_ce-qui-nous-tient-debout" tvg-logo="https://medias.france.tv/fNAnezix6rK4lhelZHla0wx2rz0/400x0/filters:quality(85)/p/8/c/php5l0c8p.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ce qui nous tient debout
+francetv://program/documentaires_documentaires-societe_ce-qui-nous-tient-debout
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Narcorama, il était une fois Marseille
+francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
+#EXTINF:-1 tvg-id="francetv-3d0f9bb2-0d59-439f-8195-8fa39e571215" tvg-logo="https://medias.france.tv/gxqMhAj_rg4lA7-gywLgRhl7BVw/400x0/filters:quality(85)/p/y/k/phpf4vkyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Complément d'enquête — Rachida Dati, la conquête à tout prix
+francetv://3d0f9bb2-0d59-439f-8195-8fa39e571215
+#EXTINF:-1 tvg-id="francetv-e46ac8e4-83a6-4de9-b14e-888bf2ff0986" tvg-logo="https://medias.france.tv/XtBiUROheXyJNa9dKOa2WWOWL3w/400x0/filters:quality(85)/c/q/g/phpwfvgqc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Infrarouge — Un p'tit truc en moins, vivre avec Alzheimer
+francetv://e46ac8e4-83a6-4de9-b14e-888bf2ff0986
+#EXTINF:-1 tvg-id="francetv-prog-societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre" tvg-logo="https://medias.france.tv/C8W4gzUp2eejjJ1cGzjGc7tDuPc/400x0/filters:quality(85)/f/k/s/phpi0pskf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",À toi qui viens d'apprendre
+francetv://program/societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre
+#EXTINF:-1 tvg-id="francetv-dbd126e6-9f17-4549-ac36-fa3f822aa4b8" tvg-logo="https://medias.france.tv/iM9H4KQ8tce_L6tzTQ4RAUZ77Yo/400x0/filters:quality(85)/d/1/u/phptpuu1d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Légitime défense - L'affaire de la route toxique
+francetv://dbd126e6-9f17-4549-ac36-fa3f822aa4b8
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-france-des-villages" tvg-logo="https://medias.france.tv/kNnhPY5a7mzRqrUp_LCQRY5rDVw/400x0/filters:quality(85)/y/t/x/phpz1wxty.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France des villages
+francetv://program/france-3_la-france-des-villages
 #EXTINF:-1 tvg-id="francetv-3d0f9bb2-0d59-439f-8195-8fa39e571215" tvg-logo="https://medias.france.tv/gxqMhAj_rg4lA7-gywLgRhl7BVw/400x0/filters:quality(85)/p/y/k/phpf4vkyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Rachida Dati, la conquête à tout prix
 francetv://3d0f9bb2-0d59-439f-8195-8fa39e571215
 #EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Doctolib, votre santé est leur business
@@ -26181,24 +26183,22 @@ francetv://e73c1b6e-10a9-11f1-858c-19616fa871f9
 francetv://fb9c098a-0040-11f1-936c-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-3c1fecea-0020-11f1-ac9e-57a09c50f7ce" tvg-logo="https://medias.france.tv/6M0shn1JXimWJVeo7H30qO4K7rM/400x0/filters:quality(85)/1/a/a/cc6dd2ad9f7d4156bd2f13c4ca613aa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Pourquoi Orelsan aime le rap ?
 francetv://3c1fecea-0020-11f1-ac9e-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_okoo-koo" tvg-logo="https://medias.france.tv/45pqN78K7SEc33WSPNyEwlmqxcM/400x0/filters:quality(85)/e/e/t/phpud4tee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Okoo-koo
-francetv://program/enfants_six-huit-ans_okoo-koo
 #EXTINF:-1 tvg-id="francetv-prog-france-4_avatar-le-dernier-maitre-de-l-air" tvg-logo="https://medias.france.tv/G88SoiGWSkxbX8ruJGgvZkBLko4/400x0/filters:quality(85)/i/c/n/phpmiinci.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Avatar, le dernier maître de l'air
 francetv://program/france-4_avatar-le-dernier-maitre-de-l-air
 #EXTINF:-1 tvg-id="francetv-prog-france-4_la-legende-de-korra" tvg-logo="https://medias.france.tv/lv9N7fMJZ1xd3oKjLda5d1E0Jmc/400x0/filters:quality(85)/1/a/s/phpkqksa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",La légende de Korra
 francetv://program/france-4_la-legende-de-korra
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_les-aventures-de-pil" tvg-logo="https://medias.france.tv/lhf0WXt72E6bonmSeDeCtILO6S0/400x0/filters:quality(85)/z/x/u/phpfg9uxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Les aventures de Pil
 francetv://program/enfants_six-huit-ans_les-aventures-de-pil
-#EXTINF:-1 tvg-id="francetv-prog-france-4_mission-info" tvg-logo="https://medias.france.tv/g50CYL4raEOl1sVlBGV8eGOkb9I/400x0/filters:quality(85)/5/m/y/phpcasym5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Mission info
-francetv://program/france-4_mission-info
-#EXTINF:-1 tvg-id="francetv-prog-france-4_super-detectives" tvg-logo="https://medias.france.tv/HeqZBmhZCUyc5uVhpDe2GnZzYXg/400x0/filters:quality(85)/h/n/s/phpqtpsnh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Super détectives !
-francetv://program/france-4_super-detectives
-#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Organisation super insolite — Le film
-francetv://83fdbcd9-4d2c-42d7-87a6-f223abc193b0
+#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_okoo-koo" tvg-logo="https://medias.france.tv/45pqN78K7SEc33WSPNyEwlmqxcM/400x0/filters:quality(85)/e/e/t/phpud4tee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Okoo-koo
+francetv://program/enfants_six-huit-ans_okoo-koo
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_patouille-et-momo" tvg-logo="https://medias.france.tv/SjBYMxO2akXrqGal5WNPR7msvV8/400x0/filters:quality(85)/k/q/k/phpcazkqk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Patouille et Momo
 francetv://program/enfants_trois-cinq-ans_patouille-et-momo
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_edmond-et-lucy" tvg-logo="https://medias.france.tv/yPiv7y0pJvTjQ4Dd5RZUBEloyGw/400x0/filters:quality(85)/n/p/h/php4vghpn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Edmond et Lucy
 francetv://program/enfants_trois-cinq-ans_edmond-et-lucy
+#EXTINF:-1 tvg-id="francetv-prog-france-4_super-detectives" tvg-logo="https://medias.france.tv/HeqZBmhZCUyc5uVhpDe2GnZzYXg/400x0/filters:quality(85)/h/n/s/phpqtpsnh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Super détectives !
+francetv://program/france-4_super-detectives
+#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Organisation super insolite — Le film
+francetv://83fdbcd9-4d2c-42d7-87a6-f223abc193b0
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_trotro-zaza" tvg-logo="https://medias.france.tv/D4q24kXD4Q_UjeBDKIN8hKpEHpc/400x0/filters:quality(85)/j/6/n/phprvsn6j.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Trotro et Zaza
 francetv://program/enfants_trois-cinq-ans_trotro-zaza
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_animanimals" tvg-logo="https://medias.france.tv/Pb8MqxcH_Fnh90SV8tJMhuzbnlM/400x0/filters:quality(85)/u/z/6/phpjkl6zu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Animanimals
