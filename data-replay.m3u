@@ -851,6 +851,8 @@ bfmplay://NEUF_BFMTV_BFM0300016541A
 bfmplay://NEUF_BFMTV_BFM1021080916544
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021080916531" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/3/5/5e28e71b80418bfff6a60ca9c115a68a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Affaire suivante",Les disparues de Saône-et-Loire : un cold case toujours non élucidé
 bfmplay://NEUF_BFMTV_BFM1021080916531
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001003" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/0/0/1a2026a0173afcd8c9e818325cb64bdf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - J-1 avant la première de Zidane à la tête des Bleus ! - Partie 1
+bfmplay://NEUF_BFMRADIO_BRA50000000001003
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000994" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/4/9/9/5b3ac998edc9dcff651603b33eaae85c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - Les coachs, un métier devenu impossible ? - Partie 2
 bfmplay://NEUF_BFMRADIO_BRA50000000000994
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000993" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/9/9/cd678dcf19a1f8479b84fd62eb4189fb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - Quel système pour les Bleus de Zidane ? - Partie 1
@@ -1501,8 +1503,6 @@ bfmplay://NEUF_RMC_LIFE_RIF416007814527
 bfmplay://NEUF_RMC_LIFE_RIF416007863527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF92181" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/8/1/0d15547569913189c4b5321c8cbec20a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S1E24 - La fille indigne et le récidiviste
 bfmplay://NEUF_RMC_LIFE_RIF92181
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF559917117527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/1e069a6353db29ee2e8bb1a609acf37b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S1E31 - Jean-Claude Romand, le menteur
-bfmplay://NEUF_RMC_LIFE_RIF559917117527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020925600781" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/8/7/be614f10066213ffc73abe81f11aac6d_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Vous aimerez aussi",Les 10 prisons les plus dangereuses de la planète
 bfmplay://NEUF_NUM23_N231020925600781
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23808489460527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/2/5/3e76e10d817232e89f2133cdc14faa1e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Vous aimerez aussi",El Chapo : la traque du maître de l'évasion
@@ -5501,8 +5501,8 @@ bfmplay://NEUF_RMCDEC_RMC980055066527
 bfmplay://NEUF_RMCDEC_RMC980055206527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC980055196527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/cfae4c0ba0ea7d0d91d95829a0ef29ca_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S4E14 - On a rien sans rien
 bfmplay://NEUF_RMCDEC_RMC980055196527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC979654919527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/dbe0c5cffaa3cb3e30e2bb7763aa9624_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S7E5 - Malawi
-bfmplay://NEUF_RMCDEC_RMC979654919527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC975121186527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/d50befef2793aa4953bffeff9f2e6ed4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S5E5 - Californie
+bfmplay://NEUF_RMCDEC_RMC975121186527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC957458580527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/087c87ae09a5713ffde48d9fd7de0086_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S1E1 - Japon
 bfmplay://NEUF_RMCDEC_RMC957458580527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC968921600527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/7927474065ef067c59fcdabd78496a45_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S3E1 - Cuba
@@ -5535,8 +5535,6 @@ bfmplay://NEUF_RMCDEC_RMC979654901527
 bfmplay://NEUF_RMCDEC_RMC975133312527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC973652555527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/0d1c769ec953a38e225fbe4b22def694_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S8E3 - Thaïlande
 bfmplay://NEUF_RMCDEC_RMC973652555527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC975121186527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/d50befef2793aa4953bffeff9f2e6ed4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S5E5 - Californie
-bfmplay://NEUF_RMCDEC_RMC975121186527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC979654913527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/a53908ce47a86a8f501f6c2e58952aeb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S7E4 - Île de Malte
 bfmplay://NEUF_RMCDEC_RMC979654913527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC957459796527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/e17bb7a59f60f1ec7b805e9e41c289e8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S2E4 - Sud de la France
@@ -9501,14 +9499,12 @@ bfmplay://NEUF_RMCDEC_RMC988307256527
 bfmplay://NEUF_RMCDEC_RMC1020937232172
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020937233242" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/4/2/fa41b4cbebab0f9186b632360db27525_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Alerte sur la planète ! - S1E6 - Éruption solaire cataclysmique
 bfmplay://NEUF_RMCDEC_RMC1020937233242
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Sous-marin nucléaire : déconstruction XXL
-bfmplay://NEUF_RMCDEC_RMC1020917651774
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020909391889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/8/8/baa5cd3574b822c818363afa14b098e7_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Empire romain : des origines à la chute
+bfmplay://NEUF_RMCDEC_RMC1020909391889
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917851525" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/2/5/24a1a8438c51b929a96cf6ee0e0a5c82_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Sous-marins nucléaires : les armes de l'ombre
 bfmplay://NEUF_RMCDEC_RMC1020917851525
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936093511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/1/5/1a9c8be5beb9c7f128d980d5dc13e91a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Celtes : les mystères d'une civilisation disparue
 bfmplay://NEUF_RMCDEC_RMC1020936093511
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",San Andreas : l'apocalypse bientôt en Californie ?
-bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593664
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593678" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/7/6/497ca129bfa42e12348d2fbc55aa72c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E3 - L'âge d'or de l'empire du soleil
@@ -9517,8 +9513,6 @@ bfmplay://NEUF_RMCDEC_RMC1020915593678
 bfmplay://NEUF_RMCDEC_RMC1020915592850
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593692" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/9/6/ab8d7b57f4a23485af578dd4269e4617_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E4 - La chute de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593692
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020909391889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/8/8/baa5cd3574b822c818363afa14b098e7_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Empire romain : des origines à la chute
-bfmplay://NEUF_RMCDEC_RMC1020909391889
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917326694" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/9/6/22616261c210b5b3881edfcf8c602cd9_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Chicxulub, l'apocalypse des dinosaures
 bfmplay://NEUF_RMCDEC_RMC1020917326694
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC941942786527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6586631a2f4a6ee0ab12552f70e1e105_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Château Gaillard, une forteresse imprenable
@@ -9707,6 +9701,10 @@ bfmplay://NEUF_RMCDEC_RMC971614324527
 bfmplay://NEUF_RMCDEC_RMC1002415335527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1002425005527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/185c762991432e0fa3bf11530d9b0163_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Les soldats de Napoléon : les traces cachées
 bfmplay://NEUF_RMCDEC_RMC1002425005527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Sous-marin nucléaire : déconstruction XXL
+bfmplay://NEUF_RMCDEC_RMC1020917651774
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",San Andreas : l'apocalypse bientôt en Californie ?
+bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC988306518527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/f276fc4de659b9115bcd75ef58682e55_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Implosion du Titan : destination finale vers le Titanic
 bfmplay://NEUF_RMCDEC_RMC988306518527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC963259132527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/2f92ea0d0613595d6dfd981bf0d085bb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Le Pic du Midi : mégastructure de génie
@@ -10383,60 +10381,6 @@ bfmplay://NEUF_BFMTV_BFM981223778527
 bfmplay://NEUF_BFMTV_BFM976202196527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM973221646527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/WiztiviStore/posters/NEUF_BFMTV/7/2/5/BFM973221646527_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Grand Reportage",Crépol, le bal de l'ultra-violence
 bfmplay://NEUF_BFMTV_BFM973221646527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1020927440141" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020927440141_9C860Fb/posters/8959b54f22123c637e89c39d90ed4542/8959b54f22123c637e89c39d90ed4542.jpg?crop=3:4,offset-y0" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",The Big Bang Theory
-bfmplay://NEUF_NUM23_N23_1020927440141
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1020940496182" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020940496182_9C860Fb/posters/ba6904359402730c2404724502b1f55e/ba6904359402730c2404724502b1f55e.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",Au cœur des douanes
-bfmplay://NEUF_NUM23_N23_1020940496182
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_7728" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021073591769_9C860Fb/posters/fe5d4a14ba79b21ac6a6e16d45ab2fff/fe5d4a14ba79b21ac6a6e16d45ab2fff.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",Les Grandes Gueules
-bfmplay://NEUF_NUM23_N23_7728
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1020955007992" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020955007992_9C860Fb/posters/e06e7a6fce163d3eaa790ad1a374bcad/e06e7a6fce163d3eaa790ad1a374bcad.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",Lucifer
-bfmplay://NEUF_NUM23_N23_1020955007992
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1021048227064" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048227064_9C860Fb/posters/f94d2b45cc418f07e75be7f166717a67/f94d2b45cc418f07e75be7f166717a67.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",Piscines de rêve
-bfmplay://NEUF_NUM23_N23_1021048227064
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021026888421" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021026888421_9C860Fb/posters/617325088bb386fdaf5e8afa72f899b5/617325088bb386fdaf5e8afa72f899b5.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",100 jours avec les secours
-bfmplay://NEUF_RMC_LIFE_RIF_1021026888421
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1021026886347" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021026886347_9C860Fb/posters/79aebd6d9ddea32a7afdaaed4da95a87/79aebd6d9ddea32a7afdaaed4da95a87.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Story",C'est ça la France !
-bfmplay://NEUF_NUM23_N23_1021026886347
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S1020933732470" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020933732470_9C860Fb/posters/1a8ac9441e44b0a6fbb0e5d393e4bccd/1a8ac9441e44b0a6fbb0e5d393e4bccd.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Les reines du volant
-bfmplay://NEUF_RMCDEC_RMC_S1020933732470
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S1020933745013" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020933745013_9C860Fb/posters/264bb331fcd4ec99959eab6d9f672bce/264bb331fcd4ec99959eab6d9f672bce.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Le mystère d'Oak Island : la course au trésor
-bfmplay://NEUF_RMCDEC_RMC_S1020933745013
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S966372582527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/966372582527_9C860Fb/posters/ecf61315d2f44451dca2ee3a152b6a10/ecf61315d2f44451dca2ee3a152b6a10.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Flic story
-bfmplay://NEUF_RMCDEC_RMC_S966372582527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S933530904527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/933530904527_9C860Fb/posters/c19d3021ad4152b079e9ba535d5864a4/c19d3021ad4152b079e9ba535d5864a4.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Vintage Mecanic
-bfmplay://NEUF_RMCDEC_RMC_S933530904527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S961239550527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/961239550527_9C860Fb/posters/3007a19909f6d208e1b3244b75388850/3007a19909f6d208e1b3244b75388850.jpg?crop=3:4,offset-y0" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",J'irai dormir chez vous
-bfmplay://NEUF_RMCDEC_RMC_S961239550527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S947537198527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/947537198527_9C860Fb/posters/59d010f70b85eda8f9f8dd942bc86ced/59d010f70b85eda8f9f8dd942bc86ced.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Habitations en péril
-bfmplay://NEUF_RMCDEC_RMC_S947537198527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S1021054233412" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/564794537527_9C860Fb/posters/cf4a7e2147e4568cb6981a5122dd30e2/cf4a7e2147e4568cb6981a5122dd30e2.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Pêche XXL
-bfmplay://NEUF_RMCDEC_RMC_S1021054233412
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC_S1021025152775" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021025152775_9C860Fb/posters/8b0411159de52984841d7c6d528a4555/8b0411159de52984841d7c6d528a4555.jpg" tvg-country="FR" tvg-type="series" group-title="Catalogue RMC Découverte",Joyca teste des lieux 1 étoile
-bfmplay://NEUF_RMCDEC_RMC_S1021025152775
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1020954979786" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020954979786_9C860Fb/posters/aa9559aee71c26cb136e621fcc4619fd/aa9559aee71c26cb136e621fcc4619fd.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Cold case : affaires classées
-bfmplay://NEUF_RMC_LIFE_RIF_1020954979786
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_975165729527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/975165729527_9C860Fb/posters/6338b295fa5025faca98a4ba58d4e5bc/6338b295fa5025faca98a4ba58d4e5bc.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",La vie secrète des chats
-bfmplay://NEUF_NUM23_N23_975165729527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1020955030322" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020955030322_9C860Fb/posters/c9e76fb74a8872be279e14574727160e/c9e76fb74a8872be279e14574727160e.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Un gars, une fille
-bfmplay://NEUF_RMC_LIFE_RIF_1020955030322
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021069931091" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021069931091_9C860Fb/posters/5fe508de1333206bd101ce48bfef2f81/5fe508de1333206bd101ce48bfef2f81.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",L'hebdo des animaux
-bfmplay://NEUF_RMC_LIFE_RIF_1021069931091
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1020954979923" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020954979923_9C860Fb/posters/d3df98dc8d1590bd16dccb58b5c0aafa/d3df98dc8d1590bd16dccb58b5c0aafa.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Castle
-bfmplay://NEUF_RMC_LIFE_RIF_1020954979923
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021019464802" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021019464802_9C860Fb/posters/c9577c5def10ea29213bc1f3cde3fc40/c9577c5def10ea29213bc1f3cde3fc40.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Crimes
-bfmplay://NEUF_RMC_LIFE_RIF_1021019464802
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1020963289023" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020963289023_9C860Fb/posters/f3e5da0cf9d65f0692c120b9bdb92f70/f3e5da0cf9d65f0692c120b9bdb92f70.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Au coeur du zoo le plus beau du monde
-bfmplay://NEUF_RMC_LIFE_RIF_1020963289023
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23_1021033019542" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021033019542_9C860Fb/posters/1d29731fcf4d95e1b639fda7274c5747/1d29731fcf4d95e1b639fda7274c5747.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",La folie du camping-car : des vacances pas comme les autres
-bfmplay://NEUF_NUM23_N23_1021033019542
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1020954979642" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020954979642_9C860Fb/posters/82276f689fbddab18861690f519c4dd4/82276f689fbddab18861690f519c4dd4.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",7 à la maison
-bfmplay://NEUF_RMC_LIFE_RIF_1020954979642
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021081434152" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021081434152_9C860Fb/posters/81e90ae9f28b9ce6ea9457755da69e2d/81e90ae9f28b9ce6ea9457755da69e2d.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Cousu main
-bfmplay://NEUF_RMC_LIFE_RIF_1021081434152
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021035063121" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021035063121_9C860Fb/posters/733c25a54aff30af1240276b66b457d9/733c25a54aff30af1240276b66b457d9.jpg?crop=3:4,offset-y0" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Ça se discute
-bfmplay://NEUF_RMC_LIFE_RIF_1021035063121
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF_1021021155352" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021021155352_9C860Fb/posters/f781fcfcba2fd4f5c0ec6065e27029b3/f781fcfcba2fd4f5c0ec6065e27029b3.jpg" tvg-country="FR" tvg-type="movie" group-title="Catalogue RMC Life",Retour à l'instinct primaire : Adam & Ève
-bfmplay://NEUF_RMC_LIFE_RIF_1021021155352
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-alice-nevers-78424271" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Alice Nevers
 tf1live://L_FAST_v2l-ad-alice-nevers-78424271
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-baby-boom-88288927" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Baby Boom
