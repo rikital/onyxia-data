@@ -369,10 +369,12 @@ arte://RC-027366
 arte://RC-025898
 #EXTINF:-1 tvg-id="arte-RC-022798" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Upauhxn7BU3ZhBjTKf7ZFX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",_Underscore — Immersion dans les tréfonds de l'Internet créatif
 arte://RC-022798
-#EXTINF:-1 tvg-id="arte-131395-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/JGzAbapYcBdUf6QntrNp9W/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Cisjordanie — Une enfance criblée de balles
-arte://131395-000-A
+#EXTINF:-1 tvg-id="arte-120675-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EpehZyaBc5kFrs4VYUwGV5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Tigré — Viols, l’arme silencieuse
+arte://120675-000-A
 #EXTINF:-1 tvg-id="arte-129106-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/CHzieTDwoC8gpRJzTshkbN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Maroc — La révolte de la Gen Z
 arte://129106-000-A
+#EXTINF:-1 tvg-id="arte-131395-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/JGzAbapYcBdUf6QntrNp9W/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Cisjordanie — Une enfance criblée de balles
+arte://131395-000-A
 #EXTINF:-1 tvg-id="arte-117239-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/NKfGmMVjPHJqYbJBTp5NyS/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",White Power — Au cœur de l'extrême droite européenne
 arte://117239-000-A
 #EXTINF:-1 tvg-id="arte-129392-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/LMwRmkGWG8D929qsPkKucb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",États-Unis : la fièvre antivax — ARTE Reportage
@@ -405,8 +407,6 @@ arte://128573-000-A
 arte://131253-000-A
 #EXTINF:-1 tvg-id="arte-121620-130-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/CQjrFT5it7ShGxL7UE7QZg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Pétrole — Se sevrer par la crise ?
 arte://121620-130-A
-#EXTINF:-1 tvg-id="arte-132015-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9p4DNMC2UJ9faA6hiFXSqR/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Ukraine — Des civils aux portes de l’enfer
-arte://132015-000-A
 #EXTINF:-1 tvg-id="arte-130194-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/NYVgf3Sxn9RSLSCgh4HJaX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Viols sur mineurs — La fin de la prescription ?
 arte://130194-008-A
 #EXTINF:-1 tvg-id="arte-129877-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/rxeQMuxLMH8jvLuhYHVfqW/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Ukraine — La vie sous terre
@@ -433,6 +433,8 @@ arte://125926-000-A
 arte://128628-000-A
 #EXTINF:-1 tvg-id="arte-115489-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/rVqsNQnXH7pEkLapwMom9m/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Les orques rebelles de Gibraltar — Pourquoi les orques attaquent-ils ?
 arte://115489-002-A
+#EXTINF:-1 tvg-id="arte-132015-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9p4DNMC2UJ9faA6hiFXSqR/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Ukraine — Des civils aux portes de l’enfer
+arte://132015-000-A
 #EXTINF:-1 tvg-id="arte-115490-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/W5xndSWxJ9ch2MDwPXw34Y/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Minimalisme — Un luxe ?
 arte://115490-012-A
 #EXTINF:-1 tvg-id="arte-118923-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AbwmgZhiZ57iFrUYDGxV9V/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Colombie — L'impossible réconciliation ?
@@ -1551,6 +1553,8 @@ arte://127457-001-A
 arte://127444-000-A
 #EXTINF:-1 tvg-id="arte-119492-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8s7TKeZnB7sJmKmVHruBhc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Un billet de train pour Hokkaido — Une escapade ferroviaire au Japon
 arte://119492-000-A
+#EXTINF:-1 tvg-id="arte-133232-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QiCJg5iXhr6eQsRiK8GoRU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Marguerite — La révélation pop au Cabaret Vert
+arte://133232-004-A
 #EXTINF:-1 tvg-id="arte-121301-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4482Q3GH7dcB8VusKQLqfP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Un billet de train pour l‘Estonie — Un voyage à la découverte du plus septentrional des pays baltes
 arte://121301-000-A
 #EXTINF:-1 tvg-id="arte-130514-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/3XewK3cQRryJcZnAhQXdrg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",La Macarena — Le tube espagnol qui a fait danser le monde entier
@@ -1563,8 +1567,6 @@ arte://RC-028078
 arte://111684-025-F
 #EXTINF:-1 tvg-id="arte-130066-003-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RBbUV9nhEPJdQN6aMNSgCW/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Canada, les hélicoptères du grand froid — 360° Reportage
 arte://130066-003-F
-#EXTINF:-1 tvg-id="arte-133232-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QiCJg5iXhr6eQsRiK8GoRU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Marguerite — La révélation pop au Cabaret Vert
-arte://133232-004-A
 #EXTINF:-1 tvg-id="arte-112493-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/K9gV7QyZbBwvGKTSZigDrU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Kids — L’école et les apprentissages
 arte://112493-004-A
 #EXTINF:-1 tvg-id="arte-106265-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/FcJSpRmsvZAVvde26gJyeH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Albanie, une vie de berger — Quel avenir pour les bergers des Balkans ?
