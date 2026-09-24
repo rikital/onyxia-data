@@ -13111,6 +13111,8 @@ tf1plus://tf1/jt-20h
 tf1plus://tf1/jt-13h
 #EXTINF:-1 tvg-id="tf1plus-tmc-quotidien-avec-yann-barthes-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-d8a4af-2836e3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Quotidien Avec Yann Barthes
 tf1plus://tmc/quotidien-avec-yann-barthes
+#EXTINF:-1 tvg-id="tf1plus-lci-edition-speciale-lci-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-55817b-2e6ee4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Edition Speciale Lci
+tf1plus://lci/edition-speciale-lci
 #EXTINF:-1 tvg-id="tf1plus-lci-grands-reportages-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-99adca-946dd1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Grands Reportages
 tf1plus://lci/grands-reportages
 #EXTINF:-1 tvg-id="tf1plus-tf1-sept-a-huit-top-10" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-ef81e8-2576ce-9e6c85-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Sept A Huit
@@ -13123,10 +13125,6 @@ tf1plus://tf1/bonjour-la-matinale-tf1
 tf1plus://lci/objectif-2027
 #EXTINF:-1 tvg-id="tf1plus-lci-24h-pujadas-l-info-en-questions-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-1abdf1-73e410-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",24h Pujadas L Info En Questions
 tf1plus://lci/24h-pujadas-l-info-en-questions
-#EXTINF:-1 tvg-id="tf1plus-lci-le-grand-dossier-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-43f8c8-fc7e1a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Le Grand Dossier
-tf1plus://lci/le-grand-dossier
-#EXTINF:-1 tvg-id="tf1plus-lci-edition-speciale-lci-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-55817b-2e6ee4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Edition Speciale Lci
-tf1plus://lci/edition-speciale-lci
 #EXTINF:-1 tvg-id="tf1plus-lci-en-immersion-839-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-8b219b-4cb0eb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",En Immersion 839
 tf1plus://lci/en-immersion-839
 #EXTINF:-1 tvg-id="tf1plus-lci-la-grande-confrontation-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-1f8b7b-910d03-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",La Grande Confrontation
@@ -13141,6 +13139,8 @@ tf1plus://tf1/top-info
 tf1plus://lci/podcast-de-gaspard-g-les-dossiers
 #EXTINF:-1 tvg-id="tf1plus-lci-la-matinale-618-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1a9208-52a1a1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",La Matinale 618
 tf1plus://lci/la-matinale-618
+#EXTINF:-1 tvg-id="tf1plus-lci-le-grand-dossier-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-43f8c8-fc7e1a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",Le Grand Dossier
+tf1plus://lci/le-grand-dossier
 #EXTINF:-1 tvg-id="tf1plus-lci-20h-rochebin-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-b7808a-2f8392-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",20h Rochebin
 tf1plus://lci/20h-rochebin
 #EXTINF:-1 tvg-id="tf1plus-lci-20h-haddad-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-06db38-103315-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",20h Haddad
