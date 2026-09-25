@@ -127,6 +127,8 @@ bfmplay://NEUF_BFMTV_BFMES0029
 bfmplay://NEUF_BFMTV_BFMES0028
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0027" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/0/db013161014e07107400ae5d4472f7db_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - 20 ans auprès de vous - soirée événement
 bfmplay://NEUF_BFMTV_BFMES0027
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251208" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/0/2/178c36df4c30c0afb58d718307e38db3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Edition spéciale : le Pape Leon XIV en France
+bfmplay://NEUF_BFMTV_BFM1021151251208
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251172" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/1/c77faaca568fe5db40e8007eb95cae97_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 24 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151251172
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251490" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/9/4/e3131d3f3e6cd728b471e697b3b2357b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 23 septembre 2026
@@ -1113,8 +1115,6 @@ bfmplay://NEUF_BFMRADIO_BRA50000000000940
 bfmplay://NEUF_BFMRADIO_BRA50000000000931
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000930" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/3/9/88a6b4bd335e58a346dd584d1119e32a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Rothen s'enflamme - Les clubs français doivent-ils être ambitieux en Ligue Europa ?
 bfmplay://NEUF_BFMRADIO_BRA50000000000930
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000921" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/1/2/9/60853f6bb06a5e3fb6be0a07237f610f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Rothen s'enflamme - Le RC Lens a raison de ne pas s'entêter avec Toppmöller
-bfmplay://NEUF_BFMRADIO_BRA50000000000921
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000928" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/2/9/b5844283e2f97c1a89471320f1334e1d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",La grande interview d'Hedwige Chevrillon - Émission du 24 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000928
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000871" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/7/8/402e998b0595f2a165e325385ae81d18_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",La grande interview d'Hedwige Chevrillon - Invité : Michel-Edouard Leclerc
@@ -9509,12 +9509,14 @@ bfmplay://NEUF_RMCDEC_RMC988307256527
 bfmplay://NEUF_RMCDEC_RMC1020937232172
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020937233242" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/4/2/fa41b4cbebab0f9186b632360db27525_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Alerte sur la planète ! - S1E6 - Éruption solaire cataclysmique
 bfmplay://NEUF_RMCDEC_RMC1020937233242
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020909391889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/8/8/baa5cd3574b822c818363afa14b098e7_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Empire romain : des origines à la chute
-bfmplay://NEUF_RMCDEC_RMC1020909391889
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Sous-marin nucléaire : déconstruction XXL
+bfmplay://NEUF_RMCDEC_RMC1020917651774
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917851525" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/2/5/24a1a8438c51b929a96cf6ee0e0a5c82_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Sous-marins nucléaires : les armes de l'ombre
 bfmplay://NEUF_RMCDEC_RMC1020917851525
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936093511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/1/5/1a9c8be5beb9c7f128d980d5dc13e91a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Celtes : les mystères d'une civilisation disparue
 bfmplay://NEUF_RMCDEC_RMC1020936093511
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",San Andreas : l'apocalypse bientôt en Californie ?
+bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593664
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593678" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/7/6/497ca129bfa42e12348d2fbc55aa72c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E3 - L'âge d'or de l'empire du soleil
@@ -9523,6 +9525,8 @@ bfmplay://NEUF_RMCDEC_RMC1020915593678
 bfmplay://NEUF_RMCDEC_RMC1020915592850
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593692" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/9/6/ab8d7b57f4a23485af578dd4269e4617_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E4 - La chute de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593692
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020909391889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/8/8/baa5cd3574b822c818363afa14b098e7_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Empire romain : des origines à la chute
+bfmplay://NEUF_RMCDEC_RMC1020909391889
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917326694" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/9/6/22616261c210b5b3881edfcf8c602cd9_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Chicxulub, l'apocalypse des dinosaures
 bfmplay://NEUF_RMCDEC_RMC1020917326694
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC941942786527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6586631a2f4a6ee0ab12552f70e1e105_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Château Gaillard, une forteresse imprenable
@@ -9711,10 +9715,6 @@ bfmplay://NEUF_RMCDEC_RMC971614324527
 bfmplay://NEUF_RMCDEC_RMC1002415335527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1002425005527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/185c762991432e0fa3bf11530d9b0163_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Les soldats de Napoléon : les traces cachées
 bfmplay://NEUF_RMCDEC_RMC1002425005527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Sous-marin nucléaire : déconstruction XXL
-bfmplay://NEUF_RMCDEC_RMC1020917651774
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",San Andreas : l'apocalypse bientôt en Californie ?
-bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC988306518527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/f276fc4de659b9115bcd75ef58682e55_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Implosion du Titan : destination finale vers le Titanic
 bfmplay://NEUF_RMCDEC_RMC988306518527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC963259132527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/2f92ea0d0613595d6dfd981bf0d085bb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Le Pic du Midi : mégastructure de génie
