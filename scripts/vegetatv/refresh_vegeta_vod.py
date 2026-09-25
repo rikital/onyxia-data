@@ -219,32 +219,41 @@ def flux_refuse(srv):
     """Lit les 100 premiers octets d'UN film du panel. Renvoie le code HTTP si le panel
     refuse franchement (deux essais à 20 s d'écart), sinon None. Sans film testable ou
     sur erreur réseau → None (on ne condamne pas sur un doute)."""
+    # 2026-09-25 (user : « il y a beaucoup moins de contenu en film ») : sansat.cc
+    #   (~37 000 films) a été écarté le 21/09 sur un seul 512, alors que ses films se
+    #   lisent (vérifié depuis la France le 25/09). 512 = « trop de connexions » sur ces
+    #   panels : c'est PASSAGER. Un refus franc (401/403/456/458) sur un film suffit
+    #   toujours à écarter le panel ; un 512, lui, ne l'écarte que s'il se répète sur
+    #   TROIS films différents (deux essais chacun, à 20 s d'écart).
     try:
         cat = next(iter(srv["vod_cats"]), None)
         vod = api(srv, "get_vod_streams", category_id=cat) if cat else api(srv, "get_vod_streams")
-        st = next((v for v in vod if v.get("stream_id")), None)
-        if not st:
+        films = [v for v in vod if v.get("stream_id")][:3]
+        if not films:
             return None
-        url = "%s/movie/%s/%s/%s.%s" % (srv["b"], srv["u"], srv["p"], st["stream_id"],
-                                        st.get("container_extension") or "mp4")
     except Exception:
         return None
     hdr = dict(H)
     hdr["Range"] = "bytes=0-100"
     dernier = None
-    for essai in range(2):
-        try:
-            r = requests.get(url, headers=hdr, timeout=(15, 20), stream=True, allow_redirects=True)
-            code = r.status_code
-            r.close()
-        except Exception:
-            return None
-        if code not in REFUS_FLUX:
-            return None
-        dernier = code
-        if essai == 0:
-            time.sleep(20)
-    return dernier
+    for st in films:
+        url = "%s/movie/%s/%s/%s.%s" % (srv["b"], srv["u"], srv["p"], st["stream_id"],
+                                        st.get("container_extension") or "mp4")
+        for essai in range(2):
+            try:
+                r = requests.get(url, headers=hdr, timeout=(15, 20), stream=True, allow_redirects=True)
+                code = r.status_code
+                r.close()
+            except Exception:
+                return None
+            if code not in REFUS_FLUX:
+                return None
+            dernier = code
+            if essai == 0:
+                time.sleep(20)
+        if dernier != 512:
+            return dernier          # refus franc : un film suffit
+    return dernier                  # 512 sur les trois films → panel réellement saturé
 
 def probe_server(srv):
     """Compte les catégories FR ; renvoie None si le panel ne répond pas."""
