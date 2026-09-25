@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-prog-societe_leon-xiv-le-pape-en-france" tvg-logo="https://medias.france.tv/WFfRRgL2Ar7ShvRAQN6bRuzrspc/400x0/filters:quality(85)/e/f/y/phplgdyfe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Léon XIV, le pape en France
+francetv://program/societe_leon-xiv-le-pape-en-france
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sœurs
 francetv://program/france-2_soeurs
 #EXTINF:-1 tvg-id="francetv-9275a91c-2585-4a77-9888-bdfbc556fcc0" tvg-logo="https://medias.france.tv/4t3M0wgCzhi8UlXdZbGPtw55GTY/400x0/filters:quality(85)/b/d/b/php8wlbdb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial — Émission du jeudi 24 septembre 2026
@@ -207,16 +209,18 @@ francetv://program/france-3_outremer-l-info
 francetv://program/france-3_outremer-story
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/-gF1l2y0VmQMY-tYS2KueAQRwqI/400x0/filters:quality(85)/t/4/7/phpfyo74t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
-#EXTINF:-1 tvg-id="francetv-ca33fd55-2cf7-4e6d-a578-cb4a95876f4b" tvg-logo="https://medias.france.tv/x7iXQ-AE-xQsF4oV0LP_DlAtg8s/400x0/filters:quality(85)/q/m/c/phphjtcmq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 21 septembre 2026
-francetv://ca33fd55-2cf7-4e6d-a578-cb4a95876f4b
-#EXTINF:-1 tvg-id="francetv-4e8358d0-af04-4e4a-a62e-0f40485923b2" tvg-logo="https://medias.france.tv/4qvz47W4YcecmGAviLWP651QNss/400x0/filters:quality(85)/g/t/j/phpnehjtg.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 22 septembre 2026
-francetv://4e8358d0-af04-4e4a-a62e-0f40485923b2
-#EXTINF:-1 tvg-id="francetv-fcad5777-ba4c-48ec-a7da-305aef5a44e2" tvg-logo="https://medias.france.tv/8w4tjIygVTxuSNpetARCFQnMcX4/400x0/filters:quality(85)/c/n/h/phprxuhnc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 23 septembre 2026
-francetv://fcad5777-ba4c-48ec-a7da-305aef5a44e2
-#EXTINF:-1 tvg-id="francetv-7e2bf8be-0c06-4648-9fdf-abe89421aaf9" tvg-logo="https://medias.france.tv/TKECFQGMjyoWi8XuFRIBzHYZwXc/400x0/filters:quality(85)/q/v/m/phphbpmvq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 24 septembre 2026
-francetv://7e2bf8be-0c06-4648-9fdf-abe89421aaf9
 #EXTINF:-1 tvg-id="francetv-a7c24c66-422d-4c72-8e3c-fa11477c9daa" tvg-logo="https://medias.france.tv/Pym-1bOnFhvygUq_kehIQ9beuYg/400x0/filters:quality(85)/f/y/v/phpvs5vyf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 25 septembre 2026
 francetv://a7c24c66-422d-4c72-8e3c-fa11477c9daa
+#EXTINF:-1 tvg-id="francetv-4d402bf8-44d2-496b-8a08-f4bf159326cb" tvg-logo="https://medias.france.tv/JEGk9Qk1A1T5Ov7QFxc4uZz7kCo/400x0/filters:quality(85)/r/n/e/phpwftenr.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 28 septembre 2026
+francetv://4d402bf8-44d2-496b-8a08-f4bf159326cb
+#EXTINF:-1 tvg-id="francetv-3674da22-23b1-4bff-8e9d-49cae1730d37" tvg-logo="https://medias.france.tv/cG4UJNsR9woX_xVSj5BXGUPZXqk/400x0/filters:quality(85)/b/c/a/f4e012ee0f6043d89c4d7e76af9cfacb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 29 septembre 2026
+francetv://3674da22-23b1-4bff-8e9d-49cae1730d37
+#EXTINF:-1 tvg-id="francetv-3f482744-31e5-4599-9603-52acb1aa7d2f" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 30 septembre 2026
+francetv://3f482744-31e5-4599-9603-52acb1aa7d2f
+#EXTINF:-1 tvg-id="francetv-7b6233a7-98c1-4212-a491-b823a7bbcab1" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 1 octobre 2026
+francetv://7b6233a7-98c1-4212-a491-b823a7bbcab1
+#EXTINF:-1 tvg-id="francetv-51c4d875-7f94-42db-814c-6aba78c5cd75" tvg-logo="https://medias.france.tv/kcGHedc0Ct9DubJ43Q4UJnngHMc/400x0/filters:quality(85)/p/r/n/phpueunrp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 2 octobre 2026
+francetv://51c4d875-7f94-42db-814c-6aba78c5cd75
 #EXTINF:-1 tvg-id="francetv-a1d6f4a6-ce16-412b-b675-4b98682d7940" tvg-logo="https://medias.france.tv/wgvNwS8kJfuOER_9L5gc-oWDqzc/400x0/filters:quality(85)/b/h/d/phpxasdhb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La France en Vrai - Centre-Val de Loire — La caserne des volontaires
 francetv://a1d6f4a6-ce16-412b-b675-4b98682d7940
 #EXTINF:-1 tvg-id="francetv-bf8e0560-d2e3-45ed-8c7e-a3c460ba4dc9" tvg-logo="https://medias.france.tv/rMyUwNmrlpvqxNDhlTyPUKK8ZYk/400x0/filters:quality(85)/w/d/1/php2rd1dw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La France en Vrai - Bourgogne-Franche-Comté — Nos pompiers
@@ -805,6 +809,12 @@ francetv://07240417-4994-4398-af6b-660126b1fa66
 francetv://cc828f62-21c5-499e-a06c-bac03846690b
 #EXTINF:-1 tvg-id="francetv-c49441fe-f95b-42e0-83a8-7d3d3a21fdb4" tvg-logo="https://medias.france.tv/tatKAUwVmnt2SNfhgjigs_46-v0/400x0/filters:quality(85)/0/0/c/5409c641d8994f26b3fb7093a5c2bc00.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'été qui a tout changé
 francetv://c49441fe-f95b-42e0-83a8-7d3d3a21fdb4
+#EXTINF:-1 tvg-id="francetv-6ac959fc-e040-4df1-a80f-7f6686f1fc33" tvg-logo="https://medias.france.tv/4JyHRgJFfPs8COHW2waLKfTZQ_M/400x0/filters:quality(85)/9/e/6/36c20c0079df443fac05aa902bad06e9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h — 23h info
+francetv://6ac959fc-e040-4df1-a80f-7f6686f1fc33
+#EXTINF:-1 tvg-id="francetv-9f1ad616-b8b2-11f1-aec7-57a09c50f7ce" tvg-logo="https://medias.france.tv/hUIrI9y3atks8RkcLA93vY8Gtrw/400x0/filters:quality(85)/7/9/c/01781d8c2d2548328aac18e41a84bc97.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Emission spéciale entretien E.Macron, 2e partie
+francetv://9f1ad616-b8b2-11f1-aec7-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-30300dc8-b8af-11f1-9599-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/gd5klYBwMk7k1Vmj4uok5HWDYkA/400x0/filters:quality(85)/f/b/d/eb0b67abc5994b67946af7d37870edbf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Emission spéciale entretien E.Macron, 1e partie
+francetv://30300dc8-b8af-11f1-9599-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-8a2febcd-0e83-4777-9103-c5f6e9a7a89c" tvg-logo="https://medias.france.tv/MvsG16OSA4p49XoHzxQ1-htoUh4/400x0/filters:quality(85)/f/f/8/a657fc04fb2f4a73bab060f1dd53f8ff.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du jeudi 24 septembre 2026
 francetv://8a2febcd-0e83-4777-9103-c5f6e9a7a89c
 #EXTINF:-1 tvg-id="francetv-3c1bcfd0-7ea7-4051-8ccc-ef471cbfd2bc" tvg-logo="https://medias.france.tv/NfUkWgatQU3CJLmyWwQPKpIqonA/400x0/filters:quality(85)/7/d/8/df15a85e3006402b9a9e3fa18beda8d7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du jeudi 24 septembre 2026
@@ -839,12 +849,6 @@ francetv://873a453d-db9a-4519-993b-e5e15d95fc51
 francetv://8d56582e-b75e-11f1-8530-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-8efd878e-b749-11f1-87ca-19616fa871f9" tvg-logo="https://medias.france.tv/lxhbVACCOW1WB6FkLPneGKWJQKk/400x0/filters:quality(85)/9/8/6/5a55819af8eb429a89b4dad83945f689.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 23/09/2026 Le fil info 14H
 francetv://8efd878e-b749-11f1-87ca-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-07e51ff6-453f-4ecc-9312-293b15e4598d" tvg-logo="https://medias.france.tv/jr5ltcEU6aoOVqkKFfLu0Vn2uOs/400x0/filters:quality(85)/1/2/5/ffe25772bc194e5ea2ae65e818d87521.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du mercredi 23 septembre 2026
-francetv://07e51ff6-453f-4ecc-9312-293b15e4598d
-#EXTINF:-1 tvg-id="francetv-c942b095-aabc-4df7-a140-7f963bddcb35" tvg-logo="https://medias.france.tv/sFQm-X1TTC18KZ91oyRJTIHe_z0/400x0/filters:quality(85)/e/4/7/0afa15574beb457aa1163d4ac259a74e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",8h30 franceinfo — Émission du mercredi 23 septembre 2026
-francetv://c942b095-aabc-4df7-a140-7f963bddcb35
-#EXTINF:-1 tvg-id="francetv-4bf9c1a0-b749-11f1-8530-957ddefc544d" tvg-logo="https://medias.france.tv/SdE2ihofR3eJqp0I0eSjUZzlG8A/400x0/filters:quality(85)/5/d/2/74928b59ee16486c9cd97fb905f982d5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 23/09/2026 Le fil nfo 11H
-francetv://4bf9c1a0-b749-11f1-8530-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -1371,16 +1375,18 @@ francetv://program/france-3_la-stagiaire
 francetv://program/france-3_brokenwood
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/-gF1l2y0VmQMY-tYS2KueAQRwqI/400x0/filters:quality(85)/t/4/7/phpfyo74t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
-#EXTINF:-1 tvg-id="francetv-ca33fd55-2cf7-4e6d-a578-cb4a95876f4b" tvg-logo="https://medias.france.tv/x7iXQ-AE-xQsF4oV0LP_DlAtg8s/400x0/filters:quality(85)/q/m/c/phphjtcmq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 21 septembre 2026
-francetv://ca33fd55-2cf7-4e6d-a578-cb4a95876f4b
-#EXTINF:-1 tvg-id="francetv-4e8358d0-af04-4e4a-a62e-0f40485923b2" tvg-logo="https://medias.france.tv/4qvz47W4YcecmGAviLWP651QNss/400x0/filters:quality(85)/g/t/j/phpnehjtg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 22 septembre 2026
-francetv://4e8358d0-af04-4e4a-a62e-0f40485923b2
-#EXTINF:-1 tvg-id="francetv-fcad5777-ba4c-48ec-a7da-305aef5a44e2" tvg-logo="https://medias.france.tv/8w4tjIygVTxuSNpetARCFQnMcX4/400x0/filters:quality(85)/c/n/h/phprxuhnc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 23 septembre 2026
-francetv://fcad5777-ba4c-48ec-a7da-305aef5a44e2
-#EXTINF:-1 tvg-id="francetv-7e2bf8be-0c06-4648-9fdf-abe89421aaf9" tvg-logo="https://medias.france.tv/TKECFQGMjyoWi8XuFRIBzHYZwXc/400x0/filters:quality(85)/q/v/m/phphbpmvq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 24 septembre 2026
-francetv://7e2bf8be-0c06-4648-9fdf-abe89421aaf9
 #EXTINF:-1 tvg-id="francetv-a7c24c66-422d-4c72-8e3c-fa11477c9daa" tvg-logo="https://medias.france.tv/Pym-1bOnFhvygUq_kehIQ9beuYg/400x0/filters:quality(85)/f/y/v/phpvs5vyf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 25 septembre 2026
 francetv://a7c24c66-422d-4c72-8e3c-fa11477c9daa
+#EXTINF:-1 tvg-id="francetv-4d402bf8-44d2-496b-8a08-f4bf159326cb" tvg-logo="https://medias.france.tv/JEGk9Qk1A1T5Ov7QFxc4uZz7kCo/400x0/filters:quality(85)/r/n/e/phpwftenr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 28 septembre 2026
+francetv://4d402bf8-44d2-496b-8a08-f4bf159326cb
+#EXTINF:-1 tvg-id="francetv-3674da22-23b1-4bff-8e9d-49cae1730d37" tvg-logo="https://medias.france.tv/cG4UJNsR9woX_xVSj5BXGUPZXqk/400x0/filters:quality(85)/b/c/a/f4e012ee0f6043d89c4d7e76af9cfacb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 29 septembre 2026
+francetv://3674da22-23b1-4bff-8e9d-49cae1730d37
+#EXTINF:-1 tvg-id="francetv-3f482744-31e5-4599-9603-52acb1aa7d2f" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 30 septembre 2026
+francetv://3f482744-31e5-4599-9603-52acb1aa7d2f
+#EXTINF:-1 tvg-id="francetv-7b6233a7-98c1-4212-a491-b823a7bbcab1" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 1 octobre 2026
+francetv://7b6233a7-98c1-4212-a491-b823a7bbcab1
+#EXTINF:-1 tvg-id="francetv-51c4d875-7f94-42db-814c-6aba78c5cd75" tvg-logo="https://medias.france.tv/kcGHedc0Ct9DubJ43Q4UJnngHMc/400x0/filters:quality(85)/p/r/n/phpueunrp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 2 octobre 2026
+francetv://51c4d875-7f94-42db-814c-6aba78c5cd75
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-evapores" tvg-logo="https://medias.france.tv/CPtl-k9gmiloFzdiFr9FkeNc4LQ/400x0/filters:quality(85)/8/m/o/phpcpnom8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Portés disparus",Les évaporés
 francetv://program/france-2_les-evapores
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Portés disparus",La mère et l'assassin
@@ -3463,6 +3469,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/public-senat_droit-de-suite
 #EXTINF:-1 tvg-id="francetv-prog-arte_arte-reportage" tvg-logo="https://medias.france.tv/N-q_aPaC583vWhOrSd4RqwzZsNk/400x0/filters:quality(85)/1/a/i/phplnsia1.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",ARTE Reportage
 francetv://program/arte_arte-reportage
+#EXTINF:-1 tvg-id="francetv-d2846ad5-2ae7-4ac4-95f7-22978f2f557b" tvg-logo="https://medias.france.tv/RjQmr0zLwbOr9e9YIQlqAtlxrs4/400x0/filters:quality(85)/g/q/h/phpbqihqg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Léon XIV, le Pape en France",Léon XIV, le pape en France — L'arrivée du pape en France
+francetv://d2846ad5-2ae7-4ac4-95f7-22978f2f557b
 #EXTINF:-1 tvg-id="francetv-22016dd1-b4d1-4ebb-9bc4-24e2b2009079" tvg-logo="https://medias.france.tv/GHuBFnG5G-mpSyXJInGa99a3wjU/400x0/filters:quality(85)/p/z/h/phpgtvhzp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Une visite historique",Les chemins de la foi — Léon XIV, à l'écoute des mondes
 francetv://22016dd1-b4d1-4ebb-9bc4-24e2b2009079
 #EXTINF:-1 tvg-id="francetv-e12398fc-64f4-11f1-8724-19616fa871f9" tvg-logo="https://medias.france.tv/VLtiiKpYpvZ_F5p2m8gxXpUBUiA/400x0/filters:quality(85)/m/v/p/phpyizpvm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Une visite historique",C à vous — Léon XIV, le pape le plus populaire depuis Jean-Paul II ? - Jean-François Colosimo
@@ -4627,8 +4635,8 @@ francetv://488b8776-3f00-4e8a-98fa-3c3cf74e7634
 francetv://f5c44de8-e2a6-4dbb-b2c5-c6ebb6bdf9ac
 #EXTINF:-1 tvg-id="francetv-prog-slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix" tvg-logo="https://medias.france.tv/w16P546XsOnTtimBaMnFfao-6ks/400x0/filters:quality(85)/j/c/m/php9temcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Nabil Zemmouri – Le Chef des défis à petit prix
 francetv://program/slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix
-#EXTINF:-1 tvg-id="francetv-4bc4244d-ecb7-4c3a-b53e-484de94447c2" tvg-logo="https://medias.france.tv/IsxLmdEwj1jFDeP4MrDZJ3cCOL4/400x0/filters:quality(85)/y/f/7/php4y97fy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Échappées belles — La Thaïlande gourmande
-francetv://4bc4244d-ecb7-4c3a-b53e-484de94447c2
+#EXTINF:-1 tvg-id="francetv-5cf589ea-8e14-5807-9c09-86e9c55ad3fe" tvg-logo="https://medias.france.tv/IsxLmdEwj1jFDeP4MrDZJ3cCOL4/400x0/filters:quality(85)/y/f/7/php4y97fy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Échappées belles — La Thaïlande gourmande
+francetv://5cf589ea-8e14-5807-9c09-86e9c55ad3fe
 #EXTINF:-1 tvg-id="francetv-prog-france-3_cuisine-ouverte" tvg-logo="https://medias.france.tv/wq83V_jwPcX4UOA8Fv6VmD21ulM/400x0/filters:quality(85)/d/l/v/phpet0vld.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Cuisine ouverte
 francetv://program/france-3_cuisine-ouverte
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_ton-plat-mon-plat" tvg-logo="https://medias.france.tv/5gMAhq0Pr2XtfqQ8V5QIthYQpQw/400x0/filters:quality(85)/6/2/3/409514d8b921458b98d81f199ed36326.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Ton plat, mon plat !
