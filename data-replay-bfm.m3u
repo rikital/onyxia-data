@@ -37,6 +37,10 @@ bfmplay://NEUF_BFMTV_BFM1021143163386
 bfmplay://NEUF_BFMTV_BFM1021145198702
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021138930327" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/3/9e01ad90c4db1f3102e2b8d9e3846411_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Jerôme Barella : les secrets d’un prédateur
 bfmplay://NEUF_BFMTV_BFM1021138930327
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0146" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/4/1/dee89140cac2c8d9e630dff7c4f50fcc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Le discours du Pape Léon XIV depuis l'Elysée
+bfmplay://NEUF_BFMTV_BFMES0146
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0145" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/4/1/e512b47e965fc3d9e6f4692d32060984_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Le Pape à l'Elysée, le discours d'Emmanuel Macron
+bfmplay://NEUF_BFMTV_BFMES0145
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMAFFD0043" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/0/efcdfdaf64db1b3be4be6c29587b2c47_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Rémy Daillet: comment ce fils de député centriste s’est retrouvé au centre d’une spirale complotiste hors norme ?
 bfmplay://NEUF_BFMTV_BFMAFFD0043
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246298" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/9/2/1c96602f1e6de370e06adcbdd249e983_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Edition spéciale : le Pape Leon XIV en France
@@ -69,10 +73,6 @@ bfmplay://NEUF_BFMTV_BFM1021151244321
 bfmplay://NEUF_BFMTV_BFMES0143
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246430" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/3/4/960fb2a015ad7b7cd3f4de7172fbd057_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Émission du 21 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246430
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151243985" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/8/9/f4c718a041304b8ac31269d5e1c71891_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Laurent Nuñez face à Marie Chantrait
-bfmplay://NEUF_BFMTV_BFM1021151243985
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151267039" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/3/0/2778cfd74588bcf310f227e42ae0e2db_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Jubillar : les enjeux de la reconstitution
-bfmplay://NEUF_BFMTV_BFM1021151267039
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021158038321" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/2/3/2eb5bfd5e7ecadbbfc8523e4b27931cb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Poutine, plus paranoïaque que jamais ?
 bfmplay://NEUF_BFMTV_BFM1021158038321
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021156035074" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/7/0/74d5937cfc5b8c01ee479b0b81f3073f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion, ses retrouvailles avec la France
@@ -233,6 +233,8 @@ bfmplay://NEUF_BFMTV_BFM1021151246616
 bfmplay://NEUF_BFMTV_BFM1021151246286
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246586" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/8/5/5689807644a1fc7ef4f8bb039076027d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 14 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246586
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151243985" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/8/9/f4c718a041304b8ac31269d5e1c71891_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Laurent Nuñez face à Marie Chantrait
+bfmplay://NEUF_BFMTV_BFM1021151243985
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244477" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/7/4/6b29b59b43c9269c43a3b94fb3a5ff82_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Marine Tondelier face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244477
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244183" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/8/1/80d3adedbcc05f9e6fe09980250d1647_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Face à Face - Alice Rufo face à Apolline de Malherbe
@@ -325,10 +327,6 @@ bfmplay://NEUF_BFMTV_BFM1021152766385
 bfmplay://NEUF_BFMTV_BFM1021152766595
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152766559" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/5/5/839aed389d749a4803f4aea399f4f463_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Grand soir - Émission du 11 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021152766559
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0146" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/4/1/dee89140cac2c8d9e630dff7c4f50fcc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Le discours du Pape Léon XIV depuis l'Elysée
-bfmplay://NEUF_BFMTV_BFMES0146
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0145" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/4/1/e512b47e965fc3d9e6f4692d32060984_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Le Pape à l'Elysée, le discours d'Emmanuel Macron
-bfmplay://NEUF_BFMTV_BFMES0145
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0142" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/4/1/0fa120c0e082156fff0020b56c86d719_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Essence, menaces : la prise de parole d'Emmanuel Macron
 bfmplay://NEUF_BFMTV_BFMES0142
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0141" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/4/1/465c06aba4f0e736e0f3479ba2235b92_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Fabien Roussel estime que "le gouvernement peut agir"
@@ -497,6 +495,8 @@ bfmplay://NEUF_BFMTV_BFM1021150368296
 bfmplay://NEUF_BFMTV_BFM1021150368254
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021150368248" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/4/2/85fcc0394a06a08f2d7a2e641beae536_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Marschall Truchot - Émission du 14 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021150368248
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151267039" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/3/0/2778cfd74588bcf310f227e42ae0e2db_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire Suivante - Jubillar : les enjeux de la reconstitution
+bfmplay://NEUF_BFMTV_BFM1021151267039
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151266985" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/8/9/acb34eaa9d3810798812ee87908f71dd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire Suivante - Le violeur de la Guillotière
 bfmplay://NEUF_BFMTV_BFM1021151266985
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151267033" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/3/0/ca05632717d89f07e1d452c65e6370a9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire Suivante - États-Unis : Affaire Lindsay Clancy
@@ -1117,8 +1117,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000858
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000846
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000835" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/3/8/0dc313457c7e3397a7cb4416628814eb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",USA Today - Émission du 14 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000835
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000819" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/1/8/60c3d71538904174b0784ab68dd22a08_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",USA Today - Émission du 11 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000819
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000924" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/4/2/9/63f90237aa323a0df7a0ae056bd756e9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Tout pour investir - Émission du 24 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000924
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000914" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/4/1/9/89420bdaac5dc4fe5eb4cb57f47e6beb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Tout pour investir - Émission du 23 septembre 2026
@@ -1207,6 +1205,8 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000887
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000826
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000765" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/6/7/b8f9c166aa1256a4dea54dca07bb2a79_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Check Up Santé - Émission du 5 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000765
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773931A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/A/1/3/2edbad7d8cd6e771ed20484fc2785c2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Travailler 30 minutes de plus par jour : d'accord, pas d'accord ?
+bfmplay://NEUF_NUM23_N231021134773931A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773918C" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/C/8/1/b761abaed249b019571e9c9eefac9ed1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Qualité de vie, climat, santé : prêts à partir à l’étranger pour votre retraite ?
 bfmplay://NEUF_NUM23_N231021134773918C
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773918B" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/B/8/1/484f5a06da23239cf7634a619215e401_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - S’habiller en sportswear : cool ou navrant ?
