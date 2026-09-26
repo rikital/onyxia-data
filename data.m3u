@@ -1449,7 +1449,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Musique - Musique",Trace Brasil (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Musique - Musique",TRACE Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr@SD" tvg-logo="https://i.imgur.com/X0UmU3K.png" group-title="Musique - Musique",Trace Gospel (1080p)
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Musique - Musique",Trace Latina (1080p)
@@ -4196,7 +4196,7 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5eea605
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6b9c9fbf-b52f-4a69-8a94-c73329507bcd/TopSciFi_Logo_1500x1000_White.png" group-title="Plex TV - 100% Français",Top Sci-Fi
 https://jmp2.uk/stvp-FR4600001FK
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png" group-title="Plex TV - 100% Français",TRACE Brazuca
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png" group-title="Plex TV - 100% Français",TRACE UK
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-66be8cd4871131188099527e.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d899e517-40dd-40fe-ba6a-3cebb736b821/Logo_Trailers_Germany_1500x1000_DarkBackground_-_Belen_Bruno.png" group-title="Plex TV - 100% Français",TRAILERS
@@ -4586,7 +4586,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsinkig
 #EXTINF:-1 tvg-logo="https://dsa26zl2umi5a.cloudfront.net/qjazz/NewQwestTV_200x200.png" group-title="LG Channels - Autres",Qwest TV
 https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Brazuca/LG_Ch_Logo_505x200.png" group-title="LG Channels - Musique",TRACE BRAZUCA
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/leadstory/BreakingNewsEurope/BreakingNewsLogo400x200.png" group-title="LG Channels - Info",Breaking News
 https://amg02703-amg02703c48-amgplt0030.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02703-amg02703c48-amgplt0030/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/leadstory/BreakingSportsNewsEurope/Breaking Sports News Logo 400x200.png" group-title="LG Channels - Sport",Breaking Sports News
@@ -7245,7 +7245,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance
 #EXTINF:-1 group-title="Lifestyle - Lifestyle",Myzen
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzenfr-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle - Lifestyle",Drive TV
-https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8
+https://jmp2.uk/stvp-FRBD3600001BQ
 #EXTINF:-1 group-title="Sport - Sport",Motorsport 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgfr/playlist.m3u8
 #EXTINF:-1 group-title="Divertissement - Divertissement",Y'a que la vérité
