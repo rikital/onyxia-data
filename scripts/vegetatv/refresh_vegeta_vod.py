@@ -29,7 +29,10 @@ import requests
 SERVERS_URL = "http://vegetatv.duckdns.org/data/server_status.json"
 OUT_INDEX   = os.environ.get("VEGETA_VOD_OUT", "data/vegetatv/vegeta-vod-fr.json")
 OUT_EP_DIR  = os.environ.get("VEGETA_VOD_EP_DIR", "data/vegetatv/vod-ep")
-MAX_SERVERS = int(os.environ.get("VEGETA_VOD_MAX_SERVERS", "6"))
+# 2026-09-26 : 6 → 14, pour laisser de la place aux panels de servers_extra.txt (voir plus bas).
+MAX_SERVERS = int(os.environ.get("VEGETA_VOD_MAX_SERVERS", "14"))
+EXTRA_PATH  = os.path.join(os.path.dirname(os.path.abspath(__file__)), "servers_extra.txt")
+EXTRA_BASE_POS = 100   # positions des panels extra dans l'index (les panels Vegeta restent 1..~60)
 # 2026-09-07 : panels qui refusent les flux DEPUIS LA FRANCE (HTTP 458) alors qu'ils
 #   répondent au runner GitHub (hors France) — le test de flux ci-dessous ne peut pas
 #   les voir. Mesuré sur PC + Oppo (FR) : 000006708.xyz → 458 systématique, matin et soir.
@@ -406,16 +409,55 @@ def shard_of(key):
     return int(hashlib.md5(key.encode("utf-8")).hexdigest()[:2], 16) % NB_SHARDS
 
 # ─────────────────────────────────────────────── main
+def fetch_extra_servers(deja):
+    """2026-09-26 (user : « vois si on peut arranger les choses de Vegeta ») — mesuré sur le run
+    du 26/09 : la liste Vegeta n'a plus que QUATRE panels avec du catalogue FR (1/2 miroirs,
+    4, 25) ; les deux autres riches sont refusés partout (103.176.90.26 → 458 depuis le runner
+    ET depuis la France, vérifié). D'où les ~31 000 films. Or servers_extra.txt — la liste de
+    comptes FR déjà utilisée par le DIRECT Vegeta (refresh_vegetatv.py) — n'était pas lue ici.
+    On l'ajoute : mêmes contrôles que les panels Vegeta (catalogue FR + un vrai flux lisible),
+    rangés APRÈS eux (ils ne passent devant que par la richesse du catalogue une fois admis).
+    Lignes « host user pass » ou URL get.php ; les liens M3U sans identifiants sont ignorés."""
+    out = []
+    if not os.path.exists(EXTRA_PATH):
+        return out
+    with open(EXTRA_PATH, encoding="utf-8") as fh:
+        lignes = [l.strip() for l in fh if l.strip() and not l.strip().startswith("#")]
+    for i, ln in enumerate(lignes):
+        if ln.startswith("http"):
+            m = re.match(r"(https?://[^/]+)/get\.php\?.*?username=([^&\s]+).*?password=([^&\s]+)", ln)
+            if not m:
+                continue
+            base, user, pw = m.group(1), m.group(2), m.group(3)
+        else:
+            parts = [x for x in re.split(r"[\s|]+", ln) if x]
+            if len(parts) < 3:
+                continue
+            base = parts[0] if parts[0].startswith("http") else "http://" + parts[0]
+            user, pw = parts[1], parts[2]
+        base = base.rstrip("/")
+        hote = re.sub(r"^https?://", "", base).split("/")[0].split(":")[0].lower()
+        if hote in deja or hote in PANELS_EXCLUS_FR:
+            continue
+        deja.add(hote)
+        out.append({"pos": EXTRA_BASE_POS + i, "b": base, "u": user, "p": pw,
+                    "fr": True, "extra": True, "ping": 9999})
+    return out
+
 def main():
     t0 = time.time()
     servers = fetch_servers()
     log("%d serveurs up" % len(servers))
+    deja = {re.sub(r"^https?://", "", s["b"]).split("/")[0].split(":")[0].lower() for s in servers}
+    extra = fetch_extra_servers(deja)
+    log("%d panels extra (servers_extra.txt)" % len(extra))
+    servers += extra
     with ThreadPoolExecutor(max_workers=8) as ex:
         probed = [s for s in ex.map(probe_server, servers) if s]
     # ne garder que ceux qui ont un vrai catalogue FR
     probed = [s for s in probed if len(s["vod_cats"]) >= 5 or len(s["ser_cats"]) >= 3]
     # FR d'abord, puis catalogue le plus riche, puis ping
-    probed.sort(key=lambda s: (0 if s["fr"] else 1, -s["score"], s["ping"]))
+    probed.sort(key=lambda s: (1 if s.get("extra") else 0, 0 if s["fr"] else 1, -s["score"], s["ping"]))
     log("candidats : %s" % [(s["pos"], s["score"]) for s in probed])
 
     films, series, lock = OrderedDict(), OrderedDict(), threading.Lock()
