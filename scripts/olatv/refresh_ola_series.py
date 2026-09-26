@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-refresh_ola_vod.py — index VOD (films FR) des portails OLA TV.
+refresh_ola_series.py — index des SÉRIES FR des portails OLA TV.
+
+2026-09-26 (user : « fais un nouveau script, pour ne pas avoir d'échec : il faut que ce soit
+indépendant, le VOD film et le VOD série, pour pas qu'il y ait de casse ») : script, tâche et
+fichier de sortie À PART de refresh_ola_vod.py (films) et de refresh_olatv.py (direct).
 
 2026-09-26 (user : « si tu es sûr qu'on peut choper du VOD avec Ola TV, on crée le même
 script que Vegeta, en décalé, et on s'en sert comme serveur supplémentaire »).
@@ -37,7 +41,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import refresh_olatv as ola   # protocole API OLA (get_mac) — pas de main() à l'import
 
 CIDS_PATH = os.environ.get("OLA_CIDS", "data/olatv/live-cids.json")
-OUT_PATH = os.environ.get("OLA_VOD_OUT", "data/olatv/ola-vod-fr.json")
+OUT_PATH = os.environ.get("OLA_SERIES_OUT", "data/olatv/ola-series-fr.json")
 MAX_CIDS = int(os.environ.get("OLA_VOD_MAX_CIDS", "5000"))
 MACS_PAR_HOTE = 8
 MAX_PAGES = 600
@@ -105,10 +109,13 @@ def sonder(base, mac):
             return None
         sig = "|".join(sorted(fr.values()))
         scats = p.js("type=series&action=get_categories") or []
+        # (signature recalculée plus bas sur les catégories SÉRIES)
         sfr = {str(c["id"]): c.get("title", "") for c in scats if isinstance(c, dict)
                and RE_FR.search(c.get("title", "")) and not RE_EN.search(c.get("title", ""))
                and not RE_ADULTE.search(c.get("title", ""))}
-        return {"b": p.base, "m": mac, "cats": fr, "scats": sfr, "sig": sig, "p": p}
+        if not sfr:
+            return None
+        return {"b": p.base, "m": mac, "cats": fr, "scats": sfr, "sig": "|".join(sorted(sfr.values())), "p": p}
     except Exception as e:
         log("  %s : KO %s" % (base, str(e)[:70]))
         return None
@@ -219,8 +226,8 @@ def main():
     out_g, out_f, out_s = {}, [], []
     for gi, (sig, membres) in enumerate(sorted(groupes.items(), key=lambda kv: -len(kv[1]))):
         log("groupe %d : %d portails, %d catégories FR" % (gi, len(membres), len(membres[0]["cats"])))
-        films = aspirer(membres[0]["p"], membres[0]["cats"])
-        series = []   # séries : script à part, refresh_ola_series.py (user : « indépendant »)
+        films = []
+        series = aspirer_series(membres[0]["p"], membres[0].get("scats") or {})
         if not films and not series:
             continue
         out_g[str(gi)] = [{"b": m["b"], "m": m["m"]} for m in membres]
@@ -233,8 +240,8 @@ def main():
         log("  → %d films, %d séries" % (len(films), len(series)))
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as fh:
-        json.dump({"savedAt": int(time.time() * 1000), "generatedBy": "refresh_ola_vod.py",
-                   "groupes": out_g, "films": out_f}, fh, ensure_ascii=False, separators=(",", ":"))
+        json.dump({"savedAt": int(time.time() * 1000), "generatedBy": "refresh_ola_series.py",
+                   "groupes": out_g, "series": out_s}, fh, ensure_ascii=False, separators=(",", ":"))
     log("écrit %s : %d films, %d séries, %d groupes" % (OUT_PATH, len(out_f), len(out_s), len(out_g)))
 
 if __name__ == "__main__":

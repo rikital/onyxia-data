@@ -1,0 +1,57 @@
+name: refresh-ola-series
+
+# 2026-09-26 : index des SÉRIES FR des portails OLA TV — script, tâche et fichier À PART des films
+#   (user : « indépendant, pour pas qu'il y ait de casse »).
+#   Déclenché par cron-job.org (workflow_dispatch), comme les autres tâches du dépôt.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-ola-series-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests pycryptodome
+
+      - name: Generer l'index des series FR OLA TV
+        env:
+          OLA_SERIES_OUT: data/olatv/ola-series-fr.json
+        run: python scripts/olatv/refresh_ola_series.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          python - <<'EOF'
+          import json, sys
+          d = json.load(open("data/olatv/ola-series-fr.json", encoding="utf-8"))
+          n = len(d.get("series", []))
+          print("series:", n, "groupes:", len(d.get("groupes", {})))
+          if n < 100:
+              print("index trop petit -> on ne pousse pas"); sys.exit(1)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/olatv/ola-series-fr.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement OLA series"
+          else
+            git commit -m "chore(olatv): rafraichir ola-series-fr.json"
+            for i in 1 2 3 4 5; do
+              git fetch origin main && git reset --hard origin/main && git checkout ORIG_HEAD -- data/olatv/ola-series-fr.json && { git diff --cached --quiet && echo "deja identique a origin" && exit 0 || git commit -m "chore(olatv): rafraichir ola-series-fr.json"; } && git push && exit 0
+              echo "push rejete, retry $i..."; sleep 6
+            done
+            echo "push echoue"; exit 1
+          fi
