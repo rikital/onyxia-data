@@ -1,0 +1,56 @@
+name: refresh-ola-vod
+
+# 2026-09-26 : index VOD (films FR) des portails OLA TV, en décalé de celui de Vegeta.
+#   Déclenché par cron-job.org (workflow_dispatch), comme les autres tâches du dépôt.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-ola-vod-only
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests pycryptodome
+
+      - name: Generer l'index VOD FR OLA TV (films)
+        env:
+          OLA_VOD_OUT: data/olatv/ola-vod-fr.json
+        run: python scripts/olatv/refresh_ola_vod.py
+
+      - name: Valider et pousser si modifie
+        run: |
+          python - <<'EOF'
+          import json, sys
+          d = json.load(open("data/olatv/ola-vod-fr.json", encoding="utf-8"))
+          n = len(d.get("films", []))
+          print("films:", n, "groupes:", len(d.get("groupes", {})))
+          if n < 1000:
+              print("index trop petit -> on ne pousse pas"); sys.exit(1)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/olatv/ola-vod-fr.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement OLA VOD"
+          else
+            git commit -m "chore(olatv): rafraichir ola-vod-fr.json"
+            for i in 1 2 3 4 5; do
+              git fetch origin main && git reset --hard origin/main && git checkout ORIG_HEAD -- data/olatv/ola-vod-fr.json && { git diff --cached --quiet && echo "deja identique a origin" && exit 0 || git commit -m "chore(olatv): rafraichir ola-vod-fr.json"; } && git push && exit 0
+              echo "push rejete, retry $i..."; sleep 6
+            done
+            echo "push echoue"; exit 1
+          fi
