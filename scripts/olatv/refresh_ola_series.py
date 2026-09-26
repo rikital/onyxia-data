@@ -37,13 +37,36 @@ import base64, json, os, re, sys, time, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 import requests
 
+# 2026-09-26 : résolution DNS de secours (DoH Google) quand le DNS système ne connaît pas
+#   un portail (blocage FAI en test local ; sans effet sur GitHub). L'app fait déjà du DoH.
+import socket
+_gai_systeme = socket.getaddrinfo
+_doh_cache = {}
+def _gai_doh(host, *a, **k):
+    try:
+        return _gai_systeme(host, *a, **k)
+    except socket.gaierror:
+        ip = _doh_cache.get(host)
+        if ip is None:
+            try:
+                j = requests.get("https://dns.google/resolve", params={"name": host, "type": "A"}, timeout=6).json()
+                ip = next((x["data"] for x in j.get("Answer", []) if x.get("type") == 1), "")
+            except Exception:
+                ip = ""
+            _doh_cache[host] = ip
+        if not ip:
+            raise
+        return _gai_systeme(ip, *a, **k)
+socket.getaddrinfo = _gai_doh
+
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import refresh_olatv as ola   # protocole API OLA (get_mac) — pas de main() à l'import
 
 CIDS_PATH = os.environ.get("OLA_CIDS", "data/olatv/live-cids.json")
 OUT_PATH = os.environ.get("OLA_SERIES_OUT", "data/olatv/ola-series-fr.json")
 MAX_CIDS = int(os.environ.get("OLA_VOD_MAX_CIDS", "5000"))
-MACS_PAR_HOTE = 8
+MACS_PAR_HOTE = 8          # MAC valides gardées par portail (secours à la lecture)
+MACS_ESSAIS = 60           # MAC essayées au plus par portail
 MAX_PAGES = 600
 UA = ola.MAG_UA
 RE_FR = re.compile(r"(?i)(^|[^A-Z])(FR|FRANCE|FRENCH|VF|VOSTFR|FRAN[CÇ]AIS)([^A-Z]|$)")
@@ -116,6 +139,9 @@ def sonder(base, mac):
         if not sfr:
             return None
         return {"b": p.base, "m": mac, "cats": fr, "scats": sfr, "sig": "|".join(sorted(sfr.values())), "p": p}
+    except (requests.ConnectionError, requests.Timeout) as e:
+        log("  %s : injoignable %s" % (base, str(e)[:60]))
+        return "RESEAU"
     except Exception as e:
         log("  %s : KO %s" % (base, str(e)[:70]))
         return None
@@ -209,16 +235,34 @@ def main():
     log("%d cids" % len(cids))
     with ThreadPoolExecutor(16) as ex:
         paires = [x for x in ex.map(lambda c: (lambda r: r)(ola.get_mac(c)), cids) if x]
+    # 2026-09-26 (user : « changer d'adresse MAC, si tu peux en avoir plusieurs différentes, ça
+    #   peut débloquer ») : on garde TOUTES les MAC connues de chaque portail (jusqu'à 106 pour
+    #   certains) et on les essaie une par une jusqu'à en avoir MACS_PAR_HOTE qui marchent,
+    #   au lieu des 8 premières seulement. Chemin /c/portal.php essayé si /portal.php échoue.
     par_hote = {}
     for base, mac in paires:
         hote = re.sub(r"^https?://", "", base).split("/")[0].lower()
-        lst = par_hote.setdefault(hote, [])
-        if (base, mac) not in lst and len(lst) < MACS_PAR_HOTE:
-            lst.append((base, mac))
-    log("%d portails distincts" % len(par_hote))
-    candidats = [bm for lst in par_hote.values() for bm in lst]
-    with ThreadPoolExecutor(12) as ex:
-        sondes = [s for s in ex.map(lambda bm: sonder(*bm), candidats) if s]
+        ent = par_hote.setdefault(hote, [base.rstrip("/"), []])
+        if mac not in ent[1]:
+            ent[1].append(mac)
+    log("%d portails distincts, %d MAC" % (len(par_hote), sum(len(v[1]) for v in par_hote.values())))
+    def sonder_hote(ent):
+        base, macs = ent
+        ok = []
+        for chemin in ("", "/c"):
+            for mac in macs[:MACS_ESSAIS]:
+                s = sonder(base + chemin, mac)
+                if s == "RESEAU":
+                    break
+                if s:
+                    ok.append(s)
+                    if len(ok) >= MACS_PAR_HOTE:
+                        return ok
+            if ok:
+                return ok
+        return ok
+    with ThreadPoolExecutor(24) as ex:
+        sondes = [s for lst in ex.map(sonder_hote, par_hote.values()) for s in lst]
     log("%d couples portail/MAC lisibles" % len(sondes))
     groupes = {}
     for s in sondes:
