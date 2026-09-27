@@ -2,6 +2,10 @@ name: refresh-vegetatv
 
 on:
   workflow_dispatch:
+  # 2026-09-27 : relance aussi quand CE fichier change (sinon lancement manuel uniquement).
+  push:
+    paths:
+      - '.github/workflows/refresh_vegetatv.yml'
 
 concurrency:
   group: refresh-vegetatv-only
