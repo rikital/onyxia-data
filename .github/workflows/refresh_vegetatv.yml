@@ -63,4 +63,8 @@ jobs:
           gh release view vegeta-full >/dev/null 2>&1 || gh release create vegeta-full \
             --title "Registre Vegeta complet" \
             --notes "Registre complet sans plafond, remplace a chaque rafraichissement. Genere automatiquement, ne pas supprimer : l'application telecharge ce fichier."
-          gh release upload vegeta-full "$f" --clobber
+          # 2026-09-27 : version compressee a cote (~0,55 Mo au lieu de ~10 Mo). Les applis
+          #   recentes prennent le .gz ; le .json reste pour les versions deja installees.
+          gzip -9 -k -f "$f"
+          ls -lh "$f.gz"
+          gh release upload vegeta-full "$f" "$f.gz" --clobber
