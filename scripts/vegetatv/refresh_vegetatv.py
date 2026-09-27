@@ -268,7 +268,10 @@ def m3u_from_player_api(xt):
     fr_cats = set()
     try:
         r = requests.get(api + "get_live_categories", headers={"User-Agent": UA}, timeout=API_TIMEOUT)
-        for c in r.json() or []:
+        cats = r.json()
+        for c in (cats if isinstance(cats, list) else []):
+            if not isinstance(c, dict):
+                continue
             cname = (c.get("category_name") or "")
             if re.search(r"(?i)(^|[|\s\[(])(FR|FRA|FRANCE|FRENCH|FRANCAIS|FRAN\u00c7AIS)($|[|:\s\])])", cname):
                 fr_cats.add(str(c.get("category_id")))
@@ -277,7 +280,15 @@ def m3u_from_player_api(xt):
     r = requests.get(api + "get_live_streams", headers={"User-Agent": UA}, timeout=M3U_TIMEOUT)
     r.raise_for_status()
     lines = ["#EXTM3U"]
-    for o in r.json() or []:
+    # 2026-09-27 : certains panels renvoient un dict ({"user_info":..., "error":...}) ou une
+    #   chaine au lieu de la liste -> "'str' object has no attribute 'get'". On ne garde que
+    #   les entrees qui sont bien des objets.
+    donnees = r.json()
+    if not isinstance(donnees, list):
+        raise ValueError("get_live_streams: reponse inattendue (%s)" % type(donnees).__name__)
+    for o in donnees:
+        if not isinstance(o, dict):
+            continue
         name = (o.get("name") or "").strip()
         sid = o.get("stream_id")
         if not name or sid is None or name.startswith("#"):   # "##### FRANCE CINEMA #####" = separateur
