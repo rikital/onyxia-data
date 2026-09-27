@@ -18,7 +18,8 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    # 2026-09-27 : ~400 serveurs extra (comptes scanner Telegram) -> plus de temps, plus de workers.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -33,6 +34,7 @@ jobs:
         env:
           VEGETA_OUT: data/vegetatv/vegeta-fr.json
           VEGETA_OUT_FULL: ${{ runner.temp }}/vegeta-fr-full.json
+          VEGETA_WORKERS: '16'
         run: python scripts/vegetatv/refresh_vegetatv.py
 
       - name: Valider et pousser si modifie
