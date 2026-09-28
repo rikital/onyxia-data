@@ -1183,12 +1183,12 @@ https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sport - Sport",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y" group-title="Sport - Sport",la chaine L'Équipe en direct
-https://cdndirector.dailymotion.com/cdn/live/video/x2lefik.m3u8?sec=3NKB0BxB8WD42tnKq4VANb1aVVu6Qco_gojryKQGlJ3WYY-3adtmAHRGX9CaHQ9QkUm0DGDNQonemEWpVd_0C4Jq353MdNnMjlpy3i0L6iU
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(u3GeY-4LdhXvYLU__X-tsLnDdeBrIhOoiQQkCjbTtsoH8v6eAQsbtyym15imYbDI1PBxQIfvfbldbJ7R7o6PCGDsiET_BEoFYpiCmzmIlD4Tp9l4Q7CCp13Pj4rzMkW_)/cloud/3/x2lefik/d/live-1080.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927" group-title="Sport - Sport",My new video title
-https://cdndirector.dailymotion.com/cdn/live/video/x6qdjk7.m3u8?sec=2d26YM_zOBVSIfyfOBus1MongtpQ-oWBzv0x3NS5srsvp9d1t6ttqhRcHpMzOP08PtPvaV8KY810zFgoazZ0wILE_56H19q5ADcJXGUQ60U
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(JI5ukS_nZ8neJYdv-67dpgJzkg2WTDIc80YPNpz6REJjYdhsWlE4awrnA1rAMTV3LFPx-FkUEseX_zo8rAx-c2ILkNkipaG4_aRgOZTTYswI7y06KWU5ASaY2GfpP1Vx)/cloud/3/x6qdjk7/d/live-1080@60.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-chno="81" tvg-id="k6c3A07yUljlAzwkvtL" group-title="Sport - Sport",Tennis Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdndirector.dailymotion.com/cdn/live/video/x7wff2p.m3u8?sec=gGmLQikrKQQfxRfwtftVjMRlq4pi70myAff0tHNtmcjnxQLoSAhBY4qMPx1sUN13oyfI-QzYVBs8UBjINRMhyO31XpUYapznBazXVZWZslE
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ynIGdfN2fqGlgnrVoJocfq6Qs5FaBVxVKl0d1G8wukshGMf8AwC1PJnxoZGG8-JGhkEMJ53urS2MUFlCMDiEXOyoohwuKrSrufVrKj9cc2XibZX3JgNuJp6nTXIDRHEP)/cloud/3/x7wff2p/d/live-1080@60.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-chno="300" tvg-logo="https://i.imgur.com/tM9y14c.png" tvg-country="FR" group-title="Sport - Sport",LE GRAND DIRECT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
@@ -7279,6 +7279,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/festi
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+
+# === Nouveautes ParaTV (auto-ajoute) ===
+#EXTINF:-1 tvg-chno="85" tvg-id="k6P3xLH5tTtGSgqwC4P" group-title="Nouveautes ParaTV - Nouveautés",85. L'Équipe Live 6
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(vkiud_5a45X9JsDJPDLbwPb8yYRm4goCg5JrRKE1ZLBpBTA4dNjJGe4Bs_kz2KOvIYzD2aVIWGda5tLK_Y4DBq8ei7V4DGocXcP4KRgNCJ8_Q7sd9qaCI3Gi3e9MgUvl)/cloud/3/x6hd0f7/d/live-1080@60.m3u8#cell=lcf2-eu-north-1a
+
+#FRANCE.TV (39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
