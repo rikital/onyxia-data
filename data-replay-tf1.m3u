@@ -241,6 +241,8 @@ tf1plus://tf1/degrassi-la-nouvelle-generation
 tf1plus://tf1/le-ministere-du-temps
 #EXTINF:-1 tvg-id="tf1plus-tf1-norskov-dans-le-secret-des-glaces-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-57b257-36eba8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Norskov Dans le Secret des Glaces
 tf1plus://tf1/norskov-dans-le-secret-des-glaces
+#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
+tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-feux-de-l-amour-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d0af9e-eeb3a3-eb3bc6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Les Feux de L Amour
 tf1plus://tf1/les-feux-de-l-amour
 #EXTINF:-1 tvg-id="tf1plus-tf1-demain-nous-appartient-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-383bbe-2d5eb0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Demain Nous Appartient
@@ -249,8 +251,6 @@ tf1plus://tf1/demain-nous-appartient
 tf1plus://tf1/ici-tout-commence
 #EXTINF:-1 tvg-id="tf1plus-tf1-plus-belle-la-vie-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-png-1a22bd-07a926-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Plus Belle la Vie
 tf1plus://tf1/plus-belle-la-vie
-#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
-tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-a-tue-le-petit-emile-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-89fb0d-f110de-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Qui A Tue le Petit Emile
 tf1plus://tf1/qui-a-tue-le-petit-emile
 #EXTINF:-1 tvg-id="tf1plus-tf1-zodiaque-176-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-92d32f-6895ec-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Zodiaque 176
@@ -2049,6 +2049,8 @@ tf1plus://tf1/winx-club
 tf1plus://tf1/les-schtroumpfs
 #EXTINF:-1 tvg-id="tf1plus-tf1-kallys-mashup-la-voix-de-la-pop-835-top-10" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-f2b5e1-eb6da3-2dc115-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Kallys Mashup la Voix de la Pop 835
 tf1plus://tf1/kallys-mashup-la-voix-de-la-pop-835
+#EXTINF:-1 tvg-id="tf1plus-tf1-dora-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dora-f2abdd-e860a2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Dora
+tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
 tf1plus://tf1/les-chapardeurs
 #EXTINF:-1 tvg-id="tf1plus-tf1-gus-le-chevalier-minus-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bb9f6a-4b2463-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Gus le Chevalier Minus
@@ -2063,8 +2065,6 @@ tf1plus://tf1/miraculous-chibi
 tf1plus://tf1/molang
 #EXTINF:-1 tvg-id="tf1plus-tf1-santiago-des-mers-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-810e3e-a2355d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Santiago des Mers
 tf1plus://tf1/santiago-des-mers
-#EXTINF:-1 tvg-id="tf1plus-tf1-dora-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dora-f2abdd-e860a2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Dora
-tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-hello-kitty-super-style-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-e12d33-5f8e32-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Hello Kitty Super Style
 tf1plus://tf1/hello-kitty-super-style
 #EXTINF:-1 tvg-id="tf1plus-tf1-mille-bornes-challenge-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-3a2e30-02b21f-d73c97-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Mille Bornes Challenge
