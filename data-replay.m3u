@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244189" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/8/1/e70184a14b8f0b90181efdf9c8268480_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Jean-François Colosimo face à Apolline de Malherbe
+bfmplay://NEUF_BFMTV_BFM1021151244189
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244153" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/5/1/c31f61de748cbf5691dad3e5b2c1f7b7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Sébastien Chenu face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244153
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244327" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/3/edaba0763d28b393ab15ca27f1aab039_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Ségolène Royal face à Apolline de Malherbe
@@ -1605,8 +1607,8 @@ bfmplay://NEUF_RMC_LIFE_RIF936908003527
 bfmplay://NEUF_RMC_LIFE_RIF693978063527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF92184" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/4/8/1/f30c4da2ac054f3f915e750ec4c58d4e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S1E17 - Les amants du Cap Canaille
 bfmplay://NEUF_RMC_LIFE_RIF92184
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF416008010527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/f925eb1e43a7d0b3cfcf3d6ace2590a1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S2E24 - Rodica Negroiu, l'empoisonneuse de Maxeville
-bfmplay://NEUF_RMC_LIFE_RIF416008010527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300431" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/3/4/54d4f3c57806b826ac2e15d254d2cdf9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 28 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300431
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/5817912fded5e2a9a1ca3c8506124eab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 25 septembre 2026
 bfmplay://NEUF_NUM23_N231021147322446
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300416" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/1/4/992c236ca0db52467d9745f4c515ecf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 25 septembre 2026
@@ -6663,8 +6665,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000864
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000853
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000841" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/4/8/3168a54e48528c2e518b6be372e9213d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Les Experts - Le taux français à 10 ans au plus haut depuis 18 ans
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000841
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000830" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/3/8/7129bc1902f2b903e7ac75d31ecd73b7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Les Experts - Carburants, faut-il bloquer les prix ?
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000830
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000931" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/3/9/39cb967fc443613597481454cca7627d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Good Morning Market - Émission du 25 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000931
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000921" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/2/9/50172ed58d73c2d71dbb36d00c97a74e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Good Morning Market - Émission du 24 septembre 2026
@@ -7817,8 +7817,6 @@ bfmplay://NEUF_RMC_LIFE_RIF1020974781142
 bfmplay://NEUF_RMC_LIFE_RIF853900257527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021020689708" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/0/7/c6fce8cfcd8d61c1cdac248d072ae049_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Life - Les docs du moment",Lena Situations : la femme la plus influente de France
 bfmplay://NEUF_RMC_LIFE_RIF1021020689708
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300431" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/3/4/54d4f3c57806b826ac2e15d254d2cdf9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Carrousel",Émission du 28 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300431
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001005" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/0/0/d9f8d4e937cd20886921cac6e3fe1a8b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Les nuits du Cazarre enchaîné - Émission du 24 septembre 2026
 bfmplay://NEUF_BFMRADIO_BRA50000000001005
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000995" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/9/9/2942f435cbaeed346b20de8d80ea7908_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",Les nuits du Cazarre enchaîné - Émission du 23 septembre 2026
