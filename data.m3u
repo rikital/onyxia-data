@@ -7287,6 +7287,13 @@ https://live2.eu-north-1a.cf.dmcdn.net/sec2(vkiud_5a45X9JsDJPDLbwPb8yYRm4goCg5Jr
 #FRANCE.TV (39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 
+# === Nouveautes ParaTV (auto-ajoute) ===
+#EXTINF:-1 tvg-chno="80" tvg-id="k5VKYQn5hAE4vfry927" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gke6_PyauFK/60x60" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",80. Journal du Golf [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/journal-du-golf-dm.m3u8
+
+#FRANCE.TV (39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
