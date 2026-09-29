@@ -291,8 +291,6 @@ bfmplay://NEUF_BFMTV_BFM1021151251370
 bfmplay://NEUF_BFMTV_BFM1021151251364
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251202" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/0/2/498d6aad16804442bae6bcfa2ca7bf23_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 16 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151251202
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251166" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/6/1/c6a9f79578025e22c6e9f698b90f394a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 15 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251166
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0143" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/1/00cd5ce1ebeade1de2f49c8f2143312b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Menace Russe : la France se prépare
 bfmplay://NEUF_BFMTV_BFMES0143
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0142" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/4/1/0fa120c0e082156fff0020b56c86d719_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Les émissions spéciales - Essence, menaces : la prise de parole d'Emmanuel Macron
@@ -345,6 +343,8 @@ bfmplay://NEUF_BFMTV_BFM1021151246424
 bfmplay://NEUF_BFMTV_BFM1021151246622
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246616" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/1/6/75faf9218392f2e28a4bc56d57019e37_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 16 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246616
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764250" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/5/2/bc61f9eed095773e918c3bcbb68f7f42_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 29 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021152764250
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764244" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/4/2/7eb140e33f4f3abceff54d0c9cc88496_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - Edition spéciale : le Pape Leon XIV en France
 bfmplay://NEUF_BFMTV_BFM1021152764244
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021152764238" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/3/2/3c306f54fa3b1df7f3195f14cc056274_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",BFM Première - La matinale info du 25 septembre 2026
@@ -841,6 +841,24 @@ bfmplay://NEUF_BFMTV_BFM1021152766601A
 bfmplay://NEUF_BFMTV_BFM1021080916544
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021080916531" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/3/5/5e28e71b80418bfff6a60ca9c115a68a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Affaire suivante",Les disparues de Saône-et-Loire : un cold case toujours non élucidé
 bfmplay://NEUF_BFMTV_BFM1021080916531
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000949" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/4/9/e101a74b9f5f4145cb9e81a2b7f73950_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 28 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000949
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000933" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/3/9/fced9d2bc3cebc846ffc47a985e0bf4b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 25 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000933
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000923" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/2/9/8cce17f3c52df32255f1c0f44426977e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 24 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000923
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000913" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/1/9/12e8729f1a6ba5d2f40b4cdc54dc4edc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 23 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000913
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000902" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/0/9/9a0d278735c99ddc4aa305e877f750b0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 22 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000902
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000892" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/9/8/dfcfa12140d16eb773ef8d45f57ff73b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 21 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000892
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000876" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/6/7/8/a59b29cb3a3a2d7dfb30cefec9326c7b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 18 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000876
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000865" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/6/8/914c6e54af275719771d0c13733cab96_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 17 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000865
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000854" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/4/5/8/8a33b8aaa583c0a8d68ff2612de26ed0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 16 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000854
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000957" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/7/5/9/25390bb8493595acd25a37aa533ff88c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Market - Émission du 29 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000957
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000947" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/7/4/9/c0f139e770bdcde8f099242679159d31_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Market - Émission du 28 septembre 2026
@@ -861,6 +879,24 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000874
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000863
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000852" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/5/8/d036cf4b7b259f91e512b550e6596c85_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Market - Émission du 16 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000852
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000946" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/6/4/9/9d525d29a945343304e6700e6e0c8a08_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 28 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000946
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000930" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/3/9/d4f9a8903eb9602b3b858e24c3a3fc48_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 25 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000930
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000920" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/2/9/30bfb346d55eb654e5e242014a952398_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 24 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000920
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000910" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/1/9/39849196568b90305b5bdb0c4df5b539_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 23 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000910
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000899" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/9/8/9d40e3c243878578bf4c2b5b48fd8810_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 22 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000899
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/8/8/6283ffc6bbfbba17494fbb68585cd582_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 21 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000889
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000873" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/7/8/6ebd51be00d7dcf25b62b362044c3fc2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 18 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000873
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000862" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/6/8/1cffc80a5735bb7be480181d3011b894_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 17 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000862
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000851" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/5/8/90e5da29a3441831e7e23cac438dbf2c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 16 septembre 2026
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000851
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001029" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/2/0/464bd5d5af76347dca9b3d2f22f84cad_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les nuits du Cazarre enchaîné - Émission du 28 septembre 2026
 bfmplay://NEUF_BFMRADIO_BRA50000000001029
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001005" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/0/0/d9f8d4e937cd20886921cac6e3fe1a8b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les nuits du Cazarre enchaîné - Émission du 24 septembre 2026
@@ -1029,24 +1065,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000893
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000866
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000855" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/5/8/c51430edfc980bebe62e7e2a3c179aeb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Tout pour investir - Émission du 16 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000855
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000949" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/4/9/e101a74b9f5f4145cb9e81a2b7f73950_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 28 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000949
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000933" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/3/9/fced9d2bc3cebc846ffc47a985e0bf4b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 25 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000933
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000923" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/2/9/8cce17f3c52df32255f1c0f44426977e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 24 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000923
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000913" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/1/9/12e8729f1a6ba5d2f40b4cdc54dc4edc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 23 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000913
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000902" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/0/9/9a0d278735c99ddc4aa305e877f750b0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 22 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000902
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000892" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/9/8/dfcfa12140d16eb773ef8d45f57ff73b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 21 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000892
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000876" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/6/7/8/a59b29cb3a3a2d7dfb30cefec9326c7b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 18 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000876
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000865" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/6/8/914c6e54af275719771d0c13733cab96_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 17 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000865
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000854" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/4/5/8/8a33b8aaa583c0a8d68ff2612de26ed0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les experts de l'immo - Émission du 16 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000854
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000948" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/4/9/e24b16cf4491bd5e9cf3d02560271b3c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les Experts - TotalEnergies confirme ses objectifs
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000948
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000932" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/3/9/2943e138bb4d16f297f4714b04005cd9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les Experts - Budget, faut-il une année blanche ?
@@ -1065,24 +1083,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000875
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000864
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000853" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/5/8/a3d983a7c568e267807d3f9627919a92_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les Experts - France-Allemagne, écart de taux à un plus haut de 2012
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000853
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000946" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/6/4/9/9d525d29a945343304e6700e6e0c8a08_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 28 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000946
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000930" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/3/9/d4f9a8903eb9602b3b858e24c3a3fc48_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 25 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000930
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000920" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/2/9/30bfb346d55eb654e5e242014a952398_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 24 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000920
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000910" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/0/1/9/39849196568b90305b5bdb0c4df5b539_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 23 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000910
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000899" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/9/8/9d40e3c243878578bf4c2b5b48fd8810_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 22 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000899
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/8/8/6283ffc6bbfbba17494fbb68585cd582_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 21 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000889
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000873" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/7/8/6ebd51be00d7dcf25b62b362044c3fc2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 18 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000873
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000862" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/2/6/8/1cffc80a5735bb7be480181d3011b894_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 17 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000862
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000851" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/5/8/90e5da29a3441831e7e23cac438dbf2c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Good Morning Business - Émission du 16 septembre 2026
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000851
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001021" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/1/2/0/b1be281f77070d2f337cea778dd2516d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Stephen Brunch - invité : Benjamin Diez, libéro de l’équipe de France vice-championne d’Europe
 bfmplay://NEUF_BFMRADIO_BRA50000000001021
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000878" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/7/8/c411ccf0166ca53ff507fc81b50cfd87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Stephen Brunch - Pour continuer à gagner, Luis Enrique doit-il ajuster son management ?
@@ -1167,6 +1167,8 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000884
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000823
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000763" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/6/7/95c58cb7814edb7ab95d96ca07e776a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Iconic Business - Émission du 4 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000763
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022514" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/1/5/f6cf6af8e7680570d1638f11824a516f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - « Les banques sont toutes détenues par des juifs » : Médiapart accuse Jordan Bardella d’écrits antisémites… Vous y croyez ?
+bfmplay://NEUF_NUM23_N231021132022514
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022500" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/0/5/16ca08903fe83beb5300a6a0b9914303_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Carburants hors de prix : obligé de vous auto-confiner ?
 bfmplay://NEUF_NUM23_N231021132022500
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022486" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/8/4/97dd8b9b0b4bebb488b40390f48386dd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Invité : Olivier Faure
@@ -1301,6 +1303,8 @@ bfmplay://NEUF_NUM23_N231021147313212
 bfmplay://NEUF_NUM23_N231021147313199
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055831869" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/8/967c801b8c2e373d2713e6f4bb1546be_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Vous aimerez aussi",Dans les secrets des Illuminati
 bfmplay://NEUF_NUM23_N231021055831869
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020981372380" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/8/3/41ef0d0e4153e17801116090865d7417_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",C'est ça la France ! - S1E49 - Emission 49 avec Estelle Denis
+bfmplay://NEUF_NUM23_N231020981372380
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020981372419" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/1/4/c7b46f50f7bcb9716c5acf51343c457d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",C'est ça la France ! - S1E52 - Emission 52 avec Alex Vizorek
 bfmplay://NEUF_NUM23_N231020981372419
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020913535941" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/4/9/6fdde4d59ddc1b86304fd74ea4f9c372_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",C'est ça la France ! - S1E18 - Emission 18
@@ -1455,8 +1459,6 @@ bfmplay://NEUF_NUM23_N231021134773840A
 bfmplay://NEUF_NUM23_N231021134773827C
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773827B" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/B/7/2/d25a96b54db3c208648ba8ff86e8de99_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Pénuries : faut-il rationner le carburant dans les stations Total ?
 bfmplay://NEUF_NUM23_N231021134773827B
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773827A" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/A/7/2/1be5d7bf838192eafb3d096b94758b34_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Inflation, flambée des prix des carburants : vous sentez-vous désormais précaires ?
-bfmplay://NEUF_NUM23_N231021134773827A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC416007856527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/52e00b9845c6254ab6be23bcc70c354f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S2E19 - Peter Uwe Schmitt et Aurore Martin, les amants diaboliques
 bfmplay://NEUF_RMCDEC_RMC416007856527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020912279167" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/6/1/2e7c71a6660b6e3a5dddd875bcab485b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S6E20 - André Kass, la mauvaise réputation
@@ -4497,6 +4499,8 @@ bfmplay://NEUF_RMCDEC_RMC1020924749113
 bfmplay://NEUF_RMCDEC_RMC1020924749120
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020924749127" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/1/d4e221ea6811dc6a1e8e2a3e55b48603_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Le mystère d'Oak Island : la course au trésor - S3E13 - Secrets et révélations
 bfmplay://NEUF_RMCDEC_RMC1020924749127
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020918867684" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/8/6/ac0b00f9c564c10959a06af44ceaf184_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - Vous aimerez aussi",Les sorcières de Salem : la véritable histoire
+bfmplay://NEUF_RMCDEC_RMC1020918867684
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1021145307113" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/3/1/1/e7542420bebb2cd5a3897d0aa2138d65_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Top Mecanic : 5 jours pour restaurer une épave - S8E22 - Jour 2 - La revanche Vintage Mecanic : Guerre vs. Gaudineau
 bfmplay://NEUF_RMCDEC_RMC1021145307113
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1021145307105" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/0/1/ede4eb24a71176d78958b255a7745679_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Top Mecanic : 5 jours pour restaurer une épave - S8E21 - Jour 1 - La revanche Vintage Mecanic : Guerre vs. Gaudineau
@@ -5309,8 +5313,6 @@ bfmplay://NEUF_RMCDEC_RMC980213357527
 bfmplay://NEUF_RMCDEC_RMC980213348527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC980213159527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/7fbae395b001ff72b925690ad1d40645_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S5E1 - La loi des séries
 bfmplay://NEUF_RMCDEC_RMC980213159527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC984149128527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b084efbdc8717301b8836f54b6a2568c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S6E17 - Survivre à la nature
-bfmplay://NEUF_RMCDEC_RMC984149128527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098565" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/6/5/6fbeb411580c9b8b006005ad6fbdfaf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E9 - Cap sur l'inconnu
 bfmplay://NEUF_RMCDEC_RMC1020979098565
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098579" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/7/5/fa97e881ee506c7e8b0c41df7823cf2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E11 - L'appel de la forêt
@@ -5623,14 +5625,6 @@ bfmplay://NEUF_RMCDEC_RMC995752754527
 bfmplay://NEUF_RMCDEC_RMC995754084527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC968921672527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b4959a606798fc8b73485fd28dcdbb73_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S3E10 - Iran
 bfmplay://NEUF_RMCDEC_RMC968921672527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC853903789527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/100cc0b38de455ecb59d075df2568f5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Les 10 catastrophes qui ont marqué la planète - S1E2 - Ouragans
-bfmplay://NEUF_RMCDEC_RMC853903789527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC853903825527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/3399f9f056d15a0fcaace9e4c6461e87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Les 10 catastrophes qui ont marqué la planète - S1E6 - Inondations
-bfmplay://NEUF_RMCDEC_RMC853903825527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020955114159" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/5/1/97b4e39cbedbe1b863286077a4201fac_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Les 10 catastrophes qui ont marqué la planète - S3E1 - Quand le sol s'effondre
-bfmplay://NEUF_RMCDEC_RMC1020955114159
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020955114263" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/3/6/2/c5cc5226b740a7c3ae38d00bb0621588_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Les 10 catastrophes qui ont marqué la planète - S3E3 - Glissements de terrain
-bfmplay://NEUF_RMCDEC_RMC1020955114263
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020926227875" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/7/8/ef60bb551ca61b706ef2198763b1d9ac_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Ce mois-ci sur RMC Story",Mayday : dangers dans le ciel - S5E3 - Un courant d'air fatal
 bfmplay://NEUF_RMCDEC_RMC1020926227875
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020926227882" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/8/8/61e6ab87d19c1129cf1a1f39dc9dd215_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Ce mois-ci sur RMC Story",Mayday : dangers dans le ciel - S5E4 - Un poids mortel
@@ -6657,8 +6651,14 @@ bfmplay://NEUF_RMCDEC_RMC1020934935609
 bfmplay://NEUF_RMCDEC_RMC1020934938709
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936141098" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/9/0/d9b6d94a8e304d127a983fd1a296caee_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Découverte - Mystère et Histoire",Stalingrad, au cœur de la bataille aux deux millions de victimes
 bfmplay://NEUF_RMCDEC_RMC1020936141098
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC561294175527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/a961f6bde1c6ab9a35f44c6fc5cda5fe_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Découverte - Mystère et Histoire",1945 : l'année qui a changé l'Histoire
-bfmplay://NEUF_RMCDEC_RMC561294175527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC853903789527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/100cc0b38de455ecb59d075df2568f5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Les docs du moment",Les 10 catastrophes qui ont marqué la planète - S1E2 - Ouragans
+bfmplay://NEUF_RMCDEC_RMC853903789527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC853903825527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/3399f9f056d15a0fcaace9e4c6461e87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Les docs du moment",Les 10 catastrophes qui ont marqué la planète - S1E6 - Inondations
+bfmplay://NEUF_RMCDEC_RMC853903825527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020955114159" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/5/1/97b4e39cbedbe1b863286077a4201fac_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Les docs du moment",Les 10 catastrophes qui ont marqué la planète - S3E1 - Quand le sol s'effondre
+bfmplay://NEUF_RMCDEC_RMC1020955114159
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020955114263" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/3/6/2/c5cc5226b740a7c3ae38d00bb0621588_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Les docs du moment",Les 10 catastrophes qui ont marqué la planète - S3E3 - Glissements de terrain
+bfmplay://NEUF_RMCDEC_RMC1020955114263
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917648875" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/7/8/f9ed9d6e681f9530cc07ecc570dd108d_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Découverte - Les docs du moment",Eurostar : la techno du TGV qui défie la Manche
 bfmplay://NEUF_RMCDEC_RMC1020917648875
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC961540662527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/182537ed349533c8c3450a1d8349d518_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Découverte - Les docs du moment",Gares de France : constructions monumentales
@@ -9479,6 +9479,8 @@ bfmplay://NEUF_RMCDEC_RMC1021023619674
 bfmplay://NEUF_RMCDEC_RMC961825656527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC973854047527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/386b3f99c1f49b0ece423422f61072db_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Noël 1999 : Au coeur de la tempête du siècle
 bfmplay://NEUF_RMCDEC_RMC973854047527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC561294175527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/a961f6bde1c6ab9a35f44c6fc5cda5fe_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",1945 : l'année qui a changé l'Histoire
+bfmplay://NEUF_RMCDEC_RMC561294175527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC561296429527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/a1c9423c90e6b81f92c80d98efe5a4a0_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",L'enfer de la bataille d'Okinawa
 bfmplay://NEUF_RMCDEC_RMC561296429527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC561320718527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/15304e85d825711334a0809f8306840a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Auschwitz, la machine de mort nazie
@@ -9567,8 +9569,6 @@ bfmplay://NEUF_RMCDEC_RMC1020936093511
 bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC941942786527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/6586631a2f4a6ee0ab12552f70e1e105_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Château Gaillard, une forteresse imprenable
 bfmplay://NEUF_RMCDEC_RMC941942786527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC988306518527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/f276fc4de659b9115bcd75ef58682e55_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Implosion du Titan : destination finale vers le Titanic
-bfmplay://NEUF_RMCDEC_RMC988306518527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593664
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593678" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/7/6/497ca129bfa42e12348d2fbc55aa72c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E3 - L'âge d'or de l'empire du soleil
@@ -9721,8 +9721,6 @@ bfmplay://NEUF_RMCDEC_RMC1009236665527
 bfmplay://NEUF_RMCDEC_RMC1020918861968
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020918866423" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/3/2/4/ec983955e2a3c64a3a1da7d225474cc6_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Le trésor perdu des Templiers : mythe ou réalité ?
 bfmplay://NEUF_RMCDEC_RMC1020918866423
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020918867684" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/8/6/ac0b00f9c564c10959a06af44ceaf184_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Les sorcières de Salem : la véritable histoire
-bfmplay://NEUF_RMCDEC_RMC1020918867684
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC440195497527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/5e6c595b3d7d9fcf4e077ca8677113cb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",La véritable histoire du Comte de Monte-Cristo
 bfmplay://NEUF_RMCDEC_RMC440195497527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC662819603527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/11f974d84b525e10e417c72e8c71f886_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Le secret des templiers
@@ -9763,6 +9761,8 @@ bfmplay://NEUF_RMCDEC_RMC971614324527
 bfmplay://NEUF_RMCDEC_RMC1002415335527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1002425005527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/185c762991432e0fa3bf11530d9b0163_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Histoire & Civilisation",Les soldats de Napoléon : les traces cachées
 bfmplay://NEUF_RMCDEC_RMC1002425005527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC988306518527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/f276fc4de659b9115bcd75ef58682e55_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Implosion du Titan : destination finale vers le Titanic
+bfmplay://NEUF_RMCDEC_RMC988306518527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC963259132527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/2f92ea0d0613595d6dfd981bf0d085bb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Le Pic du Midi : mégastructure de génie
 bfmplay://NEUF_RMCDEC_RMC963259132527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917720721" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/2/7/6ef2b41cfc89fbad8ca465e9f9c155ef_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Monaco, le rocher de tous les défis
