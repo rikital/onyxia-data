@@ -949,6 +949,8 @@ bfmplay://NEUF_BFMRADIO_BRA50000000000968
 bfmplay://NEUF_BFMRADIO_BRA50000000000967
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000966" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/6/6/9/11ac52b2306c233a7bcd84efd5c2d84c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Super Moscato Show - Mbappé à gauche, est-ce la bonne idée ?
 bfmplay://NEUF_BFMRADIO_BRA50000000000966
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000963" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/6/9/04c690d805f1735ee3c1a9c3db486c14_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",BFM Bourse - Pour Anthropic, l'IA transformera l'économie davantage que l'électricité ou l'industrie
+bfmplay://NEUF_BFMBUSINESS_BUM60000000000963
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000953" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/5/9/dcb72b3fb13b8cc463437c09d561686a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",BFM Bourse - On refait la séance : TotalEnergies salué après sa journée Investisseurs
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000953
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000938" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/3/9/1a46d1d5d2a9757e9e604b0a59feb630_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",BFM Bourse - Après avoir concentré les indices actions, la Tech commence à concentrer les indices obligataires
@@ -1119,8 +1121,6 @@ bfmplay://NEUF_BFMRADIO_BRA50000000000974
 bfmplay://NEUF_BFMRADIO_BRA50000000000973
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000965" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/6/9/70336a477e9a47ac9fa54b4cdbf24106_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - L'after du match Marseille - Paris SG
 bfmplay://NEUF_BFMRADIO_BRA50000000000965
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000960" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/6/9/6066501fea41ffec6080f932dd2b2b3f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",After Foot - L'after du match Toulouse - Le Havre
-bfmplay://NEUF_BFMRADIO_BRA50000000000960
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001021" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/1/2/0/b1be281f77070d2f337cea778dd2516d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Stephen Brunch - invité : Benjamin Diez, libéro de l’équipe de France vice-championne d’Europe
 bfmplay://NEUF_BFMRADIO_BRA50000000001021
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000878" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/7/8/c411ccf0166ca53ff507fc81b50cfd87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Stephen Brunch - Pour continuer à gagner, Luis Enrique doit-il ajuster son management ?
@@ -6709,6 +6709,8 @@ bfmplay://NEUF_RMCDEC_RMC1020917648875
 bfmplay://NEUF_RMCDEC_RMC961540662527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020925600862" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/6/8/bf8c678d0c5f60ed5d0d7e95292ae9b5_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Découverte - Les docs du moment",Les 10 routes les plus dangereuses de la planète
 bfmplay://NEUF_RMCDEC_RMC1020925600862
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF975725183527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/7d7240399f2c0ec5bd0c44961a2fe4e5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Vous aimerez aussi",La vie secrète des chats - S1E1 - Quand le chat n'est pas là... où va-t-il ?
+bfmplay://NEUF_RMC_LIFE_RIF975725183527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021068481568" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/6/5/14e5775cf4c608f22e81596280bfa9f3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Vous aimerez aussi",La vie secrète des chats - S4E5 - Nos chats nous aiment-ils vraiment ?
 bfmplay://NEUF_RMC_LIFE_RIF1021068481568
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF975725353527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/278d94419d596f56e41fcde924ddf115_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Vous aimerez aussi",La vie secrète des chats - S3E2 - Le chat et l'homme: l'union sacrée ? Avec Jeanfi Janssens
@@ -6799,8 +6801,6 @@ bfmplay://NEUF_RMC_LIFE_RIF987045193527
 bfmplay://NEUF_RMC_LIFE_RIF987045207527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF987045214527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/9f04373104efada072ada45cc6ee9e51_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Vous aimerez aussi",Chalets de rêve à la montagne - S4E5 - Tempête sur le chantier
 bfmplay://NEUF_RMC_LIFE_RIF987045214527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000963" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/6/9/04c690d805f1735ee3c1a9c3db486c14_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - A la Une",Pour Anthropic, l'IA transformera l'économie davantage que l'électricité ou l'industrie
-bfmplay://NEUF_BFMBUSINESS_BUM60000000000963
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000955" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/5/9/1c784e6b9cc4332d92550754864a546f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Tech&Co, la quotidienne - Philippe Notton (SiPearl) : SiPearl livre ses premiers processeurs à Bull
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000955
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000929" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/9/2/9/2e1f1480a1c5c9cff4fbc36c356ea5e8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Tous les replays",Tech&Co, la quotidienne - Octave Klaba (OVHcloud) : OVHcloud accélère son offensive dans l'IA
@@ -7795,6 +7795,8 @@ bfmplay://NEUF_RMC_LIFE_RIF1020974781149
 bfmplay://NEUF_RMC_LIFE_RIF1020974781142
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021020689708" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/0/7/c6fce8cfcd8d61c1cdac248d072ae049_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Life - Les docs du moment",Lena Situations : la femme la plus influente de France
 bfmplay://NEUF_RMC_LIFE_RIF1021020689708
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001035" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/3/0/1dcb66aaf31a3a33fd44bd1c8c8c9805_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Carrousel",Émission du 29 septembre  - 20H/21H
+bfmplay://NEUF_BFMRADIO_BRA50000000001035
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA1021129087620" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/2/6/f5f9621f8777ac15078ff7c015e6d676_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",La nouvelle voix de l'After - Episode 6 : la finale
 bfmplay://NEUF_BFMRADIO_BRA1021129087620
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA1021129087605" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/0/6/ff50553aa278ab07118325907c925e09_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",La nouvelle voix de l'After - Episode 5 : la demi-finale
@@ -9457,8 +9459,6 @@ bfmplay://NEUF_RMCDEC_RMC938658752527
 bfmplay://NEUF_RMCDEC_RMC949001189527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917712416" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/6/1/4/cf61e14c13d783a3de6118aeba888736_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Pierrefonds : la résurrection d'un château
 bfmplay://NEUF_RMCDEC_RMC1020917712416
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936099117" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/1/1/cc16dff1f6fae53b7edf26abde1c0d2a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Versailles : les secrets d'un chantier monumental
-bfmplay://NEUF_RMCDEC_RMC1020936099117
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020934717188" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/8/1/044a7244bad5ef8fb6bcbab753581ff8_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",TGV, la réussite française
 bfmplay://NEUF_RMCDEC_RMC1020934717188
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917659090" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/0/9/0/0f942d3e4dbdb9250c9463652ca49923_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Les trains de tous les records
