@@ -1843,6 +1843,8 @@ francetv://program/spectacles-et-culture_theatre-et-danse_les-trois-mousquetaire
 francetv://program/slash_apocalypse-mojito
 #EXTINF:-1 tvg-id="francetv-prog-slash_le-magasin" tvg-logo="https://medias.france.tv/CNcTU8n6HCz3h7iUQTVhnmEZcwA/400x0/filters:quality(85)/g/k/q/phpreeqkg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",Le magasin
 francetv://program/slash_le-magasin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",Sœurs
+francetv://program/france-2_soeurs
 #EXTINF:-1 tvg-id="francetv-prog-arte_putain-de-chat_saison-1_saison-1" tvg-logo="https://medias.france.tv/afz5fd4WwYyPg8uW6nRsOFoywWg/400x0/filters:quality(85)/9/f/c/5d16920fb57547abb629b5a7dc777cf9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",Putain de chat
 francetv://program/arte_putain-de-chat_saison-1_saison-1
 #EXTINF:-1 tvg-id="francetv-prog-france-2_sous-pression" tvg-logo="https://medias.france.tv/hl1GN-vrs6COQX_gHVqn6cQGao0/400x0/filters:quality(85)/p/b/y/phpttdybp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",Sous pression
@@ -1877,8 +1879,6 @@ francetv://program/slash_daria
 francetv://program/slash_mental
 #EXTINF:-1 tvg-id="francetv-prog-slash_skam-france" tvg-logo="https://medias.france.tv/dln3uEbDi6RrvueC2EWQxJxmV6Q/400x0/filters:quality(85)/d/k/p/phplvzpkd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",SKAM France
 francetv://program/slash_skam-france
-#EXTINF:-1 tvg-id="francetv-prog-slash_amours-solitaires" tvg-logo="https://medias.france.tv/Zs86VaJfKeocF3gNiI4jcgQvP9s/400x0/filters:quality(85)/h/i/c/phpgd5cih.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Slash aime",Amours solitaires
-francetv://program/slash_amours-solitaires
 #EXTINF:-1 tvg-id="francetv-prog-france-2_dix-pour-cent" tvg-logo="https://medias.france.tv/1JyoF6pnvzsV4cGvQNyTQB2dGDw/400x0/filters:quality(85)/a/5/t/php3jvt5a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",Dix pour Cent
 francetv://program/france-2_dix-pour-cent
 #EXTINF:-1 tvg-id="francetv-prog-arte_catastrophe" tvg-logo="https://medias.france.tv/8Bn9UvxJ0bP_WBoIVEco1Re0kGY/400x0/filters:quality(85)/8/8/3/38e4c44cfc50482894b814f2207c6388.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Sinon, plutôt fan de comédies ?",Catastrophe
@@ -2421,8 +2421,8 @@ francetv://ad085628-df73-4c12-88db-3e5b46474b5b
 francetv://05c522bf-a1c8-46a3-a583-18847765aece
 #EXTINF:-1 tvg-id="francetv-3c8e1a53-fa86-4d33-a5a3-8e32572efd3d" tvg-logo="https://medias.france.tv/mP43DTv5EWyRgEe2DWkCqFNKbX0/400x0/filters:quality(85)/3/2/1/470dfe8a6e364257baae2629f7dd6123.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Slash aime",Machocratie - La fabrique du mâle
 francetv://3c8e1a53-fa86-4d33-a5a3-8e32572efd3d
-#EXTINF:-1 tvg-id="francetv-519655f7-891a-4a01-87b9-c7950bdd2426" tvg-logo="https://medias.france.tv/lkxXL7lLHt386ZRqvitER6qzkRg/400x0/filters:quality(85)/x/z/7/phpqom7zx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Slash aime",Burning Man, le désert de tous les possibles
-francetv://519655f7-891a-4a01-87b9-c7950bdd2426
+#EXTINF:-1 tvg-id="francetv-4b99b911-cb1b-4c13-a4c6-46d1820589da" tvg-logo="https://medias.france.tv/lkxXL7lLHt386ZRqvitER6qzkRg/400x0/filters:quality(85)/x/z/7/phpqom7zx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Slash aime",Burning Man, le désert de tous les possibles
+francetv://4b99b911-cb1b-4c13-a4c6-46d1820589da
 #EXTINF:-1 tvg-id="francetv-4ee423d0-239f-48fd-8cf8-66b7ff2d1dce" tvg-logo="https://medias.france.tv/jskT_CPdZBWC1-FHDuwDEj6r6Hs/400x0/filters:quality(85)/c/3/4/322b07b6189a4fdf8e45b9dcd155ca9cd6a89514999713dbef6f935038ca043c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Slash aime",Sœurs, journal d'une reconstruction - Le documentaire
 francetv://4ee423d0-239f-48fd-8cf8-66b7ff2d1dce
 #EXTINF:-1 tvg-id="francetv-89385708-1036-44bf-b509-3e2c8c19c5a4" tvg-logo="https://medias.france.tv/aIOp55uiv_GxwA9euZM8JJ0SXTc/400x0/filters:quality(85)/b/d/d/467742e56f324c5d86a237598082dddb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Slash aime",Permis d'opprimer - Le documentaire
@@ -3357,10 +3357,12 @@ francetv://77f8e3d9-1408-40da-9553-71f7b2403e50
 francetv://bbe6f2b9-0055-445c-a343-b9639f4e0e4c
 #EXTINF:-1 tvg-id="francetv-prog-slash_dans-la-peau-d-une-influenceuse" tvg-logo="https://medias.france.tv/ReknTOnEy3561pS2vJk1nC5FzHs/400x0/filters:quality(85)/e/i/c/phpm56cie.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Dans la peau d'une influenceuse
 francetv://program/slash_dans-la-peau-d-une-influenceuse
-#EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Envoyé spécial — Doctolib, votre santé est leur business
-francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-0ff1a65b-27e8-4a73-a997-4d5398d651ca" tvg-logo="https://medias.france.tv/Tg-L5qtCY4JvzJoiEu79sNKlzxs/400x0/filters:quality(85)/b/6/d/f808fcd0ff894d9d8dd5e70bd52d9d6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Féminin Sacré : enquête sur des dérives sectaires - Le documentaire
 francetv://0ff1a65b-27e8-4a73-a997-4d5398d651ca
+#EXTINF:-1 tvg-id="francetv-78ed0102-185c-44aa-9ec3-acaebc5e0370" tvg-logo="https://medias.france.tv/155ovZl9AMCYViBYzoQkZf-UlTo/400x0/filters:quality(85)/q/y/v/phpub4vyq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Sur le front — Vêtements : le tour du monde en 4 jours
+francetv://78ed0102-185c-44aa-9ec3-acaebc5e0370
+#EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Envoyé spécial — Doctolib, votre santé est leur business
+francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-cb557ecf-270c-4c60-88b2-492fbfa8dd2c" tvg-logo="https://medias.france.tv/z7ZRuXIassTRblJYPhXn_kU7y-w/400x0/filters:quality(85)/c/4/0/2b32cb00c0d24ced81358d12700f904c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Influence mortelle, la face cachée de TikTok - Le documentaire
 francetv://cb557ecf-270c-4c60-88b2-492fbfa8dd2c
 #EXTINF:-1 tvg-id="francetv-1346b804-acbe-4a00-8e03-41d99f5083d5" tvg-logo="https://medias.france.tv/vSRSoG6E2tOHXrhBL1jtwcvnOVM/400x0/filters:quality(85)/8/d/f/phpnhafd8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Cash Investigation — Cyber-arnaques : État et entreprises nous protègent-ils vraiment ?
@@ -3391,8 +3393,6 @@ francetv://80ae7286-4fdc-4e0d-a6bc-9e9773de42f4
 francetv://1468f744-01bb-4ed3-a353-a603193ffb49
 #EXTINF:-1 tvg-id="francetv-7be2a6b6-7f22-4d1f-9bbf-24e75df041de" tvg-logo="https://medias.france.tv/rj7gduwT9Evf6bKQClAdJl_I2f4/400x0/filters:quality(85)/h/2/i/phpafni2h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Les rencontres du Papotin — Gad Elmaleh
 francetv://7be2a6b6-7f22-4d1f-9bbf-24e75df041de
-#EXTINF:-1 tvg-id="francetv-94560f29-203c-4e18-858e-ffa04e4f2696" tvg-logo="https://medias.france.tv/lycLyLNrwikr3DnKTnsnszoVdYQ/400x0/filters:quality(85)/0/9/c/8f5e63caa67d46f1ab6412c325117c90.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Slash aime",Pédocriminels - Enquêtes dans le dark web
-francetv://94560f29-203c-4e18-858e-ffa04e4f2696
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",C à vous
 francetv://program/france-5_c-a-vous
 #EXTINF:-1 tvg-id="francetv-prog-france-2_envoye-special" tvg-logo="https://medias.france.tv/xuuezLcNC5bgVSd9pkzQ9PvHx2k/400x0/filters:quality(85)/f/x/4/phprcy4xf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Envoyé spécial
@@ -3799,8 +3799,8 @@ francetv://c29cfbbb-500c-4e0d-9ae6-7c3ac268815c
 francetv://a956ea89-7f16-45e3-ab61-14a3001045fd
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-art-et-culture_piaf-cerdan-les-amants-clandestins" tvg-logo="https://medias.france.tv/CdLNYLGrYFbkbu5JkNELQGqanqE/400x0/filters:quality(85)/b/u/q/phpweqqub.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",Piaf & Cerdan, les amants clandestins
 francetv://program/documentaires_documentaires-art-et-culture_piaf-cerdan-les-amants-clandestins
-#EXTINF:-1 tvg-id="francetv-519655f7-891a-4a01-87b9-c7950bdd2426" tvg-logo="https://medias.france.tv/lkxXL7lLHt386ZRqvitER6qzkRg/400x0/filters:quality(85)/x/z/7/phpqom7zx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",Burning Man, le désert de tous les possibles
-francetv://519655f7-891a-4a01-87b9-c7950bdd2426
+#EXTINF:-1 tvg-id="francetv-4b99b911-cb1b-4c13-a4c6-46d1820589da" tvg-logo="https://medias.france.tv/lkxXL7lLHt386ZRqvitER6qzkRg/400x0/filters:quality(85)/x/z/7/phpqom7zx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",Burning Man, le désert de tous les possibles
+francetv://4b99b911-cb1b-4c13-a4c6-46d1820589da
 #EXTINF:-1 tvg-id="francetv-c29cfbbb-500c-4e0d-9ae6-7c3ac268815c" tvg-logo="https://medias.france.tv/Fnd8qmOuV6zXyMn-NNUpLCrWKY8/400x0/filters:quality(85)/0/f/c/bbe6efd9e78f44139ab8c52c47c3acf0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",Dua Lipa - Le futur de la pop
 francetv://c29cfbbb-500c-4e0d-9ae6-7c3ac268815c
 #EXTINF:-1 tvg-id="francetv-9228d91e-ef68-11e9-9a65-000d3a2427ab" tvg-logo="https://medias.france.tv/L9Ay5X9bIeWwUUidt8wnizMRExI/400x0/filters:quality(85)/a/i/x/phpndrxia.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",Histoires d’art — Yayoi Kusama, une femme de pois
@@ -4169,10 +4169,14 @@ francetv://f7d87fd4-87e8-4820-b3b3-83956995f4f7
 francetv://c3370444-65da-4a42-a1cc-0ba9f87069f8
 #EXTINF:-1 tvg-id="francetv-bec5dab8-273a-4252-ad15-e581c9bb5e7e" tvg-logo="https://medias.france.tv/V3EELtsXEIULqFRdPyjI_GZsId8/400x0/filters:quality(85)/a/7/8/e632cff4aa3d4c29bee05f41ee71ac74d99257f167fd8b330eb8e7ac17ba087a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Opéra et musique classique",Doux Silence par Les Musiciens de Saint-Julien au Festival d'Ambronay 2025
 francetv://bec5dab8-273a-4252-ad15-e581c9bb5e7e
+#EXTINF:-1 tvg-id="francetv-d228b5dd-d5d8-4fb0-80e5-7342e34667d2" tvg-logo="https://medias.france.tv/EYSMgwETiyy_HKNIn6oG8ngpuZw/400x0/filters:quality(85)/d/6/a/d7d0ae9755cc4666920d347e63385a6d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Oasis : Live from Manchester
+francetv://d228b5dd-d5d8-4fb0-80e5-7342e34667d2
 #EXTINF:-1 tvg-id="francetv-93d7063f-5781-490c-b42c-d406349423e1" tvg-logo="https://medias.france.tv/f1vpAprQPlfzJdwXBDWsg5htndg/400x0/filters:quality(85)/k/w/v/phpgl3vwk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Lena Situations - Celui où ils disent au revoir
 francetv://93d7063f-5781-490c-b42c-d406349423e1
 #EXTINF:-1 tvg-id="francetv-c29cfbbb-500c-4e0d-9ae6-7c3ac268815c" tvg-logo="https://medias.france.tv/Fnd8qmOuV6zXyMn-NNUpLCrWKY8/400x0/filters:quality(85)/0/f/c/bbe6efd9e78f44139ab8c52c47c3acf0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Dua Lipa - Le futur de la pop
 francetv://c29cfbbb-500c-4e0d-9ae6-7c3ac268815c
+#EXTINF:-1 tvg-id="francetv-a546b57a-ffc7-4e53-ab95-223d8dd0beeb" tvg-logo="https://medias.france.tv/G7IGnUoZsGRRPwR6dCnZnmYh95o/400x0/filters:quality(85)/x/b/u/phpap1ubx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Landmvrks au Zénith de Paris
+francetv://a546b57a-ffc7-4e53-ab95-223d8dd0beeb
 #EXTINF:-1 tvg-id="francetv-20d33f8b-8632-4b66-a550-dd12e6092bd9" tvg-logo="https://medias.france.tv/MTnuTzi5Mwi-TuGQvvSOAEpLovE/400x0/filters:quality(85)/e/f/8/977415e316ec4f7f865cae962d15a8fe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Twenty One Pilots
 francetv://20d33f8b-8632-4b66-a550-dd12e6092bd9
 #EXTINF:-1 tvg-id="francetv-3f700b20-abc8-4184-949d-d2a5dec02fa0" tvg-logo="https://medias.france.tv/HhZjYmgQ88oO3UbebDabRfgbqN8/400x0/filters:quality(85)/3/4/d/5355dff004ea409b90c8045636ad0d43.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Asaf Avidan
@@ -4201,8 +4205,6 @@ francetv://program/spectacles-et-culture_emissions-culturelles_les-flammes
 francetv://program/spectacles-et-culture_emissions-culturelles_j-aime-a-dire
 #EXTINF:-1 tvg-id="francetv-71ecb942-e4f2-44be-8cb2-2199c7133ddd" tvg-logo="https://medias.france.tv/XkI0TrCztu7YY5q_f7HsDVWkL6w/400x0/filters:quality(85)/3/1/c/8c7d0b64744349e9ade7f5c3830dc48f77e6b69a512e86292c50d39a5327dc13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Meryl, bénie - Le documentaire
 francetv://71ecb942-e4f2-44be-8cb2-2199c7133ddd
-#EXTINF:-1 tvg-id="francetv-ba45fdbd-20bd-47b5-993f-fad04e0a4c5d" tvg-logo="https://medias.france.tv/k2sVbZ31BZGktAnRyOGdWMunYpU/400x0/filters:quality(85)/7/q/i/phprboiq7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Oxmo Puccino invite Naza & Nono La Grinta dans Bâtiment B
-francetv://ba45fdbd-20bd-47b5-993f-fad04e0a4c5d
 #EXTINF:-1 tvg-id="francetv-a956ea89-7f16-45e3-ab61-14a3001045fd" tvg-logo="https://medias.france.tv/YM8k5SvpllWA7rGuW6I1-CgCxzA/400x0/filters:quality(85)/d/1/n/phppjen1d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Figures musicales",Il était une voix... Céline Dion
 francetv://a956ea89-7f16-45e3-ab61-14a3001045fd
 #EXTINF:-1 tvg-id="francetv-e29c3927-b140-420e-936c-cce63360b663" tvg-logo="https://medias.france.tv/dIc7JJt0TRm5-i6RHqQ0nJ2TVfw/400x0/filters:quality(85)/d/f/1/1af8c8b29a8b4d328c03630dee0ea1fd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Figures musicales",AC/DC : Forever Young
