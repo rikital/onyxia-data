@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244159" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/5/1/2d57ab94927ea1207d4bdc65b7e414e1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Sophie Binet face à Apolline de Malherbe
+bfmplay://NEUF_BFMTV_BFM1021151244159
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244189" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/8/1/e70184a14b8f0b90181efdf9c8268480_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Jean-François Colosimo face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244189
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244153" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/5/1/c31f61de748cbf5691dad3e5b2c1f7b7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Sébastien Chenu face à Apolline de Malherbe
@@ -333,8 +335,6 @@ bfmplay://NEUF_BFMTV_BFM1021151239999
 bfmplay://NEUF_BFMTV_BFM1021151240215
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151239993" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/9/9/72fd0e70bd61783eca4643ebafc5d8d1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 16 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151239993
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240209" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/0/2/955f2de156c34c6fdd156318b4e84a02_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 15 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151240209
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246292" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/9/2/e59041a9e6df8543bdd1464632fc0429_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 23 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151246292
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246466" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/6/4/77f584c62bd7ce604ed5237d5cc279aa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 22 septembre 2026
@@ -1171,8 +1171,6 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000884
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000823
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000763" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/3/6/7/95c58cb7814edb7ab95d96ca07e776a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Iconic Business - Émission du 4 septembre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000763
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055831869" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/8/967c801b8c2e373d2713e6f4bb1546be_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Vous aimerez aussi",Dans les secrets des Illuminati
-bfmplay://NEUF_NUM23_N231021055831869
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/f7ec854654aaf81272c769f3ddecff5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 29 septembre 2026
 bfmplay://NEUF_NUM23_N231021147300446
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322459" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/5/4/8daa70276307ae67e02c624c88da8434_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 28 septembre 2026
@@ -1211,6 +1209,8 @@ bfmplay://NEUF_NUM23_N231021147300326
 bfmplay://NEUF_NUM23_N231021147322275
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300291" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/9/2/c1c00dd92f4d495c027e838c8a8d3bf4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 16 septembre 2026
 bfmplay://NEUF_NUM23_N231021147300291
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055831869" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/8/967c801b8c2e373d2713e6f4bb1546be_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Vous aimerez aussi",Dans les secrets des Illuminati
+bfmplay://NEUF_NUM23_N231021055831869
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773944C" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/C/4/4/17bace9d635a70e67aee5e4d2e70e3fd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - La maison individuelle vous fait-elle encore rêver ?
 bfmplay://NEUF_NUM23_N231021134773944C
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021134773944B" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/B/4/4/3a52d26c9794e90183ab81030909f831_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Estelle Midi - Économie, climat, hausse des prix de l'énergie : prêts à vous lancer dans des travaux de rénovation ?
@@ -1347,8 +1347,6 @@ bfmplay://NEUF_NUM23_N231021132022010
 bfmplay://NEUF_NUM23_N231021132021996
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132021982" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/8/9/763516368b2123c81347b2ad79caab05_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Alexandre Macé Dubois face aux GG !
 bfmplay://NEUF_NUM23_N231021132021982
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132021968" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/8/6/9/eb63f3d3ecbf0cb4a74b8e64e4c2cfe7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Une mère mime un égorgement à une enseignante. Faut-il exclure ses enfants de l’école ?
-bfmplay://NEUF_NUM23_N231021132021968
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313303" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/0/3/0ba84b650e4f90907aa7342c21bd008b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 28 septembre 2026
 bfmplay://NEUF_NUM23_N231021147313303
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313290" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/9/2/f66f04e8a5eeb69f743de794e90b9a35_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 25 septembre 2026
@@ -5317,8 +5315,6 @@ bfmplay://NEUF_RMCDEC_RMC980213159527
 bfmplay://NEUF_RMCDEC_RMC984149128527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC984149118527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/554d74146e8ff1e196c56d52a89a5ca6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S6E16 - Le feu par le feu
 bfmplay://NEUF_RMCDEC_RMC984149118527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC984149108527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b128e80e9d52051071acb5fb98e542f7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S6E15 - Chasse gardée
-bfmplay://NEUF_RMCDEC_RMC984149108527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098565" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/6/5/6fbeb411580c9b8b006005ad6fbdfaf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E9 - Cap sur l'inconnu
 bfmplay://NEUF_RMCDEC_RMC1020979098565
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098579" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/7/5/fa97e881ee506c7e8b0c41df7823cf2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E11 - L'appel de la forêt
