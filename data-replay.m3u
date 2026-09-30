@@ -10989,12 +10989,12 @@ tf1plus://tf1/eurobasket-masculin
 tf1plus://tf1/premiere-selection
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-baskets-et-nous-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-0c5fd1-f88383-98df8f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Les Baskets et Nous
 tf1plus://tmc/les-baskets-et-nous
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-phenomene-mbappe-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-23c62a-1f1cc6-c5238b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Le Phenomene Mbappe
+tf1plus://tf1/le-phenomene-mbappe
 #EXTINF:-1 tvg-id="tf1plus-tf1-fire-country-vous-aimerez-aussi" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-23c6a6-046574-6204a0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Vous aimerez aussi",Fire Country
 tf1plus://tf1/fire-country
 #EXTINF:-1 tvg-id="tf1plus-tmc-lagence-limmobilier-de-luxe-en-famille-vous-aimerez-aussi" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-lagence-saison-6_v2-b01c0d-e4fc5c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Vous aimerez aussi",Lagence Limmobilier de Luxe En Famille
 tf1plus://tmc/lagence-limmobilier-de-luxe-en-famille
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-phenomene-mbappe-vous-aimerez-aussi" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-23c62a-1f1cc6-c5238b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Vous aimerez aussi",Le Phenomene Mbappe
-tf1plus://tf1/le-phenomene-mbappe
 #EXTINF:-1 tvg-id="tf1plus-tf1-lecole-des-champions-vous-aimerez-aussi" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-17ddca-434465-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Vous aimerez aussi",Lecole des Champions
 tf1plus://tf1/lecole-des-champions
 #EXTINF:-1 tvg-id="tf1plus-tf1-son-of-a-critch-vous-aimerez-aussi" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-f40059-bc4854-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Vous aimerez aussi",Son Of A Critch
@@ -12765,6 +12765,8 @@ tf1plus://tf1/en-roues-libres
 tf1plus://tf1/rise-le-secret-des-mangroves-de-madagascar
 #EXTINF:-1 tvg-id="tf1plus-tfx-camping-cars-les-vacances-de-leur-vie-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d04a92-608f3e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Camping Cars les Vacances de Leur Vie
 tf1plus://tfx/camping-cars-les-vacances-de-leur-vie
+#EXTINF:-1 tvg-id="tf1plus-tfx-vacances-a-chacun-son-style-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-a378c4-d26b8b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Vacances A Chacun Son Style
+tf1plus://tfx/vacances-a-chacun-son-style
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-enfoires-restos-du-coeur-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3ec57d-c9a88a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Les Enfoires Restos du Coeur
 tf1plus://tf1/les-enfoires-restos-du-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-stars-a-domicile-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-85aa60-851990-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Stars A Domicile
@@ -16251,8 +16253,6 @@ tf1plus://tfx/les-trois-visages-d-ana
 tf1plus://tfx/lolywood
 #EXTINF:-1 tvg-id="tf1plus-tfx-pierre-garnier-le-concert-evenement-smx" tvg-logo="https://photos.tf1.fr/1200/720/pierre-garnier-le-concert-evenement-31a89f-415427-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Pierre Garnier : le concert évènement
 tf1plus://tfx/pierre-garnier-le-concert-evenement
-#EXTINF:-1 tvg-id="tf1plus-tfx-vacances-a-chacun-son-style-smx" tvg-logo="https://photos.tf1.fr/1200/720/camping-geant-ou-familial-a-chacun-son-camping-bc2ac6-17031d-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Vacances : à chacun son style
-tf1plus://tfx/vacances-a-chacun-son-style
 #EXTINF:-1 tvg-id="tf1plus-tmc-betisiers-smx" tvg-logo="https://photos.tf1.fr/1200/720/2129275_grandbetisier2026p2-87bfae-709ec0-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le Grand Bêtisier
 tf1plus://tmc/betisiers
 #EXTINF:-1 tvg-id="tf1plus-tmc-burger-quiz-smx" tvg-logo="https://photos.tf1.fr/1200/720/rap-le-generique-de-motus-a-la-sauce-kanye-west-d10915-24e03e-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Burger Quiz
