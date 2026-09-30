@@ -890,7 +890,7 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Généralistes - 100% Français",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr@SD" tvg-logo="https://i.imgur.com/lAsE6kN.png" group-title="Généralistes - 100% Français",Canal 32 (1080p)
-https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="Généralistes - 100% Français",Cannes Lérins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="France2.fr@SD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100" group-title="Généralistes - 100% Français",France 2
@@ -1822,7 +1822,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 #EXTINF:-1 tvg-chno="18" tvg-id="T18.fr" epg-s="4139" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png?h=100" tvg-country="FR" group-title="Nouveautés ParaTV - Nouveautés",18. T18 [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="Canal32.fr" epg-s="534" tvg-logo="https://zupimages.net/up/26/11/8c0t.jpeg" tvg-country="FR" group-title="Nouveautés ParaTV - Nouveautés",32. Canal 32 [1080p-canal32.fr]
-https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-chno="601" tvg-logo="https://s2.dmcdn.net/u/HT2x1f7nt3DClNfe/60x60" tvg-country="FR" group-title="Nouveautés ParaTV - Nouveautés",601. France Inter [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/france-inter-dm.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
@@ -1849,7 +1849,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/rtltvi.
 #EXTINF:-1 tvg-id="BelRTLTV.be" group-title="France TV backup - Autres",BEL RTL [schumijo]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.m3u8
 #EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="France TV backup - Autres",Canal 32 (1080p) [iptv-org-fr]
-https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="France2.fr@SD" group-title="France TV backup - Autres",France 2 (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france2.m3u8
 #EXTINF:-1 tvg-id="France5.fr@SD" group-title="France TV backup - Autres",France 5 (1080p) [iptv-org-fr]
@@ -2623,7 +2623,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="France TV backup - Autres",Canal 32 (1080p) [iptv-org-fr]
-https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 
 # === Ajouts FR multi-sources : Cinéma ===
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" group-title="Cinéma - Films",Cine+ Classic
@@ -5066,7 +5066,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="Canal32.fr@SD" group-title="France TV backup - Autres",Canal 32 (1080p) [iptv-org-fr]
-https://edge.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+https://canal32-lineaire.b-cdn.net/master.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de@FR" group-title="Divertissement - Divertissement",Pluto TV Téléréalité France
