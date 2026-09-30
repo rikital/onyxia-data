@@ -17,6 +17,12 @@ arte://052433-031-A
 arte://132359-000-A
 #EXTINF:-1 tvg-id="arte-093576-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XRPurYxXbYvTZh8nfAj3uk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Entretien avec Christian Petzold
 arte://093576-000-A
+#EXTINF:-1 tvg-id="arte-130432-059-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/W8SSM4ffmjEZ6GEu7XD8WJ/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les éléphants au cinéma — Blow up
+arte://130432-059-A
+#EXTINF:-1 tvg-id="arte-130432-058-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yP7gCc42whs4Kar7CAjYA3/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les Génériques de John Boorman — Blow up
+arte://130432-058-A
+#EXTINF:-1 tvg-id="arte-072401-090-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/TVyTVnAPFSZSA2EmZJgAuD/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Face à l'Histoire - La France occupée — Blow up
+arte://072401-090-A
 #EXTINF:-1 tvg-id="arte-130432-056-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/WwMeuZndAcMjmNLG7BtNSN/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les B.O. d'Angelo Badalamenti — Blow up
 arte://130432-056-A
 #EXTINF:-1 tvg-id="arte-130432-053-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Hoe4ixzVm8K5YJMh6yb3cj/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",L'Année 1986 au cinéma — Blow up
@@ -47,12 +53,6 @@ arte://077140-054-A
 arte://130432-043-A
 #EXTINF:-1 tvg-id="arte-130432-046-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/te7nqGn49oAYFkpTeMhPUD/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Hommage à Henry Mancini — Blow up
 arte://130432-046-A
-#EXTINF:-1 tvg-id="arte-130432-045-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/DAsFKmvPrGcbFfeQkuGNTh/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les génériques de Marjane Satrapi — Blow up
-arte://130432-045-A
-#EXTINF:-1 tvg-id="arte-130432-047-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/zkxBwKoo53WQpzGQFha3Ka/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",C'était quoi Diane Keaton ? — Blow up
-arte://130432-047-A
-#EXTINF:-1 tvg-id="arte-130432-038-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/zG7ghVux9wVWMpVLYEDinh/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Kurt Cobain et Nirvana au cinéma — Blow up
-arte://130432-038-A
 #EXTINF:-1 tvg-id="arte-092916-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ztKDSsNeK3btqfsE5oKFUB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Compartiment n° 6
 arte://092916-000-A
 #EXTINF:-1 tvg-id="arte-113550-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RWiVECBESejNjx4PKf6Ag5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Tir croisé — Un drame familial sensible
@@ -1637,10 +1637,12 @@ arte://132719-000-A
 arte://133194-000-A
 #EXTINF:-1 tvg-id="arte-134161-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7wzna46xtyVkHFUKwFTaCY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",ARTE Mix ø Trabendo 2026 — En direct de la nuit 100 % electro à ne pas manquer
 arte://134161-001-A
-#EXTINF:-1 tvg-id="arte-133220-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/gG4s8GQ6KeFGLXPxU7RGjG/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Hommage au rappeur Xatar — Son parcours musical célébré par les artistes qui l'ont connu
+#EXTINF:-1 tvg-id="arte-133220-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XBzh8Uhqmkif7Qd8LgWKgk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Hommage au rappeur Xatar — Son parcours musical célébré par les artistes qui l'ont connu
 arte://133220-000-A
-#EXTINF:-1 tvg-id="arte-123594-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BPqfukNKqcmLbhxPtN5iL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Matthias Pintscher dirige Kurtág, Ravel et Miler — En direct avec Pierre-Laurent Aimard
+#EXTINF:-1 tvg-id="arte-123594-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/TzNcQqRCLyYgGTDiyVKyxL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Matthias Pintscher dirige Kurtág, Ravel et Miler — En direct avec Pierre-Laurent Aimard
 arte://123594-010-A
+#EXTINF:-1 tvg-id="arte-105455-015-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ug6hDmeycYwkihmJfCrXag/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Korn — L'étonnant CV de Jonathan Davis
+arte://105455-015-A
 #EXTINF:-1 tvg-id="arte-135044-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/2zKDbhoXFwagbJf96Fx6ZN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Hommage à Catherine Ringer — Son concert à la Philharmonie de Paris
 arte://135044-000-A
 #EXTINF:-1 tvg-id="arte-126464-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Z4C5AfWctTYtirmbrHHPTW/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Electric Callboy — Choc metalcore-electro au Hellfest 2025
