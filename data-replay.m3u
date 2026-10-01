@@ -21047,6 +21047,8 @@ m6play://gulli/21381
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-2620eecd-9df5-4aeb-9a57-61efdfecfe72" tvg-logo="https://medias.france.tv/uOvE7nG2iY8YikrG43xMehtaa6E/400x0/filters:quality(85)/c/g/c/php02hcgc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Primaire : le débat
+francetv://2620eecd-9df5-4aeb-9a57-61efdfecfe72
 #EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Au sein des autres
 francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-e971253c-4aef-4dbf-b83a-f9d39e723770" tvg-logo="https://medias.france.tv/qPcCFI_4GGvPxuGtO9zOpTBHfaE/400x0/filters:quality(85)/a/4/0/34104410c5a24f468d05fe82852c504a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Rendez-vous en terre inconnue — Tony Parker chez les Ovakuvale en Angola
@@ -21259,10 +21261,10 @@ francetv://program/france-3_un-si-grand-soleil
 francetv://4d402bf8-44d2-496b-8a08-f4bf159326cb
 #EXTINF:-1 tvg-id="francetv-3674da22-23b1-4bff-8e9d-49cae1730d37" tvg-logo="https://medias.france.tv/cG4UJNsR9woX_xVSj5BXGUPZXqk/400x0/filters:quality(85)/b/c/a/f4e012ee0f6043d89c4d7e76af9cfacb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 29 septembre 2026
 francetv://3674da22-23b1-4bff-8e9d-49cae1730d37
-#EXTINF:-1 tvg-id="francetv-434108ee-b10b-436c-a7de-d8716482f71d" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 30 septembre 2026
-francetv://434108ee-b10b-436c-a7de-d8716482f71d
-#EXTINF:-1 tvg-id="francetv-7b6233a7-98c1-4212-a491-b823a7bbcab1" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 1 octobre 2026
-francetv://7b6233a7-98c1-4212-a491-b823a7bbcab1
+#EXTINF:-1 tvg-id="francetv-3f482744-31e5-4599-9603-52acb1aa7d2f" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 30 septembre 2026
+francetv://3f482744-31e5-4599-9603-52acb1aa7d2f
+#EXTINF:-1 tvg-id="francetv-da50ff1b-b3c8-4978-8cbf-099f3ba8a4f3" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 1 octobre 2026
+francetv://da50ff1b-b3c8-4978-8cbf-099f3ba8a4f3
 #EXTINF:-1 tvg-id="francetv-51c4d875-7f94-42db-814c-6aba78c5cd75" tvg-logo="https://medias.france.tv/kcGHedc0Ct9DubJ43Q4UJnngHMc/400x0/filters:quality(85)/p/r/n/phpueunrp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 2 octobre 2026
 francetv://51c4d875-7f94-42db-814c-6aba78c5cd75
 #EXTINF:-1 tvg-id="francetv-bb325c80-18fc-4e96-a980-2dabb0bf9675" tvg-logo="https://medias.france.tv/GnaRQUfV3C6ZZrqHib--hyuIb3o/400x0/filters:quality(85)/m/b/i/php7gjibm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Lame de fond
@@ -21831,10 +21833,16 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-818bb053-3923-47b8-a980-62ddbbd32e6c" tvg-logo="https://medias.france.tv/0g2Vhpbi2SKP6cDpu0XYeT7oYmE/400x0/filters:quality(85)/a/6/a/2cede2d3187a4787a140ae1a96a02a6a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du jeudi 1 octobre 2026
+francetv://818bb053-3923-47b8-a980-62ddbbd32e6c
+#EXTINF:-1 tvg-id="francetv-147fbffd-1a50-4f09-81d8-57010cc39177" tvg-logo="https://medias.france.tv/H2wu0ZW7VcP9aqX98lvhsXUReA4/400x0/filters:quality(85)/4/1/9/badba3fd0ff74efbbbee17a1bb043914.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du jeudi 1 octobre 2026
+francetv://147fbffd-1a50-4f09-81d8-57010cc39177
 #EXTINF:-1 tvg-id="francetv-716f8f0c-bdc3-11f1-960a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/wzYOawOTdh_Ca8kWKczhAfzZpuA/400x0/filters:quality(85)/0/1/7/e009da2823c449e2b93ecea53567e710.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 01/10/2026 - Le fil info après-midi
 francetv://716f8f0c-bdc3-11f1-960a-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-41514e4c-bd9f-11f1-9600-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/cOngvY0eolPEscE1wa3xR4OeCtA/400x0/filters:quality(85)/c/5/f/8aba290f065a43e9bf3444648c586f5c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 01/10/2026 Le fil info 14H
 francetv://41514e4c-bd9f-11f1-9600-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-830c1325-e1ec-4948-9f5e-78d21aa63080" tvg-logo="https://medias.france.tv/MY7t0SMEc5tsIYquVe1rj17e9is/400x0/filters:quality(85)/8/d/e/3d94b66a5d0d4e39862965e56d613ed8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi
+francetv://830c1325-e1ec-4948-9f5e-78d21aa63080
 #EXTINF:-1 tvg-id="francetv-5ebdddac-bd7b-11f1-aefb-57a09c50f7ce" tvg-logo="https://medias.france.tv/gmz-kWkd2_vwFGqyVMDH2p21Xd8/400x0/filters:quality(85)/a/a/3/dd6afedd09424e23a56fb67e5f3fd3aa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 01/10/2026 Le fil info 11H
 francetv://5ebdddac-bd7b-11f1-aefb-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-866b173f-478e-4ced-a734-95cd3d1e3f72" tvg-logo="https://medias.france.tv/5ho0n5d7d8Z67-Gu4WXfLxmIYiA/400x0/filters:quality(85)/7/0/1/421568524c5442b383e639713a09d107.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin
@@ -21865,12 +21873,6 @@ francetv://0e25ae06-392c-40ea-ae70-8908eaecd8e5
 francetv://1ee64f4c-bccd-11f1-87d8-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-05337ffb-5b29-45e3-af26-db61f548631e" tvg-logo="https://medias.france.tv/B4_NQl5HfWc0Wy-fQzh2ggTh1kk/400x0/filters:quality(85)/7/d/c/ed9740731b1940479406bb8903566cd7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du mercredi 30 septembre 2026
 francetv://05337ffb-5b29-45e3-af26-db61f548631e
-#EXTINF:-1 tvg-id="francetv-e3ac9856-e221-401a-aa67-324373d0785d" tvg-logo="https://medias.france.tv/TC3j-svCgaqQ8K8Tx0IMtaqCkWw/400x0/filters:quality(85)/2/f/e/505d5133cca94df08c3702e74aafeef2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du mercredi 30 septembre 2026
-francetv://e3ac9856-e221-401a-aa67-324373d0785d
-#EXTINF:-1 tvg-id="francetv-8b0cc450-4376-45ca-a92c-3e35a1d7b444" tvg-logo="https://medias.france.tv/683ZWe6Mu040i6VDNYsAWl0608U/400x0/filters:quality(85)/7/0/5/9dbc9fe2fd2c4ad99740c74c37738507.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — La matinale
-francetv://8b0cc450-4376-45ca-a92c-3e35a1d7b444
-#EXTINF:-1 tvg-id="francetv-72e12d8b-7a91-422e-b4e4-52a03e590c38" tvg-logo="https://medias.france.tv/Vs0SMOkOFjGeR7F6KzSWEOiBoo0/400x0/filters:quality(85)/3/c/6/3d5d664a1c754a7cb02d3c98b1e646c3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
-francetv://72e12d8b-7a91-422e-b4e4-52a03e590c38
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -22413,10 +22415,10 @@ francetv://program/france-3_un-si-grand-soleil
 francetv://4d402bf8-44d2-496b-8a08-f4bf159326cb
 #EXTINF:-1 tvg-id="francetv-3674da22-23b1-4bff-8e9d-49cae1730d37" tvg-logo="https://medias.france.tv/cG4UJNsR9woX_xVSj5BXGUPZXqk/400x0/filters:quality(85)/b/c/a/f4e012ee0f6043d89c4d7e76af9cfacb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 29 septembre 2026
 francetv://3674da22-23b1-4bff-8e9d-49cae1730d37
-#EXTINF:-1 tvg-id="francetv-434108ee-b10b-436c-a7de-d8716482f71d" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 30 septembre 2026
-francetv://434108ee-b10b-436c-a7de-d8716482f71d
-#EXTINF:-1 tvg-id="francetv-7b6233a7-98c1-4212-a491-b823a7bbcab1" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 1 octobre 2026
-francetv://7b6233a7-98c1-4212-a491-b823a7bbcab1
+#EXTINF:-1 tvg-id="francetv-3f482744-31e5-4599-9603-52acb1aa7d2f" tvg-logo="https://medias.france.tv/yU5s_X7lim98VeomypWYjC6qocU/400x0/filters:quality(85)/j/o/5/phpqsg5oj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 30 septembre 2026
+francetv://3f482744-31e5-4599-9603-52acb1aa7d2f
+#EXTINF:-1 tvg-id="francetv-da50ff1b-b3c8-4978-8cbf-099f3ba8a4f3" tvg-logo="https://medias.france.tv/kIkeCD3v3CCwL_al16W6ens22ZQ/400x0/filters:quality(85)/0/3/n/php4lyn30.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 1 octobre 2026
+francetv://da50ff1b-b3c8-4978-8cbf-099f3ba8a4f3
 #EXTINF:-1 tvg-id="francetv-51c4d875-7f94-42db-814c-6aba78c5cd75" tvg-logo="https://medias.france.tv/kcGHedc0Ct9DubJ43Q4UJnngHMc/400x0/filters:quality(85)/p/r/n/phpueunrp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 2 octobre 2026
 francetv://51c4d875-7f94-42db-814c-6aba78c5cd75
 #EXTINF:-1 tvg-id="francetv-36f09c1e-2426-4c6a-8b96-a1e72b7ce7e2" tvg-logo="https://medias.france.tv/FkwNT8vKwkx2AXWdHK-d1FK8KKE/400x0/filters:quality(85)/j/u/l/phpufrluj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les secrets du Finistère — Le chant des sirènes
@@ -23091,6 +23093,8 @@ francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fo
 francetv://program/societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre
 #EXTINF:-1 tvg-id="francetv-78ed0102-185c-44aa-9ec3-acaebc5e0370" tvg-logo="https://medias.france.tv/155ovZl9AMCYViBYzoQkZf-UlTo/400x0/filters:quality(85)/q/y/v/phpub4vyq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sur le front — Vêtements : le tour du monde en 4 jours
 francetv://78ed0102-185c-44aa-9ec3-acaebc5e0370
+#EXTINF:-1 tvg-id="francetv-4b271ac3-4f37-43d5-9a0f-617fa6923470" tvg-logo="https://medias.france.tv/oSnJh9OlG4-5c8tMRVVoDukigbA/400x0/filters:quality(85)/0/9/2/ff9149f74de74bf6bf8809b1bffb2290.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Justice en France — Tribunal judiciaire de Cambrai-audience correctionnelle-atteinte sexuelle sur mineur
+francetv://4b271ac3-4f37-43d5-9a0f-617fa6923470
 #EXTINF:-1 tvg-id="francetv-25a4a7a2-fd89-4127-b958-eebc844f876a" tvg-logo="https://medias.france.tv/8GY2tEgtqsmf7SwPZYdx5x-VAbo/400x0/filters:quality(85)/f/n/3/php2xk3nf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Grignote-moi si tu peux, les dessous de l'apéritif
 francetv://25a4a7a2-fd89-4127-b958-eebc844f876a
 #EXTINF:-1 tvg-id="francetv-c2cdb7c5-a33c-4e3c-8306-27d29cbb951b" tvg-logo="https://medias.france.tv/ilF9YhBVDy1VJ33eL8fOD5WXwMk/400x0/filters:quality(85)/q/v/v/php9ipvvq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",La vraie histoire de Madonna
@@ -23559,6 +23563,8 @@ francetv://program/france-2_laissez-vous-guider
 francetv://program/france-2_13h15-le-samedi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_13h15-le-dimanche" tvg-logo="https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Nos émissions",13h15, le dimanche
 francetv://program/france-2_13h15-le-dimanche
+#EXTINF:-1 tvg-id="francetv-bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae" tvg-logo="https://medias.france.tv/PicjyX2N7DRkaOMSz-V0Issye8s/400x0/filters:quality(85)/k/g/q/phpia3qgk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Sur mes lèvres
+francetv://bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae
 #EXTINF:-1 tvg-id="francetv-2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6" tvg-logo="https://medias.france.tv/ID_posZ2N4i8EsPA_BoffV12zYo/400x0/filters:quality(85)/9/c/w/phprdowc9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Le ciel attendra
 francetv://2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6
 #EXTINF:-1 tvg-id="francetv-ebdc014a-1960-4756-b8bc-c18e7750e0c8" tvg-logo="https://medias.france.tv/ErB8aIglL4Bz9mSornrDUFExr50/400x0/filters:quality(85)/5/y/q/phprupqy5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Le mystère Henri Pick
@@ -23621,6 +23627,8 @@ francetv://3f99adfe-936b-4097-b409-f4a018bbe16c
 francetv://8324e4d6-d639-48a2-acac-d5827d6199be
 #EXTINF:-1 tvg-id="francetv-ebdc014a-1960-4756-b8bc-c18e7750e0c8" tvg-logo="https://medias.france.tv/ErB8aIglL4Bz9mSornrDUFExr50/400x0/filters:quality(85)/5/y/q/phprupqy5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Le mystère Henri Pick
 francetv://ebdc014a-1960-4756-b8bc-c18e7750e0c8
+#EXTINF:-1 tvg-id="francetv-bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae" tvg-logo="https://medias.france.tv/PicjyX2N7DRkaOMSz-V0Issye8s/400x0/filters:quality(85)/k/g/q/phpia3qgk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Sur mes lèvres
+francetv://bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae
 #EXTINF:-1 tvg-id="francetv-47eb9c89-0438-4e75-bc57-11d31b70f7d6" tvg-logo="https://medias.france.tv/SiAgSE8wTusSKlAY-RgqfqKGa-Y/400x0/filters:quality(85)/l/a/z/phpnahzal.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Victoria
 francetv://47eb9c89-0438-4e75-bc57-11d31b70f7d6
 #EXTINF:-1 tvg-id="francetv-7f20477c-7a56-4203-8fc1-1cc5f3299f2c" tvg-logo="https://medias.france.tv/80bp4NWGEKm0JUm-4bAYHyU2zwk/400x0/filters:quality(85)/e/2/9/8411c3aee5ed4c73bf9a0b4f69f2692e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Rien à foutre
@@ -23851,6 +23859,8 @@ francetv://9f5c8ba1-7e61-4388-ac11-3c5c1f0abe60
 francetv://0c94cad7-0c9a-4a34-bab2-8778daba95b7
 #EXTINF:-1 tvg-id="francetv-2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6" tvg-logo="https://medias.france.tv/ID_posZ2N4i8EsPA_BoffV12zYo/400x0/filters:quality(85)/9/c/w/phprdowc9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Le ciel attendra
 francetv://2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6
+#EXTINF:-1 tvg-id="francetv-bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae" tvg-logo="https://medias.france.tv/PicjyX2N7DRkaOMSz-V0Issye8s/400x0/filters:quality(85)/k/g/q/phpia3qgk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Sur mes lèvres
+francetv://bec2b4bd-b2ae-42f7-8cb6-59a6fe5fb0ae
 #EXTINF:-1 tvg-id="francetv-3791a0e5-414c-43fa-8f06-18970587298b" tvg-logo="https://medias.france.tv/hkT9TbJ886yXV8Aj20c56cVKKeg/400x0/filters:quality(85)/5/f/9/8b7cd73ed1da450baf1d36e6d5f519f5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Camille
 francetv://3791a0e5-414c-43fa-8f06-18970587298b
 #EXTINF:-1 tvg-id="francetv-4608d857-a1ad-40fd-909c-64c15afb8265" tvg-logo="https://medias.france.tv/Em6fBNA6UjwJmuvQ7gMO2Jnq6Us/400x0/filters:quality(85)/e/5/6/bd87a209c39040f1a5710c9de5bc065e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Nell
@@ -24501,6 +24511,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/SlvWLJrESdVgrowgzMoOGQdrP8M/400x0/filters:quality(85)/x/n/e/phpogsenx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
+#EXTINF:-1 tvg-id="francetv-2620eecd-9df5-4aeb-9a57-61efdfecfe72" tvg-logo="https://medias.france.tv/uOvE7nG2iY8YikrG43xMehtaa6E/400x0/filters:quality(85)/c/g/c/php02hcgc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Primaire : le débat
+francetv://2620eecd-9df5-4aeb-9a57-61efdfecfe72
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/sOg9_oe8FMhR1JiqjE-wcTgYxGc/400x0/filters:quality(85)/s/x/r/phpkv0rxs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
 #EXTINF:-1 tvg-id="francetv-06546aad-ece1-42b1-8c5f-73b20a174f63" tvg-logo="https://medias.france.tv/wXFcvVU11d-ZG62aBDGnKoCRQ78/400x0/filters:quality(85)/o/y/u/phpzrfuyo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",C dans l'air — Lycéens, fonctionnaires… Une brusque montée de fièvre
