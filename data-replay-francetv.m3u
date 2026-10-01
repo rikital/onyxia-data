@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Au sein des autres
+francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-e971253c-4aef-4dbf-b83a-f9d39e723770" tvg-logo="https://medias.france.tv/qPcCFI_4GGvPxuGtO9zOpTBHfaE/400x0/filters:quality(85)/a/4/0/34104410c5a24f468d05fe82852c504a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Rendez-vous en terre inconnue — Tony Parker chez les Ovakuvale en Angola
 francetv://e971253c-4aef-4dbf-b83a-f9d39e723770
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sœurs
@@ -151,6 +153,10 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2" tvg-logo="https://medias.france.tv/UiPRgxzHxIrFhw62TZlOWZolfK8/400x0/filters:quality(85)/p/v/h/phprashvp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Monsieur
+francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
+#EXTINF:-1 tvg-id="francetv-cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f" tvg-logo="https://medias.france.tv/nwxOmUNeEdVOKpRdCGfTLWo-bjM/400x0/filters:quality(85)/7/p/f/phpgwjfp7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à... — Meurtres à Amiens
+francetv://cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La Stagiaire
 francetv://program/france-3_la-stagiaire
 #EXTINF:-1 tvg-id="francetv-39c72904-28c7-490b-9ced-731a38c53cbe" tvg-logo="https://medias.france.tv/zX3CGVcsU4svhdRsKwi-SlNpYQY/400x0/filters:quality(85)/h/y/s/phpoopsyh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Des Racines et Des Ailes — Passion patrimoine : la Bretagne d'île en île
@@ -1315,32 +1321,32 @@ francetv://program/france-3_voyages-delices
 francetv://program/france-3_les-temoins-d-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-france-o_passion-outre-mer" tvg-logo="https://medias.france.tv/6V-Bb7cAb1buH1rC4gqi0TghgVA/400x0/filters:quality(85)/k/b/b/phpou0bbk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France Ô",Passion Outremer
 francetv://program/france-o_passion-outre-mer
+#EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Au sein des autres
+francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Sœurs
 francetv://program/france-2_soeurs
+#EXTINF:-1 tvg-id="francetv-a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2" tvg-logo="https://medias.france.tv/UiPRgxzHxIrFhw62TZlOWZolfK8/400x0/filters:quality(85)/p/v/h/phprashvp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Monsieur
+francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
+#EXTINF:-1 tvg-id="francetv-cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f" tvg-logo="https://medias.france.tv/nwxOmUNeEdVOKpRdCGfTLWo-bjM/400x0/filters:quality(85)/7/p/f/phpgwjfp7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Meurtres à... — Meurtres à Amiens
+francetv://cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La Stagiaire
 francetv://program/france-3_la-stagiaire
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-aventurieres" tvg-logo="https://medias.france.tv/cn5DXc_9gaGzpqsDuYvHOXJavLc/400x0/filters:quality(85)/k/i/g/phptokgik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les aventurières
 francetv://program/france-2_les-aventurieres
 #EXTINF:-1 tvg-id="francetv-prog-france-2_tout-pour-agnes" tvg-logo="https://medias.france.tv/9WXlCAVLtqtGIcP8CRS-UveLuFs/400x0/filters:quality(85)/b/p/x/phpds1xpb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Tout pour Agnès
 francetv://program/france-2_tout-pour-agnes
-#EXTINF:-1 tvg-id="francetv-prog-france-2_les-evapores" tvg-logo="https://medias.france.tv/CPtl-k9gmiloFzdiFr9FkeNc4LQ/400x0/filters:quality(85)/8/m/o/phpcpnom8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les évaporés
-francetv://program/france-2_les-evapores
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La mère et l'assassin
 francetv://program/france-2_la-mere-et-l-assassin
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/uG1pGJa2dHhnjDwbHxz9kVCmHgU/400x0/filters:quality(85)/v/z/1/phpmfs1zv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Le Rouge et le Noir
 francetv://program/france-2_le-rouge-et-le-noir
 #EXTINF:-1 tvg-id="francetv-prog-arte_camarades" tvg-logo="https://medias.france.tv/bbL7t3nn1VGUeXaauYTCV9jW7Sw/400x0/filters:quality(85)/o/l/y/phpekvylo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Camarades
 francetv://program/arte_camarades
-#EXTINF:-1 tvg-id="francetv-prog-france-2_dix-pour-cent" tvg-logo="https://medias.france.tv/1JyoF6pnvzsV4cGvQNyTQB2dGDw/400x0/filters:quality(85)/a/5/t/php3jvt5a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Dix pour Cent
-francetv://program/france-2_dix-pour-cent
+#EXTINF:-1 tvg-id="francetv-prog-france-2_capitaine-marleau" tvg-logo="https://medias.france.tv/bwk1s3phUi825JlXc2FMoL22cjQ/400x0/filters:quality(85)/z/m/n/phpp5unmz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau
+francetv://program/france-2_capitaine-marleau
 #EXTINF:-1 tvg-id="francetv-prog-france-3_cassandre" tvg-logo="https://medias.france.tv/2q2Oh0eBPp5QsHV-mPG172wdGy0/400x0/filters:quality(85)/c/7/x/phpevix7c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Cassandre
 francetv://program/france-3_cassandre
 #EXTINF:-1 tvg-id="francetv-prog-france-3_brokenwood" tvg-logo="https://medias.france.tv/C2c1C0sBzLJuPnsv6-pMKYYLMtA/400x0/filters:quality(85)/a/d/f/phphx0fda.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Brokenwood
 francetv://program/france-3_brokenwood
-#EXTINF:-1 tvg-id="francetv-prog-france-2_capitaine-marleau" tvg-logo="https://medias.france.tv/bwk1s3phUi825JlXc2FMoL22cjQ/400x0/filters:quality(85)/z/m/n/phpp5unmz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau
-francetv://program/france-2_capitaine-marleau
-#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_fauchees" tvg-logo="https://medias.france.tv/eCNekR7aBnW5M4XzapeN_XIol68/400x0/filters:quality(85)/3/f/5/6a8e67614527410b899cfe689656f5f3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Fauchées
-francetv://program/tv5-monde_fauchees
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/-gF1l2y0VmQMY-tYS2KueAQRwqI/400x0/filters:quality(85)/t/4/7/phpfyo74t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-4d402bf8-44d2-496b-8a08-f4bf159326cb" tvg-logo="https://medias.france.tv/JEGk9Qk1A1T5Ov7QFxc4uZz7kCo/400x0/filters:quality(85)/r/n/e/phpwftenr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 28 septembre 2026
@@ -2005,8 +2011,8 @@ francetv://program/enfants_neuf-douze-ans_zombie-lars
 francetv://program/enfants_six-huit-ans_fifi-brindacier
 #EXTINF:-1 tvg-id="francetv-e971253c-4aef-4dbf-b83a-f9d39e723770" tvg-logo="https://medias.france.tv/qPcCFI_4GGvPxuGtO9zOpTBHfaE/400x0/filters:quality(85)/a/4/0/34104410c5a24f468d05fe82852c504a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Rendez-vous en terre inconnue — Tony Parker chez les Ovakuvale en Angola
 francetv://e971253c-4aef-4dbf-b83a-f9d39e723770
-#EXTINF:-1 tvg-id="francetv-78ed0102-185c-44aa-9ec3-acaebc5e0370" tvg-logo="https://medias.france.tv/155ovZl9AMCYViBYzoQkZf-UlTo/400x0/filters:quality(85)/q/y/v/phpub4vyq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sur le front — Vêtements : le tour du monde en 4 jours
-francetv://78ed0102-185c-44aa-9ec3-acaebc5e0370
+#EXTINF:-1 tvg-id="francetv-70d29273-71c6-428e-9651-60d0a282d6b6" tvg-logo="https://medias.france.tv/6RQMWAcdqATWon-27FV_7-BErbc/400x0/filters:quality(85)/b/v/o/php6l7ovb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Les 5 vies de la Terre — Les plantes
+francetv://70d29273-71c6-428e-9651-60d0a282d6b6
 #EXTINF:-1 tvg-id="francetv-39c72904-28c7-490b-9ced-731a38c53cbe" tvg-logo="https://medias.france.tv/zX3CGVcsU4svhdRsKwi-SlNpYQY/400x0/filters:quality(85)/h/y/s/phpoopsyh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Des Racines et Des Ailes — Passion patrimoine : la Bretagne d'île en île
 francetv://39c72904-28c7-490b-9ced-731a38c53cbe
 #EXTINF:-1 tvg-id="francetv-c7b45f8f-eee9-4586-98d2-c1d277272c55" tvg-logo="https://medias.france.tv/fktzDrtjqqQca2NE8CEc7tKG-w4/400x0/filters:quality(85)/2/c/2/6583e100914e48658bf7183047f262c2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Monet et les "Nymphéas", l’éternité retrouvée
@@ -2015,22 +2021,20 @@ francetv://c7b45f8f-eee9-4586-98d2-c1d277272c55
 francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-prog-societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre" tvg-logo="https://medias.france.tv/C8W4gzUp2eejjJ1cGzjGc7tDuPc/400x0/filters:quality(85)/f/k/s/phpi0pskf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",À toi qui viens d'apprendre
 francetv://program/societe_sante-et-bien-etre_a-toi-qui-viens-d-apprendre
+#EXTINF:-1 tvg-id="francetv-78ed0102-185c-44aa-9ec3-acaebc5e0370" tvg-logo="https://medias.france.tv/155ovZl9AMCYViBYzoQkZf-UlTo/400x0/filters:quality(85)/q/y/v/phpub4vyq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sur le front — Vêtements : le tour du monde en 4 jours
+francetv://78ed0102-185c-44aa-9ec3-acaebc5e0370
 #EXTINF:-1 tvg-id="francetv-25a4a7a2-fd89-4127-b958-eebc844f876a" tvg-logo="https://medias.france.tv/8GY2tEgtqsmf7SwPZYdx5x-VAbo/400x0/filters:quality(85)/f/n/3/php2xk3nf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Grignote-moi si tu peux, les dessous de l'apéritif
 francetv://25a4a7a2-fd89-4127-b958-eebc844f876a
-#EXTINF:-1 tvg-id="francetv-prog-france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta" tvg-logo="https://medias.france.tv/azHmW_21tisSURpwh9xO9Mcn1RY/400x0/filters:quality(85)/w/r/j/phphsqjrw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Les cercles du silence : L'affaire Le Scouarnec, une histoire d'omerta
-francetv://program/france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta
 #EXTINF:-1 tvg-id="francetv-c2cdb7c5-a33c-4e3c-8306-27d29cbb951b" tvg-logo="https://medias.france.tv/ilF9YhBVDy1VJ33eL8fOD5WXwMk/400x0/filters:quality(85)/q/v/v/php9ipvvq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",La vraie histoire de Madonna
 francetv://c2cdb7c5-a33c-4e3c-8306-27d29cbb951b
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta" tvg-logo="https://medias.france.tv/azHmW_21tisSURpwh9xO9Mcn1RY/400x0/filters:quality(85)/w/r/j/phphsqjrw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Les cercles du silence : L'affaire Le Scouarnec, une histoire d'omerta
+francetv://program/france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta
 #EXTINF:-1 tvg-id="francetv-2ca18cb3-250d-469a-b600-8a57e3754d8c" tvg-logo="https://medias.france.tv/lrIzYGWHacWcUsAu16pGMN0-Plk/400x0/filters:quality(85)/g/s/2/phpdhd2sg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Échappées belles — Corse, les gardiens du Cap
 francetv://2ca18cb3-250d-469a-b600-8a57e3754d8c
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-proces-de-klaus-barbie" tvg-logo="https://medias.france.tv/SXk94N201lVRhI8AaPxT6zgvdBY/400x0/filters:quality(85)/8/j/a/php9dwaj8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Le procès de Klaus Barbie
 francetv://program/france-2_le-proces-de-klaus-barbie
 #EXTINF:-1 tvg-id="francetv-38bf43d7-dc6f-4680-8ee5-ae60c60e881f" tvg-logo="https://medias.france.tv/4rRxp_3fCVcrHvW3Sumubi2UwTA/400x0/filters:quality(85)/g/s/4/phprks4sg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sur la route de Katmandou
 francetv://38bf43d7-dc6f-4680-8ee5-ae60c60e881f
-#EXTINF:-1 tvg-id="francetv-124636c1-5c41-4e41-8644-650bde7a2ea7" tvg-logo="https://medias.france.tv/DJQydT9pSkA8_suOnJiKZ3UesRA/400x0/filters:quality(85)/t/g/w/phpuu0wgt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sans alcool, la fête est-elle plus folle ?
-francetv://124636c1-5c41-4e41-8644-650bde7a2ea7
-#EXTINF:-1 tvg-id="francetv-67c8baca-f600-4db7-949f-44281887ab3d" tvg-logo="https://medias.france.tv/R5T4tKPKFCX7UhghshQHzOT6q_Q/400x0/filters:quality(85)/i/g/x/phpp8vxgi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Science grand format — Toba, le volcan qui a failli tuer l'humanité
-francetv://67c8baca-f600-4db7-949f-44281887ab3d
 #EXTINF:-1 tvg-id="francetv-prog-arte_enquetes-archeologiques" tvg-logo="https://medias.france.tv/vSdTgira5B_zar739Orc3DXtHDI/400x0/filters:quality(85)/2/0/8/f3833a82596b424d9f031dcb39e19802.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Enquêtes archéologiques
 francetv://program/arte_enquetes-archeologiques
 #EXTINF:-1 tvg-id="francetv-8e03f144-b6cb-4338-87db-0f33eb6055a3" tvg-logo="https://medias.france.tv/PvpJouZIafTLgLs6p23EZ3odQE4/400x0/filters:quality(85)/m/d/u/php2j5udm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Science grand format — Le voyage d'Ulysse en Méditerranée : du mythe à la science
@@ -2211,6 +2215,8 @@ francetv://2b92a628-49f8-458e-9f9f-c3e809f83de7
 francetv://program/slash_dans-la-peau-d-une-influenceuse
 #EXTINF:-1 tvg-id="francetv-31b1b701-b97f-412e-8227-66a4c28d0cd7" tvg-logo="https://medias.france.tv/j5qIyRCAGE8OzUrOLpJNQSKLas0/400x0/filters:quality(85)/w/s/g/phpe4bgsw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",42 - La réponse à presque tout — Les Etats peuvent-ils s'endenter sans fin ?
 francetv://31b1b701-b97f-412e-8227-66a4c28d0cd7
+#EXTINF:-1 tvg-id="francetv-c55c6c41-09d2-4cda-8262-b462b0f0ad8c" tvg-logo="https://medias.france.tv/qpjRqW_TK1L7IP4K1LmKSTw1qMc/400x0/filters:quality(85)/2/1/j/phpi2sj12.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",La France en Vrai - Bourgogne-Franche-Comté — Maman a les cheveux blancs
+francetv://c55c6c41-09d2-4cda-8262-b462b0f0ad8c
 #EXTINF:-1 tvg-id="francetv-a82d6de9-ac61-4630-881e-f845d8f96083" tvg-logo="https://medias.france.tv/J3T_KEIgLItfm7kA3g1e0gYDOkQ/400x0/filters:quality(85)/a/f/e/113566885aa44418b98aa9df79376efa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",ARTE Regards — À 18 ans, le saut dans l’inconnu
 francetv://a82d6de9-ac61-4630-881e-f845d8f96083
 #EXTINF:-1 tvg-id="francetv-38bf43d7-dc6f-4680-8ee5-ae60c60e881f" tvg-logo="https://medias.france.tv/4rRxp_3fCVcrHvW3Sumubi2UwTA/400x0/filters:quality(85)/g/s/4/phprks4sg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Sur la route de Katmandou
