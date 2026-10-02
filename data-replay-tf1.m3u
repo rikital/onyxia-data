@@ -2053,14 +2053,14 @@ tf1plus://tf1/santiago-des-mers
 tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-mille-bornes-challenge-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-3a2e30-02b21f-d73c97-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Mille Bornes Challenge
 tf1plus://tf1/mille-bornes-challenge
-#EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
-tf1plus://tf1/les-chapardeurs
 #EXTINF:-1 tvg-id="tf1plus-tf1-heidi-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-heidi-vignette_portrait-9e88c1-7b173e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Heidi
 tf1plus://tf1/heidi
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-enquetes-sauvages-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-c96e95-6d0bef-1099fe-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Enquetes Sauvages
 tf1plus://tf1/les-enquetes-sauvages
 #EXTINF:-1 tvg-id="tf1plus-tf1-molang-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-molang-b152e0-6796d9-f93e80-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Molang
 tf1plus://tf1/molang
+#EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
+tf1plus://tf1/les-chapardeurs
 #EXTINF:-1 tvg-id="tf1plus-tf1-gus-le-chevalier-minus-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bb9f6a-4b2463-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Gus le Chevalier Minus
 tf1plus://tf1/gus-le-chevalier-minus
 #EXTINF:-1 tvg-id="tf1plus-tf1-azuro-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d2b788-6290f1-7b186c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Azuro
@@ -2093,8 +2093,6 @@ tf1plus://tf1/pyjamasques-power-heroes-le-cercle-des-heros
 tf1plus://tf1/le-ranch
 #EXTINF:-1 tvg-id="tf1plus-tf1-barbapapa-270-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_barbapapa-35322a-c44d1e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Barbapapa 270
 tf1plus://tf1/barbapapa-270
-#EXTINF:-1 tvg-id="tf1plus-tf1-sadie-sparks-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-6f5ecc-6f8860-72b6ad-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Sadie Sparks
-tf1plus://tf1/sadie-sparks
 #EXTINF:-1 tvg-id="tf1plus-tf1-sam-sam-pour-les-3-6-ans" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-510719-3eaa48-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour les 3-6 ans",Sam Sam
 tf1plus://tf1/sam-sam
 #EXTINF:-1 tvg-id="tf1plus-tf1-thomas-et-ses-amis-pour-les-3-6-ans" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-thomas-et-ses-amis-s26-71c437-b8ffab-3ff43a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour les 3-6 ans",Thomas et Ses Amis
@@ -2135,6 +2133,8 @@ tf1plus://tf1/winx-club-x-comme-phoenix
 tf1plus://tf1/winx-club-impitoyables-trix
 #EXTINF:-1 tvg-id="tf1plus-tf1-caillou-10-pépites-à-découvrir⭐" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-c8d655-731fdf-a635cb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 10 Pépites à découvrir⭐",Caillou
 tf1plus://tf1/caillou
+#EXTINF:-1 tvg-id="tf1plus-tf1-sadie-sparks-10-pépites-à-découvrir⭐" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-6f5ecc-6f8860-72b6ad-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 10 Pépites à découvrir⭐",Sadie Sparks
+tf1plus://tf1/sadie-sparks
 #EXTINF:-1 tvg-id="tf1plus-tf1-franklin-10-pépites-à-découvrir⭐" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-franklin-ecc27f-96ea9f-9da34c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 10 Pépites à découvrir⭐",Franklin
 tf1plus://tf1/franklin
 #EXTINF:-1 tvg-id="tf1plus-tf1-flapacha-ou-es-tu-10-pépites-à-découvrir⭐" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-flapacha-ou-es-tu-0d7ef4-05dbd3-eccd03-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 10 Pépites à découvrir⭐",Flapacha Ou Es Tu
@@ -2611,8 +2611,6 @@ tf1plus://tf1/kung-foudre
 tf1plus://tf1-series-films/que-du-bonheur
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-peres-meres-et-supporters-les-courts-métrages" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a3bb44-87f894-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les courts-métrages",Peres Meres et Supporters
 tf1plus://tf1-series-films/peres-meres-et-supporters
-#EXTINF:-1 tvg-id="tf1plus-tf1-retour-vers-le-futur-762-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-png-9083fc-52befa-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Retour Vers le Futur 762
-tf1plus://tf1/retour-vers-le-futur-762
 #EXTINF:-1 tvg-id="tf1plus-tf1-iron-maiden-burning-ambition-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-991ca6-f593d0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Iron Maiden Burning Ambition
 tf1plus://tf1/iron-maiden-burning-ambition
 #EXTINF:-1 tvg-id="tf1plus-tf1-autofiction-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-bd6767-96e73c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Autofiction
@@ -5201,6 +5199,8 @@ tf1plus://tf1/retour-vers-lamour
 tf1plus://tf1/retour-vers-le-futur-2-942
 #EXTINF:-1 tvg-id="tf1plus-tf1-retour-vers-le-futur-3-541-smx" tvg-logo="https://photos.tf1.fr/1200/720/retour-vers-le-futur-iii-41403611-1759867749-e959e6-59a611-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Retour vers le futur 3
 tf1plus://tf1/retour-vers-le-futur-3-541
+#EXTINF:-1 tvg-id="tf1plus-tf1-retour-vers-le-futur-762-smx" tvg-logo="https://photos.tf1.fr/1200/720/retour-vers-le-futur-26465826-1759869441-e469c9-094854-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Retour vers le futur
+tf1plus://tf1/retour-vers-le-futur-762
 #EXTINF:-1 tvg-id="tf1plus-tf1-return-man-smx" tvg-logo="https://photos.tf1.fr/1200/720/return-man-65407f-7a86aa-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Return Man
 tf1plus://tf1/return-man
 #EXTINF:-1 tvg-id="tf1plus-tf1-revoir-paris-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-1be83a-93d4c4-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Revoir Paris
