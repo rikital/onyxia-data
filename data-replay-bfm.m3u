@@ -867,6 +867,8 @@ bfmplay://NEUF_BFMTV_BFM1021152766601A
 bfmplay://NEUF_BFMTV_BFM1021080916544
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021080916531" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/3/5/5e28e71b80418bfff6a60ca9c115a68a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Affaire suivante",Les disparues de Saône-et-Loire : un cold case toujours non élucidé
 bfmplay://NEUF_BFMTV_BFM1021080916531
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001062" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/6/0/6ce31d3cbf3ba3dcb4f37fc7f65162a0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Super Moscato Show - Olise doit-il être le patron ?
+bfmplay://NEUF_BFMRADIO_BRA50000000001062
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001061" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/1/6/0/6f9c3c87b214fa3bb69a4cb4bd1369e0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Super Moscato Show - Le coup de tête a-t-il renforcé la légende de Zidane ?
 bfmplay://NEUF_BFMRADIO_BRA50000000001061
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001060" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/6/0/dbf9c30b990522d6d7f3936b7a5db442_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Super Moscato Show - Faut-il arrêter la fixette sur la mêlée française ?
@@ -1103,8 +1105,6 @@ bfmplay://NEUF_BFMRADIO_BRA50000000000992
 bfmplay://NEUF_BFMRADIO_BRA50000000000991
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000982" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/8/9/43a6e4d0c5d69e4876d4725016e9c8af_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Génération After Foot - Le PSG doit faire attention à ne pas jouer avec le feu en L1 - Partie 2
 bfmplay://NEUF_BFMRADIO_BRA50000000000982
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000000981" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/1/8/9/22394a4ebaa350e8003b49bebe2d6d52_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Génération After Foot - Mbappé est-il en train de saccager son image ? - Partie 1
-bfmplay://NEUF_BFMRADIO_BRA50000000000981
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000985" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/5/8/9/d507369db4343a760a1b29e06077bc6d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",La grande interview d'Hedwige Chevrillon - Édition spéciale du 1er octobre 2026
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000985
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000928" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/8/2/9/b5844283e2f97c1a89471320f1334e1d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",La grande interview d'Hedwige Chevrillon - Émission du 24 septembre 2026
@@ -7113,6 +7113,14 @@ bfmplay://NEUF_BFMTV_BFM1020921870287
 bfmplay://NEUF_BFMTV_BFM983084407527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021017370992" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/9/9/caff23bf6b7e4954d277ef1cd0284e91_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM Business - Les grands reportages BFM TV",JD Vance, plus Trump que Trump
 bfmplay://NEUF_BFMTV_BFM1021017370992
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523618" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/1/6/a7b439c2c8da3acb70e5ab3c0ccd79ae_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E10 - Dans leur salon (4)
+bfmplay://NEUF_RMC_LIFE_RIF1020943523618
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523607" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/6/9ef3d08f118fea3646aff77226bbc30b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E9 - Dans leur lit (3)
+bfmplay://NEUF_RMC_LIFE_RIF1020943523607
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523596" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/6/9/5/7e488b09e0b47b239b6dfd9bb4333509_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E8 - En plein ménage (2)
+bfmplay://NEUF_RMC_LIFE_RIF1020943523596
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523585" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/8/5/af08524f6d6d615d4a082d7729960f95_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E7 - À l'île Maurice (5)
+bfmplay://NEUF_RMC_LIFE_RIF1020943523585
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523574" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/4/7/5/c91bb6b25ddacb01553a870ae9a31d86_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E6 - À l'île Maurice (4)
 bfmplay://NEUF_RMC_LIFE_RIF1020943523574
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943523563" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/5/511fedbbaaace1be68aeb5f377a4d08d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - CARROUSEL A LA UNE - RMCL",Un gars, une fille - S5E5 - À l'île Maurice (3)
@@ -9833,8 +9841,6 @@ bfmplay://NEUF_RMCDEC_RMC1020909391889
 bfmplay://NEUF_RMCDEC_RMC1020917651774
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936093511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/1/5/1a9c8be5beb9c7f128d980d5dc13e91a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Celtes : les mystères d'une civilisation disparue
 bfmplay://NEUF_RMCDEC_RMC1020936093511
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",San Andreas : l'apocalypse bientôt en Californie ?
-bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
 bfmplay://NEUF_RMCDEC_RMC1020915593664
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593678" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/7/6/497ca129bfa42e12348d2fbc55aa72c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E3 - L'âge d'or de l'empire du soleil
@@ -10011,6 +10017,8 @@ bfmplay://NEUF_RMCDEC_RMC970532584527
 bfmplay://NEUF_RMCDEC_RMC971614324527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917851525" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/2/5/24a1a8438c51b929a96cf6ee0e0a5c82_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Sous-marins nucléaires : les armes de l'ombre
 bfmplay://NEUF_RMCDEC_RMC1020917851525
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",San Andreas : l'apocalypse bientôt en Californie ?
+bfmplay://NEUF_RMCDEC_RMC892203776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC988306518527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/f276fc4de659b9115bcd75ef58682e55_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Implosion du Titan : destination finale vers le Titanic
 bfmplay://NEUF_RMCDEC_RMC988306518527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC963259132527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/2f92ea0d0613595d6dfd981bf0d085bb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Le Pic du Midi : mégastructure de génie
