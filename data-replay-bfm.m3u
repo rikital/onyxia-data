@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244033" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/3/0/145d4ecce3ff1a9658a226b7e8c59ca9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Édouard Geffray face à Apolline de Malherbe
+bfmplay://NEUF_BFMTV_BFM1021151244033
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151243997" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/9/9/749c0df9354ce12146b96346ecdcc01b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Bruno Retailleau face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151243997
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244195" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/5/9/1/e9c05ba0b17371bd2d553d61c86af2eb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Raphaël Glucksmann face à Apolline de Malherbe
@@ -341,8 +343,6 @@ bfmplay://NEUF_BFMTV_BFM1021151240383
 bfmplay://NEUF_BFMTV_BFM1021151240131
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240377" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/7/3/365deaf54abcf0a7f3ee2fb74986cacd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 21 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151240377
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151239999" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/9/9/a538bd40f10480d0e565160f0414fb6d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 18 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151239999
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246298" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/9/2/1c96602f1e6de370e06adcbdd249e983_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Edition spéciale : le Pape Leon XIV en France
 bfmplay://NEUF_BFMTV_BFM1021151246298
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246628" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/2/6/2c0ba1ca8c1b80ee90fb79cdb6972a6b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 24 septembre 2026
@@ -1471,8 +1471,6 @@ bfmplay://NEUF_NUM23_N231021132022178
 bfmplay://NEUF_NUM23_N231021132022164
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022150" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/5/1/c646716f75123b69d9c703915588cf5f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - "Les gilets jaune saison 2, un fantasme", dit le ministre de l'Economie : d'accord ou pas ?
 bfmplay://NEUF_NUM23_N231021132022150
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022136" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/3/1/2f08f59efff3f103c96fe6ae6f2f0bf3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Teddy Riner inquiet de voir la montée de l’extrême droite en France : A-t-il raison ou doit-il se taire ?
-bfmplay://NEUF_NUM23_N231021132022136
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313342" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/4/3/510d4feaea19b59b7612105177897357_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 1er octobre 2026
 bfmplay://NEUF_NUM23_N231021147313342
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313329" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/2/3/b3396394e404188707ec29343b5da7ab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 30 septembre 2026
@@ -2943,6 +2941,326 @@ bfmplay://NEUF_NUM23_N231020926224058
 bfmplay://NEUF_NUM23_N231020926224065
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020926227653" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/5/6/59e37bf9a9d561a93748f30a57ab57e3_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - C'est l'heure du crime",Charles Manson : 40 ans après
 bfmplay://NEUF_NUM23_N231020926227653
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482227" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/2/b10453fca5a6325a8e572227c9a3706c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E46 - Episode 46
+bfmplay://NEUF_RMC_LIFE_RIF1021140482227
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482299" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/2/261e4eddc34f1250f4670573080572c6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E55 - Episode 55
+bfmplay://NEUF_RMC_LIFE_RIF1021140482299
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481891" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/8/4beaa1056786a9c3bae755ea67c80d2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E4 - Episode 4
+bfmplay://NEUF_RMC_LIFE_RIF1021140481891
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481955" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/9/fc1b49e2e334127039ea7ae39950c805_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E12 - Episode 12
+bfmplay://NEUF_RMC_LIFE_RIF1021140481955
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482595" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/5/cb89c84264e955ce246b4937ab357dc4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E92 - Episode 92
+bfmplay://NEUF_RMC_LIFE_RIF1021140482595
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482579" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/5/16be64bfa6417cc26d9e3bb460625f18_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E90 - Episode 90
+bfmplay://NEUF_RMC_LIFE_RIF1021140482579
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482731" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/7/56a325650ac5345de44fc1c12343a4aa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E109 - Episode 109
+bfmplay://NEUF_RMC_LIFE_RIF1021140482731
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481907" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/9/32dd9b4aa97b062538f2a7cab72e0277_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E6 - Episode 6
+bfmplay://NEUF_RMC_LIFE_RIF1021140481907
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482867" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/8/3c33716b350727e8e1fce0f18501b910_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E126 - Episode 126
+bfmplay://NEUF_RMC_LIFE_RIF1021140482867
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482091" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/0/b1993158e0b1758e43131f7bd8066790_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E29 - Episode 29
+bfmplay://NEUF_RMC_LIFE_RIF1021140482091
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482947" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/9/95731bd97cd45339fefb22a92fa6488f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E136 - Episode 136
+bfmplay://NEUF_RMC_LIFE_RIF1021140482947
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482739" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/7/d33ee6efd864562568caffd99c117e6b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E110 - Episode 110
+bfmplay://NEUF_RMC_LIFE_RIF1021140482739
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482267" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/2/7878afafcbc474248a2b3078106b9ef1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E51 - Episode 51
+bfmplay://NEUF_RMC_LIFE_RIF1021140482267
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482779" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/7/6582393e291a26d82d11294d09e67a68_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E115 - Episode 115
+bfmplay://NEUF_RMC_LIFE_RIF1021140482779
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482587" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/5/7569615745a5301b41d0571916013b18_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E91 - Episode 91
+bfmplay://NEUF_RMC_LIFE_RIF1021140482587
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482795" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/7/3961e74abd692b0f118d6f02d4ec7c62_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E117 - Episode 117
+bfmplay://NEUF_RMC_LIFE_RIF1021140482795
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482827" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/8/437c1de6ecf904a1ed75e0793676df7f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E121 - Episode 121
+bfmplay://NEUF_RMC_LIFE_RIF1021140482827
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482155" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/1/427374b58c63731cb74bfd38726ff508_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E37 - Episode 37
+bfmplay://NEUF_RMC_LIFE_RIF1021140482155
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482955" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/9/39f5259e5da0c58c955fb01705a0052e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E137 - Episode 137
+bfmplay://NEUF_RMC_LIFE_RIF1021140482955
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481899" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/8/71356d433d03eb7ccdff9c69b9911ee9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E5 - Episode 5
+bfmplay://NEUF_RMC_LIFE_RIF1021140481899
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482187" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/1/6a9fdd8c5a4a4626c7192916196855e5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E41 - Episode 41
+bfmplay://NEUF_RMC_LIFE_RIF1021140482187
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482811" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/8/325ee1e5e1d24465282bac24ae8edc65_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E119 - Episode 119
+bfmplay://NEUF_RMC_LIFE_RIF1021140482811
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482755" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/7/834ef5ec97c7e5022e44b4393943231c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E112 - Episode 112
+bfmplay://NEUF_RMC_LIFE_RIF1021140482755
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482691" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/6/b91a7e22f5ac0dc0b9e9b8fbd96b12b1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E104 - Episode 104
+bfmplay://NEUF_RMC_LIFE_RIF1021140482691
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481923" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/9/434397c9a1484b87e759de233befd856_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E8 - Episode 8
+bfmplay://NEUF_RMC_LIFE_RIF1021140481923
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482259" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/2/5a9cb47f5808f09a7ec20c62dbce889c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E50 - Episode 50
+bfmplay://NEUF_RMC_LIFE_RIF1021140482259
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482675" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/6/1af925d33fc5b66f286c9a925cc91f6f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E102 - Episode 102
+bfmplay://NEUF_RMC_LIFE_RIF1021140482675
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482163" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/1/6d2cf0638b4188c6f8215984bcbb4cc2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E38 - Episode 38
+bfmplay://NEUF_RMC_LIFE_RIF1021140482163
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482515" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/5/47becc87f43b8a4c6a2a93dbf28babde_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E82 - Episode 82
+bfmplay://NEUF_RMC_LIFE_RIF1021140482515
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482995" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/9/bde0db3a655100ce7194b4212b24b296_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E142 - Episode 142
+bfmplay://NEUF_RMC_LIFE_RIF1021140482995
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482195" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/1/64bbe4abcb9e3eac3de6e61fc5d0fabc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E42 - Episode 42
+bfmplay://NEUF_RMC_LIFE_RIF1021140482195
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481987" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/9/e930a62c2cbe24a1f7d3b4b7a1054f9d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E16 - Episode 16
+bfmplay://NEUF_RMC_LIFE_RIF1021140481987
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482099" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/0/a0b929b0a8ef672899e92c0f1b4fb87e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E30 - Episode 30
+bfmplay://NEUF_RMC_LIFE_RIF1021140482099
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481971" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/9/73134a0c028f4ee0dd73c4935a44bfe6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E14 - Episode 14
+bfmplay://NEUF_RMC_LIFE_RIF1021140481971
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481939" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/9/b2df2547cace8433babb31ac2e66b9ec_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E10 - Episode 10
+bfmplay://NEUF_RMC_LIFE_RIF1021140481939
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482667" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/6/f38f232a9e35680f7bd06a5d5d864c8f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E101 - Episode 101
+bfmplay://NEUF_RMC_LIFE_RIF1021140482667
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483003" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/0/b52f271dcda7632e4bfe0500b214dcc7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E143 - Episode 143
+bfmplay://NEUF_RMC_LIFE_RIF1021140483003
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482323" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/3/abb1c0dfb1f5e5eb9fe7fd711bea67aa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E58 - Episode 58
+bfmplay://NEUF_RMC_LIFE_RIF1021140482323
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482171" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/1/4ce48ec27f2064cc077f9920f30c5c95_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E39 - Episode 39
+bfmplay://NEUF_RMC_LIFE_RIF1021140482171
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482291" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/2/b5fd14fda9f60d5a26c4d41228917a6c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E54 - Episode 54
+bfmplay://NEUF_RMC_LIFE_RIF1021140482291
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482547" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/5/087ef46e74c3b511377d5c2402601b78_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E86 - Episode 86
+bfmplay://NEUF_RMC_LIFE_RIF1021140482547
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482771" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/7/f4a7029cd2e4e8bf56e00738e557eddb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E114 - Episode 114
+bfmplay://NEUF_RMC_LIFE_RIF1021140482771
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482699" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/6/5d9d368476e475cd06ebbcfd1ce8405b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E105 - Episode 105
+bfmplay://NEUF_RMC_LIFE_RIF1021140482699
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482403" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/4/f74aa6f0ecd077d6c4024c00da9cfcb3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E68 - Episode 68
+bfmplay://NEUF_RMC_LIFE_RIF1021140482403
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482707" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/7/50f83dd9b2319b09cffda7fc02526251_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E106 - Episode 106
+bfmplay://NEUF_RMC_LIFE_RIF1021140482707
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482395" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/3/21de2bc95e09fcd8178ccda1a7c43872_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E67 - Episode 67
+bfmplay://NEUF_RMC_LIFE_RIF1021140482395
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481963" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/9/4fb1bc0ca9e9af3d0f36ca048aa315cf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E13 - Episode 13
+bfmplay://NEUF_RMC_LIFE_RIF1021140481963
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482883" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/8/ff5a0830222fc841262b1e6ee78754fa_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E128 - Episode 128
+bfmplay://NEUF_RMC_LIFE_RIF1021140482883
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482203" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/2/e0417bb7547c63db9d4cec18f40f56f5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E43 - Episode 43
+bfmplay://NEUF_RMC_LIFE_RIF1021140482203
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482147" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/1/ee49ccb58175d8e6f2d6d64f9e2b4e06_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E36 - Episode 36
+bfmplay://NEUF_RMC_LIFE_RIF1021140482147
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482235" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/2/9e355be983fc35b2b14632bac7a4820d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E47 - Episode 47
+bfmplay://NEUF_RMC_LIFE_RIF1021140482235
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482659" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/6/b9deb32bb0836313c24fde6331cb98ff_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E100 - Episode 100
+bfmplay://NEUF_RMC_LIFE_RIF1021140482659
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482459" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/4/d51aa719a25aeac31a8ff4fcf6dcb3c1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E75 - Episode 75
+bfmplay://NEUF_RMC_LIFE_RIF1021140482459
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482003" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/0/c53fc0c1f779ad2b0389cf29a3e95f55_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E18 - Episode 18
+bfmplay://NEUF_RMC_LIFE_RIF1021140482003
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482539" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/5/9fe1d67c7901839bf7cd2214d6be4cc4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E85 - Episode 85
+bfmplay://NEUF_RMC_LIFE_RIF1021140482539
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482387" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/3/0a77051592e6090878a8a4de4dc63941_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E66 - Episode 66
+bfmplay://NEUF_RMC_LIFE_RIF1021140482387
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482563" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/5/7f840053b65392a06381ab9fb7e23d31_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E88 - Episode 88
+bfmplay://NEUF_RMC_LIFE_RIF1021140482563
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482891" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/8/f6308053007e7d81ce3ecbf7c084bff5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E129 - Episode 129
+bfmplay://NEUF_RMC_LIFE_RIF1021140482891
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482467" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/4/4ba492baea4e54c3558c4e99131942d2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E76 - Episode 76
+bfmplay://NEUF_RMC_LIFE_RIF1021140482467
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483043" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/0/0c47811cd467761ac0c06c28f9514ea1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E148 - Episode 148
+bfmplay://NEUF_RMC_LIFE_RIF1021140483043
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482283" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/2/6b9d780b9073116a4611abdbe091b2c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E53 - Episode 53
+bfmplay://NEUF_RMC_LIFE_RIF1021140482283
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482963" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/9/e78ecc06da92f9de1522b2d6dd7d09b5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E138 - Episode 138
+bfmplay://NEUF_RMC_LIFE_RIF1021140482963
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482483" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/4/5a1650c98f1225ed5b2588a49242f797_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E78 - Episode 78
+bfmplay://NEUF_RMC_LIFE_RIF1021140482483
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482427" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/4/55a4e252ce768e51cecd1bc61c8c8bec_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E71 - Episode 71
+bfmplay://NEUF_RMC_LIFE_RIF1021140482427
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482555" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/5/fadd6007d0567308f92e1124ee2d9059_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E87 - Episode 87
+bfmplay://NEUF_RMC_LIFE_RIF1021140482555
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482411" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/4/b8fb1c7017d40f42a326fe5c2f8af8a3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E69 - Episode 69
+bfmplay://NEUF_RMC_LIFE_RIF1021140482411
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482363" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/3/83afa42928cd84bc86d34998135915d7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E63 - Episode 63
+bfmplay://NEUF_RMC_LIFE_RIF1021140482363
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482219" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/2/1082338d477b25d83c3bc83d5bbf1f6c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E45 - Episode 45
+bfmplay://NEUF_RMC_LIFE_RIF1021140482219
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483051" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/0/f16c1548c96439cfba195106df646382_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E149 - Episode 149
+bfmplay://NEUF_RMC_LIFE_RIF1021140483051
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483035" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/0/cee0a3fc5a1fca322d5d14010b290a18_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E147 - Episode 147
+bfmplay://NEUF_RMC_LIFE_RIF1021140483035
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482979" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/9/ec490b41e1b6a820943255f4c6e4be99_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E140 - Episode 140
+bfmplay://NEUF_RMC_LIFE_RIF1021140482979
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482915" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/9/3f24684f8090f2b01b03eaf5e1012871_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E132 - Episode 132
+bfmplay://NEUF_RMC_LIFE_RIF1021140482915
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482315" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/3/fcf64f94a73e433b39bd55619b722ce0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E57 - Episode 57
+bfmplay://NEUF_RMC_LIFE_RIF1021140482315
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482747" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/7/00b9963ca205d50f588db224125a0c9f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E111 - Episode 111
+bfmplay://NEUF_RMC_LIFE_RIF1021140482747
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482787" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/7/918a84bfcaf284db1b7d215f5dfe5fed_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E116 - Episode 116
+bfmplay://NEUF_RMC_LIFE_RIF1021140482787
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482651" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/6/4d4149c5905119bd2ac52e508f1ea243_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E99 - Episode 99
+bfmplay://NEUF_RMC_LIFE_RIF1021140482651
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482603" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/6/f84c642da9f4c996c765e31295625527_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E93 - Episode 93
+bfmplay://NEUF_RMC_LIFE_RIF1021140482603
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482275" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/2/234f45de52fc47374ddb6f3f17990f1a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E52 - Episode 52
+bfmplay://NEUF_RMC_LIFE_RIF1021140482275
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482251" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/2/f5966ae8b8f92bf294279ebdae03e5be_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E49 - Episode 49
+bfmplay://NEUF_RMC_LIFE_RIF1021140482251
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482803" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/0/8/4f3a301523be08a3003ce93bca46942a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E118 - Episode 118
+bfmplay://NEUF_RMC_LIFE_RIF1021140482803
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482851" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/8/4297ce850058e93eea3fea0b3060ad72_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E124 - Episode 124
+bfmplay://NEUF_RMC_LIFE_RIF1021140482851
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482643" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/6/838f8461d9a44c19c649ab8fe3d7e345_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E98 - Episode 98
+bfmplay://NEUF_RMC_LIFE_RIF1021140482643
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483067" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/0/90c14151eb3e04b1ede74380e8ffe15e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E151 - Episode 151
+bfmplay://NEUF_RMC_LIFE_RIF1021140483067
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482931" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/9/1f7a0fd19c3cb7c3aa4d2ed77dde6214_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E134 - Episode 134
+bfmplay://NEUF_RMC_LIFE_RIF1021140482931
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482723" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/7/782bdba0d2cb9dc2b36a4778c3aedb38_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E108 - Episode 108
+bfmplay://NEUF_RMC_LIFE_RIF1021140482723
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482619" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/6/a8aa2e2e727402aa137431cbf330df67_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E95 - Episode 95
+bfmplay://NEUF_RMC_LIFE_RIF1021140482619
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483027" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/0/2c3fa8506eb17ebd4f977c5c84f78f85_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E146 - Episode 146
+bfmplay://NEUF_RMC_LIFE_RIF1021140483027
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482331" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/3/89f79c3b749adcbccefb2c0062756152_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E59 - Episode 59
+bfmplay://NEUF_RMC_LIFE_RIF1021140482331
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482307" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/3/fed6f66f30fa07f5c846d8a89250ace3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E56 - Episode 56
+bfmplay://NEUF_RMC_LIFE_RIF1021140482307
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481979" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/9/c35eac6af8094c6d0060246693a03e9d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E15 - Episode 15
+bfmplay://NEUF_RMC_LIFE_RIF1021140481979
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481915" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/9/a0053c72c9dcfb8226cc0adec706c236_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E7 - Episode 7
+bfmplay://NEUF_RMC_LIFE_RIF1021140481915
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482939" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/9/5acf1f1f60879202c081bade0fce1f7d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E135 - Episode 135
+bfmplay://NEUF_RMC_LIFE_RIF1021140482939
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482635" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/6/9cf8bf806373cb9cfa12e15f9973b4a9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E97 - Episode 97
+bfmplay://NEUF_RMC_LIFE_RIF1021140482635
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482475" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/4/59a25f48bf5911a782db711096adb0a2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E77 - Episode 77
+bfmplay://NEUF_RMC_LIFE_RIF1021140482475
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482907" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/9/fa51dc7f1811b80c4a812bce97f93174_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E131 - Episode 131
+bfmplay://NEUF_RMC_LIFE_RIF1021140482907
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482491" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/4/b8c109fb42697035fa8a0d9b0b654296_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E79 - Episode 79
+bfmplay://NEUF_RMC_LIFE_RIF1021140482491
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482419" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/4/d38cae861dc4817d090aab6edf3bb520_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E70 - Episode 70
+bfmplay://NEUF_RMC_LIFE_RIF1021140482419
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482339" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/3/082f238f76ec9ff617793e211e1e31f6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E60 - Episode 60
+bfmplay://NEUF_RMC_LIFE_RIF1021140482339
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482859" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/8/e0119e3137ee22eafe7dbaf3d2cba072_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E125 - Episode 125
+bfmplay://NEUF_RMC_LIFE_RIF1021140482859
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482347" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/3/d762a1914164697b62e6efcc1f764d19_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E61 - Episode 61
+bfmplay://NEUF_RMC_LIFE_RIF1021140482347
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482451" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/4/7acf8470eae010f46f13218a6e8f3fbf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E74 - Episode 74
+bfmplay://NEUF_RMC_LIFE_RIF1021140482451
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482243" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/2/3afafe485689c27018e8b3dd1da44554_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E48 - Episode 48
+bfmplay://NEUF_RMC_LIFE_RIF1021140482243
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482499" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/4/1c54b86cd2fccf9239c469115509c766_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E80 - Episode 80
+bfmplay://NEUF_RMC_LIFE_RIF1021140482499
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482107" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/1/fa004c4ea67f8aee4bbe04b9423c9c6d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E31 - Episode 31
+bfmplay://NEUF_RMC_LIFE_RIF1021140482107
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482763" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/6/7/e52db2062b8451f01479e0a73668e649_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E113 - Episode 113
+bfmplay://NEUF_RMC_LIFE_RIF1021140482763
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482443" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/4/a4bdd5ed75d8c203d57d22fc7f0265c5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E73 - Episode 73
+bfmplay://NEUF_RMC_LIFE_RIF1021140482443
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482027" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/0/40759a92ce749a69a11ef9abf39964f2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E21 - Episode 21
+bfmplay://NEUF_RMC_LIFE_RIF1021140482027
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482355" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/5/3/cacb424eafb7a7d43f0427442c013cee_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E62 - Episode 62
+bfmplay://NEUF_RMC_LIFE_RIF1021140482355
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482819" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/8/f3339e13c13117e68dbc1c98b0d35918_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E120 - Episode 120
+bfmplay://NEUF_RMC_LIFE_RIF1021140482819
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482379" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/3/eb23b08af75e9408796f38613e9b3c92_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E65 - Episode 65
+bfmplay://NEUF_RMC_LIFE_RIF1021140482379
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483059" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/0/76f0579f77c10de0dc4fc5bc25f07650_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E150 - Episode 150
+bfmplay://NEUF_RMC_LIFE_RIF1021140483059
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482923" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/9/b137b1870b91cb12fe008b28f0b3932f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E133 - Episode 133
+bfmplay://NEUF_RMC_LIFE_RIF1021140482923
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482435" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/4/28abc1df8c162c47e25758b6128341f0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E72 - Episode 72
+bfmplay://NEUF_RMC_LIFE_RIF1021140482435
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482611" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/6/2303841ccb733690aa063793ea416317_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E94 - Episode 94
+bfmplay://NEUF_RMC_LIFE_RIF1021140482611
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482067" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/6/0/7f01fc4131bfdebf10eed365c3b632cb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E26 - Episode 26
+bfmplay://NEUF_RMC_LIFE_RIF1021140482067
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482211" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/2/dd10d5d1f37e410e288a7070cf29ae9d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E44 - Episode 44
+bfmplay://NEUF_RMC_LIFE_RIF1021140482211
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482123" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/1/f2ebabb9e331426b170f54645e20d39b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E33 - Episode 33
+bfmplay://NEUF_RMC_LIFE_RIF1021140482123
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482051" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/5/0/6e9a8310e79bd7d427862bfb92f50a9d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E24 - Episode 24
+bfmplay://NEUF_RMC_LIFE_RIF1021140482051
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483083" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/0/452d586f20c7cc4b1edd0e06b64bc4d6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E153 - Episode 153
+bfmplay://NEUF_RMC_LIFE_RIF1021140483083
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482715" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/7/f681805c67dbe5f12e9b524f6d6e9e33_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E107 - Episode 107
+bfmplay://NEUF_RMC_LIFE_RIF1021140482715
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482139" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/1/a07e918109c76347a8116d263709af79_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E35 - Episode 35
+bfmplay://NEUF_RMC_LIFE_RIF1021140482139
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483099" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/0/664196621b9a2736d65fa39617d320d2_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E155 - Episode 155
+bfmplay://NEUF_RMC_LIFE_RIF1021140483099
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482507" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/5/19a1ba42a9787afaefa38d9d904f1053_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E81 - Episode 81
+bfmplay://NEUF_RMC_LIFE_RIF1021140482507
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482059" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/5/0/75b6b615b28c49e670b495e21d353054_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E25 - Episode 25
+bfmplay://NEUF_RMC_LIFE_RIF1021140482059
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482843" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/8/95e044258f3d0b4062ca2a9bdf5decff_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E123 - Episode 123
+bfmplay://NEUF_RMC_LIFE_RIF1021140482843
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482627" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/6/0d982ae8e9a86221ab249cb0e51a498c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E96 - Episode 96
+bfmplay://NEUF_RMC_LIFE_RIF1021140482627
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482987" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/9/89edfe8c4cd48a8486c44fe4fae9520c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E141 - Episode 141
+bfmplay://NEUF_RMC_LIFE_RIF1021140482987
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483107" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/0/1/107cc4f0d30cc47b06186589d6383ab6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E156 - Episode 156
+bfmplay://NEUF_RMC_LIFE_RIF1021140483107
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482835" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/8/2c1389d49e17d2564e8ea12b68ed0bb7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E122 - Episode 122
+bfmplay://NEUF_RMC_LIFE_RIF1021140482835
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482083" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/0/05b45f4657bed5e355732665763ed6ef_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E28 - Episode 28
+bfmplay://NEUF_RMC_LIFE_RIF1021140482083
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482115" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/1/c1e3d28599daf42bb3890ad648f611b5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E32 - Episode 32
+bfmplay://NEUF_RMC_LIFE_RIF1021140482115
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483075" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/0/3816b7065f4195b80392bf2889492602_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E152 - Episode 152
+bfmplay://NEUF_RMC_LIFE_RIF1021140483075
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481947" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/4/9/c5225fa0f8f7d1300b41fd2a7b9077e9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E11 - Episode 11
+bfmplay://NEUF_RMC_LIFE_RIF1021140481947
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482899" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/9/8/dc30a1c786bb7f7c7ac1fe4289b3351d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E130 - Episode 130
+bfmplay://NEUF_RMC_LIFE_RIF1021140482899
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482011" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/0/df2dfb1709ad8ad688e5ac1b29031ec5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E19 - Episode 19
+bfmplay://NEUF_RMC_LIFE_RIF1021140482011
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482571" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/5/ea4d81feccfc764018e8f71b116b3294_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E89 - Episode 89
+bfmplay://NEUF_RMC_LIFE_RIF1021140482571
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482875" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/8/90f672ed56cdaca3bf2fc6b0d331e2a1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E127 - Episode 127
+bfmplay://NEUF_RMC_LIFE_RIF1021140482875
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483011" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/1/0/964cf32fa6fd4dcba91e4e6f017de8cd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E144 - Episode 144
+bfmplay://NEUF_RMC_LIFE_RIF1021140483011
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482019" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/0/b666335d1598ac23826450d6f50dd3c3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E20 - Episode 20
+bfmplay://NEUF_RMC_LIFE_RIF1021140482019
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483115" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/1/1/8bb903e2888963aba381e9a11eb6a637_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E157 - Episode 157
+bfmplay://NEUF_RMC_LIFE_RIF1021140483115
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482035" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/3/0/5490516094609e295e139012b7ea7737_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E22 - Episode 22
+bfmplay://NEUF_RMC_LIFE_RIF1021140482035
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482971" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/9/5ef268deeac90b75bdcb380484d57e0e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E139 - Episode 139
+bfmplay://NEUF_RMC_LIFE_RIF1021140482971
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482371" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/7/3/168920e85737a5af252ce0438720c203_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E64 - Episode 64
+bfmplay://NEUF_RMC_LIFE_RIF1021140482371
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483091" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/9/0/6c3279b3812061145cbb82d2f64a0bf0_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E154 - Episode 154
+bfmplay://NEUF_RMC_LIFE_RIF1021140483091
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482683" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/6/162d31fa2ebc762f3b2cbfb7602e57a6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E103 - Episode 103
+bfmplay://NEUF_RMC_LIFE_RIF1021140482683
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481931" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/9/f8a9d579e99d19a913c8ff4e5a285292_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E9 - Episode 9
+bfmplay://NEUF_RMC_LIFE_RIF1021140481931
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482179" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/7/1/e5a24e260597f6d097ceab5b795c3063_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E40 - Episode 40
+bfmplay://NEUF_RMC_LIFE_RIF1021140482179
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482523" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/5/4b67e901d1a737fe2d6701e03b77b49b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E83 - Episode 83
+bfmplay://NEUF_RMC_LIFE_RIF1021140482523
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482131" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/1/48f3b2f52398a606a7e5a7cb7d833a8f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E34 - Episode 34
+bfmplay://NEUF_RMC_LIFE_RIF1021140482131
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481995" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/9/9/77dd1959ca68b4bb98e1f168b13831fe_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E17 - Episode 17
+bfmplay://NEUF_RMC_LIFE_RIF1021140481995
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483123" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/2/1/c9c9843d969ed12f4ded1b704e478a3d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E158 - Episode 158
+bfmplay://NEUF_RMC_LIFE_RIF1021140483123
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482531" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/5/2787c8b17c32a8a4f64347d09573e80b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E84 - Episode 84
+bfmplay://NEUF_RMC_LIFE_RIF1021140482531
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483131" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/1/1e941f5f514c738b7254721bc392d502_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E159 - Episode 159
+bfmplay://NEUF_RMC_LIFE_RIF1021140483131
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483019" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/1/0/739b5cc218d765749897c1a3c7d2199e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E145 - Episode 145
+bfmplay://NEUF_RMC_LIFE_RIF1021140483019
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482075" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/0/64766d079a83d67549250cc361697727_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E27 - Episode 27
+bfmplay://NEUF_RMC_LIFE_RIF1021140482075
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140482043" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/4/0/9f1113f9fabc11a0b8b00204c5ebce6a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E23 - Episode 23
+bfmplay://NEUF_RMC_LIFE_RIF1021140482043
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481883" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/8/8/dc29bd006b170567ed78df986b016f56_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E3 - Episode 3
+bfmplay://NEUF_RMC_LIFE_RIF1021140481883
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481875" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/8/2d8d32fe5b8dd35a104cc67ec9d44d7a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E2 - Episode 2
+bfmplay://NEUF_RMC_LIFE_RIF1021140481875
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140481857" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/5/8/7291bfdde0bee949115c6fcc434f755c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E1 - Episode 1
+bfmplay://NEUF_RMC_LIFE_RIF1021140481857
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021140483139" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/3/1/a7b6cae01303919b720720164402690b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Seulement en streaming",Avenida Brasil - S1E160 - Episode 160
+bfmplay://NEUF_RMC_LIFE_RIF1021140483139
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021126890138" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/8/3/1/61ca8495b93e02fa93dbe2ecce5ddcd4_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - Seulement en streaming",Enlèvement
 bfmplay://NEUF_NUM23_N231021126890138
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021126893218" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/8/1/2/4009c079dd8c84fc3989f436a9345465_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - Seulement en streaming",Jurassic expedition
@@ -2981,8 +3299,6 @@ bfmplay://NEUF_NUM23_N231021126958617
 bfmplay://NEUF_NUM23_N231021126964130
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021126964643" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/4/6/6fc2bd96cca6b3d4a012a119b7f1d04a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - Seulement en streaming",Warning : do not play
 bfmplay://NEUF_NUM23_N231021126964643
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021126966852" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/5/8/3853971596175fbc0f163328b0729e21_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Story - Seulement en streaming",Year 10
-bfmplay://NEUF_NUM23_N231021126966852
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231003228046527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/BANNERMOBILEclean2harrypotter.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story",S1E1 - Aux origines de la saga
 bfmplay://NEUF_NUM23_N231003228046527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020926228693" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/3/9/6/63421a2b9f80a2d1b7d6a70f81be323b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story",Nazi hunters : traqueurs de nazis - S1E8 - Frank Stangl et Gustav Wagner
@@ -5247,8 +5563,6 @@ bfmplay://NEUF_RMCDEC_RMC980213420527
 bfmplay://NEUF_RMCDEC_RMC980213411527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC980213402527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/7a03538bb1d632cf9e9b4e8dee0aab90_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S5E8 - Instinct meurtrier
 bfmplay://NEUF_RMCDEC_RMC980213402527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC980213393527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/060702ccd0618f654430c35030a3b360_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S5E7 - La faim au ventre
-bfmplay://NEUF_RMCDEC_RMC980213393527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098565" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/6/5/6fbeb411580c9b8b006005ad6fbdfaf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E9 - Cap sur l'inconnu
 bfmplay://NEUF_RMCDEC_RMC1020979098565
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020979098579" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/7/5/fa97e881ee506c7e8b0c41df7823cf2f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",Seuls face à l'Alaska - S14E11 - L'appel de la forêt
@@ -7639,6 +7953,8 @@ bfmplay://NEUF_RMC_LIFE_RIF1020974781149
 bfmplay://NEUF_RMC_LIFE_RIF1020974781142
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021020689708" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/0/7/c6fce8cfcd8d61c1cdac248d072ae049_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay RMC Life - Les docs du moment",Lena Situations : la femme la plus influente de France
 bfmplay://NEUF_RMC_LIFE_RIF1021020689708
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300491" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/9/4/9707b5d6b45852e4c49a4d7d6107effb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Carrousel",Émission du 2 octobre 2026
+bfmplay://NEUF_NUM23_N231021147300491
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA1021129087620" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/2/6/f5f9621f8777ac15078ff7c015e6d676_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",La nouvelle voix de l'After - Episode 6 : la finale
 bfmplay://NEUF_BFMRADIO_BRA1021129087620
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA1021129087605" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/0/6/ff50553aa278ab07118325907c925e09_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Radio - Tous les replays",La nouvelle voix de l'After - Episode 5 : la demi-finale
@@ -8213,6 +8529,8 @@ bfmplay://NEUF_BFMTV_BFM1020921638937
 bfmplay://NEUF_BFMTV_BFM989712028527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM981900468527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/2/5/43a6b59513aff62660cdb58f55379998_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Crime & Investigation",7 octobre, enquête sur une tragédie
 bfmplay://NEUF_BFMTV_BFM981900468527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021126966852" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/5/8/3853971596175fbc0f163328b0729e21_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Cinéma & Fiction",Year 10
+bfmplay://NEUF_NUM23_N231021126966852
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021128057231" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/3/2/093367a1c4b34f04e6c5d38b557b2803_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Cinéma & Fiction",Sword master
 bfmplay://NEUF_NUM23_N231021128057231
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021128058104" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/0/1/ae7ff265f5d90fb36fd68f8c827f464b_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Cinéma & Fiction",Extorsion
