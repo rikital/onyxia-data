@@ -1,0 +1,68 @@
+name: refresh-olatv-registre
+
+# 2026-10-03 : registre COMPLET des chaînes FR d'OLA TV (façon Vegeta), voir
+#   scripts/olatv/registre_olatv.py. Le runner fait le travail lourd (tous les cids,
+#   plusieurs comptes par cid, toutes les chaînes FR, test d'un flux par serveur) pour que
+#   l'application n'ait plus à scanner les portails sur l'appareil.
+#   Toutes les 6 h : les listes de chaînes bougent peu ; la fraîcheur des serveurs est
+#   assurée côté appareil (l'app apprend en jouant).
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+  push:
+    paths:
+      - '.github/workflows/refresh_olatv_registre.yml'
+      - 'scripts/olatv/registre_olatv.py'
+
+concurrency:
+  group: refresh-olatv-registre
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  registre:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install requests pycryptodome
+
+      - name: Construire le registre complet OLA
+        env:
+          OLA_REG_OUT: ${{ runner.temp }}/registre-fr.json.gz
+          OLA_REG_WORKERS: '16'
+        run: python scripts/olatv/registre_olatv.py
+
+      # Publié comme FICHIER DE RELEASE, jamais commité (comme vegeta-full) : chaque passage
+      #   remplace le précédent, zéro octet ajouté à l'historique git. URL stable pour l'app :
+      #   https://github.com/rikital/onyxia-data/releases/download/ola-full/registre-fr.json.gz
+      - name: Publier le registre en release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          f="${{ runner.temp }}/registre-fr.json.gz"
+          if [ ! -f "$f" ]; then echo "pas de registre (garde-fou du script), on garde l'ancien"; exit 0; fi
+          ls -lh "$f"
+          gh release view ola-full >/dev/null 2>&1 || gh release create ola-full \
+            --title "Registre OLA complet" \
+            --notes "Registre complet des chaînes FR d'OLA TV, remplacé à chaque rafraîchissement. Généré automatiquement, ne pas supprimer : l'application télécharge ce fichier."
+          gh release upload ola-full "$f" --clobber
+
+      - name: Nettoyage automatique des anciens flux de travail
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 5
