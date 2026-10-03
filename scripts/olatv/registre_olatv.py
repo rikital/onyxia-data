@@ -59,7 +59,7 @@ SANS_MAC = re.compile(r"([?&]mac=)[^&\s]*", re.I)
 # v3 : plafond de sources par chaîne regroupée (clé de l'app), meilleurs portails d'abord.
 MAX_PAR_CLE = int(os.environ.get("OLA_REG_MAX_PAR_CLE", "100"))
 # Clés (règles de l'app) des chaînes qui n'émettent plus — retirées du registre publié.
-CHAINES_ARRETEES = ("nrj12", "nrj12lq")
+CHAINES_ARRETEES = ("nrj12", "nrj12lq", "c8", "c8lq")  # NRJ 12 et C8 : arrêtées le 28/02/2025
 
 # Catégorie FR : « FR »/« FRA » en mot isolé, quelle que soit la décoration (┃FR┃, [FR],
 # FR|, FR:…), ou france/french/français. « AFR » (Afrique) n'est PAS du FR.
