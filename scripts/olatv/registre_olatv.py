@@ -58,6 +58,8 @@ ORDRE_STATUT = {"ok": 0, "refus": 1, "mort": 2, "remplissage": 3}
 SANS_MAC = re.compile(r"([?&]mac=)[^&\s]*", re.I)
 # v3 : plafond de sources par chaîne regroupée (clé de l'app), meilleurs portails d'abord.
 MAX_PAR_CLE = int(os.environ.get("OLA_REG_MAX_PAR_CLE", "100"))
+# Clés (règles de l'app) des chaînes qui n'émettent plus — retirées du registre publié.
+CHAINES_ARRETEES = ("nrj12", "nrj12lq")
 
 # Catégorie FR : « FR »/« FRA » en mot isolé, quelle que soit la décoration (┃FR┃, [FR],
 # FR|, FR:…), ou france/french/français. « AFR » (Afrique) n'est PAS du FR.
@@ -308,6 +310,10 @@ def main():
     # v3 (2026-10-03) : noms déjà nettoyés et regroupés avec les règles de l'app (noms_app.py) —
     #   l'app n'a plus à passer 9 000 noms dans ses expressions (~30 s sur une TV modeste).
     regroupees = regrouper(chaines, MAX_PAR_CLE)
+    # Chaînes qui n'émettent plus : les portails les listent encore mais n'envoient rien
+    #   (chaque source bloque 6 s dans le lecteur). NRJ 12 : arrêtée fin février 2025.
+    for arretee in CHAINES_ARRETEES:
+        regroupees.pop(arretee, None)
     payload = {"version": 3, "generated_at": int(time.time()), "portails": portails,
                "chaines": regroupees}
     os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)
