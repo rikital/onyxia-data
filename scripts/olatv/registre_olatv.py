@@ -54,6 +54,7 @@ MAX_SOURCES = int(os.environ.get("OLA_REG_MAX_SOURCES", "15"))  # par nom exact 
 PLAYER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
              "(KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36")
 ORDRE_STATUT = {"ok": 0, "refus": 1, "mort": 2, "remplissage": 3}
+SANS_MAC = re.compile(r"([?&]mac=)[^&\s]*", re.I)
 
 # Catégorie FR : « FR »/« FRA » en mot isolé, quelle que soit la décoration (┃FR┃, [FR],
 # FR|, FR:…), ou france/french/français. « AFR » (Afrique) n'est PAS du FR.
@@ -299,7 +300,8 @@ def main():
         for nom, cmd in p.pop("_chaines"):
             lst = chaines.setdefault(nom, [])
             if len(lst) < MAX_SOURCES:
-                lst.append([i, cmd])
+                # Aucun compte dans le fichier public : « mac=… » vidé, l'app y met le sien.
+                lst.append([i, SANS_MAC.sub(r"\1", cmd)])
     payload = {"version": 2, "generated_at": int(time.time()), "portails": portails,
                "chaines": chaines}
     os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)
