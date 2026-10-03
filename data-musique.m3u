@@ -5,9 +5,18 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Musique",Radio Ibiza TV (IT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Musique",Vantage Dance TV (EE)
+#EXTINF:-1 tvg-logo="https://vantage-resources.lulzy.eu/previews/vmusic_stream.jpg" group-title="Musique",Vantage Music TV (EE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://cdn-nl1.lulzy.eu/vdance_720/main_stream.m3u8
+https://hls.lulzy.eu/vmusic_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://vantage-resources.lulzy.eu/previews/vdance_stream.jpg" group-title="Musique",Vantage Dance TV (EE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://hls.lulzy.eu/vdance_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://vantage-resources.lulzy.eu/previews/vrock_stream.jpg" group-title="Musique",Vantage Rock TV (EE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://hls.lulzy.eu/vrock_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://vantage-resources.lulzy.eu/previews/vclassic_stream.jpg" group-title="Musique",Vantage Classic TV (EE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://hls.lulzy.eu/vclassic_720/index.m3u8
 #EXTINF:-1 group-title="Musique",NR1 Dance TV (TR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
