@@ -38,6 +38,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from noms_app import regrouper  # règles de nom de l'app, portées en Python (registre v3)
 from refresh_olatv import get_servers, get_mac, MAG_UA  # mêmes appels OLA que le classement
 
 SOURCE_CIDS = os.environ.get("OLA_REG_CIDS", "api")
@@ -55,6 +56,8 @@ PLAYER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
              "(KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36")
 ORDRE_STATUT = {"ok": 0, "refus": 1, "mort": 2, "remplissage": 3}
 SANS_MAC = re.compile(r"([?&]mac=)[^&\s]*", re.I)
+# v3 : plafond de sources par chaîne regroupée (clé de l'app), meilleurs portails d'abord.
+MAX_PAR_CLE = int(os.environ.get("OLA_REG_MAX_PAR_CLE", "100"))
 
 # Catégorie FR : « FR »/« FRA » en mot isolé, quelle que soit la décoration (┃FR┃, [FR],
 # FR|, FR:…), ou france/french/français. « AFR » (Afrique) n'est PAS du FR.
@@ -302,8 +305,11 @@ def main():
             if len(lst) < MAX_SOURCES:
                 # Aucun compte dans le fichier public : « mac=… » vidé, l'app y met le sien.
                 lst.append([i, SANS_MAC.sub(r"\1", cmd)])
-    payload = {"version": 2, "generated_at": int(time.time()), "portails": portails,
-               "chaines": chaines}
+    # v3 (2026-10-03) : noms déjà nettoyés et regroupés avec les règles de l'app (noms_app.py) —
+    #   l'app n'a plus à passer 9 000 noms dans ses expressions (~30 s sur une TV modeste).
+    regroupees = regrouper(chaines, MAX_PAR_CLE)
+    payload = {"version": 3, "generated_at": int(time.time()), "portails": portails,
+               "chaines": regroupees}
     os.makedirs(os.path.dirname(OUT) or ".", exist_ok=True)
     brut = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
     with gzip.open(OUT, "wb", compresslevel=9) as f:
@@ -312,14 +318,13 @@ def main():
     par_statut = {}
     for p in portails:
         par_statut[p["statut"]] = par_statut.get(p["statut"], 0) + 1
-    sources = sum(len(v) for v in chaines.values())
+    sources = sum(len(g["s"]) for g in regroupees.values())
     print(f"[done] {len(portails)} serveurs FR ({par_statut}) sur {len({p['cid'] for p in portails})} cids, "
-          f"{len(chaines)} chaînes, {sources} sources, {len(brut) // 1024} Ko brut -> "
+          f"{len(chaines)} noms -> {len(regroupees)} chaînes, {sources} sources, {len(brut) // 1024} Ko brut -> "
           f"{os.path.getsize(OUT) // 1024} Ko gz, en {int(time.time() - t0)} s -> {OUT}", flush=True)
-    for temoin in ("TF1", "FRANCE 2", "FRANCE 3", "M6", "CANAL+"):
-        motif = re.compile(rf"^{re.escape(temoin)}(\b|$)", re.I)
-        lst = [x for k, v in chaines.items() if motif.match(k) for x in v]
-        nb_ok = sum(1 for i, _ in lst if portails[i]["statut"] == "ok")
+    for temoin in ("tf1", "france2", "france3", "m6", "canalplus"):
+        lst = regroupees.get(temoin, {}).get("s", [])
+        nb_ok = sum(1 for s in lst if portails[s[0]]["statut"] == "ok")
         print(f"  sources {temoin} : {len(lst)} (dont {nb_ok} sur un serveur testé ok)", flush=True)
 
 
