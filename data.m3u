@@ -7406,6 +7406,10 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="FashionTV.in@SD" group-title="France TV backup - Autres",FashionTV (India) (1080p) [iptv-org-fra]
 http://51.75.127.199:3141/ftvhd/index.m3u8
 
+# === Ajouts FR multi-sources : Généralistes ===
+#EXTINF:-1 tvg-id="zenith.fr@HD" group-title="Généralistes - 100% Français",zenith (1080p)
+https://live.azenagroup.com/zenith/index.ll.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
