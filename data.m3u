@@ -5993,7 +5993,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 # === Ajouts FR multi-sources : Musique ===
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" group-title="Musique - Musique",MCM Pop
-http://193.254.245.162/MCM/index.m3u8
+http://188.115.15.121:8000/play/a014
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="France TV backup - Autres",TV7 Colmar (576p) [iptv-org-fr]
