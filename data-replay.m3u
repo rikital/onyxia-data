@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244003" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/0/0/4dee611b930d52857e76a89a5f3a9908_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Alain Bauer face à Apolline de Malherbe
+bfmplay://NEUF_BFMTV_BFM1021151244003
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244033" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/3/0/145d4ecce3ff1a9658a226b7e8c59ca9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Édouard Geffray face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244033
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151243997" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/9/9/749c0df9354ce12146b96346ecdcc01b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - CARROUSSEL A LA UNE",Face à Face - Bruno Retailleau face à Apolline de Malherbe
@@ -143,8 +145,6 @@ bfmplay://NEUF_BFMTV_BFM1021151246442
 bfmplay://NEUF_BFMTV_BFM1020926916475
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMES0152" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/5/1/7d4136e4ce323afb5fed6964edb47db4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Présidentielle 2027 : le grand débat organisé par le Syndicat des énergies renouvelables.
 bfmplay://NEUF_BFMTV_BFMES0152
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246472" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/4/6599a844d730b53ade1fcc7abae422d7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Émission du 29 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151246472
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021158038321" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/2/3/2eb5bfd5e7ecadbbfc8523e4b27931cb_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Poutine, plus paranoïaque que jamais ?
 bfmplay://NEUF_BFMTV_BFM1021158038321
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021156035074" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/7/0/74d5937cfc5b8c01ee479b0b81f3073f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay BFM TV - Grands Reportages",Céline Dion, ses retrouvailles avec la France
@@ -483,6 +483,26 @@ bfmplay://NEUF_BFMTV_BFM0300016038E
 bfmplay://NEUF_BFMTV_BFM0300016038F
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM0300016038G" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/G/8/3/c65d6ca298541dd586ebe770d40fa3a8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Un Monde Bleu - Invité : Jean Krug
 bfmplay://NEUF_BFMTV_BFM0300016038G
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251382" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/8/3/bab6ccb681d30a5936629888ed296a66_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 2 octobre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251382
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251016" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/1/0/6c36623d48e7b78d69cc1aaf6463b091_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 1er octobre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251016
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251376" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/3/de5d9ffe08ae8913e24641155469043c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 30 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251376
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251214" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/1/2/1a9fbfb8c35843c6cea3dad4b94fd120_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 29 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251214
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251178" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/7/1/7d0e020b092ca02a150c2627d9e809d6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Edition spéciale : le Pape Leon XIV en France
+bfmplay://NEUF_BFMTV_BFM1021151251178
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251208" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/0/2/178c36df4c30c0afb58d718307e38db3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Edition spéciale : le Pape Leon XIV en France
+bfmplay://NEUF_BFMTV_BFM1021151251208
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251172" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/1/c77faaca568fe5db40e8007eb95cae97_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 24 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251172
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251490" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/9/4/e3131d3f3e6cd728b471e697b3b2357b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 23 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251490
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251484" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/8/4/4b875b4e3f03ccba62bcd5c07b72388a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 22 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251484
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251010" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/1/0/1fae772904c1a03710df4fd68581ae87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 21 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151251010
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMAFFD0043" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/0/efcdfdaf64db1b3be4be6c29587b2c47_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire suivante, faits divers - Rémy Daillet: comment ce fils de député centriste s’est retrouvé au centre d’une spirale complotiste hors norme ?
 bfmplay://NEUF_BFMTV_BFMAFFD0043
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFMAFFD0042" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/4/0/817819581a86b7521597749dbddccd32_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire suivante, faits divers - Élu local, propriétaire de camping… À 19 ans, Eddie Goujit est soupçonné de multiplier les fausses vies pour escroquer
@@ -597,26 +617,6 @@ bfmplay://NEUF_BFMTV_BFM1014580300B
 bfmplay://NEUF_BFMTV_BFM1014580300A
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM0300016683G" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/G/3/8/97903a6018694083d53175fd8e61ad34_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Affaire suivante, faits divers - Assassinat ou euthanasie ? Une Lyonnaise jugée après la mort de son grand-père
 bfmplay://NEUF_BFMTV_BFM0300016683G
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251382" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/8/3/bab6ccb681d30a5936629888ed296a66_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 2 octobre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251382
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251016" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/1/0/6c36623d48e7b78d69cc1aaf6463b091_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 1er octobre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251016
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251376" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/7/3/de5d9ffe08ae8913e24641155469043c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 30 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251376
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251214" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/1/2/1a9fbfb8c35843c6cea3dad4b94fd120_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 29 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251214
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251178" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/7/1/7d0e020b092ca02a150c2627d9e809d6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Edition spéciale : le Pape Leon XIV en France
-bfmplay://NEUF_BFMTV_BFM1021151251178
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251208" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/0/2/178c36df4c30c0afb58d718307e38db3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Edition spéciale : le Pape Leon XIV en France
-bfmplay://NEUF_BFMTV_BFM1021151251208
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251172" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/1/c77faaca568fe5db40e8007eb95cae97_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 24 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251172
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251490" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/9/4/e3131d3f3e6cd728b471e697b3b2357b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 23 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251490
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251484" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/4/8/4/4b875b4e3f03ccba62bcd5c07b72388a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 22 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251484
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151251010" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/0/1/0/1fae772904c1a03710df4fd68581ae87_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Midi BFM - Émission du 21 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151251010
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240521" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/2/5/e14c24147c39a836045ec60652fe06d3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 2 octobre 2026
 bfmplay://NEUF_BFMTV_BFM1021151240521
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240143" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/3/4/1/617be587c1029a4c606d4eabea8fa207_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 1er octobre 2026
@@ -635,8 +635,8 @@ bfmplay://NEUF_BFMTV_BFM1021151240515
 bfmplay://NEUF_BFMTV_BFM1021151240383
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240131" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/1/3/1/8e94f6a11060217c4a40dead1b084a1e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 22 septembre 2026
 bfmplay://NEUF_BFMTV_BFM1021151240131
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151240377" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/7/7/3/365deaf54abcf0a7f3ee2fb74986cacd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Arnaud Direct - Émission du 21 septembre 2026
-bfmplay://NEUF_BFMTV_BFM1021151240377
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246472" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/2/7/4/6599a844d730b53ade1fcc7abae422d7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Émission du 29 septembre 2026
+bfmplay://NEUF_BFMTV_BFM1021151246472
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246436" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/6/3/4/728de527d21d97d6f1c24938c4487323_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Edition spéciale : le Pape Leon XIV en France
 bfmplay://NEUF_BFMTV_BFM1021151246436
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151246298" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/8/9/2/1c96602f1e6de370e06adcbdd249e983_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Tous les replays",Apolline de 9 à 10 - Edition spéciale : le Pape Leon XIV en France
@@ -1125,6 +1125,46 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000000922
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000912
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000000901" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMBUSINESS/1/0/9/1cd556692ad4c54a00cf85cd6dd2038b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Plus d'infos et de débats",Les Experts - Budget, 54 milliards d'euros d'efforts pour 5% de déficit
 bfmplay://NEUF_BFMBUSINESS_BUM60000000000901
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322524" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/2/5/37a85a6c5d6f5eff735ff6913fd60e73_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 5 octobre 2026
+bfmplay://NEUF_NUM23_N231021147322524
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300506" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/0/5/7321ce6a58aed7bd543f8e8cd9bf0d1f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 5 octobre 2026
+bfmplay://NEUF_NUM23_N231021147300506
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/1/5/857bf2f5c54f9ccc27361152b746cec5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 2 octobre 2026
+bfmplay://NEUF_NUM23_N231021147322511
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300491" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/9/4/9707b5d6b45852e4c49a4d7d6107effb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 2 octobre 2026
+bfmplay://NEUF_NUM23_N231021147300491
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322498" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/8/9/4/5e591f60efd7bedc919e1510a3b58f65_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 1er octobre 2026
+bfmplay://NEUF_NUM23_N231021147322498
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300476" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/7/4/62d7560b839c666523ab1fdf8c5643d3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 1er octobre 2026
+bfmplay://NEUF_NUM23_N231021147300476
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322485" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/8/4/363405b6c00e3327db67580b83b2641a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 30 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322485
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300461" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/6/4/6b9d81a2c1b36e5d59aca73c8288f388_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 30 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300461
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322472" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/7/4/d5837082f6efbe1ef6c08109931999b5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 29 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322472
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/f7ec854654aaf81272c769f3ddecff5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 29 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300446
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322459" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/5/4/8daa70276307ae67e02c624c88da8434_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 28 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322459
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300431" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/3/4/54d4f3c57806b826ac2e15d254d2cdf9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 28 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300431
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/5817912fded5e2a9a1ca3c8506124eab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 25 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322446
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300416" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/1/4/992c236ca0db52467d9745f4c515ecf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 25 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300416
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322433" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/3/4/445b35f58263409dfb371fa3a5e5b6bb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 24 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322433
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300401" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/0/4/0215ae5493560593c5069b37e8bdcee3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 24 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300401
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322420" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/2/4/5f72e66f1a806489f9a5c863b79b7521_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 23 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322420
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300386" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/8/3/c3241aa3847e349830f7ea99b6df3cf4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 23 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300386
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322367" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/6/3/e70112fe8c356d6841c88675bdf141ef_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 22 septembre 2026
+bfmplay://NEUF_NUM23_N231021147322367
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300371" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/7/3/1c667a6be08e9893f230cc3cee53d8ae_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 22 septembre 2026
+bfmplay://NEUF_NUM23_N231021147300371
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC416007835527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/85cc34225e469787528ae6bee1b5daf1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S2E14 - Siegler-Moris, retour à la case prison
 bfmplay://NEUF_RMCDEC_RMC416007835527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020912279188" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/8/1/c1622f18348d34844a73c7fba6a9f6e5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S6E23 - Stéphane Krauth, le meurtre de Karine Schaaff
@@ -1601,42 +1641,6 @@ bfmplay://NEUF_RMC_LIFE_RIF416007891527
 bfmplay://NEUF_RMC_LIFE_RIF979887236527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF693978271527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/80defdf1a40dba79ec3b9eba11510c09_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Faites entrer l'accusé - S3E11 - Sophie Berkmans, le meurtre de la rhumatologue
 bfmplay://NEUF_RMC_LIFE_RIF693978271527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/1/5/857bf2f5c54f9ccc27361152b746cec5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 2 octobre 2026
-bfmplay://NEUF_NUM23_N231021147322511
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300491" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/9/4/9707b5d6b45852e4c49a4d7d6107effb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 2 octobre 2026
-bfmplay://NEUF_NUM23_N231021147300491
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322498" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/8/9/4/5e591f60efd7bedc919e1510a3b58f65_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 1er octobre 2026
-bfmplay://NEUF_NUM23_N231021147322498
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300476" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/7/4/62d7560b839c666523ab1fdf8c5643d3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 1er octobre 2026
-bfmplay://NEUF_NUM23_N231021147300476
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322485" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/8/4/363405b6c00e3327db67580b83b2641a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 30 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322485
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300461" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/6/4/6b9d81a2c1b36e5d59aca73c8288f388_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 30 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300461
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322472" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/7/4/d5837082f6efbe1ef6c08109931999b5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 29 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322472
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/f7ec854654aaf81272c769f3ddecff5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 29 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300446
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322459" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/5/4/8daa70276307ae67e02c624c88da8434_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 28 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322459
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300431" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/3/4/54d4f3c57806b826ac2e15d254d2cdf9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 28 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300431
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322446" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/4/4/5817912fded5e2a9a1ca3c8506124eab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 25 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322446
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300416" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/1/4/992c236ca0db52467d9745f4c515ecf6_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 25 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300416
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322433" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/3/4/445b35f58263409dfb371fa3a5e5b6bb_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 24 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322433
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300401" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/0/4/0215ae5493560593c5069b37e8bdcee3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 24 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300401
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322420" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/2/4/5f72e66f1a806489f9a5c863b79b7521_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 23 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322420
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300386" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/8/3/c3241aa3847e349830f7ea99b6df3cf4_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 23 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300386
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147322367" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/6/3/e70112fe8c356d6841c88675bdf141ef_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Le supplément du 22 septembre 2026
-bfmplay://NEUF_NUM23_N231021147322367
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147300371" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/7/3/1c667a6be08e9893f230cc3cee53d8ae_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",5/7 le morning RMC - Émission du 22 septembre 2026
-bfmplay://NEUF_NUM23_N231021147300371
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020981372432" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/3/4/a80a5662617a55f704f4855fe61f2b13_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",C'est ça la France ! - S1E53 - Emission 53 avec Gil Alma
 bfmplay://NEUF_NUM23_N231020981372432
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020913535923" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/2/9/1474e56ba6e487c0bbee7dde4c4aa2f5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",C'est ça la France ! - S1E17 - Emission 17
@@ -1875,8 +1879,6 @@ bfmplay://NEUF_NUM23_N231021132022234
 bfmplay://NEUF_NUM23_N231021132022220
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022206" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/6/0/2/37defacf3d0c586eb4b92468a1c25294_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - « Je kiffe ce pays » : le nouveau joueur des Bleus, Esteban Lepaul, traité de « facho » pour avoir déclaré sa flamme à la France. Choquant ?
 bfmplay://NEUF_NUM23_N231021132022206
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021132022192" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/9/1/4be14f6afaa48a49c0be97b9e6821754_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Les Grandes Gueules - Charles Sapin jette l’éponge : France Inter, le pluralisme impossible ?
-bfmplay://NEUF_NUM23_N231021132022192
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313355" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/5/3/9826cab0f11aaa6468adf7be774183c9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 2 octobre 2026
 bfmplay://NEUF_NUM23_N231021147313355
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021147313342" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/4/3/510d4feaea19b59b7612105177897357_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - Vous aimerez aussi",Apolline Matin - Émission du 1er octobre 2026
@@ -4457,8 +4459,6 @@ bfmplay://NEUF_RMCDEC_RMC975121166527
 bfmplay://NEUF_RMCDEC_RMC1020935639591
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC975121156527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b4d83342f4090c6466e31888151cb140_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S5E2 - Argentine
 bfmplay://NEUF_RMCDEC_RMC975121156527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC979654901527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b9d8e4b1008c49631f966ff7bd7ce019_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S7E2 - Bouthan
-bfmplay://NEUF_RMCDEC_RMC979654901527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC957459796527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/e17bb7a59f60f1ec7b805e9e41c289e8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S2E4 - Sud de la France
 bfmplay://NEUF_RMCDEC_RMC957459796527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC957458612527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4367059775e0b841e8b7e16900d880d1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Vous aimerez aussi",J'irai dormir chez vous - S1E5 - Inde
