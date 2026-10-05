@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-aventurieres" tvg-logo="https://medias.france.tv/cn5DXc_9gaGzpqsDuYvHOXJavLc/400x0/filters:quality(85)/k/i/g/phptokgik.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les aventurières
+francetv://program/france-2_les-aventurieres
+#EXTINF:-1 tvg-id="francetv-4258f9e7-8f40-43a0-89a5-9d3125303bfb" tvg-logo="https://medias.france.tv/eL8cPbSBFwfXzlZISzq7s8zJbVU/400x0/filters:quality(85)/k/f/z/phpkt9zfk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Marie-Line et son juge
+francetv://4258f9e7-8f40-43a0-89a5-9d3125303bfb
 #EXTINF:-1 tvg-id="francetv-3a2f8e64-bff2-46cb-807b-b1339b689855" tvg-logo="https://medias.france.tv/-gHC7WNzjGfEgO786zNwzXlzfOY/400x0/filters:quality(85)/m/m/a/phpsemamm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",The Floor - À la conquête du sol — La finale
 francetv://3a2f8e64-bff2-46cb-807b-b1339b689855
+#EXTINF:-1 tvg-id="francetv-ff30bcf3-b025-4060-8218-400e8b889ec0" tvg-logo="https://medias.france.tv/jRRl5gVIe9ixNvH0gNOIRQBposk/400x0/filters:quality(85)/n/q/3/phpte13qn.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne — Émission du dimanche 4 octobre 2026
+francetv://ff30bcf3-b025-4060-8218-400e8b889ec0
+#EXTINF:-1 tvg-id="francetv-55e01a95-090c-4615-9b98-ba6275efe1bd" tvg-logo="https://medias.france.tv/ZwdaXXfd2A0drvtycVSwoRkTFZw/400x0/filters:quality(85)/q/h/r/phpxsgrhq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Bâtiment 5
+francetv://55e01a95-090c-4615-9b98-ba6275efe1bd
 #EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Au sein des autres
 francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-7bdf1a44-17fc-4ff0-97a6-205092436b40" tvg-logo="https://medias.france.tv/jFi0C4aTDmDCxF9RnJJ0GQXAfXA/400x0/filters:quality(85)/f/3/f/1029293acc97438e9c2b35b4bee33f3f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Quelle époque ! — Émission du samedi 3 octobre 2026
@@ -15,10 +23,6 @@ francetv://e971253c-4aef-4dbf-b83a-f9d39e723770
 francetv://program/france-2_soeurs
 #EXTINF:-1 tvg-id="francetv-a7683f0f-f1fc-4e53-92e2-32ca2b917e1e" tvg-logo="https://medias.france.tv/Esr7L4M0h4DUqmazbDLVT2Y1Q9Y/400x0/filters:quality(85)/a/6/0/bf0fad0dd26d475898c0a4f276ea606a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Trouve ta coloc' — Episode 1
 francetv://a7683f0f-f1fc-4e53-92e2-32ca2b917e1e
-#EXTINF:-1 tvg-id="francetv-prog-france-2_les-aventurieres" tvg-logo="https://medias.france.tv/cn5DXc_9gaGzpqsDuYvHOXJavLc/400x0/filters:quality(85)/k/i/g/phptokgik.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les aventurières
-francetv://program/france-2_les-aventurieres
-#EXTINF:-1 tvg-id="francetv-5764d14f-de57-4d4a-b2c9-5e184758c9d7" tvg-logo="https://medias.france.tv/amia2NS0baN2hAktF0NjzCr6y_w/400x0/filters:quality(85)/g/y/h/phpickhyg.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Chamboultout
-francetv://5764d14f-de57-4d4a-b2c9-5e184758c9d7
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta" tvg-logo="https://medias.france.tv/azHmW_21tisSURpwh9xO9Mcn1RY/400x0/filters:quality(85)/w/r/j/phphsqjrw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les cercles du silence : L'affaire Le Scouarnec, une histoire d'omerta
 francetv://program/france-2_les-cercles-du-silence-l-affaire-le-scouarnec-une-histoire-d-omerta
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La mère et l'assassin
@@ -1289,32 +1293,30 @@ francetv://program/france-3_voyages-delices
 francetv://program/france-3_les-temoins-d-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-france-o_passion-outre-mer" tvg-logo="https://medias.france.tv/6V-Bb7cAb1buH1rC4gqi0TghgVA/400x0/filters:quality(85)/k/b/b/phpou0bbk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France Ô",Passion Outremer
 francetv://program/france-o_passion-outre-mer
-#EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Au sein des autres
-francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Sœurs
 francetv://program/france-2_soeurs
+#EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Au sein des autres
+francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-aventurieres" tvg-logo="https://medias.france.tv/cn5DXc_9gaGzpqsDuYvHOXJavLc/400x0/filters:quality(85)/k/i/g/phptokgik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les aventurières
+francetv://program/france-2_les-aventurieres
 #EXTINF:-1 tvg-id="francetv-a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2" tvg-logo="https://medias.france.tv/UiPRgxzHxIrFhw62TZlOWZolfK8/400x0/filters:quality(85)/p/v/h/phprashvp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Monsieur
 francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
 #EXTINF:-1 tvg-id="francetv-prog-france-3_brokenwood" tvg-logo="https://medias.france.tv/C2c1C0sBzLJuPnsv6-pMKYYLMtA/400x0/filters:quality(85)/a/d/f/phphx0fda.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Brokenwood
 francetv://program/france-3_brokenwood
-#EXTINF:-1 tvg-id="francetv-prog-france-3_cassandre" tvg-logo="https://medias.france.tv/2q2Oh0eBPp5QsHV-mPG172wdGy0/400x0/filters:quality(85)/c/7/x/phpevix7c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Cassandre
-francetv://program/france-3_cassandre
-#EXTINF:-1 tvg-id="francetv-prog-france-2_capitaine-marleau" tvg-logo="https://medias.france.tv/bwk1s3phUi825JlXc2FMoL22cjQ/400x0/filters:quality(85)/z/m/n/phpp5unmz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau
-francetv://program/france-2_capitaine-marleau
-#EXTINF:-1 tvg-id="francetv-cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f" tvg-logo="https://medias.france.tv/nwxOmUNeEdVOKpRdCGfTLWo-bjM/400x0/filters:quality(85)/7/p/f/phpgwjfp7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Meurtres à... — Meurtres à Amiens
-francetv://cae895fd-b4c9-42b4-8e1f-f3d309b3fa3f
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La Stagiaire
+francetv://program/france-3_la-stagiaire
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La mère et l'assassin
 francetv://program/france-2_la-mere-et-l-assassin
 #EXTINF:-1 tvg-id="francetv-prog-arte_camarades" tvg-logo="https://medias.france.tv/bbL7t3nn1VGUeXaauYTCV9jW7Sw/400x0/filters:quality(85)/o/l/y/phpekvylo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Camarades
 francetv://program/arte_camarades
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/uG1pGJa2dHhnjDwbHxz9kVCmHgU/400x0/filters:quality(85)/v/z/1/phpmfs1zv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Le Rouge et le Noir
 francetv://program/france-2_le-rouge-et-le-noir
-#EXTINF:-1 tvg-id="francetv-prog-france-2_les-aventurieres" tvg-logo="https://medias.france.tv/cn5DXc_9gaGzpqsDuYvHOXJavLc/400x0/filters:quality(85)/k/i/g/phptokgik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les aventurières
-francetv://program/france-2_les-aventurieres
-#EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La Stagiaire
-francetv://program/france-3_la-stagiaire
 #EXTINF:-1 tvg-id="francetv-prog-france-2_tout-pour-agnes" tvg-logo="https://medias.france.tv/9WXlCAVLtqtGIcP8CRS-UveLuFs/400x0/filters:quality(85)/b/p/x/phpds1xpb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Tout pour Agnès
 francetv://program/france-2_tout-pour-agnes
+#EXTINF:-1 tvg-id="francetv-prog-france-3_cassandre" tvg-logo="https://medias.france.tv/2q2Oh0eBPp5QsHV-mPG172wdGy0/400x0/filters:quality(85)/c/7/x/phpevix7c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Cassandre
+francetv://program/france-3_cassandre
+#EXTINF:-1 tvg-id="francetv-prog-france-2_capitaine-marleau" tvg-logo="https://medias.france.tv/bwk1s3phUi825JlXc2FMoL22cjQ/400x0/filters:quality(85)/z/m/n/phpp5unmz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau
+francetv://program/france-2_capitaine-marleau
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/-gF1l2y0VmQMY-tYS2KueAQRwqI/400x0/filters:quality(85)/t/4/7/phpfyo74t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-51c4d875-7f94-42db-814c-6aba78c5cd75" tvg-logo="https://medias.france.tv/kcGHedc0Ct9DubJ43Q4UJnngHMc/400x0/filters:quality(85)/p/r/n/phpueunrp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 2 octobre 2026
@@ -1333,6 +1335,8 @@ francetv://d75269dd-18c5-4ca6-a7eb-8b35ec2465af
 francetv://66c9331c-e33b-4949-84ff-a9b96b7ece90
 #EXTINF:-1 tvg-id="francetv-49180ac6-a181-4d12-b93c-fdcb52465b44" tvg-logo="https://medias.france.tv/gZ-vy5OS3uyt3eApJ7LoOyiFUPk/400x0/filters:quality(85)/r/n/p/phpahgpnr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres dans le Jura
 francetv://49180ac6-a181-4d12-b93c-fdcb52465b44
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Un soupçon
+francetv://program/france-2_un-soupcon
 #EXTINF:-1 tvg-id="francetv-prog-france-2_meurtres-au-paradis" tvg-logo="https://medias.france.tv/GItaDA2aDffxZCHAFW2s4h8on-s/400x0/filters:quality(85)/5/r/5/phpmjc5r5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres au paradis
 francetv://program/france-2_meurtres-au-paradis
 #EXTINF:-1 tvg-id="francetv-prog-arte_patrick-melrose" tvg-logo="https://medias.france.tv/rSucxJrND7K9AiJ0NyilgwCo7W4/400x0/filters:quality(85)/v/f/w/php6lxwfv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Patrick Melrose
@@ -1361,6 +1365,14 @@ francetv://c6e2b418-75b2-497a-925a-df80230586f4
 francetv://aeabda6e-d681-46b4-93ed-49138cfb033f
 #EXTINF:-1 tvg-id="francetv-1991a964-eb75-4952-b3d2-2be130b32830" tvg-logo="https://medias.france.tv/qKoK-95LXKzZY_0gYYccc9mygxY/400x0/filters:quality(85)/b/9/e/13deea341b154f2885512e3e1c884e9b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres en Bourgogne
 francetv://1991a964-eb75-4952-b3d2-2be130b32830
+#EXTINF:-1 tvg-id="francetv-1d7a6646-6c41-4a59-9380-cb1b5fd5f32a" tvg-logo="https://medias.france.tv/oeKAcHEECyERsqOuzM18LNGEf5U/400x0/filters:quality(85)/a/y/s/phpdrqsya.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Morts au sommet
+francetv://1d7a6646-6c41-4a59-9380-cb1b5fd5f32a
+#EXTINF:-1 tvg-id="francetv-d629c96c-3bf6-49b6-bcf6-5cf4387cb574" tvg-logo="https://medias.france.tv/cjpwY4dXNDB-p1NXpwbD5p6EYGY/400x0/filters:quality(85)/t/z/m/phpdnxmzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Fais pas ci, fais pas ça — Y aura-t-il Noël à Noël ?
+francetv://d629c96c-3bf6-49b6-bcf6-5cf4387cb574
+#EXTINF:-1 tvg-id="francetv-eb1ed1c4-593f-48dd-a572-7bad6dadf192" tvg-logo="https://medias.france.tv/SOK1lA4xeX3Yif7bnEoIsETo1yA/400x0/filters:quality(85)/c/6/7/45d0f31507b544fe83d082795c74399f23cf0927102f19a81da3e4cc98daf76c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les Histoires d'Anouk
+francetv://eb1ed1c4-593f-48dd-a572-7bad6dadf192
+#EXTINF:-1 tvg-id="francetv-prog-france-2_la-peste" tvg-logo="https://medias.france.tv/Q4Vob-v6Pi46C1SUKq2atn5dwVE/400x0/filters:quality(85)/h/u/r/php1qpruh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",La peste
+francetv://program/france-2_la-peste
 #EXTINF:-1 tvg-id="francetv-7e3d129e-9c17-4d49-a25e-5e913ba91e35" tvg-logo="https://medias.france.tv/W05n912wCAxfOfmSzQHYQfeHqAs/400x0/filters:quality(85)/3/a/8/php7gs8a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Arte
 francetv://7e3d129e-9c17-4d49-a25e-5e913ba91e35
 #EXTINF:-1 tvg-id="francetv-prog-arte_camarades" tvg-logo="https://medias.france.tv/bbL7t3nn1VGUeXaauYTCV9jW7Sw/400x0/filters:quality(85)/o/l/y/phpekvylo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Camarades
@@ -5007,26 +5019,24 @@ francetv://e73c1b6e-10a9-11f1-858c-19616fa871f9
 francetv://fb9c098a-0040-11f1-936c-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-3c1fecea-0020-11f1-ac9e-57a09c50f7ce" tvg-logo="https://medias.france.tv/6M0shn1JXimWJVeo7H30qO4K7rM/400x0/filters:quality(85)/1/a/a/cc6dd2ad9f7d4156bd2f13c4ca613aa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Pourquoi Orelsan aime le rap ?
 francetv://3c1fecea-0020-11f1-ac9e-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_okoo-koo" tvg-logo="https://medias.france.tv/45pqN78K7SEc33WSPNyEwlmqxcM/400x0/filters:quality(85)/e/e/t/phpud4tee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Okoo-koo
+francetv://program/enfants_six-huit-ans_okoo-koo
 #EXTINF:-1 tvg-id="francetv-prog-france-4_mission-info" tvg-logo="https://medias.france.tv/g50CYL4raEOl1sVlBGV8eGOkb9I/400x0/filters:quality(85)/5/m/y/phpcasym5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Mission info
 francetv://program/france-4_mission-info
 #EXTINF:-1 tvg-id="francetv-prog-france-4_c-est-toujours-pas-sorcier" tvg-logo="https://medias.france.tv/bXsCQgALfR4HVtLeEcPDVQQUn7k/400x0/filters:quality(85)/v/5/9/phpb6o95v.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",C'est toujours pas sorcier
 francetv://program/france-4_c-est-toujours-pas-sorcier
-#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_les-tutos-d-okoo-koo" tvg-logo="https://medias.france.tv/UrnP3OB5o8-7Jwj-vKMI0tHDlbw/400x0/filters:quality(85)/q/k/n/phpdfnnkq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Les tutos d'Okoo-koo
-francetv://program/enfants_six-huit-ans_les-tutos-d-okoo-koo
+#EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_la-minute-de-max-bird" tvg-logo="https://medias.france.tv/314sYBj_1J2GuHDFXgD-14Zfm9s/400x0/filters:quality(85)/o/r/k/phpos4kro.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",La minute de Max Bird
+francetv://program/enfants_neuf-douze-ans_la-minute-de-max-bird
+#EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_le-vol-du-scarabee" tvg-logo="https://medias.france.tv/5lXJdyIR_nDld6XGR-venBaPbIA/400x0/filters:quality(85)/t/h/c/phpz9ucht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le vol du Scarabée
+francetv://program/enfants_neuf-douze-ans_le-vol-du-scarabee
+#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_capitaine-jim" tvg-logo="https://medias.france.tv/EQnZwZ4b3lN_g6Td2ntPF672qa0/400x0/filters:quality(85)/7/h/v/php0ybvh7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Capitaine Jim
+francetv://program/enfants_six-huit-ans_capitaine-jim
 #EXTINF:-1 tvg-id="francetv-prog-france-5_gros-lezard" tvg-logo="https://medias.france.tv/O3WXSJh6vlubKFT_RMM0DbTSykM/400x0/filters:quality(85)/k/t/7/phpflv7tk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Gros Lézard
 francetv://program/france-5_gros-lezard
 #EXTINF:-1 tvg-id="francetv-prog-france-5_bitz-et-bob" tvg-logo="https://medias.france.tv/1ds0XYD7EF0oUWvaP5xiTKFmAJw/400x0/filters:quality(85)/c/u/v/phpynfvuc.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Bitz et Bob
 francetv://program/france-5_bitz-et-bob
 #EXTINF:-1 tvg-id="francetv-14d7cf47-dab9-49e9-b664-2ab202cfcf4a" tvg-logo="https://medias.france.tv/BXIg2ejAqR437VBwdgrb722eWO4/400x0/filters:quality(85)/e/c/m/phpsgrmce.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Les as de la jungle - le film — Les as de la jungle : Opération banquise
 francetv://14d7cf47-dab9-49e9-b664-2ab202cfcf4a
-#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_capitaine-jim" tvg-logo="https://medias.france.tv/EQnZwZ4b3lN_g6Td2ntPF672qa0/400x0/filters:quality(85)/7/h/v/php0ybvh7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Capitaine Jim
-francetv://program/enfants_six-huit-ans_capitaine-jim
-#EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_la-minute-de-max-bird" tvg-logo="https://medias.france.tv/314sYBj_1J2GuHDFXgD-14Zfm9s/400x0/filters:quality(85)/o/r/k/phpos4kro.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",La minute de Max Bird
-francetv://program/enfants_neuf-douze-ans_la-minute-de-max-bird
-#EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_le-vol-du-scarabee" tvg-logo="https://medias.france.tv/5lXJdyIR_nDld6XGR-venBaPbIA/400x0/filters:quality(85)/t/h/c/phpz9ucht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le vol du Scarabée
-francetv://program/enfants_neuf-douze-ans_le-vol-du-scarabee
-#EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_askip-le-college-se-la-raconte" tvg-logo="https://medias.france.tv/kv-3rtpPjYhCTGqX0gZ32xW0Yuw/400x0/filters:quality(85)/c/r/k/phpluskrc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",ASKIP
-francetv://program/enfants_neuf-douze-ans_askip-le-college-se-la-raconte
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_trotro-zaza" tvg-logo="https://medias.france.tv/D4q24kXD4Q_UjeBDKIN8hKpEHpc/400x0/filters:quality(85)/j/6/n/phprvsn6j.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Trotro et Zaza
 francetv://program/enfants_trois-cinq-ans_trotro-zaza
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_animanimals" tvg-logo="https://medias.france.tv/Pb8MqxcH_Fnh90SV8tJMhuzbnlM/400x0/filters:quality(85)/u/z/6/phpjkl6zu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Animanimals
