@@ -1455,7 +1455,7 @@ https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Musique - Musique",Trace Latina (1080p)
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/trace-latina-fr.png" group-title="Musique - Musique",Trace Latina (Trace+)
-https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Musique - Musique",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TZiK.fr@SD" tvg-logo="https://i.imgur.com/TAagRkn.png" group-title="Musique - Musique",TZiK 
@@ -7188,7 +7188,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="France TV backup - Autres",Trace Latina (1080p) [iptv-org-fr]
-https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
@@ -7200,11 +7200,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsung
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="France TV backup - Autres",Trace Latina (1080p) [iptv-org-fr]
-https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD" group-title="France TV backup - Autres",TV7 Colmar (576p) [iptv-org-fr]
