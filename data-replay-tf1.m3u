@@ -73,8 +73,6 @@ tf1plus://tf1/lheritiere
 tf1plus://tf1/rizzoli-and-isles-autopsie-dun-meurtre
 #EXTINF:-1 tvg-id="tf1plus-tmc-benoit-genant-officiel-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-benoit-genant-627f29-c9c021-219a86-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Benoit Genant Officiel
 tf1plus://tmc/benoit-genant-officiel
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-desalmada-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2c3296-6fc266-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",La Desalmada
-tf1plus://tf1/la-desalmada
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-consultant-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-le-consultant-jpg-89e711-f2fd04-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Le Consultant
 tf1plus://tf1/le-consultant
 #EXTINF:-1 tvg-id="tf1plus-tf1-fugueuse-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d7acab-386351-8812d3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Fugueuse
@@ -219,6 +217,8 @@ tf1plus://tf1/les-flammes-du-passe
 tf1plus://tf1/terre-desperance
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-riches-pleurent-aussi-télénovelas" tvg-logo="https://photos.tf1.fr/217/289/variant-02-bd68ce-988d30-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Télénovelas",Les Riches Pleurent Aussi
 tf1plus://tf1/les-riches-pleurent-aussi
+#EXTINF:-1 tvg-id="tf1plus-tf1-the-river-télénovelas" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-6dcfb0-08370d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Télénovelas",The River
+tf1plus://tf1/the-river
 #EXTINF:-1 tvg-id="tf1plus-tf1-alerte-cobra-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/flux-alerte-cobra-vignette_portrait-4ce4bb-29c65e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Alerte Cobra
 tf1plus://tf1/alerte-cobra
 #EXTINF:-1 tvg-id="tf1plus-tf1-all-her-fault-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-0da478-cd3936-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",All Her Fault
@@ -245,6 +245,8 @@ tf1plus://tf1/degrassi-la-nouvelle-generation
 tf1plus://tf1/quai-numero-7
 #EXTINF:-1 tvg-id="tf1plus-tf1-norskov-dans-le-secret-des-glaces-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-57b257-36eba8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Norskov Dans le Secret des Glaces
 tf1plus://tf1/norskov-dans-le-secret-des-glaces
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-ministere-du-temps-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-b3999b-c345a0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Le Ministere du Temps
+tf1plus://tf1/le-ministere-du-temps
 #EXTINF:-1 tvg-id="tf1plus-tf1-demain-nous-appartient-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-383bbe-2d5eb0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Demain Nous Appartient
 tf1plus://tf1/demain-nous-appartient
 #EXTINF:-1 tvg-id="tf1plus-tf1-ici-tout-commence-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_itc-2026-6f5fc3-3ada76-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Ici Tout Commence
@@ -411,8 +413,6 @@ tf1plus://tf1/ad-vitam
 tf1plus://tf1/eternelle
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-prophetie-davignon-science-fiction-&-fantastique" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b74d28-3db98b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Science-fiction & Fantastique",La Prophetie Davignon
 tf1plus://tf1/la-prophetie-davignon
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-ministere-du-temps-science-fiction-&-fantastique" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-b3999b-c345a0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Science-fiction & Fantastique",Le Ministere du Temps
-tf1plus://tf1/le-ministere-du-temps
 #EXTINF:-1 tvg-id="tf1plus-tf1-trepalium-science-fiction-&-fantastique" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-8d221d-01e28a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Science-fiction & Fantastique",Trepalium
 tf1plus://tf1/trepalium
 #EXTINF:-1 tvg-id="tf1plus-tf1-highlander-science-fiction-&-fantastique" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4141d2-b67b79-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Science-fiction & Fantastique",Highlander
@@ -3947,6 +3947,8 @@ tf1plus://tf1/la-demande-en-mariage
 tf1plus://tf1/la-derniere-danse-dune-cheerleader
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-derniere-vengeance-dun-mere-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-derniere-vengeance-dune-mere-33524270-1744596156-9b6f4d-55e0b0-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La dernière vengeance d'une mère
 tf1plus://tf1/la-derniere-vengeance-dun-mere
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-desalmada-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-desalmada-s01-e17-673a72-10fc37-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",La desalmada
+tf1plus://tf1/la-desalmada
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-disparue-de-yellowstone-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-disparue-de-yellowstone-21617171-1718473960-ca0de8-82f724-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La disparue de Yellowstone
 tf1plus://tf1/la-disparue-de-yellowstone
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-double-vie-de-veronica-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-double-vie-de-veronica-99428152-1714411618-282393-7eec37-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La double vie de Veronica
@@ -5483,8 +5485,6 @@ tf1plus://tf1/the-poison-rose
 tf1plus://tf1/the-prey
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-redemption-smx" tvg-logo="https://photos.tf1.fr/1200/720/house-of-the-rising-sun-d53816-919a88-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Redemption
 tf1plus://tf1/the-redemption
-#EXTINF:-1 tvg-id="tf1plus-tf1-the-river-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-river-s01-e142-f04f9d-a8016b-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",The River
-tf1plus://tf1/the-river
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-truman-show-smx" tvg-logo="https://photos.tf1.fr/1200/720/truman-show-1-1-1-1-1-26a952-0a9c95-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Truman Show
 tf1plus://tf1/the-truman-show
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-twisters-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-twisters-aee2c0-fda58f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Twisters
