@@ -361,6 +361,8 @@ arte://RC-019813
 arte://RC-026460
 #EXTINF:-1 tvg-id="arte-131575-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/c9iCcsbg6uaiG3f6nGsM9k/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",François d’Assise — L’exigence de la foi
 arte://131575-000-A
+#EXTINF:-1 tvg-id="arte-128087-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/26o8Afr9durxiTNLVyTR9M/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Monet et les "Nymphéas" — Pleins feux sur le chef-d'œuvre de Monet
+arte://128087-000-A
 #EXTINF:-1 tvg-id="arte-112493-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/soNzTmSkWiqi3AycRUEsSJ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Kids — L’école et les apprentissages
 arte://112493-004-A
 #EXTINF:-1 tvg-id="arte-096315-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/bsEsProzeoh7fdeaVqsSgA/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",L’amiante, l’histoire sans fin — Enquête sur des dangers bien réels
@@ -467,8 +469,6 @@ arte://130517-012-A
 arte://105628-043-A
 #EXTINF:-1 tvg-id="arte-126484-035-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ZAwtn4ypGu3PxHZbESzm5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Tracks — Comment le rap marocain s'est reconnecté à ses émotions
 arte://126484-035-A
-#EXTINF:-1 tvg-id="arte-118179-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/JoN7PJB9yd4koDVP2kaBqX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",L’album photo de la RDA — Entre quotidien et propagande
-arte://118179-000-A
 #EXTINF:-1 tvg-id="arte-106682-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cBkunXyXJUvhbCAZFvFVpJ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Guerre froide et renouveau en Europe — 1952-1953 : deux années décisives
 arte://106682-000-A
 #EXTINF:-1 tvg-id="arte-115532-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/PZ4XSfepYvtQeqcijXdWcV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Machocratie — La fabrique du mâle
@@ -651,16 +651,18 @@ arte://114620-000-A
 arte://117728-008-A
 #EXTINF:-1 tvg-id="arte-111822-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Jm9PGndsCSugpjiPAp9Bmd/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Les Amish — Un présent au passé - Immersion dans les communautés amish aux États-Unis
 arte://111822-000-A
-#EXTINF:-1 tvg-id="arte-133177-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iJDpFNoKiBcnDjoAXS3th4/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes — Asie-Afrique : forces et faiblesses
-arte://133177-004-A
 #EXTINF:-1 tvg-id="arte-126925-126-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/baihpFvFtnXeMakQV6726i/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes - L'essentiel — Espagne : les cartes de Pedro Sanchez
 arte://126925-126-A
 #EXTINF:-1 tvg-id="arte-126925-127-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vt2Y5XvRUqXE8t7q4KML6j/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes - L'essentiel — Maroc : une femme aux manettes
 arte://126925-127-A
-#EXTINF:-1 tvg-id="arte-123413-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/6W8LTqYvf6mUsUSNajwmnb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Tasmanie - Une île à l’autre bout du monde
-arte://123413-001-A
+#EXTINF:-1 tvg-id="arte-126925-125-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/MbfiCYmvki56aJMBsPVw9N/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes - L'essentiel — Pourquoi la Suisse met des limites à sa neutralité
+arte://126925-125-A
 #EXTINF:-1 tvg-id="arte-126925-128-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/UWNre2mFiLbhjSbMVnNpmD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes - L'essentiel — Vol Dubaï - Tel-Aviv : dans quel contexte ?
 arte://126925-128-A
+#EXTINF:-1 tvg-id="arte-123413-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/6W8LTqYvf6mUsUSNajwmnb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Tasmanie - Une île à l’autre bout du monde
+arte://123413-001-A
+#EXTINF:-1 tvg-id="arte-133177-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iJDpFNoKiBcnDjoAXS3th4/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le dessous des cartes — Asie-Afrique : forces et faiblesses
+arte://133177-004-A
 #EXTINF:-1 tvg-id="arte-131284-167-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xDJ6DBqzsNZ6QcXQYiM4rP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Présidentielle brésilienne : quel impact sur l’Amazonie ?
 arte://131284-167-A
 #EXTINF:-1 tvg-id="arte-RC-014085" tvg-logo="https://api-cdn.arte.tv/img/v2/image/UhigCzvGwkx63Q2zsGrnPV/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Journal — Le JT de l'actualité internationale
@@ -711,22 +713,20 @@ arte://133252-004-A
 arte://131831-000-A
 #EXTINF:-1 tvg-id="arte-126925-127-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vt2Y5XvRUqXE8t7q4KML6j/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Le dessous des cartes - L'essentiel — Maroc : une femme aux manettes
 arte://126925-127-A
+#EXTINF:-1 tvg-id="arte-126182-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/htjDpnLkyQKuk4BaA8KvK3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Regards — La Lettonie s'arme contre Poutine
+arte://126182-000-A
 #EXTINF:-1 tvg-id="arte-126925-125-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/MbfiCYmvki56aJMBsPVw9N/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Le dessous des cartes - L'essentiel — Pourquoi la Suisse met des limites à sa neutralité
 arte://126925-125-A
-#EXTINF:-1 tvg-id="arte-127401-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Rq4Qb6njubZ7Mo56jcdjhb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Regards — La grande cuisine pour tous !
-arte://127401-005-A
+#EXTINF:-1 tvg-id="arte-133177-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iJDpFNoKiBcnDjoAXS3th4/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Le dessous des cartes — Asie-Afrique : forces et faiblesses
+arte://133177-004-A
 #EXTINF:-1 tvg-id="arte-129854-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QwC7bMyKk5Qthhq2tCUhVE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Israël : la guerre dans la peau — ARTE Reportage
 arte://129854-000-A
-#EXTINF:-1 tvg-id="arte-112907-182-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5UH2mTqzVNesfoKr8qrMsG/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Europe l'Hebdo — Cancer :  les jeunes Européens sont-ils plus touchés aujourd'hui ?
-arte://112907-182-A
 #EXTINF:-1 tvg-id="arte-131284-167-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xDJ6DBqzsNZ6QcXQYiM4rP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Présidentielle brésilienne : quel impact sur l’Amazonie ?
 arte://131284-167-A
-#EXTINF:-1 tvg-id="arte-126925-124-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/uZTWSYZ4njafHLzk7BA9pc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Le dessous des cartes - L'essentiel — Pourquoi les papes sont des acteurs géopolitiques
-arte://126925-124-A
-#EXTINF:-1 tvg-id="arte-117239-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/tdnxVYXCKJaCMYSFPyMJsJ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",White Power - Au cœur de l'extrême droite européenne
-arte://117239-000-A
-#EXTINF:-1 tvg-id="arte-132515-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qRchhDV9jzgi7jM7zo4Qz/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Taiwan : la Gen Z sous l’influence de Pékin — ARTE Reportage
-arte://132515-000-A
+#EXTINF:-1 tvg-id="arte-126925-129-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/gxr6hwtbc2JyKDseGuuoWV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Le dessous des cartes - L'essentiel — Brésil : Bolsonaro en tête du 1er tour
+arte://126925-129-A
+#EXTINF:-1 tvg-id="arte-127401-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Rq4Qb6njubZ7Mo56jcdjhb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Regards — La grande cuisine pour tous !
+arte://127401-005-A
 #EXTINF:-1 tvg-id="arte-RC-024472" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8HcZyVd7vHcP42z9bXDNgd/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Culture et pop",L'ancien fait peau neuve — Une nouvelle vie pour des bâtiments historiques
 arte://RC-024472
 #EXTINF:-1 tvg-id="arte-126484-038-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/zAc6mBqpodZkY3FfVsJ2Va/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Culture et pop",Tracks — Trois jours d'ambient non-stop : la teuf au ralenti
