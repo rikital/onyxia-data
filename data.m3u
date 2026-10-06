@@ -7435,6 +7435,16 @@ https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="Europe1TV.fr@HD" group-title="France TV backup - Autres",Europe 1 TV (1080p) [iptv-org-fr]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" group-title="France TV backup - Autres",W9 (1086p) [iptv-org-fr]
+http://5.180.164.197:8080/W9/index.m3u8
+
+# === Ajouts FR multi-sources : Jeunesse ===
+#EXTINF:-1 tvg-id="Nicktoons.fr@SD" group-title="Jeunesse - Jeunesse",Nicktoons (France) (1080p)
+http://193.254.245.162/NICKELODEON/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
