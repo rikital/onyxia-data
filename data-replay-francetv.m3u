@@ -783,6 +783,8 @@ francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 francetv://07240417-4994-4398-af6b-660126b1fa66
 #EXTINF:-1 tvg-id="francetv-b4d8b1c6-c181-11f1-af5f-57a09c50f7ce" tvg-logo="https://medias.france.tv/jzVxn5LCIqy2iFSNgXxVLPi2SBo/400x0/filters:quality(85)/6/2/5/3c9c5f461eba4415a8397c1904da3526.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 06/10/2026 Le fil info 11h
 francetv://b4d8b1c6-c181-11f1-af5f-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-12b317a8-9a0b-4fea-b5a5-a676b962d985" tvg-logo="https://medias.france.tv/_xX224tY7E1f6JlKTRTzxiUHccE/400x0/filters:quality(85)/8/d/5/f3f0d2933be64f11b3cc2713dbc6e5d8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du mardi 6 octobre 2026
+francetv://12b317a8-9a0b-4fea-b5a5-a676b962d985
 #EXTINF:-1 tvg-id="francetv-9ab9629e-3d79-4436-9acd-886dacbf79de" tvg-logo="https://medias.france.tv/72Oh0AqXrhk-BbeahArxeUY4sc8/400x0/filters:quality(85)/4/7/a/f226a2e59d1d474e9b64fbc4736e5a74.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du mardi 6 octobre 2026
 francetv://9ab9629e-3d79-4436-9acd-886dacbf79de
 #EXTINF:-1 tvg-id="francetv-8f962b15-694a-4f77-b2d1-061b2746563e" tvg-logo="https://medias.france.tv/nL1j_5gdC4dYPnidlEzr-eBCRxE/400x0/filters:quality(85)/8/e/c/b181de36e81e4849b4d1527b1e28dce8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du mardi 6 octobre 2026
@@ -819,8 +821,6 @@ francetv://69b5b7fd-1d0e-4503-8f91-9a4e46f44d3a
 francetv://3c8ab6c5-9943-4f3f-9045-8744024698a4
 #EXTINF:-1 tvg-id="francetv-18ad7a41-3daa-47f3-bff8-b7eedaf5b6b6" tvg-logo="https://medias.france.tv/2ZwvWqiVKSXjO_WYvyPRPSI-8HU/400x0/filters:quality(85)/c/d/d/808b735c4cda4d0fa19058a44e496ddc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info — 23h info
 francetv://18ad7a41-3daa-47f3-bff8-b7eedaf5b6b6
-#EXTINF:-1 tvg-id="francetv-6a7466c3-e199-49f6-a846-6bda657a88fd" tvg-logo="https://medias.france.tv/fx4t1E2xLUeMOba_nyPjLcBHCHM/400x0/filters:quality(85)/8/0/1/18a59cad00fc468d9ceebfb84ff97108.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Jeunesse : génération sacrifiée partie 2
-francetv://6a7466c3-e199-49f6-a846-6bda657a88fd
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -3429,10 +3429,12 @@ francetv://program/france-5_c-ce-soir
 francetv://program/public-senat_droit-de-suite
 #EXTINF:-1 tvg-id="francetv-prog-arte_arte-reportage" tvg-logo="https://medias.france.tv/N-q_aPaC583vWhOrSd4RqwzZsNk/400x0/filters:quality(85)/1/a/i/phplnsia1.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",ARTE Reportage
 francetv://program/arte_arte-reportage
-#EXTINF:-1 tvg-id="francetv-90226918-74e9-4179-87ec-9bf137f12517" tvg-logo="https://medias.france.tv/melZVqMSCAtsNhExjAkXVKRayuo/400x0/filters:quality(85)/m/s/m/phpmlhmsm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C politique — Pierre Rosanvallon, colère des lycéens, RN et Israël
-francetv://90226918-74e9-4179-87ec-9bf137f12517
+#EXTINF:-1 tvg-id="francetv-958c0286-ac2f-4599-99e9-eef716b48445" tvg-logo="https://medias.france.tv/gS1HgGXOZaBukmzlV0v0ao1wm04/400x0/filters:quality(85)/c/k/z/php4mezkc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C dans l'air — Lycées bloquées, violences... Un mouvement hors de contrôle ?
+francetv://958c0286-ac2f-4599-99e9-eef716b48445
 #EXTINF:-1 tvg-id="francetv-e9ce8a1c-fe18-42a1-8109-fd9659c178ab" tvg-logo="https://medias.france.tv/PTwGrVQchS46edWa_h5JMF7YMtU/400x0/filters:quality(85)/s/1/r/phprenr1s.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",Franc-jeu — Manuel Bompard, Édouard Geffray : le débat
 francetv://e9ce8a1c-fe18-42a1-8109-fd9659c178ab
+#EXTINF:-1 tvg-id="francetv-90226918-74e9-4179-87ec-9bf137f12517" tvg-logo="https://medias.france.tv/melZVqMSCAtsNhExjAkXVKRayuo/400x0/filters:quality(85)/m/s/m/phpmlhmsm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C politique — Pierre Rosanvallon, colère des lycéens, RN et Israël
+francetv://90226918-74e9-4179-87ec-9bf137f12517
 #EXTINF:-1 tvg-id="francetv-8c009d22-54dc-46b2-8420-f81a6bc2c19e" tvg-logo="https://medias.france.tv/YC0QmOV_D5KE4EXAJkKl5GsTcfs/400x0/filters:quality(85)/s/z/g/phpq94gzs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C ce soir — Blocages lycéens : naissance d’un mouvement politique ?
 francetv://8c009d22-54dc-46b2-8420-f81a6bc2c19e
 #EXTINF:-1 tvg-id="francetv-c6e39c3c-7ebf-49c9-a5ca-e62b5fbefc66" tvg-logo="https://medias.france.tv/Zwz4t1em81hma8-DF39iA41iKv8/400x0/filters:quality(85)/y/y/g/phpwtzgyy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C dans l'air — Lycées bloqués, retraites gelées... La France va-t-elle craquer ?
@@ -3721,6 +3723,8 @@ francetv://program/france-24_le-journal-de-l-afrique
 francetv://program/franceinfo_a-suivre-avec-loic-de-la-mornais
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-23h" tvg-logo="https://medias.france.tv/2IGZDEFjVC4IJrc_wA3tQIQnjO0/400x0/filters:quality(85)/6/x/z/phpxmczx6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - L'info en continu",Le 23h info
 francetv://program/franceinfo_le-23h
+#EXTINF:-1 tvg-id="francetv-prog-slash_la-team-l-emission-de-pop-culture" tvg-logo="https://medias.france.tv/mfawiNCxv8OFIq0Y6KFwC_e1EAw/400x0/filters:quality(85)/c/p/m/phpn53mpc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",La Team, l'émission de pop culture
+francetv://program/slash_la-team-l-emission-de-pop-culture
 #EXTINF:-1 tvg-id="francetv-c671d0ce-aca9-4cf9-838f-47718cbd5d60" tvg-logo="https://medias.france.tv/9xo0VNTtci6QEi5ecXV-vzyjSjc/400x0/filters:quality(85)/w/s/f/phpzhvfsw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",La nuit où Laurier Gaudreault s'est réveillé
 francetv://c671d0ce-aca9-4cf9-838f-47718cbd5d60
 #EXTINF:-1 tvg-id="francetv-5d560b17-5b32-4dde-9d11-01cf0efd8a3d" tvg-logo="https://medias.france.tv/tlnS3GZoSt-15jl0TN_94Bsq78M/400x0/filters:quality(85)/e/e/5/4f0cb68d3d5841408957a143390075ee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Le 13e Art, Paris
@@ -4209,6 +4213,8 @@ francetv://bbe063a8-65d9-4809-af44-e655485d774a
 francetv://program/tv5-monde_cotonou-comedy-festival-2025
 #EXTINF:-1 tvg-id="francetv-246f86d4-f350-11ee-97e0-2ba3426fa3df" tvg-logo="https://medias.france.tv/TXDz6aboimqP-RnzS02u0OKKP1E/400x0/filters:quality(85)/4/a/2/php6kn2a4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",À l'origine du stand-up
 francetv://246f86d4-f350-11ee-97e0-2ba3426fa3df
+#EXTINF:-1 tvg-id="francetv-prog-slash_la-team-l-emission-de-pop-culture" tvg-logo="https://medias.france.tv/mfawiNCxv8OFIq0Y6KFwC_e1EAw/400x0/filters:quality(85)/c/p/m/phpn53mpc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",La Team, l'émission de pop culture
+francetv://program/slash_la-team-l-emission-de-pop-culture
 #EXTINF:-1 tvg-id="francetv-426a1d8c-7592-4ba7-a866-dda9934a7e88" tvg-logo="https://medias.france.tv/neA-pDTtzL2MUA0gKvYFgvHLkOA/400x0/filters:quality(85)/h/j/g/phpdufgjh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",Fête de la musique — Emission du samedi 20 juin 2026
 francetv://426a1d8c-7592-4ba7-a866-dda9934a7e88
 #EXTINF:-1 tvg-id="francetv-bb7d94d5-ed7f-4aaf-8456-b7f1bb0c2c83" tvg-logo="https://medias.france.tv/CUQPUyoRYxIzneeY2KcxXMZEuwU/400x0/filters:quality(85)/u/8/v/php9ulv8u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",Les Victoires du Jazz 2026
