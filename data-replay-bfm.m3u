@@ -1377,6 +1377,8 @@ bfmplay://NEUF_RMCDEC_RMC90286
 bfmplay://NEUF_RMCDEC_RMC78275
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC90285" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/8/2/cb9842aeceebf67e80cfdfa4e1b29070_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - 100% DOCS",Hors de contrôle - S5E2 - Le déraillement de Brétigny-sur-Orge
 bfmplay://NEUF_RMCDEC_RMC90285
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020925601264" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/6/2/b19f39bb4a486421c47fdfc2ebec9099_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les docs du moment",Les 10 sectes les plus dangereuses de la planète
+bfmplay://NEUF_NUM23_N231020925601264
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020925600640" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/4/6/d4de936685a566fe077e712c0deddcc5_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les docs du moment",Les 10 criminels les plus dangereux de la planète
 bfmplay://NEUF_NUM23_N231020925600640
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055832425" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/2/4/a7c6729693cf3665df0edbd62889d397_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les docs du moment",Alcatraz : la prison de l'enfer
@@ -1525,8 +1527,6 @@ bfmplay://NEUF_NUM23_N231020924034157
 bfmplay://NEUF_RMCDEC_RMC1021023624244
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1021102133352" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/5/3/5233c0aeefcceb7a17e9859a0a226abe_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les docs du moment",Le Titanic : faux mystères et vraie fascination
 bfmplay://NEUF_RMCDEC_RMC1021102133352
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055771914" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/1/9/3a8813fd4a144e55f26112d56abe3a7d_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les docs du moment",Le monstre du Loch Ness existe-t-il vraiment ?
-bfmplay://NEUF_NUM23_N231021055771914
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC416007835527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/85cc34225e469787528ae6bee1b5daf1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Le Top des docs",Faites entrer l'accusé - S2E14 - Siegler-Moris, retour à la case prison
 bfmplay://NEUF_RMCDEC_RMC416007835527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020912279188" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/8/1/c1622f18348d34844a73c7fba6a9f6e5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Le Top des docs",Faites entrer l'accusé - S6E23 - Stéphane Krauth, le meurtre de Karine Schaaff
@@ -3043,8 +3043,8 @@ bfmplay://NEUF_NUM23_N231003105323527
 bfmplay://NEUF_NUM23_N231003105329527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231003105335527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/2/5/ecc25aad31d07ce728db26266a560d29_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Les grandes affaires criminelles",La malédiction des chippendales : meurtres et strip-teases - S1E4 - Révélations
 bfmplay://NEUF_NUM23_N231003105335527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021024166882" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/2/8/8/2554c246ded84367aba9748e8ab8b35f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les grandes affaires criminelles",Gisèle Pelicot : au nom de toutes les femmes
-bfmplay://NEUF_RMC_LIFE_RIF1021024166882
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055771914" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/1/9/3a8813fd4a144e55f26112d56abe3a7d_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les plus grands mystères",Le monstre du Loch Ness existe-t-il vraiment ?
+bfmplay://NEUF_NUM23_N231021055771914
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23669916652527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/2/5/c2ad32c9d847bafb8c94e25123cfb876_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les plus grands mystères",Dans les secrets des francs-maçons
 bfmplay://NEUF_NUM23_N23669916652527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021055831869" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/8/967c801b8c2e373d2713e6f4bb1546be_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Les plus grands mystères",Dans les secrets des Illuminati
@@ -4027,6 +4027,8 @@ bfmplay://NEUF_NUM23_N231021138452691
 bfmplay://NEUF_NUM23_N231021138452683
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021138452715" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/1/7/3b3863babab41836601dd83eded75aef_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Rien de personnel - S2E5 - Episode 5
 bfmplay://NEUF_NUM23_N231021138452715
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021024166882" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/2/8/8/2554c246ded84367aba9748e8ab8b35f_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Crime & Investigation",Gisèle Pelicot : au nom de toutes les femmes
+bfmplay://NEUF_RMC_LIFE_RIF1021024166882
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N23808502048527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/7/2/5/528659a2974c9ab63cab5b404fa3e9de_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Crime & Investigation",Pablo Escobar : la traque du baron de la drogue
 bfmplay://NEUF_NUM23_N23808502048527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N2368103" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/3/0/1/5f93caaf9fd313082aef057309274df1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Ces crimes qui ont choqué le monde (spécial Australie) - S1E5 - Katherine Mary Knight
@@ -7725,8 +7727,6 @@ bfmplay://NEUF_RMCDEC_RMC1020934365475
 bfmplay://NEUF_RMCDEC_RMC1020934365402
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020934365527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/573610f407025e5d181b6e96d6e29b0b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",Pêche XXL : derniers géants - S4E6 - Face au monstre
 bfmplay://NEUF_RMCDEC_RMC1020934365527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020925601264" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/6/2/b19f39bb4a486421c47fdfc2ebec9099_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Les 10 sectes les plus dangereuses de la planète
-bfmplay://NEUF_NUM23_N231020925601264
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1021136679655" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/5/6/8bfa0708f5a4fad52dcf65310311917d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Les routiers : profession chauffeur poids lourd - S3E6 - Andréa et Vincent
 bfmplay://NEUF_RMCDEC_RMC1021136679655
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC971338582527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/b96bf825c04dd3cf0c65f73ca3c8b193_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Les routiers : profession chauffeur poids lourd - S1E2 - Livraison à haut risque
@@ -7909,6 +7909,8 @@ bfmplay://NEUF_RMCDEC_RMC1020937232172
 bfmplay://NEUF_RMCDEC_RMC1020937233242
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020909391889" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/9/8/8/baa5cd3574b822c818363afa14b098e7_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Empire romain : des origines à la chute
 bfmplay://NEUF_RMCDEC_RMC1020909391889
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Sous-marin nucléaire : déconstruction XXL
+bfmplay://NEUF_RMCDEC_RMC1020917651774
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020936093511" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/1/5/1a9c8be5beb9c7f128d980d5dc13e91a_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Documentaire",Celtes : les mystères d'une civilisation disparue
 bfmplay://NEUF_RMCDEC_RMC1020936093511
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020915593664" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/6/6/dd27f86acb1d90bdf264fc5969508ae9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Documentaire",Le mystère des Incas : Des origines à la chute - S1E2 - L'expansion fulgurante de l'empire du soleil
@@ -8127,8 +8129,6 @@ bfmplay://NEUF_RMCDEC_RMC1020926228679
 bfmplay://NEUF_RMCDEC_RMC1020926228665
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020926228658" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/8/5/6/c613397c1c4dacebc8e17fbb0ab80e93_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Histoire & Civilisation",Nazi hunters : traqueurs de nazis - S1E3 - Klaus Barbie
 bfmplay://NEUF_RMCDEC_RMC1020926228658
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917651774" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/4/7/7/33bad6900b8d90f78073a79029bfad4e_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Sous-marin nucléaire : déconstruction XXL
-bfmplay://NEUF_RMCDEC_RMC1020917651774
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020917851525" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/5/2/5/24a1a8438c51b929a96cf6ee0e0a5c82_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",Sous-marins nucléaires : les armes de l'ombre
 bfmplay://NEUF_RMCDEC_RMC1020917851525
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC892203776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/4cb798268d0c39b58594eebdf96b5b15_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Science & Technologie",San Andreas : l'apocalypse bientôt en Californie ?
@@ -9297,6 +9297,30 @@ bfmplay://NEUF_BFMTV_BFM1020920112357
 bfmplay://NEUF_BFMTV_BFM1020926914969
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1020927813409" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMTV/9/0/4/a6d3b12d35257b06034db9216dd742b5_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Thématique BFM Play - Société & Immersion",Français, américains ils quittent tout pour la Russie
 bfmplay://NEUF_BFMTV_BFM1020927813409
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001082" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/8/0/789f1e389dd1ca09e85cf47aa6271538_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match France - Belgique
+bfmplay://NEUF_BFMRADIO_BRA50000000001082
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001073" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/7/0/e49fb3ae828d83c668dcddf3ba1f1426_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after de la 4e journée de la Ligue des nations
+bfmplay://NEUF_BFMRADIO_BRA50000000001073
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001069" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/6/0/908f680d2a33a27a71b43d05d2126549_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invité : Gérald Baticle, sélectionneur de l'Équipe de France Espoirs
+bfmplay://NEUF_BFMRADIO_BRA50000000001069
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001065" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/6/0/2a50e33bb08f46c6d50d16504a07f29b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match France - Italie
+bfmplay://NEUF_BFMRADIO_BRA50000000001065
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001058" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/5/0/9996f7a14053c9899838ebfcf1934b82_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Enquête choc sur les abus sexuels dans le foot - Partie 2
+bfmplay://NEUF_BFMRADIO_BRA50000000001058
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001057" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/5/0/3c210df6dbfe9434b86ad64d0b4ba068_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invité: Maurice Cohen , Président de l’OGC Nice  - Partie 1
+bfmplay://NEUF_BFMRADIO_BRA50000000001057
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001048" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/4/0/67a71fa934b3eea8ee48e809e9ad1cbe_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Quel onze souhaitez-vous voir face à l’Italie ? - Partie 2
+bfmplay://NEUF_BFMRADIO_BRA50000000001048
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001047" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/4/0/09d4e707f01ea4901aa740e61b3357ab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - invité : Pascal Ferré, Ancien directeur de la rédaction de France Football et co-responsable du Ballon d'Or - Partie 1
+bfmplay://NEUF_BFMRADIO_BRA50000000001047
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001038" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/3/0/e5cc06fa4f916744483b9676588a935c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invitée : Sasha Beckermann - Partie 2
+bfmplay://NEUF_BFMRADIO_BRA50000000001038
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001037" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/3/0/4c47a7fd21beba1b106a12fc02bab76e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Zidane peut déjà tirer beaucoup d’enseignements après 2 matchs - Partie 1
+bfmplay://NEUF_BFMRADIO_BRA50000000001037
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001028" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/2/0/fd4e39f88365b4a7594dd28ee6954e79_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match Belgique - France
+bfmplay://NEUF_BFMRADIO_BRA50000000001028
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001022" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/2/0/b3e051b90e7b95b4b43e67c23a45299c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Est-ce enfin le moment de Dembélé en EDF ?
+bfmplay://NEUF_BFMRADIO_BRA50000000001022
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001090" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/0/9/0/88ce24737faa5c08b623115f24f0bf4c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Génération After Foot - Faut-il acter que Dembélé est en remplaçant en EDF ? - Partie 2
 bfmplay://NEUF_BFMRADIO_BRA50000000001090
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001089" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/8/0/e24d89a1ade6f5ccd5577cda6cf93281_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Génération After Foot - Zidane vous a-t-il totalement convaincu ? - Partie 1
@@ -9389,30 +9413,6 @@ bfmplay://NEUF_BFMRADIO_BRA50000000001049
 bfmplay://NEUF_BFMRADIO_BRA50000000001039
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001029" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/2/0/464bd5d5af76347dca9b3d2f22f84cad_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Les nuits du Cazarre enchaîné - Émission du 28 septembre 2026
 bfmplay://NEUF_BFMRADIO_BRA50000000001029
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001082" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/8/0/789f1e389dd1ca09e85cf47aa6271538_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match France - Belgique
-bfmplay://NEUF_BFMRADIO_BRA50000000001082
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001073" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/7/0/e49fb3ae828d83c668dcddf3ba1f1426_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after de la 4e journée de la Ligue des nations
-bfmplay://NEUF_BFMRADIO_BRA50000000001073
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001069" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/6/0/908f680d2a33a27a71b43d05d2126549_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invité : Gérald Baticle, sélectionneur de l'Équipe de France Espoirs
-bfmplay://NEUF_BFMRADIO_BRA50000000001069
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001065" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/5/6/0/2a50e33bb08f46c6d50d16504a07f29b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match France - Italie
-bfmplay://NEUF_BFMRADIO_BRA50000000001065
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001058" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/5/0/9996f7a14053c9899838ebfcf1934b82_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Enquête choc sur les abus sexuels dans le foot - Partie 2
-bfmplay://NEUF_BFMRADIO_BRA50000000001058
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001057" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/5/0/3c210df6dbfe9434b86ad64d0b4ba068_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invité: Maurice Cohen , Président de l’OGC Nice  - Partie 1
-bfmplay://NEUF_BFMRADIO_BRA50000000001057
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001048" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/4/0/67a71fa934b3eea8ee48e809e9ad1cbe_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Quel onze souhaitez-vous voir face à l’Italie ? - Partie 2
-bfmplay://NEUF_BFMRADIO_BRA50000000001048
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001047" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/4/0/09d4e707f01ea4901aa740e61b3357ab_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - invité : Pascal Ferré, Ancien directeur de la rédaction de France Football et co-responsable du Ballon d'Or - Partie 1
-bfmplay://NEUF_BFMRADIO_BRA50000000001047
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001038" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/3/0/e5cc06fa4f916744483b9676588a935c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Invitée : Sasha Beckermann - Partie 2
-bfmplay://NEUF_BFMRADIO_BRA50000000001038
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001037" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/3/0/4c47a7fd21beba1b106a12fc02bab76e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Zidane peut déjà tirer beaucoup d’enseignements après 2 matchs - Partie 1
-bfmplay://NEUF_BFMRADIO_BRA50000000001037
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001028" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/8/2/0/fd4e39f88365b4a7594dd28ee6954e79_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match Belgique - France
-bfmplay://NEUF_BFMRADIO_BRA50000000001028
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001022" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/2/0/b3e051b90e7b95b4b43e67c23a45299c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - Est-ce enfin le moment de Dembélé en EDF ?
-bfmplay://NEUF_BFMRADIO_BRA50000000001022
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMREGION_BRG86000000000000237" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMREGION/7/3/2/34440990a6626d5f32ac1a108d6f3040_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Le club des Alpes du Sud - GAP s'impose en prolongation dans le derby
 bfmplay://NEUF_BFMREGION_BRG86000000000000237
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001072" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/2/7/0/3f0fcd3ba20f5687ec8ad6e7b2843221_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Stephen Brunch - Invité : Earvin Ngapeth , Joueur français de volley-ball
