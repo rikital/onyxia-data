@@ -679,6 +679,8 @@ tf1plus://tmc/90-enquetes
 tf1plus://tfx/appels-urgence
 #EXTINF:-1 tvg-id="tf1plus-tmc-very-brad-pitt-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-18c6f3-9ed978-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Very Brad Pitt
 tf1plus://tmc/very-brad-pitt
+#EXTINF:-1 tvg-id="tf1plus-tf1-cultissime-tgv-45-ans-a-toute-vitesse-avec-sncf-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-488816-85dc54-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Cultissime Tgv 45 Ans A Toute Vitesse Avec Sncf
+tf1plus://tf1/cultissime-tgv-45-ans-a-toute-vitesse-avec-sncf
 #EXTINF:-1 tvg-id="tf1plus-tf1-au-coeur-de-lartisanat-par-les-chambres-de-metiers-et-de-lartisanat-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-81ffc3-18fa4f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Au Coeur de Lartisanat Par les Chambres de Metiers et de Lartisanat
 tf1plus://tf1/au-coeur-de-lartisanat-par-les-chambres-de-metiers-et-de-lartisanat
 #EXTINF:-1 tvg-id="tf1plus-lci-grands-reportages-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-99adca-946dd1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Grands Reportages
@@ -771,8 +773,6 @@ tf1plus://tf1/star-academy-apres-la-vie-de-chateau
 tf1plus://tmc/michael-jackson-autopsie-du-roi-de-la-pop
 #EXTINF:-1 tvg-id="tf1plus-tmc-fifi-juju-tarek-lhistoire-dune-bande-à-voir-en-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-fifi-juju-tarek-lhistoire-dune-bande-188b2a-e29edf-b0f325-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - À voir en famille",Fifi Juju Tarek Lhistoire Dune Bande
 tf1plus://tmc/fifi-juju-tarek-lhistoire-dune-bande
-#EXTINF:-1 tvg-id="tf1plus-tmc-booder-le-nounou-prefere-des-francais-à-voir-en-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-dcc4c8-631f75-a0b986-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - À voir en famille",Booder le Nounou Prefere des Francais
-tf1plus://tmc/booder-le-nounou-prefere-des-francais
 #EXTINF:-1 tvg-id="tf1plus-tf1-en-roues-libres-défis-extrêmes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-545197-4ba900-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Défis extrêmes",En Roues Libres
 tf1plus://tf1/en-roues-libres
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-convoi-de-lextreme-défis-extrêmes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-convoiextreme-fcb58e-af6595-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Défis extrêmes",Le Convoi de Lextreme
@@ -853,8 +853,6 @@ tf1plus://tmc/21h-medias
 tf1plus://tmc/21h-medias-10-ans-de-mariage-pour-tous
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-generation-13-novembre-histoire" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d5a82a-b1c208-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Histoire",21h Medias Generation 13 Novembre
 tf1plus://tmc/21h-medias-generation-13-novembre
-#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-mensonges-de-tchernobyl-histoire" tvg-logo="https://photos.tf1.fr/217/289/poster-card-12504f-c00634-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Histoire",21h Medias les Mensonges de Tchernobyl
-tf1plus://tmc/21h-medias-les-mensonges-de-tchernobyl
 #EXTINF:-1 tvg-id="tf1plus-tmc-je-suis-paul-walker-cinéma" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-je-suis-paul-walker-d18b79-b5f05c-0e31e9-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Cinéma",Je Suis Paul Walker
 tf1plus://tmc/je-suis-paul-walker
 #EXTINF:-1 tvg-id="tf1plus-tf1-kev-adams-de-lautre-cote-du-miroir-cinéma" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait_kev-adams-doc_2023-0505de-56f8e1-090679-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Cinéma",Kev Adams de Lautre Cote du Miroir
@@ -939,6 +937,8 @@ tf1plus://tf1/auto-moto
 tf1plus://tf1/mister-v-and-theo-juice-de-la-fiat-panda-a-la-f4
 #EXTINF:-1 tvg-id="tf1plus-tmc-marches-de-noel-et-grands-magasins-dans-les-preparatifs-du-plus-gros-business-de-lannee-gastronomie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a6f227-b6b272-1c1530-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Gastronomie",Marches de Noel et Grands Magasins Dans les Preparatifs du Plus Gros Business de Lannee
 tf1plus://tmc/marches-de-noel-et-grands-magasins-dans-les-preparatifs-du-plus-gros-business-de-lannee
+#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-mensonges-de-tchernobyl-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/poster-card-12504f-c00634-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias les Mensonges de Tchernobyl
+tf1plus://tmc/21h-medias-les-mensonges-de-tchernobyl
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-janvier-2015-lhorreur-en-france-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-92d989-6fc4e0-072d10-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Janvier 2015 Lhorreur En France
 tf1plus://tmc/21h-medias-janvier-2015-lhorreur-en-france
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-qui-peut-arreter-elon-musk-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_21h-medias-qui-peut-arreter-elon-musk-833103-10ab10-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Qui Peut Arreter Elon Musk
@@ -2177,6 +2177,8 @@ tf1plus://tf1/rolie-polie-olie
 tf1plus://tf1/droles-de-petites-betes
 #EXTINF:-1 tvg-id="tf1plus-tf1-paprika-pour-apprendre-à-grandir" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-3-paprika-fb8554-015a59-faf97f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour apprendre à grandir",Paprika
 tf1plus://tf1/paprika
+#EXTINF:-1 tvg-id="tf1plus-tf1-vip-pets-pour-apprendre-à-grandir" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-c25772-365fa6-5610a6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour apprendre à grandir",Vip Pets
+tf1plus://tf1/vip-pets
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-zinzins-de-lespace-a-regarder-entre-frères-et-soeurs" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-cf6b56-ccb37e-ced0ed-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder entre frères et soeurs",Les Zinzins de Lespace
 tf1plus://tf1/les-zinzins-de-lespace
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-manege-enchante-a-regarder-entre-frères-et-soeurs" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-le-manege-enchante-146b45-042d76-b09fbc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder entre frères et soeurs",Le Manege Enchante
@@ -2223,8 +2225,6 @@ tf1plus://tf1/les-petites-histoires-signees
 tf1plus://tf1/tfou-danimation
 #EXTINF:-1 tvg-id="tf1plus-tf1-belle-et-sebastien-le-royaume-des-animaux" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-belle-et-sebastien-b7abae-def702-e64213-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Le royaume des animaux",Belle et Sebastien
 tf1plus://tf1/belle-et-sebastien
-#EXTINF:-1 tvg-id="tf1plus-tf1-vip-pets-le-royaume-des-animaux" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-c25772-365fa6-5610a6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Le royaume des animaux",Vip Pets
-tf1plus://tf1/vip-pets
 #EXTINF:-1 tvg-id="tf1plus-tf1-petit-spirou-en-avant-pour-l'aventure-!" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-le-petit-spirou-712608-659c97-1d6230-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - En avant pour l'aventure !",Petit Spirou
 tf1plus://tf1/petit-spirou
 #EXTINF:-1 tvg-id="tf1plus-tf1-koh-lanta-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-klas7-em7-rouge-3e829b-27d65d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Koh Lanta
@@ -3425,8 +3425,6 @@ tf1plus://tf1/croisiere-pour-lenfer
 tf1plus://tf1/croqueuses-dheritages
 #EXTINF:-1 tvg-id="tf1plus-tf1-cruelle-maman-smx" tvg-logo="https://photos.tf1.fr/1200/720/cruelle-maman-2fbbe0-6a41c5-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Cruelle Maman
 tf1plus://tf1/cruelle-maman
-#EXTINF:-1 tvg-id="tf1plus-tf1-cultissime-tgv-45-ans-a-toute-vitesse-avec-sncf-smx" tvg-logo="https://photos.tf1.fr/1200/720/tgv-45-ans-a-toute-vitesse-02966a-56da8e-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Cultissime : TGV 45 ans à toute vitesse avec SNCF
-tf1plus://tf1/cultissime-tgv-45-ans-a-toute-vitesse-avec-sncf
 #EXTINF:-1 tvg-id="tf1plus-tf1-cyborg-x-smx" tvg-logo="https://photos.tf1.fr/1200/720/cyborg-x-41f06c-f0e67d-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Cyborg X
 tf1plus://tf1/cyborg-x
 #EXTINF:-1 tvg-id="tf1plus-tf1-cyclone-categorie-6-le-choc-des-tempetes-smx" tvg-logo="https://photos.tf1.fr/1200/720/cyclone-categorie-6-le-choc-des-tempetes-partie-1-1-1-1-fa2f5c-499f13-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Cyclone, catégorie 6 : Le Choc des tempêtes
@@ -5925,6 +5923,8 @@ tf1plus://tfx/pierre-garnier-le-concert-evenement
 tf1plus://tfx/vacances-a-chacun-son-style
 #EXTINF:-1 tvg-id="tf1plus-tmc-betisiers-smx" tvg-logo="https://photos.tf1.fr/1200/720/2129275_grandbetisier2026p2-87bfae-709ec0-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le Grand Bêtisier
 tf1plus://tmc/betisiers
+#EXTINF:-1 tvg-id="tf1plus-tmc-booder-le-nounou-prefere-des-francais-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-877318-ec0835-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Booder : le nounou préféré des Français
+tf1plus://tmc/booder-le-nounou-prefere-des-francais
 #EXTINF:-1 tvg-id="tf1plus-tmc-burger-quiz-smx" tvg-logo="https://photos.tf1.fr/1200/720/rap-le-generique-de-motus-a-la-sauce-kanye-west-d10915-24e03e-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Burger Quiz
 tf1plus://tmc/burger-quiz
 #EXTINF:-1 tvg-id="tf1plus-tmc-covid-19-un-ete-sous-surveillance-smx" tvg-logo="https://photos.tf1.fr/1200/720/concerts-en-visio-drive-in-pour-rouvrir-clubs-et-cinemas-sadaptent-66436-d50568-0feb25-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Les reportages de Martin Weill - COVID 19 : un été sous surveillance
