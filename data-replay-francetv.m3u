@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-8b9d974e-0b36-4053-a6ed-6ac9ea19df0f" tvg-logo="https://medias.france.tv/OMtOBlG-P5-e91Bt_JoC2KKqPb0/400x0/filters:quality(85)/m/q/s/phpnoasqm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",L'heure de vérité — Avec Édouard Philippe
+francetv://8b9d974e-0b36-4053-a6ed-6ac9ea19df0f
 #EXTINF:-1 tvg-id="francetv-3befdb64-81ae-4ff5-86d3-da05fca21fd8" tvg-logo="https://medias.france.tv/CZiJAmqvYEn0K-lBzbTjFh1gjGU/400x0/filters:quality(85)/k/g/j/php5mhjgk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",On aboie en silence
 francetv://3befdb64-81ae-4ff5-86d3-da05fca21fd8
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sœurs
@@ -215,8 +217,8 @@ francetv://b4400c3e-12cb-4f3b-884b-f830767b215a
 francetv://0540ccf3-f2d7-4833-ac10-5cfc6078b4f4
 #EXTINF:-1 tvg-id="francetv-397d7cb6-34cf-465e-aa47-67828badcca2" tvg-logo="https://medias.france.tv/uXEGGVX-LOQJj1DE9qENJqImJtw/400x0/filters:quality(85)/y/f/k/phppyvkfy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 7 octobre 2026
 francetv://397d7cb6-34cf-465e-aa47-67828badcca2
-#EXTINF:-1 tvg-id="francetv-2432e3bb-39fb-44ba-b36f-72ad4ec99c2c" tvg-logo="https://medias.france.tv/SvAwIqO6uW8bv8AXgyzKon6wppQ/400x0/filters:quality(85)/k/k/w/phpjt9wkk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 8 octobre 2026
-francetv://2432e3bb-39fb-44ba-b36f-72ad4ec99c2c
+#EXTINF:-1 tvg-id="francetv-9e6eafcd-5c9a-4b6b-aa19-45c414a5d4c0" tvg-logo="https://medias.france.tv/SvAwIqO6uW8bv8AXgyzKon6wppQ/400x0/filters:quality(85)/k/k/w/phpjt9wkk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 8 octobre 2026
+francetv://9e6eafcd-5c9a-4b6b-aa19-45c414a5d4c0
 #EXTINF:-1 tvg-id="francetv-d75269dd-18c5-4ca6-a7eb-8b35ec2465af" tvg-logo="https://medias.france.tv/zi_S5eYwM1dwf7GbzmmV-dpaQg8/400x0/filters:quality(85)/l/b/t/phpnamtbl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 9 octobre 2026
 francetv://d75269dd-18c5-4ca6-a7eb-8b35ec2465af
 #EXTINF:-1 tvg-id="francetv-bb325c80-18fc-4e96-a980-2dabb0bf9675" tvg-logo="https://medias.france.tv/GnaRQUfV3C6ZZrqHib--hyuIb3o/400x0/filters:quality(85)/m/b/i/php7gjibm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Lame de fond
@@ -353,8 +355,8 @@ francetv://program/france-3_vivement-dimanche
 francetv://program/france-3_duels-en-familles-le-match-des-regions
 #EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Bilal Hassani, bats-toi comme une fille mon fils
 francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
-#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Misery
-francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
+#EXTINF:-1 tvg-id="francetv-13a5a398-4fb0-4924-a41c-09af59e1229b" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Misery
+francetv://13a5a398-4fb0-4924-a41c-09af59e1229b
 #EXTINF:-1 tvg-id="francetv-4a0b6b06-f96a-48cb-bf8e-fa2cc7151f5c" tvg-logo="https://medias.france.tv/9mlsizqbNuZclMHQKhlrFPvSPIs/400x0/filters:quality(85)/s/1/b/phpslgb1s.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Renaud, 50 ans de chansons
 francetv://4a0b6b06-f96a-48cb-bf8e-fa2cc7151f5c
 #EXTINF:-1 tvg-id="francetv-c671d0ce-aca9-4cf9-838f-47718cbd5d60" tvg-logo="https://medias.france.tv/9xo0VNTtci6QEi5ecXV-vzyjSjc/400x0/filters:quality(85)/w/s/f/phpzhvfsw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",La nuit où Laurier Gaudreault s'est réveillé
@@ -1083,6 +1085,14 @@ francetv://e03e7974-bcca-11f1-87d8-19616fa871f9
 francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
+#EXTINF:-1 tvg-id="francetv-56649962-c347-11f1-af61-57a09c50f7ce" tvg-logo="https://medias.france.tv/BCjXe2IslO1ozUlQ4-7Fufsm5HI/400x0/filters:quality(85)/3/8/2/73e820f7470b406098350946ea82b283.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Basket : La NBA bientôt en Europe
+francetv://56649962-c347-11f1-af61-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-9b747dc6-c345-11f1-af61-57a09c50f7ce" tvg-logo="https://medias.france.tv/RJwG0EPqZaThnsVJjXi6lzmfRYY/400x0/filters:quality(85)/b/c/1/3109cd379b9349b3802e9b1cd0e361cb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Judo : Dicko/Fontaine, il n'en restera qu'une
+francetv://9b747dc6-c345-11f1-af61-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-76bd03b0-c343-11f1-888b-19616fa871f9" tvg-logo="https://medias.france.tv/zJ62eMjNH69fchjwjLgwHSNBxxk/400x0/filters:quality(85)/4/0/e/e544adb0595e4f5fbd67d3f1e1453e04.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Cyclisme : Demi Vollering, la reine du peloton
+francetv://76bd03b0-c343-11f1-888b-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-75b168c6-c348-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/1nDypbt8abN3GHipJYckJayudsI/400x0/filters:quality(85)/0/6/7/6944c5acf21444f8b173a93980edb760.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Trail : À l'assaut de la Diagonale des Fous
+francetv://75b168c6-c348-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-efe61332-c279-11f1-9671-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/t4xRFmY1rGiPjb1MbJhOHODW5uw/400x0/filters:quality(85)/8/6/3/a66c5255d4874652af5ef12ad6f0d368.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Lionel Messi : un hommage monumental
 francetv://efe61332-c279-11f1-9671-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-643c8644-c27a-11f1-9671-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/GSu9-abNuD4rYfS8RVDPXqQ96Jo/400x0/filters:quality(85)/0/a/8/0c0b599d50034eceaa23270a4231e8a0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — France 98 : le jubilé inoubliable de Robert Pirès
@@ -1343,8 +1353,8 @@ francetv://b4400c3e-12cb-4f3b-884b-f830767b215a
 francetv://0540ccf3-f2d7-4833-ac10-5cfc6078b4f4
 #EXTINF:-1 tvg-id="francetv-397d7cb6-34cf-465e-aa47-67828badcca2" tvg-logo="https://medias.france.tv/uXEGGVX-LOQJj1DE9qENJqImJtw/400x0/filters:quality(85)/y/f/k/phppyvkfy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 7 octobre 2026
 francetv://397d7cb6-34cf-465e-aa47-67828badcca2
-#EXTINF:-1 tvg-id="francetv-2432e3bb-39fb-44ba-b36f-72ad4ec99c2c" tvg-logo="https://medias.france.tv/SvAwIqO6uW8bv8AXgyzKon6wppQ/400x0/filters:quality(85)/k/k/w/phpjt9wkk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 8 octobre 2026
-francetv://2432e3bb-39fb-44ba-b36f-72ad4ec99c2c
+#EXTINF:-1 tvg-id="francetv-9e6eafcd-5c9a-4b6b-aa19-45c414a5d4c0" tvg-logo="https://medias.france.tv/SvAwIqO6uW8bv8AXgyzKon6wppQ/400x0/filters:quality(85)/k/k/w/phpjt9wkk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 8 octobre 2026
+francetv://9e6eafcd-5c9a-4b6b-aa19-45c414a5d4c0
 #EXTINF:-1 tvg-id="francetv-d75269dd-18c5-4ca6-a7eb-8b35ec2465af" tvg-logo="https://medias.france.tv/zi_S5eYwM1dwf7GbzmmV-dpaQg8/400x0/filters:quality(85)/l/b/t/phpnamtbl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 9 octobre 2026
 francetv://d75269dd-18c5-4ca6-a7eb-8b35ec2465af
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Un soupçon
@@ -1757,8 +1767,8 @@ francetv://program/arte_the-paradise
 francetv://5a585ee5-8854-443d-a4c4-3d6617483280
 #EXTINF:-1 tvg-id="francetv-prog-france-2_surface" tvg-logo="https://medias.france.tv/wygtBJkrlsQwuDb9auZQqcEmtk8/400x0/filters:quality(85)/o/z/m/phpdmvmzo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Quelques adaptations littéraires",Surface
 francetv://program/france-2_surface
-#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Quelques adaptations littéraires",Misery
-francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
+#EXTINF:-1 tvg-id="francetv-13a5a398-4fb0-4924-a41c-09af59e1229b" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Quelques adaptations littéraires",Misery
+francetv://13a5a398-4fb0-4924-a41c-09af59e1229b
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_theatre-et-danse_les-trois-mousquetaires-la-serie" tvg-logo="https://medias.france.tv/pen28M7Z2UkxWwL2CHpgKYYDLVw/400x0/filters:quality(85)/b/p/x/phprsvxpb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Quelques adaptations littéraires",Les Trois Mousquetaires - La série
 francetv://program/spectacles-et-culture_theatre-et-danse_les-trois-mousquetaires-la-serie
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-evapores" tvg-logo="https://medias.france.tv/CPtl-k9gmiloFzdiFr9FkeNc4LQ/400x0/filters:quality(85)/8/m/o/phpcpnom8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Portés disparus",Les évaporés
@@ -2611,8 +2621,8 @@ francetv://e13e7a87-8477-4b54-9e01-78534122a432
 francetv://b6934f71-8290-45c0-aedb-227aeeb4e740
 #EXTINF:-1 tvg-id="francetv-466cf2d9-8abf-48bb-9eec-a8b55f1aefd7" tvg-logo="https://medias.france.tv/Kk2zSyQPplLdeHhUs0mLVOBgzfo/400x0/filters:quality(85)/b/0/3/94ea5e30748e496fa1913c873ea7e30b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Deux
 francetv://466cf2d9-8abf-48bb-9eec-a8b55f1aefd7
-#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Misery
-francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
+#EXTINF:-1 tvg-id="francetv-13a5a398-4fb0-4924-a41c-09af59e1229b" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Misery
+francetv://13a5a398-4fb0-4924-a41c-09af59e1229b
 #EXTINF:-1 tvg-id="francetv-bcd2512d-cc9d-4986-b942-da1f96fc5a97" tvg-logo="https://medias.france.tv/DI4erTzSRTf125K4I6yRL3CEjFA/400x0/filters:quality(85)/7/7/f/627503cbd6aa48b9b9e4fbd65f981f77.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Ondine
 francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 #EXTINF:-1 tvg-id="francetv-5a585ee5-8854-443d-a4c4-3d6617483280" tvg-logo="https://medias.france.tv/WktKsKn8IgLPeY4MDYnnD4sCf1Y/400x0/filters:quality(85)/z/l/3/phphh73lz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Le Hussard sur le toit
@@ -2839,8 +2849,8 @@ francetv://240c92a5-57a3-4040-ab88-7f3aa508af42
 francetv://3f99adfe-936b-4097-b409-f4a018bbe16c
 #EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Trilogie Le Parrain — Le parrain
 francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
-#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Misery
-francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
+#EXTINF:-1 tvg-id="francetv-13a5a398-4fb0-4924-a41c-09af59e1229b" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Misery
+francetv://13a5a398-4fb0-4924-a41c-09af59e1229b
 #EXTINF:-1 tvg-id="francetv-7427e4c7-a474-421e-87d9-afcc4e295502" tvg-logo="https://medias.france.tv/tNEHvbvKX4N1uo2CVFPUeI2hV4g/400x0/filters:quality(85)/7/b/9/c9328fa29d884327863261b8ce9b79b7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Le couperet
 francetv://7427e4c7-a474-421e-87d9-afcc4e295502
 #EXTINF:-1 tvg-id="francetv-b2b86738-cac2-48d1-b093-530e1d5c0c6c" tvg-logo="https://medias.france.tv/J-L1OhL3jbyTYraSv8W3Gcx_B_g/400x0/filters:quality(85)/f/c/w/phpfw4wcf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Jusqu'au bout du suspense",Omar m'a tuer
@@ -3411,6 +3421,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/SlvWLJrESdVgrowgzMoOGQdrP8M/400x0/filters:quality(85)/x/n/e/phpogsenx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
+#EXTINF:-1 tvg-id="francetv-8b9d974e-0b36-4053-a6ed-6ac9ea19df0f" tvg-logo="https://medias.france.tv/OMtOBlG-P5-e91Bt_JoC2KKqPb0/400x0/filters:quality(85)/m/q/s/phpnoasqm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",L'heure de vérité — Avec Édouard Philippe
+francetv://8b9d974e-0b36-4053-a6ed-6ac9ea19df0f
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/sOg9_oe8FMhR1JiqjE-wcTgYxGc/400x0/filters:quality(85)/s/x/r/phpkv0rxs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
 #EXTINF:-1 tvg-id="francetv-b8cf8fb5-1060-4e5f-95f3-ab056cfdb699" tvg-logo="https://medias.france.tv/_DSuO1DmYehiuSWr2XN3McHy83Q/400x0/filters:quality(85)/a/a/p/phphpopaa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",La parole est à vous... — Émission du lundi 5 octobre 2026
@@ -4303,6 +4315,14 @@ francetv://e03e7974-bcca-11f1-87d8-19616fa871f9
 francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
+#EXTINF:-1 tvg-id="francetv-56649962-c347-11f1-af61-57a09c50f7ce" tvg-logo="https://medias.france.tv/BCjXe2IslO1ozUlQ4-7Fufsm5HI/400x0/filters:quality(85)/3/8/2/73e820f7470b406098350946ea82b283.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Basket : La NBA bientôt en Europe
+francetv://56649962-c347-11f1-af61-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-9b747dc6-c345-11f1-af61-57a09c50f7ce" tvg-logo="https://medias.france.tv/RJwG0EPqZaThnsVJjXi6lzmfRYY/400x0/filters:quality(85)/b/c/1/3109cd379b9349b3802e9b1cd0e361cb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Judo : Dicko/Fontaine, il n'en restera qu'une
+francetv://9b747dc6-c345-11f1-af61-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-76bd03b0-c343-11f1-888b-19616fa871f9" tvg-logo="https://medias.france.tv/zJ62eMjNH69fchjwjLgwHSNBxxk/400x0/filters:quality(85)/4/0/e/e544adb0595e4f5fbd67d3f1e1453e04.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Cyclisme : Demi Vollering, la reine du peloton
+francetv://76bd03b0-c343-11f1-888b-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-75b168c6-c348-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/1nDypbt8abN3GHipJYckJayudsI/400x0/filters:quality(85)/0/6/7/6944c5acf21444f8b173a93980edb760.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Trail : À l'assaut de la Diagonale des Fous
+francetv://75b168c6-c348-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-efe61332-c279-11f1-9671-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/t4xRFmY1rGiPjb1MbJhOHODW5uw/400x0/filters:quality(85)/8/6/3/a66c5255d4874652af5ef12ad6f0d368.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Lionel Messi : un hommage monumental
 francetv://efe61332-c279-11f1-9671-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-643c8644-c27a-11f1-9671-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/GSu9-abNuD4rYfS8RVDPXqQ96Jo/400x0/filters:quality(85)/0/a/8/0c0b599d50034eceaa23270a4231e8a0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — France 98 : le jubilé inoubliable de Robert Pirès
