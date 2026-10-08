@@ -3910,7 +3910,7 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f170d6
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/77115f01-d00a-4ef0-bb00-dcb3896e1c09/f5c7ee72e5a980b3ac2a31fd94e112e8.png" group-title="Plex TV - 100% Français",Farscape
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-635195e9ccee3e1547a8831a.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Plex TV - 100% Français",FashionTV
-http://51.75.127.199:3141/ftvhd/index.m3u8
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a659b1ed-e1a2-481c-bd77-ef4e57d8088f/FIFA__Logo_Rectangle_1500x1000_WHT.png" group-title="Plex TV - 100% Français",FIFA+
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-666340ce76ca410aa18e705b.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png" group-title="Plex TV - 100% Français",Fight Network
@@ -4442,7 +4442,7 @@ https://9baef935.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZn
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992437/600x200.png?type=white_cropped" group-title="LG Channels - Autres",This Old House
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992437&ads.xumo_streamId=99992437&ads.channelId=99992437&ads.csid=lgchannels_fr_thisoldhouseventures_ssai&ads.channelName=thisoldhouseventures_fr&ads.xumo_contentName=ThisOldHouseVentures&ads.xumo_contentId=283&ads.xumo_providerName=ThisOldHouseVentures&ads.xumo_providerId=283&ads.content_category=IAB1-7&ads.content_genre=Home%20%26%20Design&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/fashiontvlogo.png" group-title="LG Channels - Lifestyle",FashionTV
-http://51.75.127.199:3141/ftvhd/index.m3u8
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/529/lg/bdfb86/LG-Logo-PNG-100x100_v1.png" group-title="LG Channels - Autres",The Boat Show
 https://0ef4d427cd1a4785a51d1ce13f9f0017.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-fr_TheBoatShow/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/generic_cd_692810bbb210457d13fecef1_1764326284808.png?width=200&height=200" group-title="LG Channels - Autres",JDS-TV
@@ -7404,7 +7404,7 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FashionTV.in@SD" group-title="France TV backup - Autres",FashionTV (India) (1080p) [iptv-org-fra]
-http://51.75.127.199:3141/ftvhd/index.m3u8
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="zenith.fr@HD" group-title="Généralistes - 100% Français",zenith (1080p)
@@ -7412,7 +7412,7 @@ https://live.azenagroup.com/zenith/index.ll.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FashionTV.in@SD" group-title="France TV backup - Autres",FashionTV (India) (1080p) [iptv-org-fra]
-http://51.75.127.199:3141/ftvhd/index.m3u8
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
 #EXTINF:-1 tvg-chno="83" dm-id="k1y3Q3GC7w8flQry8S3" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gmcxW1ZtYsh/60x60" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",83. L'Équipe live 7 [dailymotion.com]
