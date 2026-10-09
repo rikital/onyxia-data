@@ -17,10 +17,10 @@ arte://052433-031-A
 arte://132359-000-A
 #EXTINF:-1 tvg-id="arte-093576-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XRPurYxXbYvTZh8nfAj3uk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Entretien avec Christian Petzold
 arte://093576-000-A
-#EXTINF:-1 tvg-id="arte-130432-061-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/A2aRnh4XgDXnhocDjrogJT/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les B.O. de Jean-Paul Belmondo — Blow up
-arte://130432-061-A
 #EXTINF:-1 tvg-id="arte-130432-060-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/p75ifAiUefUuy2hF42SEwH/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Barry Keoghan par Laetitia Masson — Blow up
 arte://130432-060-A
+#EXTINF:-1 tvg-id="arte-130432-061-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/A2aRnh4XgDXnhocDjrogJT/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les B.O. de Jean-Paul Belmondo — Blow up
+arte://130432-061-A
 #EXTINF:-1 tvg-id="arte-130432-059-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/W8SSM4ffmjEZ6GEu7XD8WJ/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les éléphants au cinéma — Blow up
 arte://130432-059-A
 #EXTINF:-1 tvg-id="arte-130432-058-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iT78czGGh8DkeomtveAhDM/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les génériques de John Boorman — Blow up
@@ -689,8 +689,6 @@ arte://126925-132-A
 arte://132441-000-A
 #EXTINF:-1 tvg-id="arte-122772-015-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/pCaCkofWmUwjJUbEVb5iJ4/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Mobilisation collective — Est-ce que cela sert encore à quelque chose ?
 arte://122772-015-A
-#EXTINF:-1 tvg-id="arte-114573-026-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/6ksvY8vUWDR9thMrHipNTD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Voitures électriques, qui peut arrêter la Chine ? — Lettre franco-allemande à Bruxelles pour durcir le ton face à Pékin
-arte://114573-026-A
 #EXTINF:-1 tvg-id="arte-121619-105-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qVyW88yJiAciQDkVeZysy9/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Une “taxe sucre” discutée en France et en Allemagne
 arte://121619-105-A
 #EXTINF:-1 tvg-id="arte-126925-128-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EPXYEqjc9rcCoxBDV9cfwE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Vol Dubaï - Tel-Aviv : dans quel contexte ? — Le dessous des cartes - L'essentiel
@@ -701,6 +699,8 @@ arte://121619-104-A
 arte://121620-161-A
 #EXTINF:-1 tvg-id="arte-132779-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/GbLqVLUkgux4iuGgzVGLcg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",L'Union européenne peut-elle s'élargir, sans éclater ?
 arte://132779-005-A
+#EXTINF:-1 tvg-id="arte-114573-026-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/6ksvY8vUWDR9thMrHipNTD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Voitures électriques, qui peut arrêter la Chine ? — Lettre franco-allemande à Bruxelles pour durcir le ton face à Pékin
+arte://114573-026-A
 #EXTINF:-1 tvg-id="arte-129995-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/nzcg7iqRahAaw8hh9WUEpb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Gaza : à la recherche des disparus
 arte://129995-000-A
 #EXTINF:-1 tvg-id="arte-134277-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/878tUFYLtB2pQhX5zZACrk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Brésil : mon oncle bolsonariste — ARTE Reportage
@@ -1217,10 +1217,10 @@ arte://119121-006-A
 arte://119121-007-A
 #EXTINF:-1 tvg-id="arte-104840-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Wxm7Ccq85fyPkfoJ5uEvHH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Allons-nous prendre plus de drogues ? — 42 - La réponse à presque tout
 arte://104840-001-A
-#EXTINF:-1 tvg-id="arte-127323-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/R7pY4sdaowi3Hx3PbdL7A3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Les questions qui fâchent — Faut-il repenser l’école ?
-arte://127323-005-A
 #EXTINF:-1 tvg-id="arte-135425-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/nJHXqGDeAr3CsTXe9QBcFm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Île de la cité, histoire du berceau de la France
 arte://135425-000-A
+#EXTINF:-1 tvg-id="arte-127323-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/R7pY4sdaowi3Hx3PbdL7A3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Les questions qui fâchent — Faut-il repenser l’école ?
+arte://127323-005-A
 #EXTINF:-1 tvg-id="arte-128051-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/HUmX8yZbgRSo2CFLS6YgAn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Bouteille ou canette ?
 arte://128051-006-A
 #EXTINF:-1 tvg-id="arte-127323-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9UrYijTEuCzz4G6nVQavme/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Les questions qui fâchent — Le service militaire : obligatoire ou volontaire ?
@@ -1443,6 +1443,8 @@ arte://101463-007-A
 arte://123428-020-A
 #EXTINF:-1 tvg-id="arte-123891-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/tYhncpZqbvNUg6pq7tfQzR/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai qu’autrefois nous vivions en harmonie avec la nature ?
 arte://123891-001-A
+#EXTINF:-1 tvg-id="arte-098132-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/amyWEdbpj4zfXhP5mAwZjH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",On The Morning You Wake (To the End of the World) — Nucléaire : alerte maximale
+arte://098132-000-A
 #EXTINF:-1 tvg-id="arte-111698-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ePnpXJwAFmG6R7NwuHEeUL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Madha Nahwa - Un plan qui tombe à l’eau
 arte://111698-006-A
 #EXTINF:-1 tvg-id="arte-101463-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/B8nXCd2K39vPWUmiCwwnb7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Mont Athos : Bataille au monastère
@@ -1467,14 +1469,14 @@ arte://111698-007-A
 arte://111698-010-A
 #EXTINF:-1 tvg-id="arte-123428-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/gyThD5RaJ2EGFUFgYUWE8F/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai qu'autrefois il y avait beaucoup moins de paperasse ?
 arte://123428-016-A
-#EXTINF:-1 tvg-id="arte-098132-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/amyWEdbpj4zfXhP5mAwZjH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",On The Morning You Wake (To the End of the World) — Nucléaire : alerte maximale
-arte://098132-000-A
 #EXTINF:-1 tvg-id="arte-103434-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vuNebiey7GqaZzacasyiU9/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Athlétisme - Quand le stade résonne des clameurs de la rue
 arte://103434-006-A
 #EXTINF:-1 tvg-id="arte-111698-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/C9aZ4H5jCGkbgrE8XswCu6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Domaine national français en Terre sainte - Sous haute protection
 arte://111698-008-A
 #EXTINF:-1 tvg-id="arte-101463-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cSXLoQ6AvjiS4fYoNoD4Tk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Baarle : Trafics au village
 arte://101463-002-A
+#EXTINF:-1 tvg-id="arte-103434-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qYkvspW4LEcMJrinL7gAeF/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Gymnastique - Les sports de la grâce et de la discipline
+arte://103434-010-A
 #EXTINF:-1 tvg-id="arte-111698-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vbguXs3KPWTTsBhN4FT9Gk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Moresnet Neutre - Amitié sur le zinc
 arte://111698-003-A
 #EXTINF:-1 tvg-id="arte-111698-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9GzCk5YdRcJcnaHKHRxJW3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Birobidjan - Jérusalem au pays des soviets
@@ -1487,8 +1489,6 @@ arte://103434-002-A
 arte://101463-010-A
 #EXTINF:-1 tvg-id="arte-103434-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yY4rqRLXLBiZsxxqDwAJVj/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Cricket - Le sport, boîte à outils de l’impérialisme
 arte://103434-007-A
-#EXTINF:-1 tvg-id="arte-103434-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qYkvspW4LEcMJrinL7gAeF/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Gymnastique - Les sports de la grâce et de la discipline
-arte://103434-010-A
 #EXTINF:-1 tvg-id="arte-103434-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yJvQnr59sgspWfAiHAAyq6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Marathon - La révolution du Marathon
 arte://103434-001-A
 #EXTINF:-1 tvg-id="arte-103434-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/PsUaeZQTGecBK86vc5MUda/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Natation - Les échecs héroïques
@@ -2209,8 +2209,6 @@ arte://121417-004-A
 arte://119945-000-A
 #EXTINF:-1 tvg-id="arte-120191-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/6DJyNgoT6CFDD44RjoY7ob/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Birds On A Wire — Musée du Louvre
 arte://120191-000-A
-#EXTINF:-1 tvg-id="arte-124004-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7gLfpa3tLFSmpZv5G8xWBQ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Edouard Ferlet & Marguerite Thiam — Piano Day 2025
-arte://124004-005-A
 #EXTINF:-1 tvg-id="arte-081858-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KQi2JCDGKDEXYDA3wtxqNf/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Kid Francescoli sur la Seine — Passengers
 arte://081858-009-A
 #EXTINF:-1 tvg-id="arte-124007-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XPdo3AUYEbXsdAVLapoEE6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Carpetman — ESNS 2025
@@ -2229,6 +2227,8 @@ arte://124007-001-A
 arte://124004-001-A
 #EXTINF:-1 tvg-id="arte-124004-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/dePYHCoPb6hKTCthDVzrWP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Büşra Kayıkçı — Piano Day 2025
 arte://124004-003-A
+#EXTINF:-1 tvg-id="arte-124004-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7gLfpa3tLFSmpZv5G8xWBQ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Edouard Ferlet & Marguerite Thiam — Piano Day 2025
+arte://124004-005-A
 #EXTINF:-1 tvg-id="arte-124007-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/48FxdmMGewbHsAMvuZor9U/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Best of des sessions et des extraits de concerts — ESNS 2025
 arte://124007-009-A
 #EXTINF:-1 tvg-id="arte-119038-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/V8RRH2PvB66RpasxwHM3uM/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Bandit Bandit - La Marée, Méchant Garçon — Laser Disc
