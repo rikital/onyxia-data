@@ -6312,6 +6312,10 @@ https://video1.getstreamhosting.com:1936/8312/8312/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/500px-Noovo_logo.svg.png" group-title="Live MIX",Noovo Cinéma
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Live MIX",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/guHWZwP.jpg" group-title="Live MIX",Activa TV (ES)
+https://streamtv.mediasector.es/hls/activatv/.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France TV backup - Autres",LCI HD (1080p) [iptv-org-fr]
