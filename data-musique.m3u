@@ -42,3 +42,21 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Musique",Total Music Concerts (ES)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2025/06/cropped-icon-192x192-1-192x192.png" group-title="Musique",V2BEAT (Pop Dance)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Musique",Music TV Granada (ES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/images/favicon.png" group-title="Musique",Elite TV (ES)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvm3.ch/data/files/logo-tvm3/big3.png" group-title="Musique",TVM3 (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://edge12.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://generations.fr/media/option/logo-generations-50770.png" group-title="Musique",Generations TV (FR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://edge17.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiocontact.be/app/uploads/2024/10/logoContact.jpeg" group-title="Musique",Radio Contact (BE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://live-radiocontact.digiteka.com/1564284079/index.m3u8
