@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-7738d4c2-7ffa-4895-8630-62553bbb073c" tvg-logo="https://medias.france.tv/ywZ-h6PRmQew4KcXAELO0cocbSw/400x0/filters:quality(85)/a/i/s/php0chsia.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Taratata fête le Zénith 1984
+francetv://7738d4c2-7ffa-4895-8630-62553bbb073c
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La terre et le sang
 francetv://program/france-2_la-terre-et-le-sang
 #EXTINF:-1 tvg-id="francetv-3befdb64-81ae-4ff5-86d3-da05fca21fd8" tvg-logo="https://medias.france.tv/CZiJAmqvYEn0K-lBzbTjFh1gjGU/400x0/filters:quality(85)/k/g/j/php5mhjgk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",On aboie en silence
@@ -1079,8 +1081,6 @@ francetv://program/spectacles-et-culture_musique-pop-rock-electro_encore
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
 #EXTINF:-1 tvg-id="francetv-12b0ace8-9d1c-40b9-8603-911db55d9893" tvg-logo="https://medias.france.tv/xg2a2E2tZj3bo7RrLU1eCLHiFyI/400x0/filters:quality(85)/e/m/l/phpj2vlme.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Match amical : France vs Lettonie
 francetv://12b0ace8-9d1c-40b9-8603-911db55d9893
-#EXTINF:-1 tvg-id="francetv-440c081a-2324-4bf1-877b-d7593c0764b9" tvg-logo="https://medias.france.tv/pj-mQ53wPw62V2bS1YakLOCGIUU/400x0/filters:quality(85)/q/s/b/phpb7xbsq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Finales de Londres
-francetv://440c081a-2324-4bf1-877b-d7593c0764b9
 #EXTINF:-1 tvg-id="francetv-7381eaa4-c0d1-11f1-8603-957ddefc544d" tvg-logo="https://medias.france.tv/SSYvkY6Bh8P0wVaEUfxJwaRMnWU/400x0/filters:quality(85)/2/b/0/5f0ecf62aa674238855a25ac175870b2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Bande-annonce du Philadelphia Eagles vs Jacksonville Jaguars
 francetv://7381eaa4-c0d1-11f1-8603-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-e03e7974-bcca-11f1-87d8-19616fa871f9" tvg-logo="https://medias.france.tv/aHZnlZ7a2na7dmaHK_JUy1LF38s/400x0/filters:quality(85)/7/c/d/074f73150c1b4b0881eb8ea7cc21adc7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Paroles d'experts : la NFL débarque enfin en France !
@@ -3721,6 +3721,8 @@ francetv://program/franceinfo_a-suivre-avec-loic-de-la-mornais
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-societe_leon-xiv-le-pape-en-france" tvg-logo="https://medias.france.tv/WFfRRgL2Ar7ShvRAQN6bRuzrspc/400x0/filters:quality(85)/e/f/y/phplgdyfe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Grands formats",Léon XIV, le pape en France
 francetv://program/societe_leon-xiv-le-pape-en-france
+#EXTINF:-1 tvg-id="francetv-7738d4c2-7ffa-4895-8630-62553bbb073c" tvg-logo="https://medias.france.tv/ywZ-h6PRmQew4KcXAELO0cocbSw/400x0/filters:quality(85)/a/i/s/php0chsia.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Taratata fête le Zénith 1984
+francetv://7738d4c2-7ffa-4895-8630-62553bbb073c
 #EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
 francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
 #EXTINF:-1 tvg-id="francetv-4a0b6b06-f96a-48cb-bf8e-fa2cc7151f5c" tvg-logo="https://medias.france.tv/9mlsizqbNuZclMHQKhlrFPvSPIs/400x0/filters:quality(85)/s/1/b/phpslgb1s.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Renaud, 50 ans de chansons
@@ -4225,6 +4227,8 @@ francetv://bbe063a8-65d9-4809-af44-e655485d774a
 francetv://program/tv5-monde_cotonou-comedy-festival-2025
 #EXTINF:-1 tvg-id="francetv-246f86d4-f350-11ee-97e0-2ba3426fa3df" tvg-logo="https://medias.france.tv/TXDz6aboimqP-RnzS02u0OKKP1E/400x0/filters:quality(85)/4/a/2/php6kn2a4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",À l'origine du stand-up
 francetv://246f86d4-f350-11ee-97e0-2ba3426fa3df
+#EXTINF:-1 tvg-id="francetv-7738d4c2-7ffa-4895-8630-62553bbb073c" tvg-logo="https://medias.france.tv/ywZ-h6PRmQew4KcXAELO0cocbSw/400x0/filters:quality(85)/a/i/s/php0chsia.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",Taratata fête le Zénith 1984
+francetv://7738d4c2-7ffa-4895-8630-62553bbb073c
 #EXTINF:-1 tvg-id="francetv-prog-slash_la-team-l-emission-de-pop-culture" tvg-logo="https://medias.france.tv/mfawiNCxv8OFIq0Y6KFwC_e1EAw/400x0/filters:quality(85)/c/p/m/phpn53mpc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",La Team, l'émission de pop culture
 francetv://program/slash_la-team-l-emission-de-pop-culture
 #EXTINF:-1 tvg-id="francetv-426a1d8c-7592-4ba7-a866-dda9934a7e88" tvg-logo="https://medias.france.tv/neA-pDTtzL2MUA0gKvYFgvHLkOA/400x0/filters:quality(85)/h/j/g/phpdufgjh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",Fête de la musique — Emission du samedi 20 juin 2026
@@ -4303,8 +4307,6 @@ francetv://program/arte_hellfest
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
 #EXTINF:-1 tvg-id="francetv-12b0ace8-9d1c-40b9-8603-911db55d9893" tvg-logo="https://medias.france.tv/xg2a2E2tZj3bo7RrLU1eCLHiFyI/400x0/filters:quality(85)/e/m/l/phpj2vlme.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Match amical : France vs Lettonie
 francetv://12b0ace8-9d1c-40b9-8603-911db55d9893
-#EXTINF:-1 tvg-id="francetv-440c081a-2324-4bf1-877b-d7593c0764b9" tvg-logo="https://medias.france.tv/pj-mQ53wPw62V2bS1YakLOCGIUU/400x0/filters:quality(85)/q/s/b/phpb7xbsq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Finales de Londres
-francetv://440c081a-2324-4bf1-877b-d7593c0764b9
 #EXTINF:-1 tvg-id="francetv-7381eaa4-c0d1-11f1-8603-957ddefc544d" tvg-logo="https://medias.france.tv/SSYvkY6Bh8P0wVaEUfxJwaRMnWU/400x0/filters:quality(85)/2/b/0/5f0ecf62aa674238855a25ac175870b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Bande-annonce du Philadelphia Eagles vs Jacksonville Jaguars
 francetv://7381eaa4-c0d1-11f1-8603-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-e03e7974-bcca-11f1-87d8-19616fa871f9" tvg-logo="https://medias.france.tv/aHZnlZ7a2na7dmaHK_JUy1LF38s/400x0/filters:quality(85)/7/c/d/074f73150c1b4b0881eb8ea7cc21adc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Paroles d'experts : la NFL débarque enfin en France !
