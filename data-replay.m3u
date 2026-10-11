@@ -20865,6 +20865,8 @@ m6play://gulli/21381
 m6play://m6replay/9651
 #EXTINF:-1 tvg-id="m6plus-10015" tvg-logo="https://images.6play.fr/v1/images/4261296/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Le Journal Inattendu
 m6play://m6replay/10015
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
 francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La terre et le sang
@@ -21941,18 +21943,18 @@ francetv://program/france-4_basique-les-sessions
 francetv://program/spectacles-et-culture_musique-pop-rock-electro_encore
 #EXTINF:-1 tvg-id="francetv-33a20612-120a-4e60-bd96-225146e4cf0c" tvg-logo="https://medias.france.tv/U2iFz3NYcc7vkU8waep1eenbOL4/400x0/filters:quality(85)/y/w/c/php51wcwy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Chaîne sport
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
-#EXTINF:-1 tvg-id="francetv-2d5873cc-c5a4-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/uOeO_zI8XYthT3nBiZOjDuVmZoQ/400x0/filters:quality(85)/0/6/c/d5ba853f12ef4acf812348b4646afc60.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Cyclisme : Paul Seixas, une saison monumentale
-francetv://2d5873cc-c5a4-11f1-af66-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-51a0cb58-c59f-11f1-8611-957ddefc544d" tvg-logo="https://medias.france.tv/vruWCcucQngpahOP80ZvYAVZVwA/400x0/filters:quality(85)/2/e/3/6a1b04decd374367aac20b28cfb433e2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Triathlon Ironman : Vincent Luis sur le toit du monde
 francetv://51a0cb58-c59f-11f1-8611-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-2d5873cc-c5a4-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/uOeO_zI8XYthT3nBiZOjDuVmZoQ/400x0/filters:quality(85)/0/6/c/d5ba853f12ef4acf812348b4646afc60.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Cyclisme : Paul Seixas, une saison monumentale
+francetv://2d5873cc-c5a4-11f1-af66-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-fa78984e-c5a6-11f1-8890-19616fa871f9" tvg-logo="https://medias.france.tv/OyZQ2lzOOk1Dhne0nqA-YP18nfY/400x0/filters:quality(85)/5/d/d/ae202baf4f3c4ceea296a6fdefe10dd5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand format : Yannis Pelé, la bonne étoile
+francetv://fa78984e-c5a6-11f1-8890-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-6a1559c8-c320-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/No0s3McwUsneWLBSCTu6Bp_aOgQ/400x0/filters:quality(85)/5/d/8/ca32cafec98c465cb4700508efbd88d5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Bande-annonce des championnats du monde de cyclisme sur piste 2026
+francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-e03e7974-bcca-11f1-87d8-19616fa871f9" tvg-logo="https://medias.france.tv/aHZnlZ7a2na7dmaHK_JUy1LF38s/400x0/filters:quality(85)/7/c/d/074f73150c1b4b0881eb8ea7cc21adc7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Paroles d'experts : la NFL débarque enfin en France !
 francetv://e03e7974-bcca-11f1-87d8-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-a5d87030-62f4-4e01-b2eb-f1a117241ce9" tvg-logo="https://medias.france.tv/eD2ikFwHmFZrZEw2EFqfhKID7O0/400x0/filters:quality(85)/h/s/q/phpuhoqsh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Evénement - Idf — Les 20km de Paris 2026
 francetv://a5d87030-62f4-4e01-b2eb-f1a117241ce9
-#EXTINF:-1 tvg-id="francetv-6a1559c8-c320-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/No0s3McwUsneWLBSCTu6Bp_aOgQ/400x0/filters:quality(85)/5/d/8/ca32cafec98c465cb4700508efbd88d5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Bande-annonce des championnats du monde de cyclisme sur piste 2026
-francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-8c4cb370-c027-11f1-966a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/U1Y6_7LIBRxCg5hcI8pR7xNXZRY/400x0/filters:quality(85)/4/0/c/fcfac20cc5a749bb920ccc4235493c04.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand format : un sommet baptisé Pic 21
-francetv://8c4cb370-c027-11f1-966a-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-33995228-c5a0-11f1-967a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/6nUUB-1ukHbuOZMietwEFoApKyI/400x0/filters:quality(85)/7/9/8/1931e55da8754378857de15cda220897.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Judo : des Mondiaux à oublier pour les Bleus
@@ -23389,6 +23391,8 @@ francetv://program/france-2_13h15-le-samedi
 francetv://program/france-2_13h15-le-dimanche
 #EXTINF:-1 tvg-id="francetv-ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10" tvg-logo="https://medias.france.tv/TQsCZez_NguAYx3qhxyzN2HhWX4/400x0/filters:quality(85)/9/4/2/a8bf88d1827f49cab91fd72929e0b249.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shutter Island
 francetv://ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-d5423566-1a3b-4343-99bb-09a21394523b" tvg-logo="https://medias.france.tv/J-QssP5F7jB7rXXtpXnWUCkDU60/400x0/filters:quality(85)/4/l/4/phpdpw4l4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",She Said
 francetv://d5423566-1a3b-4343-99bb-09a21394523b
 #EXTINF:-1 tvg-id="francetv-ebdc014a-1960-4756-b8bc-c18e7750e0c8" tvg-logo="https://medias.france.tv/ErB8aIglL4Bz9mSornrDUFExr50/400x0/filters:quality(85)/5/y/q/phprupqy5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Le mystère Henri Pick
@@ -23439,6 +23443,8 @@ francetv://d5423566-1a3b-4343-99bb-09a21394523b
 francetv://8324e4d6-d639-48a2-acac-d5827d6199be
 #EXTINF:-1 tvg-id="francetv-a5d06853-cc25-432c-a285-f7c81501105d" tvg-logo="https://medias.france.tv/yI36CInserYD5iMFe6v5lQm2_48/400x0/filters:quality(85)/u/b/a/phpafuabu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",7 jours pas plus
 francetv://a5d06853-cc25-432c-a285-f7c81501105d
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-ebdc014a-1960-4756-b8bc-c18e7750e0c8" tvg-logo="https://medias.france.tv/ErB8aIglL4Bz9mSornrDUFExr50/400x0/filters:quality(85)/5/y/q/phprupqy5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Le mystère Henri Pick
 francetv://ebdc014a-1960-4756-b8bc-c18e7750e0c8
 #EXTINF:-1 tvg-id="francetv-47eb9c89-0438-4e75-bc57-11d31b70f7d6" tvg-logo="https://medias.france.tv/SiAgSE8wTusSKlAY-RgqfqKGa-Y/400x0/filters:quality(85)/l/a/z/phpnahzal.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Victoria
@@ -23471,6 +23477,8 @@ francetv://acc5b3d2-776d-42da-b9fc-b5dcda449bac
 francetv://7d5d7c96-c341-4add-8931-491b00d38344
 #EXTINF:-1 tvg-id="francetv-2ca29dfb-0bd5-4aeb-9cfb-c34cbea943ef" tvg-logo="https://medias.france.tv/gr67MjdqaQXQs674CzPw4LCjKwg/400x0/filters:quality(85)/c/7/c/d110f9b34cfd411fb82282ed050c6c7c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Des hommes et des dieux
 francetv://2ca29dfb-0bd5-4aeb-9cfb-c34cbea943ef
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-e13e7a87-8477-4b54-9e01-78534122a432" tvg-logo="https://medias.france.tv/DfosJr0KMhOgKwG82UeEP4xbigY/400x0/filters:quality(85)/3/0/e/045fd8a5670046188f5b29ffcc4f6e03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Un conte de Noël
 francetv://e13e7a87-8477-4b54-9e01-78534122a432
 #EXTINF:-1 tvg-id="francetv-b6934f71-8290-45c0-aedb-227aeeb4e740" tvg-logo="https://medias.france.tv/UoVhXyvOmm9YA_prmJ8VOeNqtCw/400x0/filters:quality(85)/k/6/1/phpokv16k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cinéma primé",Retour à Séoul
@@ -23649,6 +23657,8 @@ francetv://0c94cad7-0c9a-4a34-bab2-8778daba95b7
 francetv://55e01a95-090c-4615-9b98-ba6275efe1bd
 #EXTINF:-1 tvg-id="francetv-2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6" tvg-logo="https://medias.france.tv/ID_posZ2N4i8EsPA_BoffV12zYo/400x0/filters:quality(85)/9/c/w/phprdowc9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Le ciel attendra
 francetv://2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-d5423566-1a3b-4343-99bb-09a21394523b" tvg-logo="https://medias.france.tv/J-QssP5F7jB7rXXtpXnWUCkDU60/400x0/filters:quality(85)/4/l/4/phpdpw4l4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",She Said
 francetv://d5423566-1a3b-4343-99bb-09a21394523b
 #EXTINF:-1 tvg-id="francetv-3791a0e5-414c-43fa-8f06-18970587298b" tvg-logo="https://medias.france.tv/hkT9TbJ886yXV8Aj20c56cVKKeg/400x0/filters:quality(85)/5/f/9/8b7cd73ed1da450baf1d36e6d5f519f5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les grandes émotions du cinéma",Camille
@@ -25151,18 +25161,18 @@ francetv://program/france-4_francofolies-de-la-rochelle
 francetv://program/arte_hellfest
 #EXTINF:-1 tvg-id="francetv-33a20612-120a-4e60-bd96-225146e4cf0c" tvg-logo="https://medias.france.tv/U2iFz3NYcc7vkU8waep1eenbOL4/400x0/filters:quality(85)/y/w/c/php51wcwy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Chaîne sport
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
-#EXTINF:-1 tvg-id="francetv-2d5873cc-c5a4-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/uOeO_zI8XYthT3nBiZOjDuVmZoQ/400x0/filters:quality(85)/0/6/c/d5ba853f12ef4acf812348b4646afc60.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Cyclisme : Paul Seixas, une saison monumentale
-francetv://2d5873cc-c5a4-11f1-af66-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-51a0cb58-c59f-11f1-8611-957ddefc544d" tvg-logo="https://medias.france.tv/vruWCcucQngpahOP80ZvYAVZVwA/400x0/filters:quality(85)/2/e/3/6a1b04decd374367aac20b28cfb433e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Triathlon Ironman : Vincent Luis sur le toit du monde
 francetv://51a0cb58-c59f-11f1-8611-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-2d5873cc-c5a4-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/uOeO_zI8XYthT3nBiZOjDuVmZoQ/400x0/filters:quality(85)/0/6/c/d5ba853f12ef4acf812348b4646afc60.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Cyclisme : Paul Seixas, une saison monumentale
+francetv://2d5873cc-c5a4-11f1-af66-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-fa78984e-c5a6-11f1-8890-19616fa871f9" tvg-logo="https://medias.france.tv/OyZQ2lzOOk1Dhne0nqA-YP18nfY/400x0/filters:quality(85)/5/d/d/ae202baf4f3c4ceea296a6fdefe10dd5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Grand format : Yannis Pelé, la bonne étoile
+francetv://fa78984e-c5a6-11f1-8890-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-6a1559c8-c320-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/No0s3McwUsneWLBSCTu6Bp_aOgQ/400x0/filters:quality(85)/5/d/8/ca32cafec98c465cb4700508efbd88d5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Bande-annonce des championnats du monde de cyclisme sur piste 2026
+francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-e03e7974-bcca-11f1-87d8-19616fa871f9" tvg-logo="https://medias.france.tv/aHZnlZ7a2na7dmaHK_JUy1LF38s/400x0/filters:quality(85)/7/c/d/074f73150c1b4b0881eb8ea7cc21adc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Paroles d'experts : la NFL débarque enfin en France !
 francetv://e03e7974-bcca-11f1-87d8-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-a5d87030-62f4-4e01-b2eb-f1a117241ce9" tvg-logo="https://medias.france.tv/eD2ikFwHmFZrZEw2EFqfhKID7O0/400x0/filters:quality(85)/h/s/q/phpuhoqsh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Evénement - Idf — Les 20km de Paris 2026
 francetv://a5d87030-62f4-4e01-b2eb-f1a117241ce9
-#EXTINF:-1 tvg-id="francetv-6a1559c8-c320-11f1-9672-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/No0s3McwUsneWLBSCTu6Bp_aOgQ/400x0/filters:quality(85)/5/d/8/ca32cafec98c465cb4700508efbd88d5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Bande-annonce des championnats du monde de cyclisme sur piste 2026
-francetv://6a1559c8-c320-11f1-9672-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-8c4cb370-c027-11f1-966a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/U1Y6_7LIBRxCg5hcI8pR7xNXZRY/400x0/filters:quality(85)/4/0/c/fcfac20cc5a749bb920ccc4235493c04.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Grand format : un sommet baptisé Pic 21
-francetv://8c4cb370-c027-11f1-966a-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-2d5873cc-c5a4-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/uOeO_zI8XYthT3nBiZOjDuVmZoQ/400x0/filters:quality(85)/0/6/c/d5ba853f12ef4acf812348b4646afc60.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Cyclisme : Paul Seixas, une saison monumentale
