@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="arte-092916-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xAEVtt7bJNf6UwFTy8yuTY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Compartiment n° 6 — La rencontre de deux solitudes
+arte://092916-000-A
+#EXTINF:-1 tvg-id="arte-033672-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ZhEVXQDcwQ66a7fRLLba9V/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Spartacus — Le film légendaire multi‑oscarisé de Kubrick
+arte://033672-000-A
+#EXTINF:-1 tvg-id="arte-095080-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cTR5wfZPNCgMLoDFLD8PYY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Le diable n'existe pas — Infliger la mort : obéir ou se révolter ?
+arte://095080-000-A
+#EXTINF:-1 tvg-id="arte-070745-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QDi69zMAX2uTfwZJS8ke2U/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les mutins du Yorik — En hommage à l'acteur Mario Adorf
+arte://070745-000-A
 #EXTINF:-1 tvg-id="arte-118152-038-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/bXPgYZ6eAnxr3HTjYbcVUE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Conversation avec François Ozon
 arte://118152-038-A
 #EXTINF:-1 tvg-id="arte-083883-014-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/uhJCdFwMwf5d8N227nibJQ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",François Ozon en musiques — Blow up
@@ -53,8 +61,6 @@ arte://130432-048-A
 arte://112557-047-A
 #EXTINF:-1 tvg-id="arte-077140-054-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8fyDH65kEbZtyNhnX6mxsT/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",L'été au cinéma — Blow up
 arte://077140-054-A
-#EXTINF:-1 tvg-id="arte-092916-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ztKDSsNeK3btqfsE5oKFUB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Compartiment n° 6
-arte://092916-000-A
 #EXTINF:-1 tvg-id="arte-130432-018-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/pYnjTqW8MwxcwRw8iMoaGH/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Face à l'Histoire : le Péplum — Blow up examine les rapports entre cinéma et Histoire
 arte://130432-018-A
 #EXTINF:-1 tvg-id="arte-126909-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KXwx7i5kSfXCiCsTyMtMVY/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Baby, It's Cold Outside
@@ -103,8 +109,6 @@ arte://106236-042-A
 arte://106236-009-A
 #EXTINF:-1 tvg-id="arte-103554-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/MaR3yqrTDcfq9qD6n3j74P/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Conversation avec Nathalie Baye
 arte://103554-001-A
-#EXTINF:-1 tvg-id="arte-070745-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/FkTBunQ2LLELbgKfMvuXoS/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les mutins du Yorik
-arte://070745-000-A
 #EXTINF:-1 tvg-id="arte-100210-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ZE6E4MamGAaWvNe7nhJoDX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma","In the Mood for Love" par Johanna Vaude — Blow up
 arte://100210-012-A
 #EXTINF:-1 tvg-id="arte-083883-023-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AtsWAgT5sqFfx4rJ4L5Apb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Agnès Varda en 7 minutes — Blow up
