@@ -3417,6 +3417,8 @@ bfmplay://NEUF_BFMRADIO_BRA0302000347
 bfmplay://NEUF_BFMRADIO_BRA0302000251
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA0302000250" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/WiztiviStore/posters/NEUF_BFMRADIO/0/5/2/BRA0302000250_src_16p9.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay 100% DOCS - Il va y avoir du sport",Farès Ziam, ombre et lumière
 bfmplay://NEUF_BFMRADIO_BRA0302000250
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC936010819527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/c187ba11ca8784842d9ef883b331e662_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Pêche XXL - S1E3 - Les dinosaures de l'Amazonie
+bfmplay://NEUF_RMCDEC_RMC936010819527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC936010810527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/2f07c3892ffdbdf11505be843400d47a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Pêche XXL - S1E2 - Prédateurs envahissants
 bfmplay://NEUF_RMCDEC_RMC936010810527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC935062761527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/bf5648bf92a4ec20fb9a549a5a1502e5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Pêche XXL - S5E5 - Echoué en enfer
@@ -3441,8 +3443,6 @@ bfmplay://NEUF_RMCDEC_RMC556383335527
 bfmplay://NEUF_RMCDEC_RMC556383299527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC556383383527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/11092b320b84ff134fcec027a0071975_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Pêche XXL - S2E12 - Frénésie africaine
 bfmplay://NEUF_RMCDEC_RMC556383383527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC936010776527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/2/5/91ac6fc969f74aa915ef3f0a2b456f00_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Pêche XXL - S1E1 - Feu et glace
-bfmplay://NEUF_RMCDEC_RMC936010776527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020906148622" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/2/2/6/1d9e19b790c8fb83e3f90de40b798b33_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Au coeur du zoo le plus beau du monde - S2E6 - Koalas boys
 bfmplay://NEUF_RMC_LIFE_RIF1020906148622
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020905977151" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/1/5/1/07cf2cb57fab42fe9ce064c8c85f2ea1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay 100% DOCS - Docu réalité",Habitations en péril - S10E10 - Gravats Bravaches - Partie 2
@@ -4331,6 +4331,14 @@ bfmplay://NEUF_BFMTV_BFM969323613527
 bfmplay://NEUF_BFMTV_BFM969323661527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM969323669527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/WiztiviStore/posters/NEUF_BFMTV/7/2/5/BFM969323669527_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Samuel Paty, l'assassinat qui aurait dû être évité - Episode 3 - La délation
 bfmplay://NEUF_BFMTV_BFM969323669527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473142" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/2/4/1/d345829ec4fa072b9c7b4c0934f68fa5_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E9 - Chez le psy (2)
+bfmplay://NEUF_RMC_LIFE_RIF1020943473142
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473131" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/1/3/1/a2e465dfecbdb7d3d569181d410ca31d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E8 - Au chalet (1)
+bfmplay://NEUF_RMC_LIFE_RIF1020943473131
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473120" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/0/2/1/1b0391ebef5730575b6989c23798704a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E7 - Dans la salle de bain (1)
+bfmplay://NEUF_RMC_LIFE_RIF1020943473120
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473109" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/0/1/da204c26b187d98e805db9cf89c3715a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E6 - Dans la cuisine (1)
+bfmplay://NEUF_RMC_LIFE_RIF1020943473109
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473098" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/9/0/f093f39c8361516ab4d3228b92db13cc_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E5 - Chez le psy (1)
 bfmplay://NEUF_RMC_LIFE_RIF1020943473098
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943473087" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/8/0/2dc6709e6031d648d0e539ac44c62aa1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S1E4 - Reçoivent des amis à souper
@@ -4751,14 +4759,6 @@ bfmplay://NEUF_RMC_LIFE_RIF1020943505219
 bfmplay://NEUF_RMC_LIFE_RIF1020943505208
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505197" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/9/1/e8eede48c346c335ebf52ae6a4fc5c14_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E109 - À un mariage (2)
 bfmplay://NEUF_RMC_LIFE_RIF1020943505197
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505186" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/6/8/1/2e73f6d423750fe3da1c92e2d0b7bbdd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E108 - Dans le salon (6)
-bfmplay://NEUF_RMC_LIFE_RIF1020943505186
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505175" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/5/7/1/8801e59b887a2b149c8e5a3f318fd98b_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E107 - Chez le coiffeur (2)
-bfmplay://NEUF_RMC_LIFE_RIF1020943505175
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505164" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/4/6/1/9fee095291a2b9661e1e67809254d4f1_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E106 - Au lit (13)
-bfmplay://NEUF_RMC_LIFE_RIF1020943505164
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505153" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/3/5/1/8a356c178d6ba81a8cdcf5b744ce13e3_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E105 - Dans un grand magasin
-bfmplay://NEUF_RMC_LIFE_RIF1020943505153
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505109" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/9/0/1/8c11eb7b74dbe16cfce3e9951e9c0cc7_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E101 - Chez le nutritionniste
 bfmplay://NEUF_RMC_LIFE_RIF1020943505109
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020943505098" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/8/9/0/9a9d6553d828110ec1cc822de34e2f14_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Cinéma & Fiction",Un gars, une fille - S3E100 - Anniversaire de Jean
@@ -7337,6 +7337,18 @@ bfmplay://NEUF_RMCDEC_RMC1020924629578
 bfmplay://NEUF_RMCDEC_RMC1020924629585
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020924629592" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/2/9/5/f62e915eb6b37cf974e155680ae54caf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Aventure & Survie",Le meilleur forgeron - S8E49 - Vaincre l'invincible : la finale
 bfmplay://NEUF_RMCDEC_RMC1020924629592
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021047393655" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/5/6/35abed53d224f12910b7961ad3dc063f_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E16 - Episode 16
+bfmplay://NEUF_NUM23_N231021047393655
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020957733069" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/0/0c877d3ed5b51709de47d781e51b07d8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E7 - Episode 7
+bfmplay://NEUF_NUM23_N231020957733069
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021047393640" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/4/6/565384e698822c4baac1731fc8f15e56_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E15 - Episode 15
+bfmplay://NEUF_NUM23_N231021047393640
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149929" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/2/9/a162670940f15ddbef1255d7378a07cf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E6 - Episode 6
+bfmplay://NEUF_NUM23_N231020938149929
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149922" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/2/9/bd7a095d31641d018f9810005c3ffc1e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E5 - Episode 5
+bfmplay://NEUF_NUM23_N231020938149922
+#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149915" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/1/9/43f566909f2a7a46fc644e6ce3798cd8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E4 - Episode 4
+bfmplay://NEUF_NUM23_N231020938149915
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC24437" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/3/4/efce46c3d83812fa1b46835335b3f051_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",River monsters - S7E1 - Le mutilateur du Mekong
 bfmplay://NEUF_RMCDEC_RMC24437
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC43477" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMCDEC/7/7/4/6ba4da8f52fe0d29104c4297506e446e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",River monsters - S8E6 - Le secret du monde marin
@@ -7445,16 +7457,6 @@ bfmplay://NEUF_RMC_LIFE_RIF1020920179038
 bfmplay://NEUF_RMC_LIFE_RIF1020920179031
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020920178424" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/4/2/4/b99434bf48cd0eb012ce1ca46073ff03_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",Ink Master - Le meilleur tatoueur - S14E1 - Le retour des légendes
 bfmplay://NEUF_RMC_LIFE_RIF1020920178424
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020957733069" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/6/0/0c877d3ed5b51709de47d781e51b07d8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E7 - Episode 7
-bfmplay://NEUF_NUM23_N231020957733069
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231021047393640" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/0/4/6/565384e698822c4baac1731fc8f15e56_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E15 - Episode 15
-bfmplay://NEUF_NUM23_N231021047393640
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149929" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/9/2/9/a162670940f15ddbef1255d7378a07cf_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E6 - Episode 6
-bfmplay://NEUF_NUM23_N231020938149929
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149922" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/2/2/9/bd7a095d31641d018f9810005c3ffc1e_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E5 - Episode 5
-bfmplay://NEUF_NUM23_N231020938149922
-#EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020938149915" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/5/1/9/43f566909f2a7a46fc644e6ce3798cd8_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",La folie du camping-car : des vacances pas comme les autres - S1E4 - Episode 4
-bfmplay://NEUF_NUM23_N231020938149915
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020931004371" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/1/7/3/09bfadb19570fee9cabde31290b014b9_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",Piscines de rêve - S1E6 - Deux piscines naturelles en Corse
 bfmplay://NEUF_NUM23_N231020931004371
 #EXTINF:-1 tvg-id="bfmplay-NEUF_NUM23_N231020931004364" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_NUM23/4/6/3/778eb934cb7e28740e6c892b4c91f627_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Divertissement",Piscines de rêve - S1E5 - Une piscine oeuvre d'art en Normandie
