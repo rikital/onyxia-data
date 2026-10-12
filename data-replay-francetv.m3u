@@ -785,6 +785,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-685164e8-c64e-11f1-8893-19616fa871f9" tvg-logo="https://medias.france.tv/on8x7BSZrXub1WyLwN6LD70ET0I/400x0/filters:quality(85)/f/7/d/170163c0ab214c85991a6159edadfd7f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 12/10/2026 - Le fil info après-midi
+francetv://685164e8-c64e-11f1-8893-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-312a3a6e-c647-11f1-af66-57a09c50f7ce" tvg-logo="https://medias.france.tv/W33kijLFFDHNk2HfBHTvbpNkWbc/400x0/filters:quality(85)/1/7/5/eb53c463f4a54f25b948f16be98f1571.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 12/10/2026 Le fil info 14H
 francetv://312a3a6e-c647-11f1-af66-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-93428ca2-e074-41eb-8a27-34cd703681e1" tvg-logo="https://medias.france.tv/B1HSg0ihDN7R3sE3BGLDCXaFWIM/400x0/filters:quality(85)/e/b/c/b44a0cfac77342fdb0d41f2d77745cbe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du lundi 12 octobre 2026
@@ -823,8 +825,6 @@ francetv://1b9a124a-f31f-4f52-806f-61cdc6793c89
 francetv://94205173-6f2f-471e-a259-d78c8eb9dc97
 #EXTINF:-1 tvg-id="francetv-dc3ea304-99c7-4b4c-a546-a9fd05cd22be" tvg-logo="https://medias.france.tv/6ic4mwkPGxqfRXcfOmuBXM-Ws5U/400x0/filters:quality(85)/5/d/c/266e58c2aa46440bb33f5b5700507cd5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://dc3ea304-99c7-4b4c-a546-a9fd05cd22be
-#EXTINF:-1 tvg-id="francetv-7658d165-ae73-445a-baa2-3c5ced3f1efc" tvg-logo="https://medias.france.tv/IajPuNYghtKh13IjMbQIpgnZr4U/400x0/filters:quality(85)/7/6/3/11f81f926e8f429c95d6714f4c90c367.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
-francetv://7658d165-ae73-445a-baa2-3c5ced3f1efc
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2737,6 +2737,12 @@ francetv://05b5c746-ab6c-11f0-8248-957ddefc544d
 francetv://program/spectacles-et-culture_abdoul-fait-son-cinema
 #EXTINF:-1 tvg-id="francetv-prog-films_rencontre-s" tvg-logo="https://medias.france.tv/zXPw4GsNkrRKrWirGclTlplllOA/400x0/filters:quality(85)/e/t/w/php0n5wte.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",Rencontre(s)...
 francetv://program/films_rencontre-s
+#EXTINF:-1 tvg-id="francetv-fa25121d-e881-4646-bb58-711eb4ae2b32" tvg-logo="https://medias.france.tv/w6cNjWrCifxlTbiOcdJfm6DxTY0/400x0/filters:quality(85)/5/c/b/f4893cb17b38403ea9067f99ca00cbc5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Poison
+francetv://fa25121d-e881-4646-bb58-711eb4ae2b32
+#EXTINF:-1 tvg-id="francetv-d0ce0a2a-8364-4b1f-a720-76dae09b83e3" tvg-logo="https://medias.france.tv/qIV2rpQdF3chmYfAlLsYPyk7pYM/400x0/filters:quality(85)/f/b/1/90524369c90b4721887e481d03e401bf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",La grâce
+francetv://d0ce0a2a-8364-4b1f-a720-76dae09b83e3
+#EXTINF:-1 tvg-id="francetv-bcd2512d-cc9d-4986-b942-da1f96fc5a97" tvg-logo="https://medias.france.tv/DI4erTzSRTf125K4I6yRL3CEjFA/400x0/filters:quality(85)/7/7/f/627503cbd6aa48b9b9e4fbd65f981f77.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Ondine
+francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 #EXTINF:-1 tvg-id="francetv-4c02ad84-188f-47ae-934c-a67bd8ebf898" tvg-logo="https://medias.france.tv/XRjOh9brRZfU8YmjGCjJXAuTpjU/400x0/filters:quality(85)/5/c/c/3572e8022b5e43a882d879fc770a3cc5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Au plus près du paradis
 francetv://4c02ad84-188f-47ae-934c-a67bd8ebf898
 #EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Trilogie Le Parrain — Le parrain
@@ -2757,8 +2763,6 @@ francetv://16c38545-5547-4b21-986c-fa813977424f
 francetv://acc5b3d2-776d-42da-b9fc-b5dcda449bac
 #EXTINF:-1 tvg-id="francetv-341c4b6c-fa54-4da8-938b-09db7c6e1fe0" tvg-logo="https://medias.france.tv/70cUow7PJLFZgKnhTg_-5F2Tz_4/400x0/filters:quality(85)/1/f/a/64e81442c1d84e708ae4c64ee07d5af1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Deux ou trois choses que je sais d'elle
 francetv://341c4b6c-fa54-4da8-938b-09db7c6e1fe0
-#EXTINF:-1 tvg-id="francetv-bcd2512d-cc9d-4986-b942-da1f96fc5a97" tvg-logo="https://medias.france.tv/DI4erTzSRTf125K4I6yRL3CEjFA/400x0/filters:quality(85)/7/7/f/627503cbd6aa48b9b9e4fbd65f981f77.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Ondine
-francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 #EXTINF:-1 tvg-id="francetv-c5c566f4-b7a3-444b-8dd0-da1ae0aa4e96" tvg-logo="https://medias.france.tv/uJK0Kku_2kXIIBdcw1Rq1V11XVw/400x0/filters:quality(85)/1/1/4/32da4f0a03d94e45a15cda3c18bbb411.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",L'affaire Nevenka
 francetv://c5c566f4-b7a3-444b-8dd0-da1ae0aa4e96
 #EXTINF:-1 tvg-id="francetv-009d8f46-7fa9-4f9c-b30f-17e632479a33" tvg-logo="https://medias.france.tv/EtVq1XietF3ztzd09I_F0ElQSys/400x0/filters:quality(85)/8/5/a/629cd6e15a544bc39374c7bdf75b1a58.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Viva Varda !
@@ -3475,7 +3479,7 @@ francetv://17b2714e-c0e0-11f1-af5d-57a09c50f7ce
 francetv://ff79f99b-e8d5-4a1d-8a26-349af9ef7059
 #EXTINF:-1 tvg-id="francetv-1f6a1d40-33e3-484e-8992-c4f10fa43905" tvg-logo="https://medias.france.tv/6CPTkQemrXtT0cV8KyLZnhNhV70/400x0/filters:quality(85)/i/r/c/phpi0ocri.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",ICI 19/20 - L'entretien — Comprendre le mouvement lycéen
 francetv://1f6a1d40-33e3-484e-8992-c4f10fa43905
-#EXTINF:-1 tvg-id="francetv-a0ee56df-5738-465f-9994-7223a5e4ad37" tvg-logo="https://medias.france.tv/h0S-8EZevUy86JWM_suze5b0qAo/400x0/filters:quality(85)/d/1/4/8b5a5b310198410494fdec7ab5e5441d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",POURQUOI ? — Pourquoi une telle colère dans les lycées
+#EXTINF:-1 tvg-id="francetv-a0ee56df-5738-465f-9994-7223a5e4ad37" tvg-logo="https://medias.france.tv/h0S-8EZevUy86JWM_suze5b0qAo/400x0/filters:quality(85)/d/1/4/8b5a5b310198410494fdec7ab5e5441d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",POURQUOI ? — Pourquoi une telle colère dans les lycées ?
 francetv://a0ee56df-5738-465f-9994-7223a5e4ad37
 #EXTINF:-1 tvg-id="francetv-ee06088a-c0ce-11f1-af5d-57a09c50f7ce" tvg-logo="https://medias.france.tv/RDJhf6tj9DPlusgVRbgEN-Meg50/400x0/filters:quality(85)/6/1/e/3d53443a54224bafa24d77f115282e16.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Mouvement de contestation dans les lycées",C pas si loin — Mon lycée va craquer
 francetv://ee06088a-c0ce-11f1-af5d-57a09c50f7ce
@@ -5041,8 +5045,6 @@ francetv://program/enfants_neuf-douze-ans_premier-trio
 francetv://program/france-3_lego-ninjago
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_les-enquetes-de-lady-grace" tvg-logo="https://medias.france.tv/-nQIGimMAEIt9MTN66X7vl171MM/400x0/filters:quality(85)/4/8/w/phpbd9w84.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 9-12 ans",Les Enquêtes de Lady Grace
 francetv://program/enfants_neuf-douze-ans_les-enquetes-de-lady-grace
-#EXTINF:-1 tvg-id="francetv-prog-france-4_petite-casbah" tvg-logo="https://medias.france.tv/l8GuzBfflIfvdxK74TnJPC1a2Vg/400x0/filters:quality(85)/c/n/h/phpknkhnc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 9-12 ans",Petite Casbah
-francetv://program/france-4_petite-casbah
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_la-quete-d-ewilan" tvg-logo="https://medias.france.tv/qtq45GA8s7Vi7SRpexaaGI3cLjY/400x0/filters:quality(85)/a/v/h/phpgxahva.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 9-12 ans",La quête d'Ewilan
 francetv://program/enfants_neuf-douze-ans_la-quete-d-ewilan
 #EXTINF:-1 tvg-id="francetv-prog-france-3_les-grandes-grandes-vacances" tvg-logo="https://medias.france.tv/txgXbMsp1-BCCn_u0f6OW05mtNk/400x0/filters:quality(85)/x/v/z/phpzmpzvx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 9-12 ans",Les grandes Grandes Vacances
@@ -5171,8 +5173,6 @@ francetv://program/enfants_neuf-douze-ans_zombie-lars
 francetv://program/enfants_six-huit-ans_foot2rue
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_la-quete-d-ewilan" tvg-logo="https://medias.france.tv/qtq45GA8s7Vi7SRpexaaGI3cLjY/400x0/filters:quality(85)/a/v/h/phpgxahva.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",La quête d'Ewilan
 francetv://program/enfants_neuf-douze-ans_la-quete-d-ewilan
-#EXTINF:-1 tvg-id="francetv-prog-france-4_petite-casbah" tvg-logo="https://medias.france.tv/l8GuzBfflIfvdxK74TnJPC1a2Vg/400x0/filters:quality(85)/c/n/h/phpknkhnc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Petite Casbah
-francetv://program/france-4_petite-casbah
 #EXTINF:-1 tvg-id="francetv-prog-france-4_l-armure-de-jade" tvg-logo="https://medias.france.tv/hmz-UVVPlZP1DA5VbrwyAyc1v_8/400x0/filters:quality(85)/p/n/3/phpplh3np.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",L'armure de Jade
 francetv://program/france-4_l-armure-de-jade
 #EXTINF:-1 tvg-id="francetv-prog-france-3_lolirock" tvg-logo="https://medias.france.tv/1_VeAXpqZj1ShXqjjrEOPWtvqPY/400x0/filters:quality(85)/o/w/l/phpjzalwo.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Lolirock
@@ -5361,8 +5361,6 @@ francetv://program/enfants_neuf-douze-ans_la-quete-d-ewilan
 francetv://program/france-3_wakfu
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_les-enquetes-de-lady-grace" tvg-logo="https://medias.france.tv/-nQIGimMAEIt9MTN66X7vl171MM/400x0/filters:quality(85)/4/8/w/phpbd9w84.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Aventure",Les Enquêtes de Lady Grace
 francetv://program/enfants_neuf-douze-ans_les-enquetes-de-lady-grace
-#EXTINF:-1 tvg-id="francetv-prog-france-4_petite-casbah" tvg-logo="https://medias.france.tv/l8GuzBfflIfvdxK74TnJPC1a2Vg/400x0/filters:quality(85)/c/n/h/phpknkhnc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Aventure",Petite Casbah
-francetv://program/france-4_petite-casbah
 #EXTINF:-1 tvg-id="francetv-prog-france-4_dragons-les-neuf-royaumes" tvg-logo="https://medias.france.tv/8nQmuaLJXhpAQ_GrPVd1IfuqSIo/400x0/filters:quality(85)/1/f/c/phpctvcf1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Aventure",Dragons : les neuf royaumes
 francetv://program/france-4_dragons-les-neuf-royaumes
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_dragons-la-serie" tvg-logo="https://medias.france.tv/3EjM0EHJ72K0psmmQONkDracr8M/400x0/filters:quality(85)/g/v/5/phpzgc5vg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Aventure",Dragons, cavaliers de Beurk
