@@ -7437,7 +7437,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="France TV backup - Autres",Trace Latina (1080p) [iptv-org-fr]
 https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@HD" group-title="France TV backup - Autres",Trace Urban HD (1080p) [iptv-org-fr]
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD" group-title="France TV backup - Autres",Europe 1 TV (1080p) [iptv-org-fr]
@@ -7488,7 +7488,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TWB9sQdM74tI/J
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TWB9sQdM74tI/tHnyYnVYRhLPsPvE.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
