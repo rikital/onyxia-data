@@ -20387,6 +20387,8 @@ m6play://gulli/21381
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-3c13c584-d7a4-4289-ae8c-86b997ffa2f0" tvg-logo="https://medias.france.tv/LMUAK2HyWzcowWLath7VeH6KZZU/400x0/filters:quality(85)/x/g/z/php4vlzgx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La grande Histoire de la Marine
+francetv://3c13c584-d7a4-4289-ae8c-86b997ffa2f0
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un soupçon
 francetv://program/france-2_un-soupcon
 #EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Désigné coupable
@@ -20601,8 +20603,8 @@ francetv://program/france-3_outremer-story
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-299642d2-5ec0-4e24-8a15-5c00cdd2f206" tvg-logo="https://medias.france.tv/Ce2uTVRqg8glAViMiggUngzz2nk/400x0/filters:quality(85)/s/z/p/phpek1pzs.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 12 octobre 2026
 francetv://299642d2-5ec0-4e24-8a15-5c00cdd2f206
-#EXTINF:-1 tvg-id="francetv-169374c1-570d-4334-9e41-464a535ef2ef" tvg-logo="https://medias.france.tv/E479kKq5gJWa4xUFbSZbSBmZA_U/400x0/filters:quality(85)/l/j/m/phpyifmjl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 13 octobre 2026
-francetv://169374c1-570d-4334-9e41-464a535ef2ef
+#EXTINF:-1 tvg-id="francetv-306f5f4d-75f5-47ce-94fd-1b7dac5c8b99" tvg-logo="https://medias.france.tv/E479kKq5gJWa4xUFbSZbSBmZA_U/400x0/filters:quality(85)/l/j/m/phpyifmjl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 13 octobre 2026
+francetv://306f5f4d-75f5-47ce-94fd-1b7dac5c8b99
 #EXTINF:-1 tvg-id="francetv-3b5e380c-8585-4cba-a22a-d7a75558d31a" tvg-logo="https://medias.france.tv/ObQxVpz7ECIdu9PbxaqNIe-ciSo/400x0/filters:quality(85)/4/y/w/php3wvwy4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 14 octobre 2026
 francetv://3b5e380c-8585-4cba-a22a-d7a75558d31a
 #EXTINF:-1 tvg-id="francetv-90324cc3-070f-4621-9b9a-a5e2d39edbce" tvg-logo="https://medias.france.tv/qPtNGpN45J_Udhd3KNodHgAVbSM/400x0/filters:quality(85)/6/r/0/phpaxi0r6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 15 octobre 2026
@@ -20739,6 +20741,8 @@ francetv://program/france-3_samedi-d-en-rire
 francetv://program/france-3_vivement-dimanche
 #EXTINF:-1 tvg-id="francetv-prog-france-3_duels-en-familles-le-match-des-regions" tvg-logo="https://medias.france.tv/aS-FpSeAlmyqF4hZWY4EMnCYizc/400x0/filters:quality(85)/y/j/k/phplvwkjy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Duels en familles
 francetv://program/france-3_duels-en-familles-le-match-des-regions
+#EXTINF:-1 tvg-id="francetv-70610daa-65d5-4658-91f4-2cd1f93f976d" tvg-logo="https://medias.france.tv/D6rFcD9oJ-Pgo9_2g2tN04QveFY/400x0/filters:quality(85)/t/h/f/php6sefht.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",France
+francetv://70610daa-65d5-4658-91f4-2cd1f93f976d
 #EXTINF:-1 tvg-id="francetv-a50e23db-8bdb-43a9-9e59-fd7028177526" tvg-logo="https://medias.france.tv/VrTKxeDrTyBZ_omNVAE_mTQlxbQ/400x0/filters:quality(85)/e/e/t/phpk8ntee.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Route 66, une légende américaine
 francetv://a50e23db-8bdb-43a9-9e59-fd7028177526
 #EXTINF:-1 tvg-id="francetv-08797852-c095-4d5f-802f-8e5a8377a693" tvg-logo="https://medias.france.tv/UZSTX78H0yQal7A1nCy1uySUHMM/400x0/filters:quality(85)/8/o/d/phpkzvdo8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Les Marchands d'étoiles
@@ -21487,6 +21491,8 @@ francetv://program/documentaires_documentaires-sport_underdog
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-e1a28f04-c732-11f1-8896-19616fa871f9" tvg-logo="https://medias.france.tv/JIfZZ3ZbpyWYp-3Y_EvLOSyCC2E/400x0/filters:quality(85)/f/b/c/7dfa0a0430ef49d9bb7f25beafb0bcbf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Running : la belle histoire d'Isak
 francetv://e1a28f04-c732-11f1-8896-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-2143c502-c737-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/81LZzbxqAwtSUCxtpBYb7PdLgJU/400x0/filters:quality(85)/0/4/e/5f71d0ae7ae743eea0f6a63193e3fe40.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Exclusif : les confidences de Michel Platini
+francetv://2143c502-c737-11f1-8620-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-5345e14e-c731-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/9da7e0h0nzjvTxlCVh8EuORoH5w/400x0/filters:quality(85)/8/3/2/2f70db6c73e34e4eb4bd6fc6b78a7238.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Masters 1000 Shanghai : la sensation Arthur Géa
 francetv://5345e14e-c731-11f1-8620-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-c8bfeb7e-c734-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/431C7zPzACoMDMtFxifqq3nE2GI/400x0/filters:quality(85)/6/9/3/7fdad2e3d807432b8babf5218d154396.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — RC Lens : Yannick Cahuzac dans le grand bain
@@ -21751,8 +21757,8 @@ francetv://program/france-2_la-mere-et-l-assassin
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-299642d2-5ec0-4e24-8a15-5c00cdd2f206" tvg-logo="https://medias.france.tv/Ce2uTVRqg8glAViMiggUngzz2nk/400x0/filters:quality(85)/s/z/p/phpek1pzs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 12 octobre 2026
 francetv://299642d2-5ec0-4e24-8a15-5c00cdd2f206
-#EXTINF:-1 tvg-id="francetv-169374c1-570d-4334-9e41-464a535ef2ef" tvg-logo="https://medias.france.tv/E479kKq5gJWa4xUFbSZbSBmZA_U/400x0/filters:quality(85)/l/j/m/phpyifmjl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 13 octobre 2026
-francetv://169374c1-570d-4334-9e41-464a535ef2ef
+#EXTINF:-1 tvg-id="francetv-306f5f4d-75f5-47ce-94fd-1b7dac5c8b99" tvg-logo="https://medias.france.tv/E479kKq5gJWa4xUFbSZbSBmZA_U/400x0/filters:quality(85)/l/j/m/phpyifmjl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 13 octobre 2026
+francetv://306f5f4d-75f5-47ce-94fd-1b7dac5c8b99
 #EXTINF:-1 tvg-id="francetv-3b5e380c-8585-4cba-a22a-d7a75558d31a" tvg-logo="https://medias.france.tv/ObQxVpz7ECIdu9PbxaqNIe-ciSo/400x0/filters:quality(85)/4/y/w/php3wvwy4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 14 octobre 2026
 francetv://3b5e380c-8585-4cba-a22a-d7a75558d31a
 #EXTINF:-1 tvg-id="francetv-90324cc3-070f-4621-9b9a-a5e2d39edbce" tvg-logo="https://medias.france.tv/qPtNGpN45J_Udhd3KNodHgAVbSM/400x0/filters:quality(85)/6/r/0/phpaxi0r6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 15 octobre 2026
@@ -22429,6 +22435,8 @@ francetv://program/enfants_neuf-douze-ans_zombie-lars
 francetv://program/enfants_six-huit-ans_fifi-brindacier
 #EXTINF:-1 tvg-id="francetv-a0f4eba6-f59f-4741-89de-a618c84de1be" tvg-logo="https://medias.france.tv/nDKb8YQHCbqyu4YTViJRgvdeke4/400x0/filters:quality(85)/h/e/i/phpgu7ieh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Enquête de santé — Traitements hormonaux : le nouveau scandale sanitaire ?
 francetv://a0f4eba6-f59f-4741-89de-a618c84de1be
+#EXTINF:-1 tvg-id="francetv-3c13c584-d7a4-4289-ae8c-86b997ffa2f0" tvg-logo="https://medias.france.tv/LMUAK2HyWzcowWLath7VeH6KZZU/400x0/filters:quality(85)/x/g/z/php4vlzgx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",La grande Histoire de la Marine
+francetv://3c13c584-d7a4-4289-ae8c-86b997ffa2f0
 #EXTINF:-1 tvg-id="francetv-prog-france-2_histoires-d-une-nation-l-ecole" tvg-logo="https://medias.france.tv/2UHJ7F2djwK-1cH2S-5DWmYjoc4/400x0/filters:quality(85)/t/a/y/phpfvlyat.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Histoires d'une nation : l'école
 francetv://program/france-2_histoires-d-une-nation-l-ecole
 #EXTINF:-1 tvg-id="francetv-c0263879-219a-4b27-a9af-f66dce2a8db7" tvg-logo="https://medias.france.tv/mVeNMYiuYnJsfxodzvBccWxD_dM/400x0/filters:quality(85)/e/z/f/phpvcifze.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Le monde de Jamy — Réchauffement climatique : nos routes vont-elles tenir ?
@@ -22461,8 +22469,6 @@ francetv://bfeba73b-1af8-4c93-95f6-f426420a9bcc
 francetv://c4fa2ef4-5507-4fc0-b755-b2366ccc0680
 #EXTINF:-1 tvg-id="francetv-0f27f80c-7ca9-4535-ac54-3351c09079e3" tvg-logo="https://medias.france.tv/wF6TFHU-b_n69Yy470lz8g6MTRI/400x0/filters:quality(85)/c/d/1/b0f54908114a435f9d5702858b5671dc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Le fil de l'Histoire",Liu Xiaobo, l'homme qui a défié Pekin
 francetv://0f27f80c-7ca9-4535-ac54-3351c09079e3
-#EXTINF:-1 tvg-id="francetv-b24ef933-7cde-4536-9f3a-b4efbed19f1f" tvg-logo="https://medias.france.tv/wHNMS_I4defNQwVGnB_JqIzjw4s/400x0/filters:quality(85)/4/b/7/83c1797be25442e0aeacd44b4eafb7b4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Le fil de l'Histoire",Mussolini, le premier fasciste
-francetv://b24ef933-7cde-4536-9f3a-b4efbed19f1f
 #EXTINF:-1 tvg-id="francetv-a3b1c98c-a9f1-442b-9ecc-28c0ddbccd96" tvg-logo="https://medias.france.tv/X4vgO_FAtSrlKUSjmb95eaVXHVU/400x0/filters:quality(85)/3/6/2/de30a0ab17e84d2dab015dfc9f749263.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Le fil de l'Histoire",La "folie" de Louis II : Neuschwanstein, le château enchanté
 francetv://a3b1c98c-a9f1-442b-9ecc-28c0ddbccd96
 #EXTINF:-1 tvg-id="francetv-prog-arte_il-etait-une-fois-en-irlande-du-nord" tvg-logo="https://medias.france.tv/8V9hA_2kdTpRxQBSxBmiHYIX19k/400x0/filters:quality(85)/d/d/1/5bb302d36b714315a1bf6bcde07f61dd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Le fil de l'Histoire",Il était une fois en Irlande du Nord
@@ -22943,6 +22949,8 @@ francetv://program/france-2_laissez-vous-guider
 francetv://program/france-2_13h15-le-samedi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_13h15-le-dimanche" tvg-logo="https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Nos émissions",13h15, le dimanche
 francetv://program/france-2_13h15-le-dimanche
+#EXTINF:-1 tvg-id="francetv-70610daa-65d5-4658-91f4-2cd1f93f976d" tvg-logo="https://medias.france.tv/D6rFcD9oJ-Pgo9_2g2tN04QveFY/400x0/filters:quality(85)/t/h/f/php6sefht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",France
+francetv://70610daa-65d5-4658-91f4-2cd1f93f976d
 #EXTINF:-1 tvg-id="francetv-ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10" tvg-logo="https://medias.france.tv/TQsCZez_NguAYx3qhxyzN2HhWX4/400x0/filters:quality(85)/9/4/2/a8bf88d1827f49cab91fd72929e0b249.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shutter Island
 francetv://ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10
 #EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Désigné coupable
@@ -22985,6 +22993,8 @@ francetv://4261f71e-a512-45e3-af8e-ae45f976f7c9
 francetv://5764d14f-de57-4d4a-b2c9-5e184758c9d7
 #EXTINF:-1 tvg-id="francetv-7f20477c-7a56-4203-8fc1-1cc5f3299f2c" tvg-logo="https://medias.france.tv/80bp4NWGEKm0JUm-4bAYHyU2zwk/400x0/filters:quality(85)/e/2/9/8411c3aee5ed4c73bf9a0b4f69f2692e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Rien à foutre
 francetv://7f20477c-7a56-4203-8fc1-1cc5f3299f2c
+#EXTINF:-1 tvg-id="francetv-70610daa-65d5-4658-91f4-2cd1f93f976d" tvg-logo="https://medias.france.tv/D6rFcD9oJ-Pgo9_2g2tN04QveFY/400x0/filters:quality(85)/t/h/f/php6sefht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",France
+francetv://70610daa-65d5-4658-91f4-2cd1f93f976d
 #EXTINF:-1 tvg-id="francetv-ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10" tvg-logo="https://medias.france.tv/TQsCZez_NguAYx3qhxyzN2HhWX4/400x0/filters:quality(85)/9/4/2/a8bf88d1827f49cab91fd72929e0b249.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Shutter Island
 francetv://ac0e4512-0ad9-4c97-a71a-fa6e7cdefb10
 #EXTINF:-1 tvg-id="francetv-556c4142-7116-4f43-b768-0230b48e60bd" tvg-logo="https://medias.france.tv/6fQBd8kcsp5h8MSxCOt4gKDacJo/400x0/filters:quality(85)/2/a/1/3291aa0abd3c4e91a1e81907f93041a2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Un duplex pour trois
@@ -23151,8 +23161,6 @@ francetv://d0ce0a2a-8364-4b1f-a720-76dae09b83e3
 francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 #EXTINF:-1 tvg-id="francetv-4c02ad84-188f-47ae-934c-a67bd8ebf898" tvg-logo="https://medias.france.tv/XRjOh9brRZfU8YmjGCjJXAuTpjU/400x0/filters:quality(85)/5/c/c/3572e8022b5e43a882d879fc770a3cc5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Au plus près du paradis
 francetv://4c02ad84-188f-47ae-934c-a67bd8ebf898
-#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Trilogie Le Parrain — Le parrain
-francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
 #EXTINF:-1 tvg-id="francetv-2be72dbb-eeaa-4069-86b0-e87f48e2a881" tvg-logo="https://medias.france.tv/a7S5Aj9jha4YVLlec2CkdGoqzHw/400x0/filters:quality(85)/n/t/u/phpnwcutn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Trilogie Le Parrain — Le parrain II
 francetv://2be72dbb-eeaa-4069-86b0-e87f48e2a881
 #EXTINF:-1 tvg-id="francetv-556c4142-7116-4f43-b768-0230b48e60bd" tvg-logo="https://medias.france.tv/6fQBd8kcsp5h8MSxCOt4gKDacJo/400x0/filters:quality(85)/2/a/1/3291aa0abd3c4e91a1e81907f93041a2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Un duplex pour trois
@@ -23259,8 +23267,6 @@ francetv://8119f114-67a0-4583-b42c-3f802eddd03f
 francetv://fe87680f-9b12-4f01-bae2-a0034c412439
 #EXTINF:-1 tvg-id="francetv-3f99adfe-936b-4097-b409-f4a018bbe16c" tvg-logo="https://medias.france.tv/X0glfnjyZbv59uybWtdLzHwe4ag/400x0/filters:quality(85)/1/4/1/ba4a21bba47f4cf3909cc012ab8ff141.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tensions",La clef
 francetv://3f99adfe-936b-4097-b409-f4a018bbe16c
-#EXTINF:-1 tvg-id="francetv-02277aa6-0888-4fe1-944e-bcdd2bcaf73b" tvg-logo="https://medias.france.tv/SwKjw7z1UPV6oCC49kZIo5Mvqek/400x0/filters:quality(85)/s/e/r/phpgj4res.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tensions",Trilogie Le Parrain — Le parrain
-francetv://02277aa6-0888-4fe1-944e-bcdd2bcaf73b
 #EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tensions",Misery
 francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
 #EXTINF:-1 tvg-id="francetv-7427e4c7-a474-421e-87d9-afcc4e295502" tvg-logo="https://medias.france.tv/tNEHvbvKX4N1uo2CVFPUeI2hV4g/400x0/filters:quality(85)/7/b/9/c9328fa29d884327863261b8ce9b79b7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tensions",Le couperet
@@ -23437,6 +23443,8 @@ francetv://dacbb1aa-5b68-11f1-845a-957ddefc544d
 francetv://c478740e-2839-11f1-835a-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-c0263879-219a-4b27-a9af-f66dce2a8db7" tvg-logo="https://medias.france.tv/mVeNMYiuYnJsfxodzvBccWxD_dM/400x0/filters:quality(85)/e/z/f/phpvcifze.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le monde de Jamy — Réchauffement climatique : nos routes vont-elles tenir ?
 francetv://c0263879-219a-4b27-a9af-f66dce2a8db7
+#EXTINF:-1 tvg-id="francetv-3c13c584-d7a4-4289-ae8c-86b997ffa2f0" tvg-logo="https://medias.france.tv/LMUAK2HyWzcowWLath7VeH6KZZU/400x0/filters:quality(85)/x/g/z/php4vlzgx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La grande Histoire de la Marine
+francetv://3c13c584-d7a4-4289-ae8c-86b997ffa2f0
 #EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
 francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6" tvg-logo="https://medias.france.tv/PACKckyOHUMeTYK07Rh6O2yPCAQ/400x0/filters:quality(85)/j/l/3/phpgbb3lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Unité Ados 93
@@ -24699,6 +24707,8 @@ francetv://program/documentaires_documentaires-sport_underdog
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-e1a28f04-c732-11f1-8896-19616fa871f9" tvg-logo="https://medias.france.tv/JIfZZ3ZbpyWYp-3Y_EvLOSyCC2E/400x0/filters:quality(85)/f/b/c/7dfa0a0430ef49d9bb7f25beafb0bcbf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Running : la belle histoire d'Isak
 francetv://e1a28f04-c732-11f1-8896-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-2143c502-c737-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/81LZzbxqAwtSUCxtpBYb7PdLgJU/400x0/filters:quality(85)/0/4/e/5f71d0ae7ae743eea0f6a63193e3fe40.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Exclusif : les confidences de Michel Platini
+francetv://2143c502-c737-11f1-8620-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-5345e14e-c731-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/9da7e0h0nzjvTxlCVh8EuORoH5w/400x0/filters:quality(85)/8/3/2/2f70db6c73e34e4eb4bd6fc6b78a7238.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Masters 1000 Shanghai : la sensation Arthur Géa
 francetv://5345e14e-c731-11f1-8620-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-c8bfeb7e-c734-11f1-8620-957ddefc544d" tvg-logo="https://medias.france.tv/431C7zPzACoMDMtFxifqq3nE2GI/400x0/filters:quality(85)/6/9/3/7fdad2e3d807432b8babf5218d154396.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — RC Lens : Yannick Cahuzac dans le grand bain
