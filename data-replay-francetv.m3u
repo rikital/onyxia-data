@@ -697,7 +697,7 @@ francetv://f4c13623-363f-4f8b-81f6-2675c62e514a
 francetv://16769cf8-ddf7-4a62-84d0-4c58624b3909
 #EXTINF:-1 tvg-id="francetv-9a9c65d2-99af-42bd-a3e8-7448c6d29927" tvg-logo="https://medias.france.tv/R-VMh3L_rQL6HxklMFf_BhHWEZc/400x0/filters:quality(85)/d/w/i/phpa9tiwd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde en face — Les fantômes de l'Ukraine
 francetv://9a9c65d2-99af-42bd-a3e8-7448c6d29927
-#EXTINF:-1 tvg-id="francetv-a28581e1-a8a4-4fef-8b9a-ed99d3447a6f" tvg-logo="https://medias.france.tv/r2hBiqPCbXZGJX-XTXc5gomL6no/400x0/filters:quality(85)/s/q/g/phplhbgqs.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",20 jours à Marioupol
+#EXTINF:-1 tvg-id="francetv-a28581e1-a8a4-4fef-8b9a-ed99d3447a6f" tvg-logo="https://medias.france.tv/r2hBiqPCbXZGJX-XTXc5gomL6no/400x0/filters:quality(85)/s/q/g/phplhbgqs.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",25 nuances de doc — 20 jours à Marioupol
 francetv://a28581e1-a8a4-4fef-8b9a-ed99d3447a6f
 #EXTINF:-1 tvg-id="francetv-0b34cf4e-e23c-4a45-98a6-b33f0159827b" tvg-logo="https://medias.france.tv/n-0pGDNFGLEuuIcITedSUTZnd70/400x0/filters:quality(85)/n/j/z/phpbaczjn.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde de Jamy — Manger de la viande, un crime pour la planète ?
 francetv://0b34cf4e-e23c-4a45-98a6-b33f0159827b
@@ -881,7 +881,7 @@ francetv://eb0b8405-fd85-43e8-ab2e-60c5887aec96
 francetv://f8e277cc-a522-413f-a9d2-46c0ceb83ff1
 #EXTINF:-1 tvg-id="francetv-b856f6e5-3b53-4f09-ac4c-254473d8df22" tvg-logo="https://medias.france.tv/a-OwBB9W3c6t88S8MpunQxcrLZc/400x0/filters:quality(85)/8/8/c/ba1a6e95f3974a8f97476c46a5ae1b6b1ae44cba9d86cb37fb92c4bcb6038c88.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash",Safe Zone, par Faustine Bollaert — Faustine reçoit Lalou
 francetv://b856f6e5-3b53-4f09-ac4c-254473d8df22
-#EXTINF:-1 tvg-id="francetv-09b98e18-6954-11f0-abff-57a09c50f7ce" tvg-logo="https://medias.france.tv/yYYPS6OclaQvcbQ2LQ1yoW2yNFk/400x0/filters:quality(85)/5/a/5/da6a688e9d24403c8813ddd875f03a833039ab327d7f1d012c92de357a0575a5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash",BOAT, la culture au sens large — Replay de l'émission BOAT du 24.07.2025
+#EXTINF:-1 tvg-id="francetv-09b98e18-6954-11f0-abff-57a09c50f7ce" tvg-logo="https://medias.france.tv/Zysye9oIDAkB8wJFZ_gxgHjPNzQ/400x0/filters:quality(85)/3/8/a/da6a688e9d24403c8813ddd875f03a83.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash",BOAT, la culture au sens large — Replay de l'émission BOAT du 24.07.2025
 francetv://09b98e18-6954-11f0-abff-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-f2a332b2-b258-474b-acd0-e35dca8ee4f0" tvg-logo="https://medias.france.tv/hM5KOyAbkE7sWBUdsk8siogqgow/400x0/filters:quality(85)/0/f/4/7c39c270789c4100a87af83104ce04f0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash", Planet Killers : À la poursuite des criminels environnementaux — Le cartel du tigre
 francetv://f2a332b2-b258-474b-acd0-e35dca8ee4f0
@@ -5295,6 +5295,8 @@ francetv://program/tv5-monde_les-zinzins-de-l-espace
 francetv://program/enfants_six-huit-ans_fifi-brindacier
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_tristan-et-iseult-la-legende-oubliee" tvg-logo="https://medias.france.tv/To_Bvu8HOZP2yfMIdfkg15t6Leg/400x0/filters:quality(85)/e/0/a/44888629224b4b109576c0bd9494fa0e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries cultes",Tristan et Iseult, la légende oubliée
 francetv://program/tv5-monde_tristan-et-iseult-la-legende-oubliee
+#EXTINF:-1 tvg-id="francetv-prog-france-4_copains-perdus" tvg-logo="https://medias.france.tv/cOPcX54TA-Y_mLH5VlVW0PfDoDI/400x0/filters:quality(85)/p/2/b/phppusb2p.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Comédie",Copains Perdus
+francetv://program/france-4_copains-perdus
 #EXTINF:-1 tvg-id="francetv-prog-france-3_shaun-le-mouton" tvg-logo="https://medias.france.tv/vbppAKfpf1TtICsNS1VkXzPpcDw/400x0/filters:quality(85)/m/5/j/phpum2j5m.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Comédie",Shaun le mouton
 francetv://program/france-3_shaun-le-mouton
 #EXTINF:-1 tvg-id="francetv-prog-france-4_wylde-pak" tvg-logo="https://medias.france.tv/xdUSlEKCuI2_kVuYcI_cvrp_1go/400x0/filters:quality(85)/c/h/4/phpqdh4hc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Comédie",Wylde Pak
