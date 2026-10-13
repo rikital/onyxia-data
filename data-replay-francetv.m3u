@@ -153,6 +153,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_underdog" tvg-logo="https://medias.france.tv/-cFPMlgWM91DYSfQUjrLWeovX48/400x0/filters:quality(85)/2/j/8/phpko78j2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Underdog
+francetv://program/documentaires_documentaires-sport_underdog
 #EXTINF:-1 tvg-id="francetv-a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2" tvg-logo="https://medias.france.tv/UiPRgxzHxIrFhw62TZlOWZolfK8/400x0/filters:quality(85)/p/v/h/phprashvp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Monsieur
 francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Narcorama, il était une fois Marseille
@@ -175,8 +177,6 @@ francetv://c4fa2ef4-5507-4fc0-b755-b2366ccc0680
 francetv://077baadf-226c-49d8-a9c5-eb1b55e5b4b7
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-stagiaire" tvg-logo="https://medias.france.tv/7dBYfe3y45asp7ho0iNbAM_FyAY/400x0/filters:quality(85)/f/j/w/phpobgwjf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La Stagiaire
 francetv://program/france-3_la-stagiaire
-#EXTINF:-1 tvg-id="francetv-b8cf8fb5-1060-4e5f-95f3-ab056cfdb699" tvg-logo="https://medias.france.tv/_DSuO1DmYehiuSWr2XN3McHy83Q/400x0/filters:quality(85)/a/a/p/phphpopaa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La parole est à vous... — La parole est à vous
-francetv://b8cf8fb5-1060-4e5f-95f3-ab056cfdb699
 #EXTINF:-1 tvg-id="francetv-fa5efaf3-10d7-41dd-abb1-60dd0edc5d5f" tvg-logo="https://medias.france.tv/lUM4iVc0Z8gXbEUqeCJN6W5Y5is/400x0/filters:quality(85)/d/u/a/phpys9aud.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les héros du patrimoine — Transhumance : ils réinventent la tradition
 francetv://fa5efaf3-10d7-41dd-abb1-60dd0edc5d5f
 #EXTINF:-1 tvg-id="francetv-prog-info_meteo_les-dossiers-d-ici" tvg-logo="https://medias.france.tv/-YiOk3qHO_UqIknzg3niCoPYnUI/400x0/filters:quality(85)/m/i/h/phpdschim.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les dossiers d’ICI
@@ -789,8 +789,12 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-03969d62-c6fc-11f1-af6b-57a09c50f7ce" tvg-logo="https://medias.france.tv/JmNMj_hXiIovBRCKHN7tB1E_Fsk/400x0/filters:quality(85)/2/0/f/7c1e385918b9475082827c5e063a5f02.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 13/10/2026 Le fil info 11h
+francetv://03969d62-c6fc-11f1-af6b-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-21244728-68db-4799-8bba-7bc0947127b7" tvg-logo="https://medias.france.tv/Ail6RqtmGe8HWLejn8wzBTckDbY/400x0/filters:quality(85)/d/8/b/dc2df634e1154320a1b1704ba5e38b8d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://21244728-68db-4799-8bba-7bc0947127b7
+#EXTINF:-1 tvg-id="francetv-053c1e55-ac8f-4094-8bca-119f29cf3537" tvg-logo="https://medias.france.tv/RgX_pRzq2rQTqftYCFLfmsr-4vw/400x0/filters:quality(85)/8/2/f/e4f97b5a10f043089d987a7169bdff28.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Le 7.40 franceinfo
+francetv://053c1e55-ac8f-4094-8bca-119f29cf3537
 #EXTINF:-1 tvg-id="francetv-79c9c674-4824-4be0-8a26-36f1d0c5a452" tvg-logo="https://medias.france.tv/AVhOJIwmBQF0nAnxXMA5U64Wzfg/400x0/filters:quality(85)/0/3/d/9ad653f988ef449a89858630e0a10d30.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du mardi 13 octobre 2026
 francetv://79c9c674-4824-4be0-8a26-36f1d0c5a452
 #EXTINF:-1 tvg-id="francetv-1be068dc-5b1f-490b-8993-99f3cd741184" tvg-logo="https://medias.france.tv/CWd5-vJ7PoqMwQBeSsIogxKiahQ/400x0/filters:quality(85)/1/4/7/b595774408c04236924c9eab66548741.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info — 23h info
@@ -825,10 +829,6 @@ francetv://8925670c-4153-4baa-b600-4b78670f072f
 francetv://b2170562-0051-4339-ab36-da60cebd7204
 #EXTINF:-1 tvg-id="francetv-3e030d6c-8f13-4515-9aa2-d22c800e83ac" tvg-logo="https://medias.france.tv/0H-cKMOL2vQp2Vi62NBhXfsBO3U/400x0/filters:quality(85)/3/4/b/c150eac21add4de5b56a30eb5c5c4b43.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Primaire de la gauche : le résultat
 francetv://3e030d6c-8f13-4515-9aa2-d22c800e83ac
-#EXTINF:-1 tvg-id="francetv-412e41e9-f97c-4f08-9d9e-84f0bf15a371" tvg-logo="https://medias.france.tv/fkScuqk5uGnUhjggeqatakntC00/400x0/filters:quality(85)/4/6/7/643e8e67be9b43daa43b67b913126764.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le scan info du dimanche 11 octobre 2026
-francetv://412e41e9-f97c-4f08-9d9e-84f0bf15a371
-#EXTINF:-1 tvg-id="francetv-e28cc4b8-c582-11f1-967a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/aYzYwS5E-G8H2xi1gs91W56nOu4/400x0/filters:quality(85)/a/e/e/1917c202cc804ff2a28655dc5c428eea.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 11/10/2026 - Le fil info
-francetv://e28cc4b8-c582-11f1-967a-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2047,6 +2047,8 @@ francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fo
 francetv://e971253c-4aef-4dbf-b83a-f9d39e723770
 #EXTINF:-1 tvg-id="francetv-9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6" tvg-logo="https://medias.france.tv/PACKckyOHUMeTYK07Rh6O2yPCAQ/400x0/filters:quality(85)/j/l/3/phpgbb3lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Unité Ados 93
 francetv://9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_underdog" tvg-logo="https://medias.france.tv/-cFPMlgWM91DYSfQUjrLWeovX48/400x0/filters:quality(85)/2/j/8/phpko78j2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Underdog
+francetv://program/documentaires_documentaires-sport_underdog
 #EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
 francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
 #EXTINF:-1 tvg-id="francetv-f059dce3-e8a6-4c6a-9c08-166b9662300d" tvg-logo="https://medias.france.tv/zv187LyW7W58vJ5VfP_5-KllbFg/400x0/filters:quality(85)/v/n/3/php00m3nv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Le clan Delon, l'impossible héritage
