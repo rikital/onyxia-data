@@ -229,6 +229,8 @@ tf1plus://tf1/nurses
 tf1plus://tf1/royal-scandal
 #EXTINF:-1 tvg-id="tf1plus-tf1-wildfire-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a42aa6-64d8ef-45d5be-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Wildfire
 tf1plus://tf1/wildfire
+#EXTINF:-1 tvg-id="tf1plus-tf1-plus-belle-la-vie-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-png-1a22bd-07a926-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Plus Belle la Vie
+tf1plus://tf1/plus-belle-la-vie
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-feux-de-l-amour-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d0af9e-eeb3a3-eb3bc6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Les Feux de L Amour
 tf1plus://tf1/les-feux-de-l-amour
 #EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
@@ -237,8 +239,6 @@ tf1plus://tf1/amour-gloire-et-beaute
 tf1plus://tf1/demain-nous-appartient
 #EXTINF:-1 tvg-id="tf1plus-tf1-ici-tout-commence-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_itc-2026-6f5fc3-3ada76-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Ici Tout Commence
 tf1plus://tf1/ici-tout-commence
-#EXTINF:-1 tvg-id="tf1plus-tf1-plus-belle-la-vie-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-png-1a22bd-07a926-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Plus Belle la Vie
-tf1plus://tf1/plus-belle-la-vie
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-a-tue-le-petit-emile-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-89fb0d-f110de-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Qui A Tue le Petit Emile
 tf1plus://tf1/qui-a-tue-le-petit-emile
 #EXTINF:-1 tvg-id="tf1plus-tf1-zodiaque-176-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-92d32f-6895ec-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Zodiaque 176
@@ -1113,10 +1113,10 @@ tf1plus://tf1/amy-seule-contre-tous
 tf1plus://tf1/le-diable-a-la-maison-lhistoire-vraie-de-ruby
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-jour-ou-j-ai-brule-mon-coeur-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-le-jour-ou-jai-brule-mon-coeur-78afa7-e49a09-2e79b5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Jour Ou J Ai Brule Mon Coeur
 tf1plus://tf1/le-jour-ou-j-ai-brule-mon-coeur
-#EXTINF:-1 tvg-id="tf1plus-tf1-chirurgie-mortelle-lhistoire-vraie-de-martin-macneill-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-9ddb98-6732f0-3e6f04-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Chirurgie Mortelle Lhistoire Vraie de Martin Macneill
-tf1plus://tf1/chirurgie-mortelle-lhistoire-vraie-de-martin-macneill
 #EXTINF:-1 tvg-id="tf1plus-tf1-amy-thompson-le-combat-dune-mere-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-0b08fe-24b3a4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Amy Thompson le Combat Dune Mere
 tf1plus://tf1/amy-thompson-le-combat-dune-mere
+#EXTINF:-1 tvg-id="tf1plus-tf1-chirurgie-mortelle-lhistoire-vraie-de-martin-macneill-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-9ddb98-6732f0-3e6f04-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Chirurgie Mortelle Lhistoire Vraie de Martin Macneill
+tf1plus://tf1/chirurgie-mortelle-lhistoire-vraie-de-martin-macneill
 #EXTINF:-1 tvg-id="tf1plus-tf1-quest-il-arrive-a-cari-farver-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-quest-il-arrive-a-cari-farver-830613-06f758-a79f64-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Quest Il Arrive A Cari Farver
 tf1plus://tf1/quest-il-arrive-a-cari-farver
 #EXTINF:-1 tvg-id="tf1plus-tf1-frere-de-sang-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-70a4d4-b81ead-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Frere de Sang
@@ -1125,24 +1125,24 @@ tf1plus://tf1/frere-de-sang
 tf1plus://tf1/une-rose-pour-sa-tombe-lhistoire-vraie-de-cynthia-baumgartner
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-tueuse-a-la-valise-lhistoire-vraie-de-melanie-mcguire-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-la-tueuse-a-la-valise-lhistoire-vraie-de-melanie-mcguire-585481-b5f699-69038b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",La Tueuse A la Valise Lhistoire Vraie de Melanie Mcguire
 tf1plus://tf1/la-tueuse-a-la-valise-lhistoire-vraie-de-melanie-mcguire
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-petite-fille-a-la-fenetre-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-la-petite-fille-a-la-fenetre-d204b8-aaa287-791c93-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",La Petite Fille A la Fenetre
-tf1plus://tf1/la-petite-fille-a-la-fenetre
 #EXTINF:-1 tvg-id="tf1plus-tf1-double-vie-sexe-et-scandale-dans-le-voisinage-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-1c21f8-ce2bba-ca8f1c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Double Vie Sexe et Scandale Dans le Voisinage
 tf1plus://tf1/double-vie-sexe-et-scandale-dans-le-voisinage
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-petite-fille-a-la-fenetre-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-la-petite-fille-a-la-fenetre-d204b8-aaa287-791c93-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",La Petite Fille A la Fenetre
+tf1plus://tf1/la-petite-fille-a-la-fenetre
+#EXTINF:-1 tvg-id="tf1plus-tf1-noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-554ac8-98c899-8a3d0f-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Noyee Dans Ses Mensonges Lhistoire Vraie de Sherri Papini
+tf1plus://tf1/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-reine-des-manipulatrices-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-280a10-2283ee-eacb8f-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",La Reine des Manipulatrices
 tf1plus://tf1/la-reine-des-manipulatrices
 #EXTINF:-1 tvg-id="tf1plus-tf1-harry-andamp-meghan-desillusions-au-palais-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-harry-et-meghan-desillusions-au-palais-fbb9e3-06edd0-1b42c5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Harry Andamp Meghan Desillusions Au Palais
 tf1plus://tf1/harry-andamp-meghan-desillusions-au-palais
 #EXTINF:-1 tvg-id="tf1plus-tf1-grace-tanner-seule-face-a-son-mari-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-5b8bc2-926d88-a2d929-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Grace Tanner Seule Face A Son Mari
 tf1plus://tf1/grace-tanner-seule-face-a-son-mari
+#EXTINF:-1 tvg-id="tf1plus-tf1-sofia-seule-face-aux-mensonges-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-b0de98-34d69c-c2d156-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Sofia Seule Face Aux Mensonges
+tf1plus://tf1/sofia-seule-face-aux-mensonges
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-bachelor-meurtrier-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7a5566-fee44b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Bachelor Meurtrier
 tf1plus://tf1/le-bachelor-meurtrier
 #EXTINF:-1 tvg-id="tf1plus-tf1-sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-8b6ec7-a37e30-3cf86d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Sous les Coups de Mon Mari Laffaire Lorena Bobbitt
 tf1plus://tf1/sous-les-coups-de-mon-mari-laffaire-lorena-bobbitt
-#EXTINF:-1 tvg-id="tf1plus-tf1-scandales-et-privileges-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-a67d99-3e6ae4-0dc975-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Scandales et Privileges
-tf1plus://tf1/scandales-et-privileges
-#EXTINF:-1 tvg-id="tf1plus-tf1-lyceenne-parfaite-pour-crime-parfait-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-a9b3e3-c86367-f0e52d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Lyceenne Parfaite Pour Crime Parfait
-tf1plus://tf1/lyceenne-parfaite-pour-crime-parfait
 #EXTINF:-1 tvg-id="tf1plus-tf1-love-romance-et-chocolate-c'est-une-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d62d80-bdccd3-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - C'est une romance",Love Romance et Chocolate
 tf1plus://tf1/love-romance-et-chocolate
 #EXTINF:-1 tvg-id="tf1plus-tf1-20-ans-a-nouveau-c'est-une-romance" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-20ansanouve-022fce-893af6-603a0e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - C'est une romance",20 Ans A Nouveau
@@ -1879,10 +1879,10 @@ tf1plus://tfx/les-vacances-des-anges
 tf1plus://tfx/jlc-family-lincroyable-ete-de-jazz-et-laurent
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-la-malediction-de-lile-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-1a7341-55f331-bac407-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",La Bataille la Malediction de Lile
 tf1plus://tfx/la-bataille-la-malediction-de-lile
-#EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-clans-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-86e80d-0eb714-214a89-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",La Bataille des Clans
-tf1plus://tfx/la-bataille-des-clans
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-mere-ton-pere-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-4e4212-7a3275-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Ma Mere Ton Pere
 tf1plus://tf1/ma-mere-ton-pere
+#EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-clans-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-86e80d-0eb714-214a89-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",La Bataille des Clans
+tf1plus://tfx/la-bataille-des-clans
 #EXTINF:-1 tvg-id="tf1plus-tfx-tricheurs-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersives-tricheurs-tv-real-6779f5-bc723d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Tricheurs
 tf1plus://tfx/tricheurs
 #EXTINF:-1 tvg-id="tf1plus-tfx-mamans-et-celebres-la-vie-de-la-télé-réalité" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2f6401-8b9c4e-14399c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La vie de la télé-réalité",Mamans et Celebres
@@ -4727,6 +4727,8 @@ tf1plus://tf1/lucy
 tf1plus://tf1/luther
 #EXTINF:-1 tvg-id="tf1plus-tf1-luxe-paillettes-et-indecence-smx" tvg-logo="https://photos.tf1.fr/1200/720/luxe-paillettes-et-indecence-93253881-1716367469-d40399-fc2d5a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Luxe, paillettes et indécence
 tf1plus://tf1/luxe-paillettes-et-indecence
+#EXTINF:-1 tvg-id="tf1plus-tf1-lyceenne-parfaite-pour-crime-parfait-smx" tvg-logo="https://photos.tf1.fr/1200/720/lyceenne-parfaite-pour-crime-parfait-02857032-1710615453-ddd889-516e67-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Lycéenne parfaite pour crime parfait
+tf1plus://tf1/lyceenne-parfaite-pour-crime-parfait
 #EXTINF:-1 tvg-id="tf1plus-tf1-m-le-maudit-smx" tvg-logo="https://photos.tf1.fr/1200/720/m-le-maudit-s01-e03-d5bf63-fd2e1b-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",M le maudit
 tf1plus://tf1/m-le-maudit
 #EXTINF:-1 tvg-id="tf1plus-tf1-m3gan-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-702269-8c2510-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",M3GAN
@@ -5037,8 +5039,6 @@ tf1plus://tf1/nous-les-leroy
 tf1plus://tf1/nouveau-lycee-nouveau-danger
 #EXTINF:-1 tvg-id="tf1plus-tf1-novocaine-smx" tvg-logo="https://photos.tf1.fr/1200/720/novocaine-04925747-1756405118-fe92f1-e0f86a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Novocaïne
 tf1plus://tf1/novocaine
-#EXTINF:-1 tvg-id="tf1plus-tf1-noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-smx" tvg-logo="https://photos.tf1.fr/1200/720/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini-14376683-1727317695-66d466-ff51cf-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Noyée dans ses mensonges : l'histoire vraie de sherri Papini
-tf1plus://tf1/noyee-dans-ses-mensonges-lhistoire-vraie-de-sherri-papini
 #EXTINF:-1 tvg-id="tf1plus-tf1-nuit-blanche-smx" tvg-logo="https://photos.tf1.fr/1200/720/nuit-blanche-s01-e02-0f15c0-c80f58-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Nuit Blanche
 tf1plus://tf1/nuit-blanche
 #EXTINF:-1 tvg-id="tf1plus-tf1-nuit-de-cauchemar-a-laeroport-smx" tvg-logo="https://photos.tf1.fr/1200/720/nuit-de-cauchemar-a-laeroport-830bca-88b19b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Nuit de cauchemar à l'aéroport
@@ -5317,6 +5317,8 @@ tf1plus://tf1/sang-pour-sang-extreme
 tf1plus://tf1/santa-le-concert-evenement
 #EXTINF:-1 tvg-id="tf1plus-tf1-scandale-a-washington-smx" tvg-logo="https://photos.tf1.fr/1200/720/scandale-a-washington-d4bb63-03bd5e-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Scandale à Washington
 tf1plus://tf1/scandale-a-washington
+#EXTINF:-1 tvg-id="tf1plus-tf1-scandales-et-privileges-smx" tvg-logo="https://photos.tf1.fr/1200/720/scandales-et-privileges-83222564-1711046427-d96113-b6ea76-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Scandales et privilèges
+tf1plus://tf1/scandales-et-privileges
 #EXTINF:-1 tvg-id="tf1plus-tf1-scarlet-hill-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-colline-ecarlate-s01-e07-1-1-12f30c-a680ec-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",La colline écarlate
 tf1plus://tf1/scarlet-hill
 #EXTINF:-1 tvg-id="tf1plus-tf1-scream-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-f4201f-731eb7-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Scream
@@ -5379,8 +5381,6 @@ tf1plus://tf1/sleepwalker
 tf1plus://tf1/slumdog-millionaire
 #EXTINF:-1 tvg-id="tf1plus-tf1-sniper-le-corbeau-blanc-smx" tvg-logo="https://photos.tf1.fr/1200/720/sniper-le-corbeau-blanc-f2f4ba-fdd99c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Sniper : Le corbeau blanc
 tf1plus://tf1/sniper-le-corbeau-blanc
-#EXTINF:-1 tvg-id="tf1plus-tf1-sofia-seule-face-aux-mensonges-smx" tvg-logo="https://photos.tf1.fr/1200/720/sofia-seule-face-aux-mensonges-73060383-1725933212-263e21-57bf3b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Sofia, seule face aux mensonges
-tf1plus://tf1/sofia-seule-face-aux-mensonges
 #EXTINF:-1 tvg-id="tf1plus-tf1-son-ex-mon-obsession-smx" tvg-logo="https://photos.tf1.fr/1200/720/son-ex-mon-obsession-77362259-1710961555-09d074-976c6f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Son ex, mon obsession
 tf1plus://tf1/son-ex-mon-obsession
 #EXTINF:-1 tvg-id="tf1plus-tf1-sonic-2-le-film-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-13dcc7-7aac1c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Sonic 2, le film
