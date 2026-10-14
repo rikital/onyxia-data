@@ -69,8 +69,6 @@ tf1plus://tf1/la-cible
 tf1plus://tf1/un-village-francais
 #EXTINF:-1 tvg-id="tf1plus-tf1-lheritiere-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-1ec511-346279-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Lheritiere
 tf1plus://tf1/lheritiere
-#EXTINF:-1 tvg-id="tf1plus-tf1-dead-like-me-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dead-like-me-jpg-88a61a-ecab7c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Dead Like Me
-tf1plus://tf1/dead-like-me
 #EXTINF:-1 tvg-id="tf1plus-tf1-hartley-coeurs-a-vif-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-d35475-59b65c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Hartley Coeurs A Vif
 tf1plus://tf1/hartley-coeurs-a-vif
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-miserables-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-fd239f-f97416-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Les Miserables
@@ -85,12 +83,12 @@ tf1plus://tf1/la-desalmada
 tf1plus://tf1/friends
 #EXTINF:-1 tvg-id="tf1plus-tf1-new-york-crime-organise-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-c8d8f1-67c9fa-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",New York Crime Organise
 tf1plus://tf1/new-york-crime-organise
-#EXTINF:-1 tvg-id="tf1plus-tmc-benoit-genant-officiel-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-benoit-genant-627f29-c9c021-219a86-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Benoit Genant Officiel
-tf1plus://tmc/benoit-genant-officiel
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-consultant-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-le-consultant-jpg-89e711-f2fd04-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Le Consultant
 tf1plus://tf1/le-consultant
 #EXTINF:-1 tvg-id="tf1plus-tf1-montmartre-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-montmartre-a9000b-a7491d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Montmartre
 tf1plus://tf1/montmartre
+#EXTINF:-1 tvg-id="tf1plus-tf1-series-films-drop-dead-diva-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ddd-s3-756382-6b9182-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Séries - Nouveautés TF1+",Drop Dead Diva
+tf1plus://tf1-series-films/drop-dead-diva
 #EXTINF:-1 tvg-id="tf1plus-tf1-balthazar-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-balthazar-saison-5-8aeab8-079a14-495747-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Balthazar
 tf1plus://tf1/balthazar
 #EXTINF:-1 tvg-id="tf1plus-tf1-jai-menti-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7e52a7-f78dc8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Jai Menti
@@ -141,8 +139,6 @@ tf1plus://tf1/les-freres-scott
 tf1plus://tf1/mentalist
 #EXTINF:-1 tvg-id="tf1plus-tmc-une-nounou-d-enfer-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-une-nounou-denfer-2023-84d5f9-c0eafc-d98df6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Une Nounou D Enfer
 tf1plus://tmc/une-nounou-d-enfer
-#EXTINF:-1 tvg-id="tf1plus-tf1-series-films-drop-dead-diva-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ddd-s3-756382-6b9182-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Séries - Séries U.S",Drop Dead Diva
-tf1plus://tf1-series-films/drop-dead-diva
 #EXTINF:-1 tvg-id="tf1plus-tf1-most-wanted-criminals-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-889f2d-7aedb7-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Most Wanted Criminals
 tf1plus://tf1/most-wanted-criminals
 #EXTINF:-1 tvg-id="tf1plus-tf1-esprits-criminels-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_esprits-criminelles-2026-6abba7-a3ab86-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Esprits Criminels
@@ -437,6 +433,8 @@ tf1plus://tf1/resistance
 tf1plus://tf1/faites-des-gosses
 #EXTINF:-1 tvg-id="tf1plus-tf1-a-linterieur-a-découvrir-sur-tf1+" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-980f0f-e17dd3-330829-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - A découvrir sur TF1+",A Linterieur
 tf1plus://tf1/a-linterieur
+#EXTINF:-1 tvg-id="tf1plus-tf1-flics-a-découvrir-sur-tf1+" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-3139e6-a11d39-5b2656-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - A découvrir sur TF1+",Flics
+tf1plus://tf1/flics
 #EXTINF:-1 tvg-id="tf1plus-tf1-pour-sarah-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-pour-sarah-1535ef-887714-93931e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Drames",Pour Sarah
 tf1plus://tf1/pour-sarah
 #EXTINF:-1 tvg-id="tf1plus-tf1-fugueuse-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d7acab-386351-8812d3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Drames",Fugueuse
@@ -2437,6 +2435,8 @@ tf1plus://tf1/en-roues-libres
 tf1plus://tf1/rise-le-secret-des-mangroves-de-madagascar
 #EXTINF:-1 tvg-id="tf1plus-tfx-camping-cars-les-vacances-de-leur-vie-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d04a92-608f3e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Camping Cars les Vacances de Leur Vie
 tf1plus://tfx/camping-cars-les-vacances-de-leur-vie
+#EXTINF:-1 tvg-id="tf1plus-tfx-vacances-a-chacun-son-style-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-a378c4-d26b8b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Vacances A Chacun Son Style
+tf1plus://tfx/vacances-a-chacun-son-style
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-enfoires-restos-du-coeur-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3ec57d-c9a88a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Les Enfoires Restos du Coeur
 tf1plus://tf1/les-enfoires-restos-du-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-dream-team-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-dream-team-57a125-412e88-abde58-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Dream Team
@@ -3489,6 +3489,8 @@ tf1plus://tf1/de-la-passion-a-lobsession
 tf1plus://tf1/de-la-rumeur-au-scandale
 #EXTINF:-1 tvg-id="tf1plus-tf1-de-lamour-au-meurtre-smx" tvg-logo="https://photos.tf1.fr/1200/720/de-lamour-au-meurtre-02212928-1716799640-39dbac-50db7c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",De l'amour au meurtre
 tf1plus://tf1/de-lamour-au-meurtre
+#EXTINF:-1 tvg-id="tf1plus-tf1-dead-like-me-smx" tvg-logo="https://photos.tf1.fr/1200/720/dead-like-me-s01-e05-embrouillamini-chez-les-faucheurs-418f91-aa2f08-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Dead Like Me
+tf1plus://tf1/dead-like-me
 #EXTINF:-1 tvg-id="tf1plus-tf1-death-valley-smx" tvg-logo="https://photos.tf1.fr/1200/720/death-valley-1-1-1-1-1-1-33b8dc-94e09f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Death Valley
 tf1plus://tf1/death-valley
 #EXTINF:-1 tvg-id="tf1plus-tf1-defis-mortels-smx" tvg-logo="https://photos.tf1.fr/1200/720/defis-mortels-81818949-1707446762-2f3a30-dab0ab-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Défis mortels
@@ -3707,8 +3709,6 @@ tf1plus://tf1/five-nights-at-freddys-2
 tf1plus://tf1/flashback
 #EXTINF:-1 tvg-id="tf1plus-tf1-flashdance-362-smx" tvg-logo="https://photos.tf1.fr/1200/720/flashdance-63454909-1759600267-9a811f-0b745c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Flashdance
 tf1plus://tf1/flashdance-362
-#EXTINF:-1 tvg-id="tf1plus-tf1-flics-smx" tvg-logo="https://photos.tf1.fr/1200/720/flics-2-s01-e01-levee-decrou-08232748-1735666243-c02609-db0fc6-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Flics
-tf1plus://tf1/flics
 #EXTINF:-1 tvg-id="tf1plus-tf1-florence-larrieu-le-juge-est-une-femme-smx" tvg-logo="https://photos.tf1.fr/1200/720/florence-larrieu-le-juge-est-une-femme-s10-e02-suspectes-d0ca8e-1aebbb-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Florence Larrieu, le juge est une femme
 tf1plus://tf1/florence-larrieu-le-juge-est-une-femme
 #EXTINF:-1 tvg-id="tf1plus-tf1-fort-comme-un-homme-smx" tvg-logo="https://photos.tf1.fr/1200/720/fort-comme-un-homme-4a4f0d-7cccef-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Fort comme un homme
@@ -5977,8 +5977,8 @@ tf1plus://tfx/les-trois-visages-d-ana
 tf1plus://tfx/lolywood
 #EXTINF:-1 tvg-id="tf1plus-tfx-sisbro-smx" tvg-logo="https://photos.tf1.fr/1200/720/sisbro-s01-e62-celibatard-6d8e60-a31de5-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",SISBRO
 tf1plus://tfx/sisbro
-#EXTINF:-1 tvg-id="tf1plus-tfx-vacances-a-chacun-son-style-smx" tvg-logo="https://photos.tf1.fr/1200/720/camping-geant-ou-familial-a-chacun-son-camping-bc2ac6-17031d-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Vacances : à chacun son style
-tf1plus://tfx/vacances-a-chacun-son-style
+#EXTINF:-1 tvg-id="tf1plus-tmc-benoit-genant-officiel-smx" tvg-logo="https://photos.tf1.fr/1200/720/benoit-genant-officiel-s01-e09-de-lart-delicat-de-faire-taire-un-vice-cache-trop-bruyant-5bb6e3-166d1e-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Benoît Gênant Officiel
+tf1plus://tmc/benoit-genant-officiel
 #EXTINF:-1 tvg-id="tf1plus-tmc-betisiers-smx" tvg-logo="https://photos.tf1.fr/1200/720/2129275_grandbetisier2026p2-87bfae-709ec0-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le Grand Bêtisier
 tf1plus://tmc/betisiers
 #EXTINF:-1 tvg-id="tf1plus-tmc-booder-le-nounou-prefere-des-francais-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-877318-ec0835-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Booder : le nounou préféré des Français
