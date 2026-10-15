@@ -13,7 +13,8 @@ import os, re, sys, json, time, unicodedata, threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
-SERVERS_URL   = "http://vegetatv.duckdns.org/data/server_status.json"
+SERVERS_URLS  = ["http://vegetatvv2.duckdns.org/data/server_status.json",   # backend de VegetaTV 10.6
+                 "http://vegetatv.duckdns.org/data/server_status.json"]     # ancien, toujours a jour
 OUT_PATH      = os.environ.get("VEGETA_OUT", "data/vegetatv/vegeta-fr.json")
 WORKERS       = int(os.environ.get("VEGETA_WORKERS", "8"))
 M3U_TIMEOUT   = int(os.environ.get("VEGETA_M3U_TIMEOUT", "40"))
@@ -24,7 +25,7 @@ MAX_STREAMS   = int(os.environ.get("VEGETA_MAX_STREAMS", "4"))   # par chaine
 #   load_extra_servers(). Rien a changer dans l'app : ils arrivent dans le JSON comme les autres.
 EXTRA_PATH    = os.environ.get("VEGETA_EXTRA",
                 os.path.join(os.path.dirname(os.path.abspath(__file__)), "servers_extra.txt"))
-EXTRA_BASE_IDX = 100   # serverIdx 100, 101, ... : jamais en collision avec les "pos" Vegeta (1-56)
+EXTRA_BASE_IDX = 200   # serverIdx 200, 201, ... : jamais en collision avec les "pos" Vegeta (2 listes fusionnees, jusqu'a ~104)
 # 2026-09-13 quinquies (user « il ne devrait pas y avoir de limite, le reste suit apres ») :
 #   second registre SANS plafond. Il n'est PAS ecrit dans le depot (l'historique git garderait
 #   chaque version : le depot pesait deja 315 Mo pour 44 Mo de fichiers) mais publie comme
@@ -117,29 +118,47 @@ def variant_label(name):
 def is_fr_compatible(raw):
     return not NON_FR_TAG.search(raw)
 
-def fetch_servers():
-    r = requests.get(SERVERS_URL, headers={"User-Agent": UA}, timeout=API_TIMEOUT)
+def _lire_liste(url):
+    r = requests.get(url, headers={"User-Agent": UA}, timeout=API_TIMEOUT)
     r.raise_for_status()
-    lst = (r.json() or {}).get("list") or []
-    out = []
+    return (r.json() or {}).get("list") or []
+
+def fetch_servers():
+    # 2026-10-15 : VegetaTV 10.6 lit un NOUVEAU backend (vegetatvv2.duckdns.org). Son
+    #   server_status.json a le MEME format que l'ancien, mais une liste en grande partie
+    #   differente (mesure du jour : 52 entrees, 13 hotes seulement en commun avec l'ancien,
+    #   et les 5 panels FR sont tous nouveaux). L'ancien backend reste a jour lui aussi :
+    #   on lit les DEUX et on fusionne (doublons ecartes par hote+identifiants).
+    #   Une liste HS ne bloque pas l'autre ; les deux HS -> exception (cf. main).
+    lst, erreurs = [], []
+    for url in SERVERS_URLS:
+        try:
+            part = _lire_liste(url)
+            print("%s -> %d entree(s)" % (url, len(part)), file=sys.stderr)
+            lst.extend(part)
+        except Exception as e:
+            erreurs.append("%s: %s" % (url, e))
+            print("liste KO %s : %s" % (url, e), file=sys.stderr)
+    if not lst:
+        raise RuntimeError("aucune liste Vegeta lisible (%s)" % "; ".join(erreurs))
+    out, vus = [], set()
     for i, o in enumerate(lst):
         if not (o.get("up") or o.get("status") == "up"):
             continue
         flag = o.get("flag", "") or ""
-        pos = int(o.get("pos", i + 1))
-        is_fr = ("\U0001F1EB\U0001F1F7" in flag)  # 2026-09-16 : fenetre 32-37 retiree (le JSON n a pas de champ pos, c etait l ordre d apparition, plus les FR)
-        is_global = "\U0001F310" in flag
-        # 2026-09-13 : on ne jette PLUS les serveurs a drapeau etranger (MX/ES/TR/IT...).
-        #   Avant : `if not is_fr and not is_global: continue` ecartait 32 des 46 serveurs
-        #   UP. Or ces panels sont des revendeurs multi-pays qui diffusent aussi du FR :
-        #   resultat, tf1/m6 etaient dans le JSON mais TOUT Canal+/Cine+ manquait.
-        #   FR_NAME_RE en aval ne retient de toute facon que les marques FR, quel que
-        #   soit le serveur. rank : FR=0, global=1, etranger=2 (cf. tri final dans main).
-        rank = 0 if is_fr else (1 if is_global else 2)
         url = o.get("url", "") or ""
         if not url.startswith("http"):
             continue
-        out.append({"pos": pos, "url": url, "isFr": is_fr, "rank": rank,
+        cle = url.strip().lower()
+        if cle in vus:
+            continue
+        vus.add(cle)
+        is_fr = ("\U0001F1EB\U0001F1F7" in flag)
+        is_global = "\U0001F310" in flag
+        # rank : FR=0, global=1, etranger=2 (cf. tri final dans main). Les drapeaux
+        #   etrangers ne sont PAS jetes (revendeurs multi-pays, cf. note du 2026-09-13).
+        rank = 0 if is_fr else (1 if is_global else 2)
+        out.append({"pos": len(out) + 1, "url": url, "isFr": is_fr, "rank": rank,
                     "ping": int(o.get("response_time_ms", 9999))})
     out.sort(key=lambda s: (s["rank"], s["ping"]))
     return out
