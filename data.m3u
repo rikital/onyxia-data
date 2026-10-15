@@ -1859,11 +1859,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/rtl/be/belrtl.
 #EXTINF:-1 tvg-id="20MinutesTV.fr" group-title="France TV backup - Autres",20 Minutes TV (1080p) [kilirushi]
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr" group-title="France TV backup - Autres",Africa 24 (540p) [kilirushi]
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" group-title="France TV backup - Autres",Africa 24 English (1080p) [kilirushi]
-https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24Sport.fr" group-title="France TV backup - Autres",Africa 24 Sport (1080p) [kilirushi]
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" group-title="France TV backup - Autres",Alpe d’Huez TV (720p) [Not 24/7] [kilirushi]
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" group-title="France TV backup - Autres",Generations TV (576p) [kilirushi]
@@ -1893,21 +1893,21 @@ https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index.m3u
 
 # === Ajouts FR multi-sources : Musique ===
 #EXTINF:-1 tvg-id="BBlackAfrica.fr" group-title="Musique - Musique",BBLACK! AFRICA
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="BBlackCaribbean.fr" group-title="Musique - Musique",BBLACK! CARIBBEAN
-https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="BBlackClassik.fr" group-title="Musique - Musique",BBLACK! CLASSIK
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.fr" group-title="Musique - Musique",MADRAS FM TV
-https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="BblackAfrica.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Africa (1080p)
-https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="BblackCaribbean.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Caribbean (1080p)
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="BblackClassik.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Classik (1080p)
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="FX2.fr" group-title="Nouveautés FR - Nouveautés",FX2 Farsi
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaLatino.fr" group-title="Nouveautés FR - Nouveautés",Persiana Latino (720p)
@@ -1961,11 +1961,11 @@ https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screami
 #EXTINF:-1 group-title="France TV backup - Autres",TRACE BRASIL [schumijo]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="France TV backup - Autres",Africa 24 (1080p) [iptv-org-fr]
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="France TV backup - Autres",CGTN Français (1080p) [iptv-org-fra]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.gp@SD" group-title="France TV backup - Autres",Madras FM TV (1080p) [iptv-org-fra]
-https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioContact.be@SD" group-title="France TV backup - Autres",Radio Contact (1080p) [iptv-org-fra]
 https://live-radiocontact.digiteka.com/1564284079/index.m3u8
 #EXTINF:-1 tvg-id="TNTV.pf@SD" group-title="France TV backup - Autres",TNTV (1080p) [iptv-org-fra]
@@ -7530,6 +7530,12 @@ https://tv2-stream.rtnb.bi/hls/master.m3u8
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="RTNBTV.bi@SD" group-title="Généralistes - 100% Français",RTNB TV
 https://tv1-stream.rtnb.bi/hls/master.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="Africa24.fr@SD" group-title="France TV backup - Autres",Africa 24 (1080p) [iptv-org-fr]
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr@SD" group-title="France TV backup - Autres",Africa 24 Sport (1080p) [iptv-org-fr]
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
