@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF936908190527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/e5efb12e2a5910315c59814559b1837a_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Faites entrer l'accusé - S4E15 - Le réseau pédophile d'Angers
+bfmplay://NEUF_RMC_LIFE_RIF936908190527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF693978298527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/01290d2b6fb55be5c50bad7f6d871b5d_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Faites entrer l'accusé - S3E10 - Alain Berruet, l'obsession de la vengeance
 bfmplay://NEUF_RMC_LIFE_RIF693978298527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF416007821527" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_RMC_LIFE/7/2/5/7172104b087421b83ea74bd9eb3e9173_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Crime & Investigation",Faites entrer l'accusé - S2E10 - François Légéret, Noël tragique à Vevey
@@ -9297,8 +9299,6 @@ bfmplay://NEUF_BFMRADIO_BRA50000000001113
 bfmplay://NEUF_BFMRADIO_BRA50000000001103
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001093" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/9/0/02353b18837d25bab4afabf2da331407_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Les nuits du Cazarre enchaîné - Émission du 6 octobre 2026
 bfmplay://NEUF_BFMRADIO_BRA50000000001093
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001083" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/3/8/0/58f73b858b078e6a43c01242821fc0fd_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",Les nuits du Cazarre enchaîné - Émission du 5 octobre 2026
-bfmplay://NEUF_BFMRADIO_BRA50000000001083
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001167" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/7/6/1/551718aa1c03a037762edd55a04a9c09_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match  Manchester City - PSG
 bfmplay://NEUF_BFMRADIO_BRA50000000001167
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMRADIO_BRA50000000001159" tvg-logo="http://static-cdn.tv.sfr.net/data/img/wcsstore/NEUF_BFMRADIO/9/5/1/52c14965ab5e2496ff75b1315bbd381c_src_16p9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique BFM Play - Sport & Combat",After Foot - L'after du match  Arsenal - Lille
