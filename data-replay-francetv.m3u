@@ -787,6 +787,8 @@ francetv://07240417-4994-4398-af6b-660126b1fa66
 francetv://1018ab16-c896-11f1-8622-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-da25d4e8-c895-11f1-889b-19616fa871f9" tvg-logo="https://medias.france.tv/MSSjU7yjRbWJtTlSjxjUKuwoh1g/400x0/filters:quality(85)/2/9/8/a42f50e884e74a4f8384e4f4e262a892.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 15/10/2026 Le fil info 11H
 francetv://da25d4e8-c895-11f1-889b-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fdf0c140-46ff-4e93-a0ce-1e1822ac3d0a" tvg-logo="https://medias.france.tv/5HpDBaX4gWVWYlsXEEmz1IdR7ms/400x0/filters:quality(85)/5/0/b/5ad4739cb06d482b9b30969bee9ccb05.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Émission du jeudi 15 octobre 2026
+francetv://fdf0c140-46ff-4e93-a0ce-1e1822ac3d0a
 #EXTINF:-1 tvg-id="francetv-526d02d2-635a-43c1-91ea-4a1b69e13f46" tvg-logo="https://medias.france.tv/CY9aToHtzV8GBY1YzJn3K4NhmMc/400x0/filters:quality(85)/5/3/2/defe7406ef9647ba9adcd0e8363e7235.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du jeudi 15 octobre 2026
 francetv://526d02d2-635a-43c1-91ea-4a1b69e13f46
 #EXTINF:-1 tvg-id="francetv-39bfa8f5-228b-4de7-b20c-771ca49e1337" tvg-logo="https://medias.france.tv/rf8n0wsz3wCWbnmmenVHdbi44aE/400x0/filters:quality(85)/9/6/9/08030c8fc68348aea03f9d89512a0969.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du jeudi 15 octobre 2026
@@ -821,8 +823,6 @@ francetv://0d787084-08f2-4f5b-9b81-57527fd463c4
 francetv://db650475-cff3-46ae-b54c-f9216eb9ecd1
 #EXTINF:-1 tvg-id="francetv-44c31caa-03df-4de0-87f1-3cbd0ac7f18c" tvg-logo="https://medias.france.tv/K1fnltc3fjdGukjXLLTwQw6_PdA/400x0/filters:quality(85)/6/f/1/f69bdeee426645c2a875a5cc7b1d51f6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://44c31caa-03df-4de0-87f1-3cbd0ac7f18c
-#EXTINF:-1 tvg-id="francetv-750b50a5-ce4a-40ec-9715-94c11ab99daa" tvg-logo="https://medias.france.tv/wahYDDE8nrhPF6v1qX3ES6MgWHQ/400x0/filters:quality(85)/5/c/b/1d045f45ce5d4b6dae5d9d253f583bc5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du mercredi 14 octobre 2026
-francetv://750b50a5-ce4a-40ec-9715-94c11ab99daa
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -1143,6 +1143,14 @@ francetv://d5e0b992-3b1f-11f1-86ed-19616fa871f9
 francetv://495c1a42-91f3-11ef-b53a-b9b856da0ddd
 #EXTINF:-1 tvg-id="francetv-2e3ed6ac-8e18-11ef-a61c-1d9b04d96e88" tvg-logo="https://medias.france.tv/gT9NTCX5xYsv66-eHaM3bKI1Rmk/400x0/filters:quality(85)/9/d/7/edc416ba423b4405904c00af11b9e6441ac42a2fbc7fb572dbd94d471687b7d9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Arthur Guérin-Boëri, un parcours glaçant
 francetv://2e3ed6ac-8e18-11ef-a61c-1d9b04d96e88
+#EXTINF:-1 tvg-id="francetv-1b18cfd8-a243-11f1-953e-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/rSQSB4c-XrOAr1D3ozC4eNUTXPg/400x0/filters:quality(85)/s/p/w/phpayywps.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Trail - UTMB : l'incroyable défi de Julien Veysseyre
+francetv://1b18cfd8-a243-11f1-953e-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-43e4ee0e-afa6-11f1-aeb9-57a09c50f7ce" tvg-logo="https://medias.france.tv/UsTeD5RRk8annA4CozGL7X6-LDc/400x0/filters:quality(85)/7/7/8/61c63562753d49dd931fbdf1f3809877.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand Format : Adrien Paynel, l'as de la descente
+francetv://43e4ee0e-afa6-11f1-aeb9-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-8734b398-717a-11f1-8731-19616fa871f9" tvg-logo="https://medias.france.tv/E3J8fAzmPjLepH993qhGL378y0U/400x0/filters:quality(85)/7/7/2/f4f61393ce0942d7abe845f4035ea277.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Wingsuit : vol au-dessus du Mont-Blanc
+francetv://8734b398-717a-11f1-8731-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fed72d4c-85d7-11f1-8484-957ddefc544d" tvg-logo="https://medias.france.tv/cJyeNEpiT15P9IbHZcDv8IvWFOA/400x0/filters:quality(85)/j/g/u/phpockugj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Elias Schwärzler, une première mondiale
+francetv://fed72d4c-85d7-11f1-8484-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-ae44e07a-a488-11f1-9540-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/owW7ebcgzyEcNPZmLaX-WF2jdto/400x0/filters:quality(85)/2/9/5/b4f306b6f0ac414880155584159b8592.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Isack Hadjar et Sophie Adenot : de la piste aux étoiles
 francetv://ae44e07a-a488-11f1-9540-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-110d1a02-58a1-46d5-ba71-be786a6327fa" tvg-logo="https://medias.france.tv/PGMGSGL6EWlhbEOzwIkwEtniOrw/400x0/filters:quality(85)/e/h/h/phpyjihhe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Ultra-trail du Mont-Blanc, la course de leur vie
@@ -1637,10 +1645,12 @@ francetv://program/tv5-monde_la-coach
 francetv://program/arte_battle-la-renyon
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",Sœurs
 francetv://program/france-2_soeurs
-#EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",La mère et l'assassin
-francetv://program/france-2_la-mere-et-l-assassin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_l-intruse" tvg-logo="https://medias.france.tv/M6RUaq5W_cbmSNIDNhMnOpj1dnk/400x0/filters:quality(85)/m/b/p/phpebzpbm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",L'intruse
+francetv://program/france-2_l-intruse
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",Un soupçon
 francetv://program/france-2_un-soupcon
+#EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",La mère et l'assassin
+francetv://program/france-2_la-mere-et-l-assassin
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_corbeaux" tvg-logo="https://medias.france.tv/6nA3R7DktkgVbjKJF36Cu-qMeP4/400x0/filters:quality(85)/0/e/9/4ffaee569dc84e618b8330db93e249e0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",Corbeaux
 francetv://program/tv5-monde_corbeaux
 #EXTINF:-1 tvg-id="francetv-prog-france-2_code-rouge" tvg-logo="https://medias.france.tv/cu-5k3VUk2VB6g2OSYRPSw0CFuo/400x0/filters:quality(85)/m/w/9/phpmsl9wm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Haletants, stressants, palpitants !",Code Rouge
@@ -1689,6 +1699,8 @@ francetv://program/france-2_enchaines
 francetv://program/france-2_le-rouge-et-le-noir
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Des mini-séries",Un soupçon
 francetv://program/france-2_un-soupcon
+#EXTINF:-1 tvg-id="francetv-prog-france-2_l-intruse" tvg-logo="https://medias.france.tv/M6RUaq5W_cbmSNIDNhMnOpj1dnk/400x0/filters:quality(85)/m/b/p/phpebzpbm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Des mini-séries",L'intruse
+francetv://program/france-2_l-intruse
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Des mini-séries",La mère et l'assassin
 francetv://program/france-2_la-mere-et-l-assassin
 #EXTINF:-1 tvg-id="francetv-prog-arte_etty" tvg-logo="https://medias.france.tv/Zjv35V1kCkMK8LYMX6etB5pcBpM/400x0/filters:quality(85)/b/u/c/phpq19cub.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Des mini-séries",Etty
@@ -1783,6 +1795,8 @@ francetv://program/arte_the-paradise
 francetv://program/france-2_la-terre-et-le-sang
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries à binger",La mère et l'assassin
 francetv://program/france-2_la-mere-et-l-assassin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_l-intruse" tvg-logo="https://medias.france.tv/M6RUaq5W_cbmSNIDNhMnOpj1dnk/400x0/filters:quality(85)/m/b/p/phpebzpbm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries à binger",L'intruse
+francetv://program/france-2_l-intruse
 #EXTINF:-1 tvg-id="francetv-prog-france-2_code-rouge" tvg-logo="https://medias.france.tv/cu-5k3VUk2VB6g2OSYRPSw0CFuo/400x0/filters:quality(85)/m/w/9/phpmsl9wm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries à binger",Code Rouge
 francetv://program/france-2_code-rouge
 #EXTINF:-1 tvg-id="francetv-prog-arte_portobello" tvg-logo="https://medias.france.tv/hYqjqH_kDAAiAxh80E9B2IFCEv0/400x0/filters:quality(85)/c/3/4/6371135a242f4c0e97c52bbc4ca1343c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries à binger",Portobello
@@ -2699,8 +2713,8 @@ francetv://9b4171c2-b271-11f1-aeba-57a09c50f7ce
 francetv://61a927e1-786d-4e7b-b929-839852a55c4f
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-pitch-cinema" tvg-logo="https://medias.france.tv/4mt0r8v4Hfpw_cOh5iMQiAB9GUE/400x0/filters:quality(85)/t/c/n/phpmfonct.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",Le pitch cinéma
 francetv://program/france-2_le-pitch-cinema
-#EXTINF:-1 tvg-id="francetv-2786c38f-89c0-4664-8209-a447a4312d2f" tvg-logo="https://medias.france.tv/zYOi2DzMsC15zGih7WO_hVYce4w/400x0/filters:quality(85)/0/3/5/51b2684ad5044fe9b5bd86d18240e530.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",À l'Affiche ! — "Digger" : Tom Cruise méconnaissable en magnat du pétrole prêt à tout pour s'enrichir
-francetv://2786c38f-89c0-4664-8209-a447a4312d2f
+#EXTINF:-1 tvg-id="francetv-e3ed3c38-63b8-446e-83e1-c558e4c896aa" tvg-logo="https://medias.france.tv/far8JIvhqdHMCaAEaastIteydiE/400x0/filters:quality(85)/f/8/a/0653ad00ddb54981a4f3941390347a8f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",À l'Affiche ! — "Les Misérables" : Fred Cavayé revisite le chef-d'œuvre de Victor Hugo
+francetv://e3ed3c38-63b8-446e-83e1-c558e4c896aa
 #EXTINF:-1 tvg-id="francetv-361fd304-8b36-11f1-9510-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/0dRFSPx5oSvsN6g3onVHgkNFPrc/400x0/filters:quality(85)/w/c/r/php74orcw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",Rencontre(s)... — Hélène Rosselet-Ruiz et Malou Khebizi présentent "Le triangle d'or"
 francetv://361fd304-8b36-11f1-9510-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-5e9c37ee-a2e9-11f1-84c6-957ddefc544d" tvg-logo="https://medias.france.tv/p5ne_0I6HyM_68xD8gT4Wi6CNQQ/400x0/filters:quality(85)/5/h/j/phps0sjh5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - L'actu cinéma",Rencontre(s)... — Léa Seydoux et Niels Schneider présentent "L'inconnue"
@@ -4375,6 +4389,16 @@ francetv://d5e0b992-3b1f-11f1-86ed-19616fa871f9
 francetv://495c1a42-91f3-11ef-b53a-b9b856da0ddd
 #EXTINF:-1 tvg-id="francetv-2e3ed6ac-8e18-11ef-a61c-1d9b04d96e88" tvg-logo="https://medias.france.tv/gT9NTCX5xYsv66-eHaM3bKI1Rmk/400x0/filters:quality(85)/9/d/7/edc416ba423b4405904c00af11b9e6441ac42a2fbc7fb572dbd94d471687b7d9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos créations originales",Arthur Guérin-Boëri, un parcours glaçant
 francetv://2e3ed6ac-8e18-11ef-a61c-1d9b04d96e88
+#EXTINF:-1 tvg-id="francetv-b3270970-ae00-11f1-aeb3-57a09c50f7ce" tvg-logo="https://medias.france.tv/oISnHPCi5ZHt-x-rIBGvUIpf-3M/400x0/filters:quality(85)/6/d/6/d4cb40f8bfe3486e881fcba600acd6d6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Au cœur de l'extrême",Blandine L'Hirondel, au sommet de son art
+francetv://b3270970-ae00-11f1-aeb3-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-1b18cfd8-a243-11f1-953e-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/rSQSB4c-XrOAr1D3ozC4eNUTXPg/400x0/filters:quality(85)/s/p/w/phpayywps.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Au cœur de l'extrême",Stade 2 la quotidienne — Trail - UTMB : l'incroyable défi de Julien Veysseyre
+francetv://1b18cfd8-a243-11f1-953e-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-43e4ee0e-afa6-11f1-aeb9-57a09c50f7ce" tvg-logo="https://medias.france.tv/UsTeD5RRk8annA4CozGL7X6-LDc/400x0/filters:quality(85)/7/7/8/61c63562753d49dd931fbdf1f3809877.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Au cœur de l'extrême",Stade 2 — Grand Format : Adrien Paynel, l'as de la descente
+francetv://43e4ee0e-afa6-11f1-aeb9-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-8734b398-717a-11f1-8731-19616fa871f9" tvg-logo="https://medias.france.tv/E3J8fAzmPjLepH993qhGL378y0U/400x0/filters:quality(85)/7/7/2/f4f61393ce0942d7abe845f4035ea277.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Au cœur de l'extrême",Wingsuit : vol au-dessus du Mont-Blanc
+francetv://8734b398-717a-11f1-8731-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fed72d4c-85d7-11f1-8484-957ddefc544d" tvg-logo="https://medias.france.tv/cJyeNEpiT15P9IbHZcDv8IvWFOA/400x0/filters:quality(85)/j/g/u/phpockugj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Au cœur de l'extrême",Elias Schwärzler, une première mondiale
+francetv://fed72d4c-85d7-11f1-8484-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-ae44e07a-a488-11f1-9540-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/owW7ebcgzyEcNPZmLaX-WF2jdto/400x0/filters:quality(85)/2/9/5/b4f306b6f0ac414880155584159b8592.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Légendes de sport",Isack Hadjar et Sophie Adenot : de la piste aux étoiles
 francetv://ae44e07a-a488-11f1-9540-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-110d1a02-58a1-46d5-ba71-be786a6327fa" tvg-logo="https://medias.france.tv/PGMGSGL6EWlhbEOzwIkwEtniOrw/400x0/filters:quality(85)/e/h/h/phpyjihhe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Légendes de sport",Ultra-trail du Mont-Blanc, la course de leur vie
