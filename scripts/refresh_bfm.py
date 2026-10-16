@@ -5,7 +5,7 @@ Endpoints publics ws-cdn.tv.sfr.net/gaia-core (sans token nécessaire pour le
 catalogue ; le token BFM SSO est utilisé UNIQUEMENT côté app Onyx pour le
 playback Widevine). Filtre svodId pour exclure le contenu premium SVOD.
 """
-import json, os, sys, time
+import json, os, re, sys, time
 sys.path.insert(0, os.path.dirname(__file__))
 from utils import http_get
 
@@ -35,20 +35,6 @@ BFM_LIVE_CHANNELS = [
     ("rmc_wow",                 "RMC Wow",                   f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
     ("rmc_alerte_secours",      "RMC Alerte Secours",        f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
 ]
-BFM_REPLAY_CHANNELS = [
-    ("rmcgo_home_bfmtv",         "bfmtv",         "BFM TV",          f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("rmcgo_home_rmcstory",      "rmcstory",      "RMC Story",       f"{BFM_LOGO_BASE}/rmc-story-fr.png"),
-    ("rmcgo_home_rmcdecouverte", "rmcdecouverte", "RMC Découverte",  f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
-    ("rmcgo_home_bfmbusiness",   "bfmbusiness",   "BFM Business",    f"{BFM_LOGO_BASE}/bfm-business-fr.png"),
-    ("rmcgo_home_rmclife",       "rmclife",       "RMC Life",        f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("rmcgo_home_01TV",          "techco",        "Tech & Co",       f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("rmcgo_home_radios",        "rmcradio",      "RMC Radio",       f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("rmcgo_home_bfmavod",       "bfmexclus",     "Exclus BFM Play", f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("rmcgo_home_rmccrime",      "rmccrime",      "100% Crime",      f"{BFM_LOGO_BASE}/rmc-story-fr.png"),
-    ("fb303324-2100-4e72-9840-967d4e899c99", "7alamaison", "7 à la maison", f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
-    ("c67c4f5e-73ae-40fe-b562-35391a9f5931", "topmecanic", "Top Mecanic",   f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
-    ("2d0d7898-fad8-47db-a87a-eb1b62c11ef9", "100docs",    "100% DOCS",     f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
-]
 BFM_BROKEN_PREFIXES = [
     "NEUF_CINE_PLUS_OCS", "NEUF_01NET", "NEUF_LEQUIPETV",
     "NEUF_VIRGIN17", "NEUF_UNIVERSAL", "NEUF_KITCHEN_MANIA",
@@ -71,66 +57,180 @@ BFM_THEMES = [
     ("grand-reportage-ligne-rouge",  "d952ba56-c92c-4114-981b-2a68c53cf5b6", "Grand Reportage"),
 ]
 
+# 2026-10-16 : les menus par chaîne de l'ancienne API Gaia (RefMenuItem::rmcgo_home_*) ne
+#   renvoient plus aucun « spot » depuis le 5 octobre (fin de RMC BFM Play → RMC+). Les
+#   sections « Replay <chaîne> - <rubrique> » sont donc désormais lues sur le BFF RMC+
+#   (www.rmcplus.fr/api/bff/v1), le même que l'appli utilise pour les directs/lecteur :
+#     • page chaîne : /page?model=web&page_type=default&page_id=<id>  → rails (rubriques)
+#     • rail complet : /composant/contenu/<rail_id>?source=cms&type=mosaique&page_id=<id>
+#                      &page_number=N&page_size=50  (pagination)
+#     • programme   : /page?model=web&page_type=fip&page_id=<id>  → onglet « Replay » → épisodes
+#   Les identifiants RMC+ sont numériques ; l'appli (BfmResolver.idVideo) ne garde que le
+#   suffixe numérique d'un id `bfmplay://…`, on conserve donc le préfixe gaia historique
+#   par chaîne (NEUF_BFMTV_BFM…) pour un m3u identique à avant.
+#   (page_id RMC+, préfixe id, libellé, logo)
+BFM_REPLAY_CHANNELS = [
+    ("bfmtv",          "NEUF_BFMTV_BFM",       "BFM TV",         f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
+    ("rmc-story",      "NEUF_RMCDEC_RMC",      "RMC Story",      f"{BFM_LOGO_BASE}/rmc-story-fr.png"),
+    ("rmc-decouverte", "NEUF_RMCDEC_RMCP",     "RMC Découverte", f"{BFM_LOGO_BASE}/rmc-decouverte-fr.png"),
+    ("bfm-business",   "NEUF_BFMBUSINESS_BUM", "BFM Business",   f"{BFM_LOGO_BASE}/bfm-business-fr.png"),
+    ("rmc-life",       "NEUF_RMC_LIFE_RIF",    "RMC Life",       f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
+    ("tech-co",        "NEUF_01TV_TCO",        "Tech & Co",      f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
+    ("rmc-radio",      "NEUF_BFMRADIO_BRA",    "RMC Radio",      f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
+    ("brut",           "NEUF_BRUT_BRT",        "Brut",           f"{BFM_LOGO_BASE}/bfm-tv-fr.png"),
+]
+RMCPLUS_BFF = "https://www.rmcplus.fr/api/bff/v1"
+RMCPLUS_HEADERS = {
+    "Accept": "application/json",
+    "Referer": "https://www.rmcplus.fr/",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+}
+# Rails de navigation (pas des programmes) à ignorer sur une page chaîne.
+RMCPLUS_RAILS_IGNORES = {"chaines en direct", "chaînes en direct", "catégories", "toutes les catégories",
+                         "nos programmes par chaine", "nos programmes par chaîne"}
+# id programme (préfixé) → ("fip", id numérique) si fiche programme, ("video", id) si vidéo seule.
+_rmcplus_kind = {}
 
-def bfm_channel_programs(menu_id, max_items=500):
-    """Scrape un menu BFM (= chaîne ou sous-collection) : structure + tous spots."""
-    menu_url = f"{BFM_CDN}/menu/RefMenuItem::{menu_id}/structure?{BFM_PARAMS}"
+
+def _rmcplus_json(path):
+    return json.loads(http_get(f"{RMCPLUS_BFF}{path}", headers=RMCPLUS_HEADERS))
+
+
+def _rmcplus_image(item):
+    img = item.get("background_image") or {}
+    u = img.get("url") or ""
+    if isinstance(u, dict):
+        u = u.get("portrait") or u.get("landscape") or u.get("square") or ""
+    return u or ""
+
+
+def _rmcplus_ids(item):
+    """→ (id fiche programme « fip » ou "", id lecteur « player » ou "") d'une tuile."""
+    fip, player = "", ""
+    for cta in (item.get("call_to_actions") or []):
+        m = re.search(r"page_type=(fip|player)[^&]*&page_id=(\d+)", cta.get("endpoint") or "")
+        if not m:
+            continue
+        if m.group(1) == "fip" and not fip:
+            fip = m.group(2)
+        elif m.group(1) == "player" and not player:
+            player = m.group(2)
+    return fip, player
+
+
+def _rmcplus_titre(item):
+    return ((item.get("infos_survol") or {}).get("titre") or item.get("titre")
+            or (item.get("background_image") or {}).get("alt") or "").strip()
+
+
+def _rmcplus_rail_items(rail, page_id):
+    """Toutes les tuiles d'un rail (pagination par /composant/contenu quand il est tronqué)."""
+    items = list(rail.get("items") or [])
+    total = rail.get("total_items") or len(items)
+    # L'id CMS du rail (celui que le site pagine) est dans son endpoint, pas dans `id` (hash).
+    m = re.search(r"/composant/contenu/([^?]+)", rail.get("endpoint") or "")
+    rail_id = m.group(1) if m else ""
+    m2 = re.search(r"page_id=([^&]+)", rail.get("endpoint") or "")
+    page_id = m2.group(1) if m2 else page_id
+    page = 2
+    while len(items) < total and rail_id and page <= 40:
+        try:
+            data = _rmcplus_json(f"/composant/contenu/{rail_id}?model=web&page_id={page_id}"
+                                 f"&source=cms&type=mosaique&page_number={page}&page_size=50")
+        except Exception:
+            break
+        more = data.get("items") or []
+        if not more:
+            break
+        items.extend(more)
+        page += 1
+        time.sleep(0.05)
+    return items[:total] if total else items
+
+
+def bfm_channel_programs(page_id, prefix, max_items=800):
+    """Page chaîne RMC+ : chaque rail = une rubrique, chaque tuile = un programme ou une vidéo."""
     try:
-        menu = json.loads(http_get(menu_url, headers={"Accept": "application/json"}))
+        page = _rmcplus_json(f"/page?model=web&page_type=default&page_id={page_id}")
     except Exception as e:
-        print(f"[!] BFM menu error {menu_id}: {e}", file=sys.stderr)
+        print(f"[!] RMC+ page error {page_id}: {e}", file=sys.stderr)
         return []
     out = []
     seen = set()
-    for spot in menu.get("spots", []):
-        spot_id = spot.get("id", "")
-        spot_title = (spot.get("title") or "").strip()
-        if not spot_id:
+    for rail in page.get("sections") or []:
+        if rail.get("type") != "rail":
             continue
-        spot_url = f"{BFM_CDN_V2}/spot/{spot_id}/content?{BFM_PARAMS}"
-        try:
-            sdata = json.loads(http_get(spot_url, headers={"Accept": "application/json"}))
-        except Exception:
+        rubrique = (rail.get("titre") or "").strip()
+        if not rubrique or rubrique.lower() in RMCPLUS_RAILS_IGNORES:
             continue
-        spot_count = 0
-        for tile in sdata.get("tiles", []):
-            pid_raw = tile.get("productId") or ""
-            if not pid_raw:
-                pid_raw = (tile.get("action") or {}).get("actionIds", {}).get("contentId", "")
-            pid = pid_raw.replace("Product::", "")
-            if not pid or "NEUF_" not in pid or pid in seen:
+        rail_count = 0
+        for tile in _rmcplus_rail_items(rail, page_id):
+            fip, player = _rmcplus_ids(tile)
+            vid = fip or player
+            if not vid:
                 continue
-            if any(pid.startswith(pfx) for pfx in BFM_BROKEN_PREFIXES):
+            pid = f"{prefix}{vid}"
+            if pid in seen:
                 continue
             seen.add(pid)
-            title = (tile.get("title") or "").strip()
+            title = _rmcplus_titre(tile)
             if not title:
                 continue
-            image = ""
-            for img in (tile.get("images") or []):
-                fmt = img.get("format", "")
-                url = img.get("url", "")
-                wt = img.get("withTitle", False)
-                if fmt in ("2/3", "16/9") and not wt and url:
-                    image = url
-                    break
-                if not image and url and not wt:
-                    image = url
-            ct = tile.get("contentType", "")
-            tvg_type = "series" if ct in ("Season", "Series", "Episode") else "movie"
-            out.append({"product_id": pid, "title": title[:140], "image": image,
-                        "tvg_type": tvg_type, "category": spot_title})
-            spot_count += 1
-        if spot_count:
-            print(f"    [{menu_id}] {spot_title}: {spot_count}", file=sys.stderr)
+            _rmcplus_kind[pid] = (fip, player, title[:140], _rmcplus_image(tile))
+            out.append({"product_id": pid, "title": title[:140], "image": _rmcplus_image(tile),
+                        "tvg_type": "series", "category": rubrique})
+            rail_count += 1
+        if rail_count:
+            print(f"    [{page_id}] {rubrique}: {rail_count}", file=sys.stderr)
         if len(out) >= max_items:
             break
-        time.sleep(0.15)
+        time.sleep(0.05)
     return out[:max_items]
 
 
 def bfm_fetch_episodes(content_id):
-    """Récupère les épisodes individuels d'une saison BFM. Filtre svodId."""
+    """Épisodes d'un programme RMC+ (fiche « fip », onglet Replay, toutes saisons)."""
+    fip, player, titre, image = _rmcplus_kind.get(content_id, ("", "", "", ""))
+    if not fip:
+        return []
+    prefix = content_id[: -len(fip)] if content_id.endswith(fip) else ""
+    # Vidéo seule présentée avec une fiche : l'id jouable est celui du lecteur.
+    seul = [{"product_id": f"{prefix}{player}", "title": titre, "image": image,
+             "tvg_type": "series"}] if player else []
+    try:
+        data = _rmcplus_json(f"/page?model=web&page_type=fip&page_id={fip}")
+    except Exception:
+        return seul
+    out = []
+    seen = set()
+    for sec in data.get("sections") or []:
+        if sec.get("type") != "onglet":
+            continue
+        for tab in sec.get("items") or []:
+            tab_title = (tab.get("titre") or "").strip().lower()
+            if tab_title and ("similaire" in tab_title or "bonus" in tab_title):
+                continue
+            for rail in tab.get("sections") or []:
+                if rail.get("type") != "rail":
+                    continue
+                for ep in _rmcplus_rail_items(rail, "accueil"):
+                    _, evid = _rmcplus_ids(ep)
+                    if not evid:
+                        continue
+                    ep_pid = f"{prefix}{evid}"
+                    if ep_pid in seen:
+                        continue
+                    seen.add(ep_pid)
+                    title = _rmcplus_titre(ep)
+                    if not title:
+                        continue
+                    out.append({"product_id": ep_pid, "title": title[:140],
+                                "image": _rmcplus_image(ep), "tvg_type": "series"})
+    return out or seul
+
+
+def bfm_fetch_episodes_gaia(content_id):
+    """Épisodes d'une saison du catalogue gaia (thématiques transverses, encore en service)."""
     url = (f"{BFM_CDN}/content/Product::{content_id}/episodes"
            f"?universe=PROVIDER&accountTypes=NEXTTV&operators=NEXTTV"
            f"&noTracking=false&page=0&size=1000")
@@ -227,9 +327,9 @@ def generate(output_path):
         total += 1
     print(f"  {len(BFM_LIVE_CHANNELS)} chaînes live")
 
-    print("\n=== BFM / RMC Play Replay (chaînes + épisodes) ===")
-    for menu_id, _, chan_label, chan_logo in BFM_REPLAY_CHANNELS:
-        progs = bfm_channel_programs(menu_id)
+    print("\n=== BFM / RMC+ Replay par chaîne (BFF RMC+ : rubriques + épisodes) ===")
+    for page_id, prefix, chan_label, chan_logo in BFM_REPLAY_CHANNELS:
+        progs = bfm_channel_programs(page_id, prefix)
         added_seasons = 0
         added_episodes = 0
         for p in progs:
@@ -285,7 +385,7 @@ def generate(output_path):
                 continue
             bfm_themes_seen.add(season_pid)
             ilogo_season = p.get("image") or f"{BFM_LOGO_BASE}/bfm-tv-fr.png"
-            episodes = bfm_fetch_episodes(season_pid)
+            episodes = bfm_fetch_episodes_gaia(season_pid)
             if episodes:
                 for ep in episodes:
                     ep_pid = ep["product_id"]
