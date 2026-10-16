@@ -2365,6 +2365,8 @@ tf1plus://tf1/chroniques-criminelles
 tf1plus://tfx/appels-urgence
 #EXTINF:-1 tvg-id="tf1plus-tmc-90-enquetes-des-secrets-et-des-enquêtes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-66d5a3-50048d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Des secrets et des enquêtes",90 Enquetes
 tf1plus://tmc/90-enquetes
+#EXTINF:-1 tvg-id="tf1plus-tf1-presque-comme-des-cheffes-ces-programmes-qui-font-du-bien" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-01264a-47dff3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Ces programmes qui font du bien",Presque Comme des Cheffes
+tf1plus://tf1/presque-comme-des-cheffes
 #EXTINF:-1 tvg-id="tf1plus-tmc-animaux-a-adopter-nouvelle-famille-pour-une-nouvelle-vie-ces-programmes-qui-font-du-bien" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersive-1-960bd2-77754d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Ces programmes qui font du bien",Animaux A Adopter Nouvelle Famille Pour une Nouvelle Vie
 tf1plus://tmc/animaux-a-adopter-nouvelle-famille-pour-une-nouvelle-vie
 #EXTINF:-1 tvg-id="tf1plus-tf1-petits-plats-en-equilibre-ces-programmes-qui-font-du-bien" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-06ba5d-d4d77d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Ces programmes qui font du bien",Petits Plats En Equilibre
@@ -2377,8 +2379,6 @@ tf1plus://tf1/c-est-canteloup
 tf1plus://tmc/la-mode-by-loic-prigent
 #EXTINF:-1 tvg-id="tf1plus-tfx-jlc-family-lincroyable-ete-de-jazz-et-laurent-ces-programmes-qui-font-du-bien" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersive-3-jlc-s9-7de3f4-9f83e0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Ces programmes qui font du bien",Jlc Family Lincroyable Ete de Jazz et Laurent
 tf1plus://tfx/jlc-family-lincroyable-ete-de-jazz-et-laurent
-#EXTINF:-1 tvg-id="tf1plus-tmc-indemodable-ndeg2-les-dessous-du-tapis-rouge-ces-programmes-qui-font-du-bien" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-7ba30d-7a35cf-e37029-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Ces programmes qui font du bien",Indemodable Ndeg2 les Dessous du Tapis Rouge
-tf1plus://tmc/indemodable-ndeg2-les-dessous-du-tapis-rouge
 #EXTINF:-1 tvg-id="tf1plus-tf1-50-mn-inside-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-50-inside-isabelle-ithurburu-3ce1f0-e0d938-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour toute la famille",50 Mn Inside
 tf1plus://tf1/50-mn-inside
 #EXTINF:-1 tvg-id="tf1plus-tfx-le-grand-betisier-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-le-big-betisier-de-noel-98623d-8d18fc-44136c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour toute la famille",Le Grand Betisier
@@ -2435,6 +2435,8 @@ tf1plus://tf1/tiny-house-hunting
 tf1plus://tmc/construire-sa-maison-ecolo-leurs-secrets-pour-depenser-moins
 #EXTINF:-1 tvg-id="tf1plus-tf1-tiny-house-nation-lifestyle" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-61aaa9-8cf816-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Lifestyle",Tiny House Nation
 tf1plus://tf1/tiny-house-nation
+#EXTINF:-1 tvg-id="tf1plus-tmc-indemodable-ndeg2-les-dessous-du-tapis-rouge-lifestyle" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-7ba30d-7a35cf-e37029-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Lifestyle",Indemodable Ndeg2 les Dessous du Tapis Rouge
+tf1plus://tmc/indemodable-ndeg2-les-dessous-du-tapis-rouge
 #EXTINF:-1 tvg-id="tf1plus-tmc-lindemodable-de-marc-beauge-lifestyle" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-jean-fab7c7-5ec608-2c94aa-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Lifestyle",Lindemodable de Marc Beauge
 tf1plus://tmc/lindemodable-de-marc-beauge
 #EXTINF:-1 tvg-id="tf1plus-tf1-miss-france-2023-un-destin-tout-trace-lifestyle" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait_mf-un-destin-tout-trace-bon-logo-449539-b85e10-fc7619-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Lifestyle",Miss France 2023 un Destin Tout Trace
@@ -2445,8 +2447,6 @@ tf1plus://tf1/miss-france-leur-vie-dapres
 tf1plus://tf1/en-roues-libres
 #EXTINF:-1 tvg-id="tf1plus-tf1-rise-le-secret-des-mangroves-de-madagascar-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-8003b8-1cb87f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Rise le Secret des Mangroves de Madagascar
 tf1plus://tf1/rise-le-secret-des-mangroves-de-madagascar
-#EXTINF:-1 tvg-id="tf1plus-tfx-camping-cars-les-vacances-de-leur-vie-partir-à-l'aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d04a92-608f3e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Partir à l'aventure",Camping Cars les Vacances de Leur Vie
-tf1plus://tfx/camping-cars-les-vacances-de-leur-vie
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-enfoires-restos-du-coeur-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3ec57d-c9a88a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Les Enfoires Restos du Coeur
 tf1plus://tf1/les-enfoires-restos-du-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-dream-team-la-musique-dans-la-peau" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-dream-team-57a125-412e88-abde58-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - La musique dans la peau",Dream Team
@@ -2463,6 +2463,8 @@ tf1plus://tfx/incroyables-mariages-gitans
 tf1plus://tmc/les-rois-de-la-demesure
 #EXTINF:-1 tvg-id="tf1plus-tmc-expendables-4-784-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d82d49-3adeb4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Expendables 4 784
 tf1plus://tmc/expendables-4-784
+#EXTINF:-1 tvg-id="tf1plus-tf1-aquaman-et-le-royaume-perdu-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-642000-7e3cc5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Aquaman et le Royaume Perdu
+tf1plus://tf1/aquaman-et-le-royaume-perdu
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-the-mortal-instruments-la-cite-des-tenebres-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-3cc65a-1ee3a9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Mortal Instruments la Cite des Tenebres
 tf1plus://tf1-series-films/the-mortal-instruments-la-cite-des-tenebres
 #EXTINF:-1 tvg-id="tf1plus-tmc-morbius-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-1ad5b6-b8c60e-21fc1b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Morbius
@@ -2499,8 +2501,6 @@ tf1plus://tf1/the-con-is-on
 tf1plus://tf1/american-heist
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-victoire-dans-le-sang-trading-paint-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-e2a2a4-c803ca-e55754-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",La Victoire Dans le Sang Trading Paint
 tf1plus://tf1/la-victoire-dans-le-sang-trading-paint
-#EXTINF:-1 tvg-id="tf1plus-tf1-the-old-way-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-f02f2f-6188a2-2186f5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Old Way
-tf1plus://tf1/the-old-way
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-retour-vers-le-futur-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-9083fc-238108-95564d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Retour Vers le Futur
 tf1plus://tf1-series-films/retour-vers-le-futur
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-retour-vers-le-futur-2-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-04782c-01406e-0912b6-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Retour Vers le Futur 2
@@ -3103,8 +3103,6 @@ tf1plus://tf1/appelez-moi-grand-mere
 tf1plus://tf1/apprentis-et-cracks
 #EXTINF:-1 tvg-id="tf1plus-tf1-apres-moi-le-bonheur-smx" tvg-logo="https://photos.tf1.fr/1200/720/apres-moi-le-bonheur-41787356-1753594086-749b3e-167cce-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Après moi le bonheur
 tf1plus://tf1/apres-moi-le-bonheur
-#EXTINF:-1 tvg-id="tf1plus-tf1-aquaman-et-le-royaume-perdu-smx" tvg-logo="https://photos.tf1.fr/1200/720/aquaman-et-le-royaume-perdu-b91bde-22c2ec-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Aquaman et le Royaume perdu
-tf1plus://tf1/aquaman-et-le-royaume-perdu
 #EXTINF:-1 tvg-id="tf1plus-tf1-ariane-ferry-smx" tvg-logo="https://photos.tf1.fr/1200/720/ariane-ferry-s01-e03-facheuse-compagnie-c446ae-b8f1b0-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Ariane Ferry
 tf1plus://tf1/ariane-ferry
 #EXTINF:-1 tvg-id="tf1plus-tf1-armed-response-smx" tvg-logo="https://photos.tf1.fr/1200/720/armed-response-71fd99-17c49f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Armed Response
@@ -5193,8 +5191,6 @@ tf1plus://tf1/podcast-tf1
 tf1plus://tf1/possession
 #EXTINF:-1 tvg-id="tf1plus-tf1-pourris-gates-625-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-91c367-1412b6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Pourris gâtés
 tf1plus://tf1/pourris-gates-625
-#EXTINF:-1 tvg-id="tf1plus-tf1-presque-comme-des-cheffes-smx" tvg-logo="https://photos.tf1.fr/1200/720/2134590_presque-comme-des-cheffes-p2-023030-373cb6-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Presque comme des cheffes
-tf1plus://tf1/presque-comme-des-cheffes
 #EXTINF:-1 tvg-id="tf1plus-tf1-presque-legal-258-smx" tvg-logo="https://photos.tf1.fr/1200/720/presque-legal-80970521-1755281255-f17f27-be9935-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Presque légal
 tf1plus://tf1/presque-legal-258
 #EXTINF:-1 tvg-id="tf1plus-tf1-pret-a-tout-pour-lamour-de-ma-mere-smx" tvg-logo="https://photos.tf1.fr/1200/720/pret-a-tout-pour-lamour-de-ma-mere-09841854-1744336905-884675-4f8455-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Prêt à tout pour l'amour de ma mère
@@ -5561,6 +5557,8 @@ tf1plus://tf1/the-last-wave
 tf1plus://tf1/the-lost-earth
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-moderator-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-moderator-05419011-1732992245-e59b2e-842be7-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The moderator
 tf1plus://tf1/the-moderator
+#EXTINF:-1 tvg-id="tf1plus-tf1-the-old-way-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-old-way-60300022-1760375982-b05c7e-152b3b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Old Way
+tf1plus://tf1/the-old-way
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-perfect-weapon-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-perfect-weapon-10591268-1760376684-dde803-02d09b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Perfect Weapon
 tf1plus://tf1/the-perfect-weapon
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-phoenician-scheme-smx" tvg-logo="https://photos.tf1.fr/1200/720/the-phoenician-scheme-1-1-b3ece8-6dfc99-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",The Phoenician Scheme
