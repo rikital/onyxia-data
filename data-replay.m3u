@@ -11897,6 +11897,8 @@ tf1plus://tfx/pokemon
 tf1plus://tf1/kallys-mashup-la-voix-de-la-pop-835
 #EXTINF:-1 tvg-id="tf1plus-tf1-winx-club-top-10" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-c04cb2-7b5ff8-a56dd9-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Winx Club
 tf1plus://tf1/winx-club
+#EXTINF:-1 tvg-id="tf1plus-tf1-molang-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-molang-b152e0-6796d9-f93e80-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Molang
+tf1plus://tf1/molang
 #EXTINF:-1 tvg-id="tf1plus-tf1-ernest-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-ernestandrebecca-24bbb8-e6c9eb-623724-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Ernest
 tf1plus://tf1/ernest
 #EXTINF:-1 tvg-id="tf1plus-tf1-geronimo-stilton-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-geronimo-61e381-f755d1-5364c8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Geronimo Stilton
@@ -11913,8 +11915,6 @@ tf1plus://tf1/hello-kitty-super-style
 tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-mille-bornes-challenge-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-3a2e30-02b21f-d73c97-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Mille Bornes Challenge
 tf1plus://tf1/mille-bornes-challenge
-#EXTINF:-1 tvg-id="tf1plus-tf1-molang-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-molang-b152e0-6796d9-f93e80-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Molang
-tf1plus://tf1/molang
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
 tf1plus://tf1/les-chapardeurs
 #EXTINF:-1 tvg-id="tf1plus-tf1-cedric-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-dfa7d1-d8eb6b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Cedric
