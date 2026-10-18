@@ -81,6 +81,8 @@ arte://065753-000-A
 arte://114153-000-A
 #EXTINF:-1 tvg-id="arte-RC-014095" tvg-logo="https://api-cdn.arte.tv/img/v2/image/hMcyK8s5eoFjeeFDUfziCb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Blow up — L'actualité du cinéma (ou presque)
 arte://RC-014095
+#EXTINF:-1 tvg-id="arte-060750-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Aj5F2ZXUPSaZ5Wj79nUzah/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Le pont de la rivière Kwaï
+arte://060750-000-A
 #EXTINF:-1 tvg-id="arte-128716-027-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KhQJFMVQUWH4o6MjLqh48X/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Conversation avec Virginie Efira
 arte://128716-027-A
 #EXTINF:-1 tvg-id="arte-041548-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/uvFNFQu2RmRZdyyYBzA5CP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Pasticcio — Thème 2009 - "Les retrouvailles"
@@ -99,8 +101,6 @@ arte://089014-006-A
 arte://097464-003-A
 #EXTINF:-1 tvg-id="arte-119915-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/kL52SsAqUfScFDKDURsntc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Après nous — Thème 2024 - "Let's dance"
 arte://119915-003-A
-#EXTINF:-1 tvg-id="arte-100210-085-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/YJMmjDKxdWWsj6AhvVXsbG/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",E.T. l’extra-terrestre en 9 minutes — Blow up
-arte://100210-085-A
 #EXTINF:-1 tvg-id="arte-106236-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5Tc6hJEhsTFjifQjxWFHQX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Romain Duris en musiques — Blow up
 arte://106236-002-A
 #EXTINF:-1 tvg-id="arte-072401-020-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/LXUMsaNbZe2WvMvGFQco84/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Face à l'Histoire : la guerre 14-18 — Blow up
@@ -1237,14 +1237,16 @@ arte://127323-005-A
 arte://135425-000-A
 #EXTINF:-1 tvg-id="arte-128051-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/HUmX8yZbgRSo2CFLS6YgAn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Bouteille ou canette ?
 arte://128051-006-A
-#EXTINF:-1 tvg-id="arte-128051-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8T76RJQJjhBkFooTiZQCHY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Vêtements neufs ou de seconde main ?
-arte://128051-004-A
-#EXTINF:-1 tvg-id="arte-063322-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/jsxF6mvKFtqnePhgPQxpk8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Michel Mayor : à la recherches des exoplanètes — Les coulisses de la découverte
-arte://063322-002-A
-#EXTINF:-1 tvg-id="arte-128051-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/m8FxXzPZJNV39tMkXVbu6h/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Voiture électrique ou voiture thermique ?
-arte://128051-005-A
 #EXTINF:-1 tvg-id="arte-119121-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Raw6YXdWMW9nLQr9UMcTfE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Psycho — Moi et l‘hypocondrie
 arte://119121-008-A
+#EXTINF:-1 tvg-id="arte-128051-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8T76RJQJjhBkFooTiZQCHY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Vêtements neufs ou de seconde main ?
+arte://128051-004-A
+#EXTINF:-1 tvg-id="arte-128051-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/m8FxXzPZJNV39tMkXVbu6h/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Voiture électrique ou voiture thermique ?
+arte://128051-005-A
+#EXTINF:-1 tvg-id="arte-118858-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BubQM2yzM5FHRe54VZj6db/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Les questions qui fâchent — Fusion nucléaire : l'énergie du futur ?
+arte://118858-010-A
+#EXTINF:-1 tvg-id="arte-128051-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BBct9bQeJj7WKJJDU5xMvU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Sciences",Écolo mon cul ! — Café filtre ou capsule ?
+arte://128051-007-A
 #EXTINF:-1 tvg-id="arte-117728-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/khA8fJ6y4E4aFvtqoeXcoE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Mongolie — L’homme qui aimait les chevaux
 arte://117728-005-A
 #EXTINF:-1 tvg-id="arte-130066-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Ag3yvwjj97TEZkPWKAyfwK/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Gavials du Népal, le défi de la sauvegarde — 360° Reportage
@@ -1371,8 +1373,6 @@ arte://106655-000-A
 arte://098837-001-A
 #EXTINF:-1 tvg-id="arte-098837-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qH5D7SVgeDsZDdx4cauv2K/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Namibie sauvage — Le grand spectacle des animaux
 arte://098837-002-A
-#EXTINF:-1 tvg-id="arte-089963-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/i7Ktmt5wL2JWLenGzmerea/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Survivre aux catastrophes : les stratégies de la nature
-arte://089963-000-A
 #EXTINF:-1 tvg-id="arte-131575-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/A9bnzBPNvPjVT4uyiGw5Ec/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",François d’Assise - L’exigence de la foi — Portrait de l'une des figures les plus populaires de la chrétienté
 arte://131575-000-A
 #EXTINF:-1 tvg-id="arte-135425-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/LWRUSMSX4Tg84dRvLx8QH4/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Île de la cité, histoire du berceau de la France — À Paris, la découverte d'un mur gaulois révèle les secrets de l’antique Lutèce
@@ -1393,32 +1393,32 @@ arte://123428-014-A
 arte://127457-001-A
 #EXTINF:-1 tvg-id="arte-107397-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/VuvA9h8gyWskNrcHvqXK4o/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Marie-Antoinette vs Maximilien Robespierre
 arte://107397-010-A
-#EXTINF:-1 tvg-id="arte-120854-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/DgdjFSxHfBYE3ffMDg8yzd/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que la démocratie a été inventée en Grèce ?
-arte://120854-001-A
 #EXTINF:-1 tvg-id="arte-122709-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/rnVhjNDTTjKoA8UgzX46ja/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (1/12) — L'invention de la monnaie
 arte://122709-001-A
+#EXTINF:-1 tvg-id="arte-110654-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BYhDKsChxezBvJRwXuQaSk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Antonov, le légendaire géant des airs — L'histoire du plus grand avion du monde
+arte://110654-000-A
 #EXTINF:-1 tvg-id="arte-107397-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/umjTSRg9C8JNEv6gajMnFM/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Camille Claudel vs Auguste Rodin
 arte://107397-005-A
+#EXTINF:-1 tvg-id="arte-120854-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/DgdjFSxHfBYE3ffMDg8yzd/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que la démocratie a été inventée en Grèce ?
+arte://120854-001-A
 #EXTINF:-1 tvg-id="arte-107397-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/wv7VNBTqFPTwK2QdSmJcS5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Marie Curie vs Jeanne Langevin
 arte://107397-002-A
 #EXTINF:-1 tvg-id="arte-107397-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/wNqYWxaBbmSyyqm9rpTy3Z/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Jiang Qing vs Deng Xiaoping
 arte://107397-006-A
-#EXTINF:-1 tvg-id="arte-110654-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BYhDKsChxezBvJRwXuQaSk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Antonov, le légendaire géant des airs — L'histoire du plus grand avion du monde
-arte://110654-000-A
 #EXTINF:-1 tvg-id="arte-107397-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/M6Dn4TWQDKwwH9S7YnjcsJ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Lucrèce Borgia vs Alexandre VI
 arte://107397-007-A
 #EXTINF:-1 tvg-id="arte-122709-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4S4bEuJa3cmpSFUteLDuHn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (2/12) — Frapper la monnaie
 arte://122709-002-A
-#EXTINF:-1 tvg-id="arte-107397-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RmGMSSDwo6uTKND9PSV4nY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Billie Jean King vs Bobby Riggs
-arte://107397-008-A
 #EXTINF:-1 tvg-id="arte-107397-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vSsnSHmNUdgwWmdSPjYcCM/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Messaline vs Agrippine
 arte://107397-009-A
+#EXTINF:-1 tvg-id="arte-107397-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RmGMSSDwo6uTKND9PSV4nY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Duels d'Histoire — Billie Jean King vs Bobby Riggs
+arte://107397-008-A
 #EXTINF:-1 tvg-id="arte-122709-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/hSdNjiVxU9Pckn4RLbnMr9/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (3/12) — Papier monnaie
 arte://122709-003-A
-#EXTINF:-1 tvg-id="arte-122709-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QTpCjbNnXxtohZTikHpigc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (4/12) — Le roi dollar
-arte://122709-004-A
 #EXTINF:-1 tvg-id="arte-127454-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AFuAb637uQ3AFTw3c7uQZ3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que nous avons toujours été accros au sucre ?
 arte://127454-001-A
+#EXTINF:-1 tvg-id="arte-122709-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QTpCjbNnXxtohZTikHpigc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (4/12) — Le roi dollar
+arte://122709-004-A
 #EXTINF:-1 tvg-id="arte-106658-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/aHDVtd3CRKddtSbQknJgSY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bon voyage camarades ! La RDA part en croisière
 arte://106658-000-A
 #EXTINF:-1 tvg-id="arte-122709-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4jYKk5HsA6XMfksBYG9GCg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (5/12) — Monnaie magique
@@ -1457,44 +1457,56 @@ arte://101463-007-A
 arte://122709-012-A
 #EXTINF:-1 tvg-id="arte-109816-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/MTPD8TABVExv3Jbe2SnidZ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",L'histoire finit-elle par se répéter ? — 42 - La réponse à presque tout
 arte://109816-016-A
-#EXTINF:-1 tvg-id="arte-111698-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9GzCk5YdRcJcnaHKHRxJW3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Birobidjan - Jérusalem au pays des soviets
-arte://111698-004-A
-#EXTINF:-1 tvg-id="arte-123428-020-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/pqncYvw7ekG38xGDcqTkhm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai qu’autrefois les migrations n’étaient pas aussi nombreuses ?
-arte://123428-020-A
-#EXTINF:-1 tvg-id="arte-098132-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/amyWEdbpj4zfXhP5mAwZjH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",On The Morning You Wake (To the End of the World) — Nucléaire : alerte maximale
-arte://098132-000-A
-#EXTINF:-1 tvg-id="arte-101463-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/B8nXCd2K39vPWUmiCwwnb7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Mont Athos : Bataille au monastère
-arte://101463-004-A
 #EXTINF:-1 tvg-id="arte-111698-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AfFe8TstShZrs8Sw5n8mBT/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Principauté d’Arbézie - Une frontière en chocolat
 arte://111698-007-A
-#EXTINF:-1 tvg-id="arte-101463-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EuKNcoazJ2CCrpUzCo2nbB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Sercq : Main basse sur l'archipel
-arte://101463-005-A
-#EXTINF:-1 tvg-id="arte-101463-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Tx7qqE97NhJBAtxUpaZhZg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Îles Spratleys : Jeu de go sur l’eau
-arte://101463-009-A
-#EXTINF:-1 tvg-id="arte-111698-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fkFopWXEgm2gXo3pjfDmmm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Cooch Behar - Jeu de cartes au Bengale
-arte://111698-001-A
 #EXTINF:-1 tvg-id="arte-123428-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/gyThD5RaJ2EGFUFgYUWE8F/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai qu'autrefois il y avait beaucoup moins de paperasse ?
 arte://123428-016-A
-#EXTINF:-1 tvg-id="arte-111698-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/W4FBin52y9hTJUgeDpeEa8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Steinstücken - Pas complètement à l’ouest
-arte://111698-005-A
+#EXTINF:-1 tvg-id="arte-101463-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Tx7qqE97NhJBAtxUpaZhZg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Îles Spratleys : Jeu de go sur l’eau
+arte://101463-009-A
+#EXTINF:-1 tvg-id="arte-111698-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9GzCk5YdRcJcnaHKHRxJW3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Birobidjan - Jérusalem au pays des soviets
+arte://111698-004-A
+#EXTINF:-1 tvg-id="arte-101463-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/B8nXCd2K39vPWUmiCwwnb7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Mont Athos : Bataille au monastère
+arte://101463-004-A
+#EXTINF:-1 tvg-id="arte-098132-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/amyWEdbpj4zfXhP5mAwZjH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",On The Morning You Wake (To the End of the World) — Nucléaire : alerte maximale
+arte://098132-000-A
+#EXTINF:-1 tvg-id="arte-115014-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fxTSREnr3Y5D6z9833yXQN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arved Fuchs, l’explorateur des glaces
+arte://115014-000-A
+#EXTINF:-1 tvg-id="arte-122709-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4DrvftYRBk9jDhKEVhvQe5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (11/12) — Monnaie hélicoptère
+arte://122709-011-A
+#EXTINF:-1 tvg-id="arte-111698-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vbguXs3KPWTTsBhN4FT9Gk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Moresnet Neutre - Amitié sur le zinc
+arte://111698-003-A
+#EXTINF:-1 tvg-id="arte-123428-020-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/pqncYvw7ekG38xGDcqTkhm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai qu’autrefois les migrations n’étaient pas aussi nombreuses ?
+arte://123428-020-A
+#EXTINF:-1 tvg-id="arte-111698-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fkFopWXEgm2gXo3pjfDmmm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Cooch Behar - Jeu de cartes au Bengale
+arte://111698-001-A
 #EXTINF:-1 tvg-id="arte-101463-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/NDo7mdE29aVbNZhLeWnZVA/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Bermeja : Une île paumée
 arte://101463-006-A
 #EXTINF:-1 tvg-id="arte-101463-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BTqwhPTCJmipUcGjsD6hnj/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Mont Blanc : Dispute au sommet
 arte://101463-003-A
+#EXTINF:-1 tvg-id="arte-111698-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xDuujzXM5VAuwLbBL7EQpR/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Rockall - Bisbille sous roche
+arte://111698-002-A
+#EXTINF:-1 tvg-id="arte-111698-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/W4FBin52y9hTJUgeDpeEa8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Steinstücken - Pas complètement à l’ouest
+arte://111698-005-A
+#EXTINF:-1 tvg-id="arte-111698-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ePnpXJwAFmG6R7NwuHEeUL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Madha Nahwa - Un plan qui tombe à l’eau
+arte://111698-006-A
+#EXTINF:-1 tvg-id="arte-123428-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ZvJ9veY2aCHaAbMsEUcRqB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que nous avons toujours mangé de la viande ?
+arte://123428-012-A
+#EXTINF:-1 tvg-id="arte-123428-013-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/N9hMnTZei6DxiRiuyrezVU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que les matières premières enrichissent les pays ?
+arte://123428-013-A
+#EXTINF:-1 tvg-id="arte-101463-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cSXLoQ6AvjiS4fYoNoD4Tk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Baarle : Trafics au village
+arte://101463-002-A
+#EXTINF:-1 tvg-id="arte-101463-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EuKNcoazJ2CCrpUzCo2nbB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Sercq : Main basse sur l'archipel
+arte://101463-005-A
 #EXTINF:-1 tvg-id="arte-101463-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AZPaDSveP6uyvyXs5638m6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Zeist : Tribunal en exil
 arte://101463-010-A
+#EXTINF:-1 tvg-id="arte-111698-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/J6heQ9xoKCj6o8ReNGjQsn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Martín García & Timoteo Domínguez - Une île pour deux
+arte://111698-010-A
 #EXTINF:-1 tvg-id="arte-103434-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yY4rqRLXLBiZsxxqDwAJVj/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Cricket - Le sport, boîte à outils de l’impérialisme
 arte://103434-007-A
 #EXTINF:-1 tvg-id="arte-111698-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/or9xzvzFYnC49G2ycYH5mN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Vennbahn - Une ligne à tenir
 arte://111698-009-A
-#EXTINF:-1 tvg-id="arte-123428-013-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/N9hMnTZei6DxiRiuyrezVU/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que les matières premières enrichissent les pays ?
-arte://123428-013-A
 #EXTINF:-1 tvg-id="arte-101463-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/AUZRCrE4Y8FEYK9y7LBHaQ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Sovereign Base Areas : des divisions sur l’île
 arte://101463-008-A
-#EXTINF:-1 tvg-id="arte-111698-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xDuujzXM5VAuwLbBL7EQpR/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Rockall - Bisbille sous roche
-arte://111698-002-A
-#EXTINF:-1 tvg-id="arte-111698-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/J6heQ9xoKCj6o8ReNGjQsn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Martín García & Timoteo Domínguez - Une île pour deux
-arte://111698-010-A
 #EXTINF:-1 tvg-id="arte-103434-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KpD3HDmkw6eKtqWM6sxxjD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Football - Le miroir de la révolution industrielle
 arte://103434-002-A
 #EXTINF:-1 tvg-id="arte-103434-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/aL2T8eH7QbPFKcCv4iC6z/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Hockey - Les bons offices du sport
@@ -1513,18 +1525,6 @@ arte://103434-003-A
 arte://103434-005-A
 #EXTINF:-1 tvg-id="arte-103434-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5SMX4aFAWexTiSstBkiDuh/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arrêts de jeu — Athlétisme - Le sport, frontière des genres et des égalités
 arte://103434-009-A
-#EXTINF:-1 tvg-id="arte-115014-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fxTSREnr3Y5D6z9833yXQN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Arved Fuchs, l’explorateur des glaces
-arte://115014-000-A
-#EXTINF:-1 tvg-id="arte-122709-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4DrvftYRBk9jDhKEVhvQe5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Money (11/12) — Monnaie hélicoptère
-arte://122709-011-A
-#EXTINF:-1 tvg-id="arte-123428-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ZvJ9veY2aCHaAbMsEUcRqB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Est-il vrai que nous avons toujours mangé de la viande ?
-arte://123428-012-A
-#EXTINF:-1 tvg-id="arte-111698-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/vbguXs3KPWTTsBhN4FT9Gk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Moresnet Neutre - Amitié sur le zinc
-arte://111698-003-A
-#EXTINF:-1 tvg-id="arte-111698-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ePnpXJwAFmG6R7NwuHEeUL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Madha Nahwa - Un plan qui tombe à l’eau
-arte://111698-006-A
-#EXTINF:-1 tvg-id="arte-101463-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cSXLoQ6AvjiS4fYoNoD4Tk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Histoire",Bienvenue en Géozarbie — Baarle : Trafics au village
-arte://101463-002-A
 #EXTINF:-1 tvg-id="arte-RC-014085" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XWkhkoh94LTWbcX4htkFXf/400x225?type=TEXT" tvg-country="FR" tvg-type="series" group-title="Arte Émissions",ARTE Journal — Le JT de l'actualité internationale
 arte://RC-014085
 #EXTINF:-1 tvg-id="arte-RC-027948" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RVGy6xB9ePJ5PP5quQ48tH/400x225?type=TEXT" tvg-country="FR" tvg-type="series" group-title="Arte Émissions",POURQUOI ? — Les clés de l’info
@@ -1945,18 +1945,16 @@ arte://130517-010-A
 arte://130517-005-A
 #EXTINF:-1 tvg-id="arte-116041-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fRDSns6FSjAbZDNvQbULSk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Nina Simone
 arte://116041-002-A
-#EXTINF:-1 tvg-id="arte-116041-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/GAKvBnABwadcmvtgdZ4xoD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Lauryn Hill
-arte://116041-001-A
 #EXTINF:-1 tvg-id="arte-131033-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/s9NMpRHBfk7pTsgMuZt6Di/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Matthias Pintscher dirige Kurtág, Ravel et Miller — Avec Pierre-Laurent Aimard
 arte://131033-008-A
-#EXTINF:-1 tvg-id="arte-116041-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/drEhfBYnn5J9qq9eJykmnV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Dolly Parton
-arte://116041-009-A
+#EXTINF:-1 tvg-id="arte-116041-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/GAKvBnABwadcmvtgdZ4xoD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Lauryn Hill
+arte://116041-001-A
 #EXTINF:-1 tvg-id="arte-133220-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/P5YvAkU2jBsThG6Lf4wA9W/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Hommage au rappeur Xatar — Le docu-concert
 arte://133220-000-A
+#EXTINF:-1 tvg-id="arte-116041-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/drEhfBYnn5J9qq9eJykmnV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Dolly Parton
+arte://116041-009-A
 #EXTINF:-1 tvg-id="arte-116041-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9GFDVUKCTD9hzynZB32GmN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : Frank Ocean
 arte://116041-003-A
-#EXTINF:-1 tvg-id="arte-060121-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/u8wNJMpmC8Pj2VsFmPAoJ9/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",TAPE : David Bowie
-arte://060121-006-A
 #EXTINF:-1 tvg-id="arte-105455-015-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7w9nhZhGRJM7z2yJE3rm66/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",TAPE : Korn
 arte://105455-015-A
 #EXTINF:-1 tvg-id="arte-133771-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4VGPrMUfNnHE5MotWexq2f/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",OMD — M'era Luna 2026
@@ -2189,12 +2187,14 @@ arte://101947-003-A
 arte://120191-000-A
 #EXTINF:-1 tvg-id="arte-124004-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/9wWrGEjvX6EXP3xgbXuSC6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Yann Tiersen — Piano Day 2025
 arte://124004-002-A
+#EXTINF:-1 tvg-id="arte-117221-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ncTrcTYERc7BRq7ZTHAvUL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",The Analogues : hommage aux Beatles — Salle Pleyel, Paris
+arte://117221-000-A
+#EXTINF:-1 tvg-id="arte-120103-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ruKMV2nK7xoi8BPrTosyB7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Thomas de Pourquery — Jazz à Porquerolles 2024
+arte://120103-003-A
 #EXTINF:-1 tvg-id="arte-081858-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KQi2JCDGKDEXYDA3wtxqNf/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Kid Francescoli sur la Seine — Passengers
 arte://081858-009-A
 #EXTINF:-1 tvg-id="arte-119945-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yLdGRujMP5jEru52Uwa85X/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",L'Impératrice au palais Bulles — Passengers
 arte://119945-000-A
-#EXTINF:-1 tvg-id="arte-120103-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ruKMV2nK7xoi8BPrTosyB7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Thomas de Pourquery — Jazz à Porquerolles 2024
-arte://120103-003-A
 #EXTINF:-1 tvg-id="arte-120720-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iWZsC4XhYDYPnFHURAxLw9/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Postman and The Real Fake Band — Europavox Sessions 2024
 arte://120720-003-A
 #EXTINF:-1 tvg-id="arte-120720-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cLEpKZK9HnKLZxJjyvmi2B/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",ÃO — Europavox Sessions 2024
@@ -2213,8 +2213,6 @@ arte://126461-000-A
 arte://127719-007-A
 #EXTINF:-1 tvg-id="arte-091880-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qUyiVCcAPGLwPuMV4rWLwV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",TAPE : Mariah Carey
 arte://091880-003-A
-#EXTINF:-1 tvg-id="arte-117221-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ncTrcTYERc7BRq7ZTHAvUL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",The Analogues : hommage aux Beatles — Salle Pleyel, Paris
-arte://117221-000-A
 #EXTINF:-1 tvg-id="arte-113619-008-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EG4Vr7rrvvCXcWGoUVoG9j/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Nalla, Samayusi et Ceylon — Laser Disc en public
 arte://113619-008-A
 #EXTINF:-1 tvg-id="arte-124007-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XPdo3AUYEbXsdAVLapoEE6/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Carpetman — ESNS 2025
@@ -2895,16 +2893,16 @@ arte://127143-008-A
 arte://127143-021-A
 #EXTINF:-1 tvg-id="arte-127143-017-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7doQ27Xmf3BPiZm7Le9JHo/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Versengold — M'era Luna Festival 2025
 arte://127143-017-A
-#EXTINF:-1 tvg-id="arte-127143-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/invz4XU9inSH692xLtczzY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Null Positiv — M'era Luna Festival 2025
-arte://127143-003-A
-#EXTINF:-1 tvg-id="arte-127143-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/JSZXKB3bLHhC93sKNxdHUo/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Corvus Corax — M'era Luna Festival 2025
-arte://127143-016-A
+#EXTINF:-1 tvg-id="arte-120891-013-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/FPHdjxaHyfqNDS6shQ7FgG/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Deathstars — M'era Luna Festival 2024
+arte://120891-013-A
 #EXTINF:-1 tvg-id="arte-113169-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/dpuQq2ttB6XiEgzcRdTFxh/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Powerwolf — Summer Breeze 2023
 arte://113169-000-A
-#EXTINF:-1 tvg-id="arte-120891-018-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/X7xFEgdWFTPDviecAC9Pbh/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",VNV Nation — M'era Luna Festival 2024
-arte://120891-018-A
+#EXTINF:-1 tvg-id="arte-127143-019-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/wXKhntvDKTzWRyfYqXscWf/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Subway to Sally — M'era Luna 2025
+arte://127143-019-A
 #EXTINF:-1 tvg-id="arte-127143-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EmW9XZ3gXK3SD8PBL7p2RD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Tanzwut — M'era Luna Festival 2025
 arte://127143-005-A
+#EXTINF:-1 tvg-id="arte-127143-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/bes9e5xai7DpQbnEcHnkca/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Universum25 — M'era Luna Festival 2025
+arte://127143-007-A
 #EXTINF:-1 tvg-id="arte-129419-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/TmZrVcPRZHynyMwUHBNyai/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Induction — Metal Hammer Paradise 2025
 arte://129419-004-A
 #EXTINF:-1 tvg-id="arte-120891-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4ybUJ4AHpAjjBhqaWKS2HT/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Metal",Re.Mind — M'era Luna Festival 2024
