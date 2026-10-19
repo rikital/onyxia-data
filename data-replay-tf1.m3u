@@ -617,7 +617,7 @@ tf1plus://tf1/telefoot
 tf1plus://tf1/auto-moto
 #EXTINF:-1 tvg-id="tf1plus-tmc-coupe-du-monde-de-basket-feminin-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7ebc30-76fa0a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Coupe du Monde de Basket Feminin
 tf1plus://tmc/coupe-du-monde-de-basket-feminin
-#EXTINF:-1 tvg-id="tf1plus-tf1-nations-championship-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-7d1cb7-29f1bb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Nations Championship
+#EXTINF:-1 tvg-id="tf1plus-tf1-nations-championship-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-68bfe8-f93a64-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Nations Championship
 tf1plus://tf1/nations-championship
 #EXTINF:-1 tvg-id="tf1plus-tf1-fifa-coupe-du-monde-de-football-l'actualité-des-sports" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d16985-5d4062-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - L'actualité des sports",Fifa Coupe du Monde de Football
 tf1plus://tf1/fifa-coupe-du-monde-de-football
@@ -1025,6 +1025,8 @@ tf1plus://tmc/noel-avec-lambassadeur
 tf1plus://tf1/un-refuge-pour-mon-bebe
 #EXTINF:-1 tvg-id="tf1plus-tf1-marionnette-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a15bdf-f6f582-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Marionnette
 tf1plus://tf1/marionnette
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-professeur-toxique-de-mon-fils-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-00a7e0-20d9f5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Le Professeur Toxique de Mon Fils
+tf1plus://tf1/le-professeur-toxique-de-mon-fils
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-vie-secrete-de-mon-mari-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-la-vie-secrete-de-mon-mari-844e5b-110cf7-5a0597-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",La Vie Secrete de Mon Mari
 tf1plus://tf1/la-vie-secrete-de-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-dans-les-griffes-de-mon-patient-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-16f74e-cbf832-e120cd-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Dans les Griffes de Mon Patient
@@ -1113,10 +1115,10 @@ tf1plus://tf1/frere-de-sang
 tf1plus://tf1/comme-mon-fils
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-bachelor-meurtrier-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7a5566-fee44b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Bachelor Meurtrier
 tf1plus://tf1/le-bachelor-meurtrier
-#EXTINF:-1 tvg-id="tf1plus-tf1-pourquoi-je-vis-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-849825-69eab1-5f9780-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Pourquoi Je Vis
-tf1plus://tf1/pourquoi-je-vis
 #EXTINF:-1 tvg-id="tf1plus-tf1-amy-thompson-le-combat-dune-mere-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-0b08fe-24b3a4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Amy Thompson le Combat Dune Mere
 tf1plus://tf1/amy-thompson-le-combat-dune-mere
+#EXTINF:-1 tvg-id="tf1plus-tf1-pourquoi-je-vis-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-849825-69eab1-5f9780-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Pourquoi Je Vis
+tf1plus://tf1/pourquoi-je-vis
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-jour-ou-j-ai-brule-mon-coeur-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-le-jour-ou-jai-brule-mon-coeur-78afa7-e49a09-2e79b5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Jour Ou J Ai Brule Mon Coeur
 tf1plus://tf1/le-jour-ou-j-ai-brule-mon-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-tu-vivras-ma-fille-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-tu-vivras-ma-fille-fe8768-a30d7e-c8a03a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Tu Vivras Ma Fille
@@ -1125,10 +1127,10 @@ tf1plus://tf1/tu-vivras-ma-fille
 tf1plus://tf1/quest-il-arrive-a-cari-farver
 #EXTINF:-1 tvg-id="tf1plus-tf1-mon-medecin-est-il-le-pere-de-mon-fils-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-9e999a-bf2f99-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Mon Medecin Est Il le Pere de Mon Fils
 tf1plus://tf1/mon-medecin-est-il-le-pere-de-mon-fils
-#EXTINF:-1 tvg-id="tf1plus-tf1-9-ans-de-secrets-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-054bf6-31ce4f-9a9224-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",9 Ans de Secrets
-tf1plus://tf1/9-ans-de-secrets
 #EXTINF:-1 tvg-id="tf1plus-tf1-jamais-sans-toi-louna-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-jamais-sans-toi-louna-b48ddf-91245b-45a979-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Jamais Sans Toi Louna
 tf1plus://tf1/jamais-sans-toi-louna
+#EXTINF:-1 tvg-id="tf1plus-tf1-9-ans-de-secrets-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-054bf6-31ce4f-9a9224-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",9 Ans de Secrets
+tf1plus://tf1/9-ans-de-secrets
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-7-femmes-de-mon-mari-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-les-7-femmes-de-mon-mari-503e3f-644ccd-52946a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Les 7 Femmes de Mon Mari
 tf1plus://tf1/les-7-femmes-de-mon-mari
 #EXTINF:-1 tvg-id="tf1plus-tf1-emma-une-vie-oubliee-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-50552a-61849b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Emma une Vie Oubliee
@@ -1187,8 +1189,6 @@ tf1plus://tf1/la-fille-de-la-mariee
 tf1plus://tf1/captive-et-soumise
 #EXTINF:-1 tvg-id="tf1plus-tf1-amy-seule-contre-tous-trahisons,-manipulations-et-obsessions" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d1b901-551489-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Trahisons, manipulations et obsessions",Amy Seule Contre Tous
 tf1plus://tf1/amy-seule-contre-tous
-#EXTINF:-1 tvg-id="tf1plus-tf1-the-girl-in-the-pool-trahisons,-manipulations-et-obsessions" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ebcf86-cb5765-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Trahisons, manipulations et obsessions",The Girl In The Pool
-tf1plus://tf1/the-girl-in-the-pool
 #EXTINF:-1 tvg-id="tf1plus-tf1-one-way-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-a879f7-b54d91-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",One Way
 tf1plus://tf1/one-way
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-face-cachee-de-mon-fils-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4530dc-b25a00-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",La Face Cachee de Mon Fils
@@ -1247,6 +1247,8 @@ tf1plus://tf1/sharknado-3
 tf1plus://tf1/control
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-de-fidelite-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-a479ff-42b06e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Le Pacte de Fidelite
 tf1plus://tf1/le-pacte-de-fidelite
+#EXTINF:-1 tvg-id="tf1plus-tf1-the-girl-in-the-pool-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ebcf86-cb5765-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",The Girl In The Pool
+tf1plus://tf1/the-girl-in-the-pool
 #EXTINF:-1 tvg-id="tf1plus-tf1-mariage-sanglant-707-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-37fadd-3c735a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Mariage Sanglant 707
 tf1plus://tf1/mariage-sanglant-707
 #EXTINF:-1 tvg-id="tf1plus-tf1-priez-pour-la-mariee-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b55ec1-6243a7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Priez Pour la Mariee
@@ -4443,8 +4445,6 @@ tf1plus://tf1/le-prix-de-lexcellence
 tf1plus://tf1/le-prix-du-sang
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-proc-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-proc-s02-e03-danger-public-10399880-1732269353-11bd5b-bc6357-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le Proc
 tf1plus://tf1/le-proc
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-professeur-toxique-de-mon-fils-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-professeur-toxique-de-mon-fils-7b760f-cfeb18-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le professeur toxique de mon fils
-tf1plus://tf1/le-professeur-toxique-de-mon-fils
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-ranch-de-mes-reves-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-ranch-de-mes-reves-628b6e-7f0258-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le ranch de mes rêves
 tf1plus://tf1/le-ranch-de-mes-reves
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-refuge-de-lamour-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-refuge-de-lamour-91063358-1706137092-f0b427-5666e6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le refuge de l'amour
