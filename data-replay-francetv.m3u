@@ -803,6 +803,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-ef50cab6-5f8c-4b37-80f4-d96452e0d4df" tvg-logo="https://medias.france.tv/eqdC32hpCleFenDoZyinmicbLcI/400x0/filters:quality(85)/7/1/2/e6d381c0badc43b0b0d35b3f0cf0f217.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du lundi 19 octobre 2026
+francetv://ef50cab6-5f8c-4b37-80f4-d96452e0d4df
 #EXTINF:-1 tvg-id="francetv-80744f6f-3179-493a-b60f-a22d79b912c6" tvg-logo="https://medias.france.tv/kcEiEPugu8am1vm5wXJW00hGsts/400x0/filters:quality(85)/a/f/7/76f7c0827cbd46bdb1bfb2198911a7fa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://80744f6f-3179-493a-b60f-a22d79b912c6
 #EXTINF:-1 tvg-id="francetv-2cc01554-63cb-487b-8fed-1010e0824a6a" tvg-logo="https://medias.france.tv/D7sDQ1na76B0nKFnMuUpqcKyt-U/400x0/filters:quality(85)/e/4/3/35e5bc26e7c04eeea4ccd6c466d6134e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du lundi 19 octobre 2026
@@ -841,8 +843,6 @@ francetv://26abd605-d155-462f-99e1-2574ef31eaed
 francetv://b919ea65-42e5-4a87-8c4f-fdedde45f3b8
 #EXTINF:-1 tvg-id="francetv-2abd7eda-bb93-4cd4-86d3-5c315c4d3322" tvg-logo="https://medias.france.tv/-n-F7z8dy9MobYAttwyq7RZYZ4k/400x0/filters:quality(85)/3/b/7/305cd5a7af2f4d1a841b8889658497b3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Edition spéciale
 francetv://2abd7eda-bb93-4cd4-86d3-5c315c4d3322
-#EXTINF:-1 tvg-id="francetv-05a4413a-613b-4824-8446-0d6c6632797a" tvg-logo="https://medias.france.tv/jNHkd7ucBERXxkvw0kcMexNGjJk/400x0/filters:quality(85)/5/c/b/f35662540a7340f58c3012f7449aebc5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Edition spéciale
-francetv://05a4413a-613b-4824-8446-0d6c6632797a
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2881,12 +2881,14 @@ francetv://a6da3e8c-abc9-485e-bc0b-2cc95c7626f2
 francetv://9f5c8ba1-7e61-4388-ac11-3c5c1f0abe60
 #EXTINF:-1 tvg-id="francetv-0c94cad7-0c9a-4a34-bab2-8778daba95b7" tvg-logo="https://medias.france.tv/Ip0fx_HPT923YNGGWw6cIHNV9L4/400x0/filters:quality(85)/2/d/8/b464823d94be43be8a8f877b1ac178d2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Du cinéma feel good",Les belles années
 francetv://0c94cad7-0c9a-4a34-bab2-8778daba95b7
+#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Désigné coupable
+francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
+#EXTINF:-1 tvg-id="francetv-df45a7b8-4d53-449d-b536-2d29ee035752" tvg-logo="https://medias.france.tv/eLZlAKUowWhl9b2q4Z3-Uar21Mg/400x0/filters:quality(85)/k/m/g/php4rdgmk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",La fête est finie
+francetv://df45a7b8-4d53-449d-b536-2d29ee035752
 #EXTINF:-1 tvg-id="francetv-55e01a95-090c-4615-9b98-ba6275efe1bd" tvg-logo="https://medias.france.tv/ZwdaXXfd2A0drvtycVSwoRkTFZw/400x0/filters:quality(85)/q/h/r/phpxsgrhq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Bâtiment 5
 francetv://55e01a95-090c-4615-9b98-ba6275efe1bd
 #EXTINF:-1 tvg-id="francetv-2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6" tvg-logo="https://medias.france.tv/ID_posZ2N4i8EsPA_BoffV12zYo/400x0/filters:quality(85)/9/c/w/phprdowc9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Le ciel attendra
 francetv://2f14ccaa-76fd-4b03-9ef7-19e4fa2149f6
-#EXTINF:-1 tvg-id="francetv-191abb37-bbd5-4f81-ab2b-f7d7fcbf3833" tvg-logo="https://medias.france.tv/_U6oxxNXRgzaDAuN1f3pK9mhLcY/400x0/filters:quality(85)/c/u/r/php3xeruc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Désigné coupable
-francetv://191abb37-bbd5-4f81-ab2b-f7d7fcbf3833
 #EXTINF:-1 tvg-id="francetv-3791a0e5-414c-43fa-8f06-18970587298b" tvg-logo="https://medias.france.tv/hkT9TbJ886yXV8Aj20c56cVKKeg/400x0/filters:quality(85)/5/f/9/8b7cd73ed1da450baf1d36e6d5f519f5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Camille
 francetv://3791a0e5-414c-43fa-8f06-18970587298b
 #EXTINF:-1 tvg-id="francetv-acc5b3d2-776d-42da-b9fc-b5dcda449bac" tvg-logo="https://medias.france.tv/17yYiZka9VEH9L1Rfp29EzTsJjY/400x0/filters:quality(85)/e/9/0/6c95f0ae70f44c268c586ab0d952509e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Nebraska
@@ -2895,8 +2897,6 @@ francetv://acc5b3d2-776d-42da-b9fc-b5dcda449bac
 francetv://4608d857-a1ad-40fd-909c-64c15afb8265
 #EXTINF:-1 tvg-id="francetv-7f20477c-7a56-4203-8fc1-1cc5f3299f2c" tvg-logo="https://medias.france.tv/80bp4NWGEKm0JUm-4bAYHyU2zwk/400x0/filters:quality(85)/e/2/9/8411c3aee5ed4c73bf9a0b4f69f2692e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Rien à foutre
 francetv://7f20477c-7a56-4203-8fc1-1cc5f3299f2c
-#EXTINF:-1 tvg-id="francetv-df45a7b8-4d53-449d-b536-2d29ee035752" tvg-logo="https://medias.france.tv/eLZlAKUowWhl9b2q4Z3-Uar21Mg/400x0/filters:quality(85)/k/m/g/php4rdgmk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",La fête est finie
-francetv://df45a7b8-4d53-449d-b536-2d29ee035752
 #EXTINF:-1 tvg-id="francetv-aff69234-147a-4b1b-9603-cb4811c06a68" tvg-logo="https://medias.france.tv/2G7OyVovl6cjOtnyBzQnknzfbKA/400x0/filters:quality(85)/b/a/5/f60c23278bcf43d6aa501ca7718875ab.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",L'ordre des médecins
 francetv://aff69234-147a-4b1b-9603-cb4811c06a68
 #EXTINF:-1 tvg-id="francetv-ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b" tvg-logo="https://medias.france.tv/ubzIc7R0cWeuE9_CpKO-GKOfTlc/400x0/filters:quality(85)/w/f/i/phpkirifw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Chez nous
@@ -3055,12 +3055,8 @@ francetv://d5c7ebbe-005b-4624-9e94-28b598ef7423
 francetv://8ce9bcb7-38b5-49f0-b411-75994520f806
 #EXTINF:-1 tvg-id="francetv-27348133-2cc5-41cd-baff-6cb04178e272" tvg-logo="https://medias.france.tv/CnphfQsX5P4dOw4Z5KZMh3qsrkU/400x0/filters:quality(85)/7/7/4/8d9e414026c94a4a8c301ef3b3b5c477.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Police Python 357
 francetv://27348133-2cc5-41cd-baff-6cb04178e272
-#EXTINF:-1 tvg-id="francetv-b1b80d31-725f-48b6-ac8d-a7289820af53" tvg-logo="https://medias.france.tv/6tFQi3feGsymOtdEF9G_NCC_Jxg/400x0/filters:quality(85)/3/2/4/b90a00b6830947758beb0961b90df423.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Futures vedettes
-francetv://b1b80d31-725f-48b6-ac8d-a7289820af53
 #EXTINF:-1 tvg-id="francetv-c5f5b3d4-62db-40fa-95b5-8db246ac2be8" tvg-logo="https://medias.france.tv/699UNTlDJr_a6rq1S6ouyt9-NOw/400x0/filters:quality(85)/f/d/7/ccc5d4aecd354ec8985c02e7941827df.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Les ennemis
 francetv://c5f5b3d4-62db-40fa-95b5-8db246ac2be8
-#EXTINF:-1 tvg-id="francetv-d5f94803-3d5e-4e39-9a1f-a0723194ab52" tvg-logo="https://medias.france.tv/ArGuvPLIXrRzOurc-ylQVPYVSj4/400x0/filters:quality(85)/d/e/7/c0a64e0262e64fb9be8e8b24ed0757ed.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Mauvaise graine
-francetv://d5f94803-3d5e-4e39-9a1f-a0723194ab52
 #EXTINF:-1 tvg-id="francetv-prog-france-2_histoires-courtes" tvg-logo="https://medias.france.tv/GzhpWBZc8acg1ZPzlfys9sRkv8k/400x0/filters:quality(85)/v/b/d/php7a8dbv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Courts métrages",Histoires courtes
 francetv://program/france-2_histoires-courtes
 #EXTINF:-1 tvg-id="francetv-prog-france-3_libre-court" tvg-logo="https://medias.france.tv/hG4F2hQL6LyTrENekn5uqLFNalQ/400x0/filters:quality(85)/o/a/t/phpcmctao.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Courts métrages",Libre court
@@ -3153,6 +3149,38 @@ francetv://9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6
 francetv://program/slash_je-vais-bien-vivre-avec-la-bipolarite
 #EXTINF:-1 tvg-id="francetv-07ce8537-f0c5-49e1-8995-3b160e453e78" tvg-logo="https://medias.france.tv/216Q4OCd-j8q39eRv-PcGUPW7do/400x0/filters:quality(85)/0/1/c/b7299ac3888d4314a584617427a13c10.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La relève, une année pour devenir prof
 francetv://07ce8537-f0c5-49e1-8995-3b160e453e78
+#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Harceleurs
+francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
+#EXTINF:-1 tvg-id="francetv-c642c957-5db0-4f0e-9154-14e32d4ed385" tvg-logo="https://medias.france.tv/kDpJeWkO39x9nCgAy8Wr6aNkgvQ/400x0/filters:quality(85)/m/p/o/phpufjopm.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Forum jeunes — Harcèlement scolaire et cyber harcèlement
+francetv://c642c957-5db0-4f0e-9154-14e32d4ed385
+#EXTINF:-1 tvg-id="francetv-9498f32e-2b3f-4d93-a215-a5a938bbffd6" tvg-logo="https://medias.france.tv/yf5SSIzpZYrbDagelKVphlOoxWg/400x0/filters:quality(85)/x/m/q/phpblhqmx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Rendez-vous avec la psy — À partir de quand on parle de harcèlement ?
+francetv://9498f32e-2b3f-4d93-a215-a5a938bbffd6
+#EXTINF:-1 tvg-id="francetv-999a2ab3-2fe3-4aff-95a4-ba94a3912f4a" tvg-logo="https://medias.france.tv/tSNKdmnSsBX39XPYyDNtE5ej7pc/400x0/filters:quality(85)/4/c/3/66ca7519fff94447bbfa59bae7d613c4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Psycho — Moi et le harcèlement
+francetv://999a2ab3-2fe3-4aff-95a4-ba94a3912f4a
+#EXTINF:-1 tvg-id="francetv-cda2dc85-d1b4-441e-a206-7dcceaf61ed8" tvg-logo="https://medias.france.tv/I_7PQbi-isUhubSHOnFhnI3tR_0/400x0/filters:quality(85)/6/c/y/phpaphyc6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Un monde en doc — Face au fléau du harcèlement scolaire : comment agir à court et long terme ?
+francetv://cda2dc85-d1b4-441e-a206-7dcceaf61ed8
+#EXTINF:-1 tvg-id="francetv-649310e7-5bd8-4f0d-b418-314166436a90" tvg-logo="https://medias.france.tv/CQEGhUrh17Eap-b8DZQjXawmQ-0/400x0/filters:quality(85)/h/9/k/phpghck9h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Que sont-ils devenus ? — On a retrouvé Sarah, harcelée à l'école en 1989
+francetv://649310e7-5bd8-4f0d-b418-314166436a90
+#EXTINF:-1 tvg-id="francetv-6a93f648-e20d-4a36-92a6-7f41329cd02f" tvg-logo="https://medias.france.tv/6H50GtAuBLIWjgXf6qq9kBlk4P4/400x0/filters:quality(85)/1/0/6/a587f8c1f41f430db646c1f1186fc601.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Tu dis, tu stoppes ! — Le cyberharcèlement
+francetv://6a93f648-e20d-4a36-92a6-7f41329cd02f
+#EXTINF:-1 tvg-id="francetv-0c088c98-4d31-4d2a-8fc6-b91885b682be" tvg-logo="https://medias.france.tv/GLRQTVBVOcus4YX9s0QYFCvEpPw/400x0/filters:quality(85)/x/t/k/phpfcxktx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La France en vrai - Bourgogne Franche Comté — Braver l'ombre, nos vies après le harcèlement
+francetv://0c088c98-4d31-4d2a-8fc6-b91885b682be
+#EXTINF:-1 tvg-id="francetv-e2fb3a50-b81e-45d5-92a4-0d3fbe5b35ba" tvg-logo="https://medias.france.tv/OfaVWH1TS2Mcm4aUczoalFm9Q9A/400x0/filters:quality(85)/q/5/f/phpfkaf5q.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Ça commence aujourd'hui — L'enfer du harcèlement scolaire
+francetv://e2fb3a50-b81e-45d5-92a4-0d3fbe5b35ba
+#EXTINF:-1 tvg-id="francetv-e7ef2584-92d2-4b26-a703-248ea5cd4c5a" tvg-logo="https://medias.france.tv/RL-GT86gHDKTjf6efPjPIDs3AsA/400x0/filters:quality(85)/4/m/l/phphpolm4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",C pas si loin — Harcèlement à l'école : écouter et protéger
+francetv://e7ef2584-92d2-4b26-a703-248ea5cd4c5a
+#EXTINF:-1 tvg-id="francetv-a294eeea-cccd-4092-b9d5-fe64d6969036" tvg-logo="https://medias.france.tv/bC9jryGpgwHhqt6XjzGGZCHv9lc/400x0/filters:quality(85)/5/e/4/a566d345f83b4841b4809acd3da396ae5610424f52ca5fe7cf17be3ecab544e5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",T'es au TOP — Zakary, 9 ans : je bégaie… on se moque de moi
+francetv://a294eeea-cccd-4092-b9d5-fe64d6969036
+#EXTINF:-1 tvg-id="francetv-3dd1530c-9076-481a-89e5-8419314bf3ca" tvg-logo="https://medias.france.tv/yRwF0IfRQgcCogDYCWdj8UXv4Y8/400x0/filters:quality(85)/1/e/2/phpmwq2e1.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Mission info — Comment faire face au harcèlement scolaire ?
+francetv://3dd1530c-9076-481a-89e5-8419314bf3ca
+#EXTINF:-1 tvg-id="francetv-c75cd416-776f-44a4-b36b-4b334e8e1974" tvg-logo="https://medias.france.tv/ajizCvOtz1ZIo2BLyICNXOapzEw/400x0/filters:quality(85)/2/3/b/55ca5f0fed434093b890126558fbeb32.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Psychotuto — Face au harcèlement je fais comment ?
+francetv://c75cd416-776f-44a4-b36b-4b334e8e1974
+#EXTINF:-1 tvg-id="francetv-293695c8-9b5b-11ef-9db8-57a09c50f7ce" tvg-logo="https://medias.france.tv/2HIc9JwAn0F1lMmFuX2Dq555Zws/400x0/filters:quality(85)/c/2/9/45076ec0e2f845b384de3cf68048658c90b80d4f420185820262b441eedc192c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Journal 20h00 — Suicides d'adolescentes : des familles accusent le réseau Tiktok
+francetv://293695c8-9b5b-11ef-9db8-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-b6547096-2045-11eb-807f-000d3a2437a2" tvg-logo="https://medias.france.tv/-IAq_bQ1uPaxekEaT7qLoN3_yXg/400x0/filters:quality(85)/f/c/7/656864ca586f6afc189d25e3cf857cf48ed910c4dd7cf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La maison des Maternelles — Harcèlement scolaire : quels signes doivent alerter ?
+francetv://b6547096-2045-11eb-807f-000d3a2437a2
+#EXTINF:-1 tvg-id="francetv-6a782484-4870-11ec-a994-000d3a2427ab" tvg-logo="https://medias.france.tv/UbytH78PCGwXYjAGNman9t14ong/400x0/filters:quality(85)/2/8/e/656870cb93211b5c3974998087ccaf9db7aaa06386e82.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La maison des Maternelles — Harcèlement scolaire : comment en sortir ?
+francetv://6a782484-4870-11ec-a994-000d3a2427ab
 #EXTINF:-1 tvg-id="francetv-89afe66e-65aa-11f1-ae28-57a09c50f7ce" tvg-logo="https://medias.france.tv/cDVmBpdQfBnYmDSHdeHpnx2tIog/400x0/filters:quality(85)/1/8/4/68a02bc5beea4e8f87eb06332afbd481.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Loi intégrale : lutte contre les violences sexistes et sexuelles",Envoyé spécial — Comment protéger la parole des enfants ?
 francetv://89afe66e-65aa-11f1-ae28-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-569e1687-d167-4b2d-9564-b556d77e85ad" tvg-logo="https://medias.france.tv/0SWt_xbM8n_rME8ns8l1Br0J8bE/400x0/filters:quality(85)/q/c/7/php39q7cq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Loi intégrale : lutte contre les violences sexistes et sexuelles",Soumission chimique : pour que la honte change de camp
