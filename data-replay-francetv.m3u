@@ -203,7 +203,7 @@ francetv://program/france-3_bourgogne-franche-comte_en-terre-animale
 francetv://program/france-3_outremer-l-info
 #EXTINF:-1 tvg-id="francetv-prog-france-3_outremer-story" tvg-logo="https://medias.france.tv/S4E6yiwqGGhACRvFyHrrRI_YNek/400x0/filters:quality(85)/h/w/i/phpsuciwh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",outremer.story
 francetv://program/france-3_outremer-story
-#EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/1X8E13Kl32Ifw7EkYmXi62CavqM/400x0/filters:quality(85)/s/k/h/phpoa0hks.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil
+#EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/gCOS0byT6Vw6Rk-I6cHkyMTlbhA/400x0/filters:quality(85)/z/w/j/phpsvpjwz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-2150c278-537a-49b0-8f44-174bf63db03f" tvg-logo="https://medias.france.tv/2cB42Hz3BzIQMLLAZd9MES-EvLI/400x0/filters:quality(85)/5/l/0/phpsoi0l5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 16 octobre 2026
 francetv://2150c278-537a-49b0-8f44-174bf63db03f
@@ -805,6 +805,8 @@ francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 francetv://07240417-4994-4398-af6b-660126b1fa66
 #EXTINF:-1 tvg-id="francetv-80744f6f-3179-493a-b60f-a22d79b912c6" tvg-logo="https://medias.france.tv/kcEiEPugu8am1vm5wXJW00hGsts/400x0/filters:quality(85)/a/f/7/76f7c0827cbd46bdb1bfb2198911a7fa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://80744f6f-3179-493a-b60f-a22d79b912c6
+#EXTINF:-1 tvg-id="francetv-2cc01554-63cb-487b-8fed-1010e0824a6a" tvg-logo="https://medias.france.tv/D7sDQ1na76B0nKFnMuUpqcKyt-U/400x0/filters:quality(85)/e/4/3/35e5bc26e7c04eeea4ccd6c466d6134e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo — Émission du lundi 19 octobre 2026
+francetv://2cc01554-63cb-487b-8fed-1010e0824a6a
 #EXTINF:-1 tvg-id="francetv-48565e8c-9a55-44bf-8659-89f9da0b346f" tvg-logo="https://medias.france.tv/21lS0EFy0WZNQ3jh6ij9xICdsWE/400x0/filters:quality(85)/4/3/a/86577fec793147a888d90f02e493ea34.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
 francetv://48565e8c-9a55-44bf-8659-89f9da0b346f
 #EXTINF:-1 tvg-id="francetv-81e1fd11-b8df-43c8-9b06-91d180dc8c5b" tvg-logo="https://medias.france.tv/IS_FALEFwUrWy-FqStf6_b3pOpo/400x0/filters:quality(85)/8/b/2/b2272c50fff6487ca33927d10ac5c2b8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Edition spéciale
@@ -841,8 +843,6 @@ francetv://b919ea65-42e5-4a87-8c4f-fdedde45f3b8
 francetv://2abd7eda-bb93-4cd4-86d3-5c315c4d3322
 #EXTINF:-1 tvg-id="francetv-05a4413a-613b-4824-8446-0d6c6632797a" tvg-logo="https://medias.france.tv/jNHkd7ucBERXxkvw0kcMexNGjJk/400x0/filters:quality(85)/5/c/b/f35662540a7340f58c3012f7449aebc5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Edition spéciale
 francetv://05a4413a-613b-4824-8446-0d6c6632797a
-#EXTINF:-1 tvg-id="francetv-03fae3f3-24ec-4534-92fb-d217299c099e" tvg-logo="https://medias.france.tv/cJYmZiGJ7QRAVGaAroZIyt4o5ag/400x0/filters:quality(85)/4/d/2/babf237076994aa18822f800a76032d4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info — Edition spéciale
-francetv://03fae3f3-24ec-4534-92fb-d217299c099e
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -1369,7 +1369,7 @@ francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
 francetv://program/arte_portobello
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Un soupçon
 francetv://program/france-2_un-soupcon
-#EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/1X8E13Kl32Ifw7EkYmXi62CavqM/400x0/filters:quality(85)/s/k/h/phpoa0hks.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
+#EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/gCOS0byT6Vw6Rk-I6cHkyMTlbhA/400x0/filters:quality(85)/z/w/j/phpsvpjwz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-2150c278-537a-49b0-8f44-174bf63db03f" tvg-logo="https://medias.france.tv/2cB42Hz3BzIQMLLAZd9MES-EvLI/400x0/filters:quality(85)/5/l/0/phpsoi0l5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 16 octobre 2026
 francetv://2150c278-537a-49b0-8f44-174bf63db03f
@@ -2609,7 +2609,7 @@ francetv://program/france-2_13h15-le-dimanche
 francetv://53081b29-77a5-4a18-af04-bb262c581e2e
 #EXTINF:-1 tvg-id="francetv-66bfdcef-e14d-4cb0-8199-ca4f0a1c1524" tvg-logo="https://medias.france.tv/XYc0aS6_y5m5ntujIsL66cqYZ_8/400x0/filters:quality(85)/t/x/v/phpwpdvxt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Compétition officielle
 francetv://66bfdcef-e14d-4cb0-8199-ca4f0a1c1524
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shaun le mouton — Shaun le film
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shaun le film
 francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-2f99ce08-806f-4df4-b6d2-288f4c06ae21" tvg-logo="https://medias.france.tv/Ic5umvKJ6GBP3MFAJYwcu39WyLI/400x0/filters:quality(85)/8/5/8/75c70a8069774fcda0d890e2f1db87241875b22674adff2d3391effa4bcf8858.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Family Business
 francetv://2f99ce08-806f-4df4-b6d2-288f4c06ae21
@@ -2635,37 +2635,41 @@ francetv://394f960e-b68d-48d7-be19-993c976c0e50
 francetv://7d5d7c96-c341-4add-8931-491b00d38344
 #EXTINF:-1 tvg-id="francetv-5764d14f-de57-4d4a-b2c9-5e184758c9d7" tvg-logo="https://medias.france.tv/amia2NS0baN2hAktF0NjzCr6y_w/400x0/filters:quality(85)/g/y/h/phpickhyg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Chamboultout
 francetv://5764d14f-de57-4d4a-b2c9-5e184758c9d7
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
-#EXTINF:-1 tvg-id="francetv-0489a7ef-9560-46dd-918c-d97f7657827e" tvg-logo="https://medias.france.tv/UcEbG4lBI1uqPAwOvI-w2Wa9BX0/400x0/filters:quality(85)/6/8/b/phpmieb86.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Les malheurs de Sophie
+#EXTINF:-1 tvg-id="francetv-0489a7ef-9560-46dd-918c-d97f7657827e" tvg-logo="https://medias.france.tv/UcEbG4lBI1uqPAwOvI-w2Wa9BX0/400x0/filters:quality(85)/6/8/b/phpmieb86.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Les malheurs de Sophie
 francetv://0489a7ef-9560-46dd-918c-d97f7657827e
-#EXTINF:-1 tvg-id="francetv-09ab5d0e-1221-44f2-8896-0389b3e88266" tvg-logo="https://medias.france.tv/5QoIBqr1Zk_ILlhkmqaLaxvnB_o/400x0/filters:quality(85)/c/4/3/c81dca38b4ce4d9b86ba1d8bcc8e434c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",La reine soleil
+#EXTINF:-1 tvg-id="francetv-09ab5d0e-1221-44f2-8896-0389b3e88266" tvg-logo="https://medias.france.tv/5QoIBqr1Zk_ILlhkmqaLaxvnB_o/400x0/filters:quality(85)/c/4/3/c81dca38b4ce4d9b86ba1d8bcc8e434c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",La reine soleil
 francetv://09ab5d0e-1221-44f2-8896-0389b3e88266
-#EXTINF:-1 tvg-id="francetv-9124820f-a61c-44e7-a99e-5a60e59453df" tvg-logo="https://medias.france.tv/bbop0KsOUiOY1SmE_CCqXVamVDg/400x0/filters:quality(85)/l/2/g/phpumng2l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",L'Extraordinaire voyage de Marona
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Shaun le film
+francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
+#EXTINF:-1 tvg-id="francetv-9124820f-a61c-44e7-a99e-5a60e59453df" tvg-logo="https://medias.france.tv/bbop0KsOUiOY1SmE_CCqXVamVDg/400x0/filters:quality(85)/l/2/g/phpumng2l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",L'Extraordinaire voyage de Marona
 francetv://9124820f-a61c-44e7-a99e-5a60e59453df
-#EXTINF:-1 tvg-id="francetv-d2594d60-b734-4ac8-98c3-3527aba6e8e1" tvg-logo="https://medias.france.tv/nHCHAPuF4R2tlCEWAK2_sWaBtn8/400x0/filters:quality(85)/1/3/3/4e2b2c81bb644fa88820e5c772d0e331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Tout en haut du monde
+#EXTINF:-1 tvg-id="francetv-d2594d60-b734-4ac8-98c3-3527aba6e8e1" tvg-logo="https://medias.france.tv/nHCHAPuF4R2tlCEWAK2_sWaBtn8/400x0/filters:quality(85)/1/3/3/4e2b2c81bb644fa88820e5c772d0e331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Tout en haut du monde
 francetv://d2594d60-b734-4ac8-98c3-3527aba6e8e1
-#EXTINF:-1 tvg-id="francetv-e905dc5b-9eb3-448e-b08a-5eac58bdb66b" tvg-logo="https://medias.france.tv/oe213f5ewxtNVto_LipV0JShIOg/400x0/filters:quality(85)/3/6/3/7bd1d358b95747d7851e1b20794b9363.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Stardust, le mystère de l'étoile
+#EXTINF:-1 tvg-id="francetv-9f5c8ba1-7e61-4388-ac11-3c5c1f0abe60" tvg-logo="https://medias.france.tv/nAeCTx-gcCcdTZhAzt4gROBAG9M/400x0/filters:quality(85)/f/3/8/a254be00780847529e432ada6b79183f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Timgad
+francetv://9f5c8ba1-7e61-4388-ac11-3c5c1f0abe60
+#EXTINF:-1 tvg-id="francetv-e905dc5b-9eb3-448e-b08a-5eac58bdb66b" tvg-logo="https://medias.france.tv/oe213f5ewxtNVto_LipV0JShIOg/400x0/filters:quality(85)/3/6/3/7bd1d358b95747d7851e1b20794b9363.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Stardust, le mystère de l'étoile
 francetv://e905dc5b-9eb3-448e-b08a-5eac58bdb66b
-#EXTINF:-1 tvg-id="francetv-2063e76e-84cb-404b-8fcb-b560517760dc" tvg-logo="https://medias.france.tv/KSE3P0kJQFkjcKk3ElCvIxYUBL0/400x0/filters:quality(85)/u/m/b/phpytqbmu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Les astres immobiles
+#EXTINF:-1 tvg-id="francetv-7d5d7c96-c341-4add-8931-491b00d38344" tvg-logo="https://medias.france.tv/8Tp4gr91JuHUrQ_yRzikjBT2GtY/400x0/filters:quality(85)/1/i/y/phpamdyi1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Bis repetita
+francetv://7d5d7c96-c341-4add-8931-491b00d38344
+#EXTINF:-1 tvg-id="francetv-2063e76e-84cb-404b-8fcb-b560517760dc" tvg-logo="https://medias.france.tv/KSE3P0kJQFkjcKk3ElCvIxYUBL0/400x0/filters:quality(85)/u/m/b/phpytqbmu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Les astres immobiles
 francetv://2063e76e-84cb-404b-8fcb-b560517760dc
-#EXTINF:-1 tvg-id="francetv-14d7cf47-dab9-49e9-b664-2ab202cfcf4a" tvg-logo="https://medias.france.tv/BXIg2ejAqR437VBwdgrb722eWO4/400x0/filters:quality(85)/e/c/m/phpsgrmce.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Les as de la jungle - le film — Les as de la jungle : Opération banquise
+#EXTINF:-1 tvg-id="francetv-14d7cf47-dab9-49e9-b664-2ab202cfcf4a" tvg-logo="https://medias.france.tv/BXIg2ejAqR437VBwdgrb722eWO4/400x0/filters:quality(85)/e/c/m/phpsgrmce.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Les as de la jungle - le film — Les as de la jungle : Opération banquise
 francetv://14d7cf47-dab9-49e9-b664-2ab202cfcf4a
-#EXTINF:-1 tvg-id="francetv-00b2d350-d71c-4f8c-b3a7-f936cea8b0a5" tvg-logo="https://medias.france.tv/JVO3wEqu8MoA8lYCtXzM287bQM0/400x0/filters:quality(85)/x/j/x/phpojuxjx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Les as de la jungle rencontrent la Chouette & Cie — Les as de la jungle : Drôle d'oiseau
+#EXTINF:-1 tvg-id="francetv-00b2d350-d71c-4f8c-b3a7-f936cea8b0a5" tvg-logo="https://medias.france.tv/JVO3wEqu8MoA8lYCtXzM287bQM0/400x0/filters:quality(85)/x/j/x/phpojuxjx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Les as de la jungle rencontrent la Chouette & Cie — Les as de la jungle : Drôle d'oiseau
 francetv://00b2d350-d71c-4f8c-b3a7-f936cea8b0a5
-#EXTINF:-1 tvg-id="francetv-6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78" tvg-logo="https://medias.france.tv/_x9Yxeu6PTWjrPrp-1F-9fXCflc/400x0/filters:quality(85)/9/n/m/php6xdmn9.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Shaun le mouton : les lamas du fermier — Les lamas du fermier
+#EXTINF:-1 tvg-id="francetv-6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78" tvg-logo="https://medias.france.tv/_x9Yxeu6PTWjrPrp-1F-9fXCflc/400x0/filters:quality(85)/9/n/m/php6xdmn9.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Shaun le mouton : les lamas du fermier — Les lamas du fermier
 francetv://6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78
-#EXTINF:-1 tvg-id="francetv-c966ba34-8798-4cfb-b690-a675c48a3201" tvg-logo="https://medias.france.tv/jaCYZB2I02zqkBi5Mvu_0zqD7Ps/400x0/filters:quality(85)/9/2/f/7a5bfb98478046009066be0eac8e6f29.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Le tigre qui s’invita pour le thé — Le tigre qui s'invita pour le thé
+#EXTINF:-1 tvg-id="francetv-c966ba34-8798-4cfb-b690-a675c48a3201" tvg-logo="https://medias.france.tv/jaCYZB2I02zqkBi5Mvu_0zqD7Ps/400x0/filters:quality(85)/9/2/f/7a5bfb98478046009066be0eac8e6f29.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Le tigre qui s’invita pour le thé — Le tigre qui s'invita pour le thé
 francetv://c966ba34-8798-4cfb-b690-a675c48a3201
-#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Organisation super insolite — Le film
+#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Organisation super insolite — Le film
 francetv://83fdbcd9-4d2c-42d7-87a6-f223abc193b0
-#EXTINF:-1 tvg-id="francetv-e60432e2-57ce-48de-9a72-3d305ad907f4" tvg-logo="https://medias.france.tv/XKroTRdCKIh8deowQV1bRXmpiL8/400x0/filters:quality(85)/h/z/9/phpk5h9zh.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Drôles d'oiseaux
+#EXTINF:-1 tvg-id="francetv-e60432e2-57ce-48de-9a72-3d305ad907f4" tvg-logo="https://medias.france.tv/XKroTRdCKIh8deowQV1bRXmpiL8/400x0/filters:quality(85)/h/z/9/phpk5h9zh.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Drôles d'oiseaux
 francetv://e60432e2-57ce-48de-9a72-3d305ad907f4
-#EXTINF:-1 tvg-id="francetv-4a572594-69a7-4864-8e98-64f16a0bcd4d" tvg-logo="https://medias.france.tv/-FPwOlUFvglzbWeBhfQjp_MyqQQ/400x0/filters:quality(85)/r/w/q/phpaflqwr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Akissi
+#EXTINF:-1 tvg-id="francetv-4a572594-69a7-4864-8e98-64f16a0bcd4d" tvg-logo="https://medias.france.tv/-FPwOlUFvglzbWeBhfQjp_MyqQQ/400x0/filters:quality(85)/r/w/q/phpaflqwr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Akissi
 francetv://4a572594-69a7-4864-8e98-64f16a0bcd4d
-#EXTINF:-1 tvg-id="francetv-f17e8188-ecf9-47d3-8d7e-fd11956398ec" tvg-logo="https://medias.france.tv/4_3jNPWhIONqiX4AVyxYkn3KbXQ/400x0/filters:quality(85)/9/v/h/phpusyhv9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Moules-Frites
+#EXTINF:-1 tvg-id="francetv-f17e8188-ecf9-47d3-8d7e-fd11956398ec" tvg-logo="https://medias.france.tv/4_3jNPWhIONqiX4AVyxYkn3KbXQ/400x0/filters:quality(85)/9/v/h/phpusyhv9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Moules-Frites
 francetv://f17e8188-ecf9-47d3-8d7e-fd11956398ec
-#EXTINF:-1 tvg-id="francetv-4fd86005-364f-480f-9e43-a91444ea3424" tvg-logo="https://medias.france.tv/35veS9nBZNLUh0zj_rC4y0FtNhM/400x0/filters:quality(85)/8/f/9/6d4bc4730a5445bf8d7dfa2983e729f8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films des vacances",Wallace et Gromit : Rasé de près
+#EXTINF:-1 tvg-id="francetv-4fd86005-364f-480f-9e43-a91444ea3424" tvg-logo="https://medias.france.tv/35veS9nBZNLUh0zj_rC4y0FtNhM/400x0/filters:quality(85)/8/f/9/6d4bc4730a5445bf8d7dfa2983e729f8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Wallace et Gromit : Rasé de près
 francetv://4fd86005-364f-480f-9e43-a91444ea3424
 #EXTINF:-1 tvg-id="francetv-ebdc014a-1960-4756-b8bc-c18e7750e0c8" tvg-logo="https://medias.france.tv/ErB8aIglL4Bz9mSornrDUFExr50/400x0/filters:quality(85)/5/y/q/phprupqy5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Le mystère Henri Pick
 francetv://ebdc014a-1960-4756-b8bc-c18e7750e0c8
@@ -2959,7 +2963,7 @@ francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 francetv://2ed8505c-8dd2-4cbb-a486-6313c66fb844
 #EXTINF:-1 tvg-id="francetv-00f6481b-ced1-4b13-95b7-96fd2485c875" tvg-logo="https://medias.france.tv/imEs5I2cUAeoAzrLCwkIi5G7T0Q/400x0/filters:quality(85)/d/8/6/fc5a9560e8944df29e93e5f17354d68d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cœur sur ces films",Les amants de Brasmort
 francetv://00f6481b-ced1-4b13-95b7-96fd2485c875
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",Shaun le mouton — Shaun le film
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",Shaun le film
 francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-9124820f-a61c-44e7-a99e-5a60e59453df" tvg-logo="https://medias.france.tv/bbop0KsOUiOY1SmE_CCqXVamVDg/400x0/filters:quality(85)/l/2/g/phpumng2l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",L'Extraordinaire voyage de Marona
 francetv://9124820f-a61c-44e7-a99e-5a60e59453df
@@ -4991,7 +4995,7 @@ francetv://program/enfants_neuf-douze-ans_les-chroniques-de-la-peur
 francetv://4e53fd5c-f888-425b-bdbf-66f2d491c290
 #EXTINF:-1 tvg-id="francetv-prog-france-4_mission-info" tvg-logo="https://medias.france.tv/g50CYL4raEOl1sVlBGV8eGOkb9I/400x0/filters:quality(85)/5/m/y/phpcasym5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Mission info
 francetv://program/france-4_mission-info
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Shaun le mouton — Shaun le film
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Shaun le film
 francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_pompon-ours" tvg-logo="https://medias.france.tv/U9gpJKBUo4WwCmf9rIfdkHbWjLE/400x0/filters:quality(85)/h/7/9/phpagy97h.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Pompon Ours
 francetv://program/enfants_trois-cinq-ans_pompon-ours
@@ -5355,7 +5359,7 @@ francetv://program/france-3_wakfu
 francetv://program/enfants_neuf-douze-ans_star-trek-prodigy
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_ivandoe" tvg-logo="https://medias.france.tv/LAVQZEnlyudToQ9rQCh2xpIEyzA/400x0/filters:quality(85)/4/5/q/phprqiq54.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Ivandoe
 francetv://program/enfants_neuf-douze-ans_ivandoe
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton — Shaun le film
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le film
 francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-0489a7ef-9560-46dd-918c-d97f7657827e" tvg-logo="https://medias.france.tv/UcEbG4lBI1uqPAwOvI-w2Wa9BX0/400x0/filters:quality(85)/6/8/b/phpmieb86.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Les malheurs de Sophie
 francetv://0489a7ef-9560-46dd-918c-d97f7657827e
