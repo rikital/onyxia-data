@@ -18775,6 +18775,8 @@ m6play://gulli/21382
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-a4408021-5824-4b1b-bb96-a442396379fb" tvg-logo="https://medias.france.tv/6ihIugykJT-rXpCeL3y6vF9qTZU/400x0/filters:quality(85)/l/h/t/php8uuthl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le Grand Échiquier — Spéciale Céline Dion
+francetv://a4408021-5824-4b1b-bb96-a442396379fb
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La terre et le sang
 francetv://program/france-2_la-terre-et-le-sang
 #EXTINF:-1 tvg-id="francetv-29109a12-d679-47ef-a6df-5cfb82176fdd" tvg-logo="https://medias.france.tv/2JftwfzT1Mknu199UgwK_OTEuZU/400x0/filters:quality(85)/e/5/5/deb84bc2dc334af69b45ca2f1043255e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",100 % logique : la réponse est sous vos yeux — Émission du samedi 17 octobre 2026
@@ -18977,8 +18979,8 @@ francetv://program/france-3_outremer-story
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-88db57d0-7a38-4e22-8b65-f2f2f339b7d4" tvg-logo="https://medias.france.tv/VcidvvimuX4YLSHIU04k5CjOAgA/400x0/filters:quality(85)/y/y/7/php2nh7yy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 19 octobre 2026
 francetv://88db57d0-7a38-4e22-8b65-f2f2f339b7d4
-#EXTINF:-1 tvg-id="francetv-efceaedc-0aa8-48a0-824e-dea71220b303" tvg-logo="https://medias.france.tv/4l99HxZ89xGod2zg1hF-9D6jpPc/400x0/filters:quality(85)/s/d/q/php6neqds.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 20 octobre 2026
-francetv://efceaedc-0aa8-48a0-824e-dea71220b303
+#EXTINF:-1 tvg-id="francetv-a264ae6e-0663-47c0-950f-9047e5e0a95f" tvg-logo="https://medias.france.tv/4l99HxZ89xGod2zg1hF-9D6jpPc/400x0/filters:quality(85)/s/d/q/php6neqds.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 20 octobre 2026
+francetv://a264ae6e-0663-47c0-950f-9047e5e0a95f
 #EXTINF:-1 tvg-id="francetv-b3853b85-f6aa-4189-b577-44ba0a6fca56" tvg-logo="https://medias.france.tv/gcOahElcBPTF5MburKxWC-zAZdQ/400x0/filters:quality(85)/k/f/t/phppp2tfk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 21 octobre 2026
 francetv://b3853b85-f6aa-4189-b577-44ba0a6fca56
 #EXTINF:-1 tvg-id="francetv-337a8853-f515-473f-aa18-815af99241df" tvg-logo="https://medias.france.tv/_nuVm1s4thakwtj8M38NRzyii9c/400x0/filters:quality(85)/q/n/7/php4qx7nq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 22 octobre 2026
@@ -20159,8 +20161,8 @@ francetv://a919c8ba-0ad3-45bd-97e4-27e4b7fd45c2
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-88db57d0-7a38-4e22-8b65-f2f2f339b7d4" tvg-logo="https://medias.france.tv/VcidvvimuX4YLSHIU04k5CjOAgA/400x0/filters:quality(85)/y/y/7/php2nh7yy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 19 octobre 2026
 francetv://88db57d0-7a38-4e22-8b65-f2f2f339b7d4
-#EXTINF:-1 tvg-id="francetv-efceaedc-0aa8-48a0-824e-dea71220b303" tvg-logo="https://medias.france.tv/4l99HxZ89xGod2zg1hF-9D6jpPc/400x0/filters:quality(85)/s/d/q/php6neqds.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 20 octobre 2026
-francetv://efceaedc-0aa8-48a0-824e-dea71220b303
+#EXTINF:-1 tvg-id="francetv-a264ae6e-0663-47c0-950f-9047e5e0a95f" tvg-logo="https://medias.france.tv/4l99HxZ89xGod2zg1hF-9D6jpPc/400x0/filters:quality(85)/s/d/q/php6neqds.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 20 octobre 2026
+francetv://a264ae6e-0663-47c0-950f-9047e5e0a95f
 #EXTINF:-1 tvg-id="francetv-b3853b85-f6aa-4189-b577-44ba0a6fca56" tvg-logo="https://medias.france.tv/gcOahElcBPTF5MburKxWC-zAZdQ/400x0/filters:quality(85)/k/f/t/phppp2tfk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 21 octobre 2026
 francetv://b3853b85-f6aa-4189-b577-44ba0a6fca56
 #EXTINF:-1 tvg-id="francetv-337a8853-f515-473f-aa18-815af99241df" tvg-logo="https://medias.france.tv/_nuVm1s4thakwtj8M38NRzyii9c/400x0/filters:quality(85)/q/n/7/php4qx7nq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 22 octobre 2026
@@ -21677,8 +21679,6 @@ francetv://d0ce0a2a-8364-4b1f-a720-76dae09b83e3
 francetv://bcd2512d-cc9d-4986-b942-da1f96fc5a97
 #EXTINF:-1 tvg-id="francetv-4c02ad84-188f-47ae-934c-a67bd8ebf898" tvg-logo="https://medias.france.tv/XRjOh9brRZfU8YmjGCjJXAuTpjU/400x0/filters:quality(85)/5/c/c/3572e8022b5e43a882d879fc770a3cc5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Au plus près du paradis
 francetv://4c02ad84-188f-47ae-934c-a67bd8ebf898
-#EXTINF:-1 tvg-id="francetv-2be72dbb-eeaa-4069-86b0-e87f48e2a881" tvg-logo="https://medias.france.tv/a7S5Aj9jha4YVLlec2CkdGoqzHw/400x0/filters:quality(85)/n/t/u/phpnwcutn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Trilogie Le Parrain — Le parrain II
-francetv://2be72dbb-eeaa-4069-86b0-e87f48e2a881
 #EXTINF:-1 tvg-id="francetv-556c4142-7116-4f43-b768-0230b48e60bd" tvg-logo="https://medias.france.tv/6fQBd8kcsp5h8MSxCOt4gKDacJo/400x0/filters:quality(85)/2/a/1/3291aa0abd3c4e91a1e81907f93041a2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Un duplex pour trois
 francetv://556c4142-7116-4f43-b768-0230b48e60bd
 #EXTINF:-1 tvg-id="francetv-377d8cfc-35f7-4f51-b195-5661d5174531" tvg-logo="https://medias.france.tv/ibcOcKizYvpSxt_shAUNywO2dlA/400x0/filters:quality(85)/b/d/1/2cc757f67ed14fbaa4b0097845fa31db.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Gaza mon amour
@@ -24087,8 +24087,8 @@ francetv://11fea931-0f85-4a73-a0f3-dcf3e3de72f0
 francetv://8c7f1c84-7a12-40e9-b8ad-e04fc1834819
 #EXTINF:-1 tvg-id="francetv-92a8ddbc-456f-4073-b1d7-0597cda397ac" tvg-logo="https://medias.france.tv/h8ZXdFcQr6gV9TMaJqE_3UiClMM/400x0/filters:quality(85)/m/w/g/phpu4cgwm.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Tutos Okoo-Koo - Halloween",Okoo-koo — Tuto création : Photophore citrouille
 francetv://92a8ddbc-456f-4073-b1d7-0597cda397ac
-#EXTINF:-1 tvg-id="francetv-be794d2b-4f74-45aa-9993-b2ade7743395" tvg-logo="https://medias.france.tv/Zo9SnYhxV5pPKXVaIhnEF0t4fSs/400x0/filters:quality(85)/u/l/p/phpwyiplu.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Tutos Okoo-Koo - Halloween",Okoo-koo — Tuto cuisine : Sablés et glaçage d'Halloween
-francetv://be794d2b-4f74-45aa-9993-b2ade7743395
+#EXTINF:-1 tvg-id="francetv-07b78df3-8600-432d-bb8c-a3477754b80b" tvg-logo="https://medias.france.tv/Zo9SnYhxV5pPKXVaIhnEF0t4fSs/400x0/filters:quality(85)/u/l/p/phpwyiplu.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Tutos Okoo-Koo - Halloween",Okoo-koo — Tuto cuisine : Sablés et glaçage d'Halloween
+francetv://07b78df3-8600-432d-bb8c-a3477754b80b
 #EXTINF:-1 tvg-id="francetv-prog-france-3_lego-ninjago" tvg-logo="https://medias.france.tv/GmMdxp06NW10n_BcuEwmczEKXFs/400x0/filters:quality(85)/4/z/a/php5pwaz4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Les plus regardés",Ninjago
 francetv://program/france-3_lego-ninjago
 #EXTINF:-1 tvg-id="francetv-prog-france-3_grizzy-et-les-lemmings" tvg-logo="https://medias.france.tv/F1bAmWlSCzuZ1z0ZfumqUKoPq40/400x0/filters:quality(85)/m/5/z/phpds1z5m.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Les plus regardés",Grizzy et les lemmings
