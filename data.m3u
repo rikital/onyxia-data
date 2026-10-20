@@ -7557,6 +7557,11 @@ https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France TV backup - Autres",20 Minutes TV (1080p) [iptv-org-fr]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
+# === Nouveautes ParaTV (auto-ajoute) ===
+#EXTINF:-1 tvg-chno="125" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",125. SPECTACLE AUX ÉCLUSES : L'ARRIVÉE DES BATEAUX [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spectacle-aux-écluses-larrivée-des-bateaux.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
