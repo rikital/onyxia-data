@@ -6182,7 +6182,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/les-v
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France TV backup - Autres",20 Minutes TV (1080p) [iptv-org-fr]
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 (576p) [iptv-org-fr]
@@ -7552,6 +7552,10 @@ http://85.14.32.26:8800/udp/239.100.10.144:5000
 # === Ajouts FR multi-sources : Sport ===
 #EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" group-title="Sport - Sport",CRTV Sports and Entertainment (360p)
 https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France TV backup - Autres",20 Minutes TV (1080p) [iptv-org-fr]
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
