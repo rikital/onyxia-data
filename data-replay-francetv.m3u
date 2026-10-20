@@ -151,6 +151,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-10ab1160-256b-4f97-8dc1-e31690213d76" tvg-logo="https://medias.france.tv/nKtIUPooNA9CiCudCdvRij3EvGo/400x0/filters:quality(85)/s/d/s/phpbc2sds.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un petit air de bonheur
+francetv://10ab1160-256b-4f97-8dc1-e31690213d76
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Narcorama, il était une fois Marseille
 francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-8387660a-854a-43b6-9e62-062bd19b0c36" tvg-logo="https://medias.france.tv/XV8Z6L2j3S3dSIw3N1Pom3yk9Uk/400x0/filters:quality(85)/r/e/u/phpujouer.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Goldfinger
@@ -163,8 +165,6 @@ francetv://program/france-3_les-enquetes-de-vera
 francetv://e7374cdb-a314-4080-83e1-a4d6d8bba284
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meurtres-a" tvg-logo="https://medias.france.tv/o3H6Icogqoevrtgq05VNzKZdS8Q/400x0/filters:quality(85)/b/1/r/php29sr1b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à...
 francetv://program/france-3_meurtres-a
-#EXTINF:-1 tvg-id="francetv-10ab1160-256b-4f97-8dc1-e31690213d76" tvg-logo="https://medias.france.tv/nKtIUPooNA9CiCudCdvRij3EvGo/400x0/filters:quality(85)/s/d/s/phpbc2sds.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un petit air de bonheur
-francetv://10ab1160-256b-4f97-8dc1-e31690213d76
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les as du jardin
 francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
 #EXTINF:-1 tvg-id="francetv-37f44ad3-7026-4c8a-9f3f-bcaaf62a470c" tvg-logo="https://medias.france.tv/EzSfZnsagvHdV0sOg45hBBwAS8M/400x0/filters:quality(85)/d/u/m/phpiyumud.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Des Racines et Des Ailes — Passion patrimoine : mon île en Normandie
@@ -595,12 +595,12 @@ francetv://4eaea4d1-e392-48a6-bbbf-a39809e1ad8e
 francetv://program/france-5_c-dans-l-air
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C à vous
 francetv://program/france-5_c-a-vous
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-politique" tvg-logo="https://medias.france.tv/Ue9BBaQ5wlCwffog-NIZ6b6s0zA/400x0/filters:quality(85)/m/r/3/phpjy03rm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C politique
-francetv://program/france-5_c-politique
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-pas-si-loin" tvg-logo="https://medias.france.tv/MQZyBAqZM6JgEDvkFGeL2WAsASo/400x0/filters:quality(85)/y/f/y/phpyqzyfy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C pas si loin
-francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-ce-soir" tvg-logo="https://medias.france.tv/FrZm91Y32fBFJIawfflX_OI4yxc/400x0/filters:quality(85)/0/s/c/phpdkdcs0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C ce soir
 francetv://program/france-5_c-ce-soir
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-pas-si-loin" tvg-logo="https://medias.france.tv/MQZyBAqZM6JgEDvkFGeL2WAsASo/400x0/filters:quality(85)/y/f/y/phpyqzyfy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C pas si loin
+francetv://program/france-5_c-pas-si-loin
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-politique" tvg-logo="https://medias.france.tv/Ue9BBaQ5wlCwffog-NIZ6b6s0zA/400x0/filters:quality(85)/m/r/3/phpjy03rm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C politique
+francetv://program/france-5_c-politique
 #EXTINF:-1 tvg-id="francetv-prog-france-5_l-oeil-et-la-main" tvg-logo="https://medias.france.tv/39juu1aV8JGXUNnYKEg88QoKc8M/400x0/filters:quality(85)/d/e/x/phpmulxed.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",L'œil et la main
 francetv://program/france-5_l-oeil-et-la-main
 #EXTINF:-1 tvg-id="francetv-prog-france-5_a-vous-de-voir" tvg-logo="https://medias.france.tv/uZKEGAwoZqkLs0y4ufau3LYB6Pg/400x0/filters:quality(85)/o/n/b/phpfk7bno.png" tvg-country="FR" tvg-type="series" group-title="Replay France 5",A vous de voir
@@ -735,8 +735,6 @@ francetv://fdb7d7f4-a9e0-4eed-98b7-1518566f177d
 francetv://d2e83c16-56ca-4b06-862c-6ee71167dd4c
 #EXTINF:-1 tvg-id="francetv-bec58a1d-0ed4-460c-a817-98ed1b93f5a5" tvg-logo="https://medias.france.tv/WArSXG8bxhHpasvUUpNaxSDUbpc/400x0/filters:quality(85)/z/h/2/phpotn2hz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde de Jamy — Sucre : comment réduire la dose ?
 francetv://bec58a1d-0ed4-460c-a817-98ed1b93f5a5
-#EXTINF:-1 tvg-id="francetv-806774cb-c12d-4143-8c18-d40b4b450f25" tvg-logo="https://medias.france.tv/shnm_RE132pApVLTSnJRe2lukak/400x0/filters:quality(85)/2/b/e/phpckceb2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Des dents blanches... au rire jaune !
-francetv://806774cb-c12d-4143-8c18-d40b4b450f25
 #EXTINF:-1 tvg-id="francetv-062b2bad-41b5-4525-b10a-519dc5e7daf7" tvg-logo="https://medias.france.tv/oG6eGBCaSuCWnSuiNw_ETJhDukI/400x0/filters:quality(85)/1/4/e/phpfdie41.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde de Jamy — Antibiotiques : attention à l'overdose !
 francetv://062b2bad-41b5-4525-b10a-519dc5e7daf7
 #EXTINF:-1 tvg-id="francetv-b7e266b4-be01-4579-bfe2-e28a03f0d8a9" tvg-logo="https://medias.france.tv/MJrdTQhdPt6QibFCw2--XaELENY/400x0/filters:quality(85)/d/d/a/phpxgqadd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",On va déguster — La vanille, l'or noir des saveurs
@@ -2059,14 +2057,14 @@ francetv://program/enfants_six-huit-ans_tinka
 francetv://program/enfants_neuf-douze-ans_zombie-lars
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_fifi-brindacier" tvg-logo="https://medias.france.tv/SsNfFOkY2h0PcAc0PDQCiWMHXUA/400x0/filters:quality(85)/i/q/z/phpxlazqi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries Okoo",Fifi Brindacier
 francetv://program/enfants_six-huit-ans_fifi-brindacier
-#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
-francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
+#EXTINF:-1 tvg-id="francetv-3db103b5-2c72-4f68-9e80-ec2c3453156d" tvg-logo="https://medias.france.tv/wCidSJ84Cu_VOIwy5haEAGmoGrY/400x0/filters:quality(85)/j/v/y/phpbr0yvj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Prenez soin de vous ! — Se libérer des douleurs chroniques
+francetv://3db103b5-2c72-4f68-9e80-ec2c3453156d
 #EXTINF:-1 tvg-id="francetv-8bd0de7b-05b1-4da7-bde6-08650e0e189b" tvg-logo="https://medias.france.tv/PZHcvuBUU-aupVMSWChv4BkDERs/400x0/filters:quality(85)/d/u/v/phpckivud.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Camille enquête - Batteries explosives
 francetv://8bd0de7b-05b1-4da7-bde6-08650e0e189b
+#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
+francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
 #EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
 francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
-#EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
-francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/bCPW_81xQiNrmPPp0VPXQsUbHPk/400x0/filters:quality(85)/p/y/v/php2nivyp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Narcorama, il était une fois Marseille
 francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-bbf93913-cdb4-4669-8566-e722b4e64b9f" tvg-logo="https://medias.france.tv/nr0afxHV0_4g585rZe_wJ-x2tDU/400x0/filters:quality(85)/8/e/8/76ebfb3ba79d4b7f9582c34f7da518e8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection", Corridors de vie — Corridors de vie
@@ -2077,14 +2075,14 @@ francetv://2124a96d-c420-439f-80cc-f8d5e72b265a
 francetv://program/documentaires_documentaires-societe_vies-de-famille
 #EXTINF:-1 tvg-id="francetv-b4f005d5-1697-4abe-ac31-cb8e133dfbb3" tvg-logo="https://medias.france.tv/mwx_TWgOzwRyg8_Bm8zCLv1Ph4I/400x0/filters:quality(85)/z/y/l/phpdf0lyz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Échappées belles — Queyras, une nature spectaculaire
 francetv://b4f005d5-1697-4abe-ac31-cb8e133dfbb3
-#EXTINF:-1 tvg-id="francetv-3c13c584-d7a4-4289-ae8c-86b997ffa2f0" tvg-logo="https://medias.france.tv/fir3m9Wf0ZOjkWNjkrqPcbVOS9Y/400x0/filters:quality(85)/w/l/o/php7opolw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",La grande Histoire de la Marine
-francetv://3c13c584-d7a4-4289-ae8c-86b997ffa2f0
-#EXTINF:-1 tvg-id="francetv-37f44ad3-7026-4c8a-9f3f-bcaaf62a470c" tvg-logo="https://medias.france.tv/EzSfZnsagvHdV0sOg45hBBwAS8M/400x0/filters:quality(85)/d/u/m/phpiyumud.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Des Racines et Des Ailes — Passion patrimoine : mon île en Normandie
-francetv://37f44ad3-7026-4c8a-9f3f-bcaaf62a470c
 #EXTINF:-1 tvg-id="francetv-44e0faf6-27c2-4c66-9573-efa2aa7679cd" tvg-logo="https://medias.france.tv/pDaIwABxt_AdFs2StS9t1Xu40yY/400x0/filters:quality(85)/e/c/s/phpfawsce.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Les docs de La grande librairie — Victor Hugo
 francetv://44e0faf6-27c2-4c66-9573-efa2aa7679cd
+#EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
+francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
 #EXTINF:-1 tvg-id="francetv-689a50d3-a3ed-4539-9521-80cb7eb0c933" tvg-logo="https://medias.france.tv/9R6kSlbh2bEFDC7uoIBGAf9W2ks/400x0/filters:quality(85)/f/n/q/phpshrqnf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Science grand format — Le grand puzzle de Pompéi
 francetv://689a50d3-a3ed-4539-9521-80cb7eb0c933
+#EXTINF:-1 tvg-id="francetv-37f44ad3-7026-4c8a-9f3f-bcaaf62a470c" tvg-logo="https://medias.france.tv/EzSfZnsagvHdV0sOg45hBBwAS8M/400x0/filters:quality(85)/d/u/m/phpiyumud.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Des Racines et Des Ailes — Passion patrimoine : mon île en Normandie
+francetv://37f44ad3-7026-4c8a-9f3f-bcaaf62a470c
 #EXTINF:-1 tvg-id="francetv-ebf74bf5-6c39-40e9-b8c9-251f3d0035e0" tvg-logo="https://medias.france.tv/DQRg_rpVdg20uGtL7I1M9VTX_Ig/400x0/filters:quality(85)/2/1/d/1bd9c158ffa04978b590accc64663d12.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Russie, Chine, Iran : la revanche des empires
 francetv://ebf74bf5-6c39-40e9-b8c9-251f3d0035e0
 #EXTINF:-1 tvg-id="francetv-9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6" tvg-logo="https://medias.france.tv/PACKckyOHUMeTYK07Rh6O2yPCAQ/400x0/filters:quality(85)/j/l/3/phpgbb3lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Unité Ados 93
@@ -2355,6 +2353,48 @@ francetv://5fcce8e8-28bd-4b26-b268-107520313fec
 francetv://c544cf96-e183-4a97-adbc-7dc372b379ec
 #EXTINF:-1 tvg-id="francetv-4aefa9c7-4800-4ba3-8f8c-aacae52f5d95" tvg-logo="https://medias.france.tv/zUtqgqX4JsdmeP-0hfYAZPnWMd0/400x0/filters:quality(85)/7/2/e/4b86582323af4cc6968ba910647b8ab853e774caf21b25237061e03a7ad1ee27.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - On repart en terre inconnue !",Rendez-vous en terre inconnue — Avec Mélissa Theuriau chez les Maasaï
 francetv://4aefa9c7-4800-4ba3-8f8c-aacae52f5d95
+#EXTINF:-1 tvg-id="francetv-7e3d129e-9c17-4d49-a25e-5e913ba91e35" tvg-logo="https://medias.france.tv/W05n912wCAxfOfmSzQHYQfeHqAs/400x0/filters:quality(85)/3/a/8/php7gs8a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Arte
+francetv://7e3d129e-9c17-4d49-a25e-5e913ba91e35
+#EXTINF:-1 tvg-id="francetv-3a71692a-d75c-4408-bd6c-8e89c6675276" tvg-logo="https://medias.france.tv/YYix-4FDz10AbVA5U-8xCjj_36w/400x0/filters:quality(85)/c/e/7/2909e85a6c9043afafa87ba2bd1b47ec.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Israël - Comment sauver la démocratie
+francetv://3a71692a-d75c-4408-bd6c-8e89c6675276
+#EXTINF:-1 tvg-id="francetv-adf5f865-10a2-4be0-a0a2-3c91a2f89f25" tvg-logo="https://medias.france.tv/B7mFZH62CIV9B3HDJT_D_RRdw8Q/400x0/filters:quality(85)/3/1/2/a6588e1fc1fe4d66b19e78c9bbaf6213.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Twist — Détox numérique : alors, heureux ?
+francetv://adf5f865-10a2-4be0-a0a2-3c91a2f89f25
+#EXTINF:-1 tvg-id="francetv-089939a8-3db9-44e4-8799-be8e405ae72c" tvg-logo="https://medias.france.tv/pA2KxtigZno5SoITRyKXLDmNv5U/400x0/filters:quality(85)/d/7/2/aa075dda02cc40b1bd39078717a7d27d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Les secrets des chefs-d'œuvre — "Le cri" d'Edvard Munch
+francetv://089939a8-3db9-44e4-8799-be8e405ae72c
+#EXTINF:-1 tvg-id="francetv-06538372-c723-4596-a1f5-f0ad13ba4e8c" tvg-logo="https://medias.france.tv/P9dONX1gaiBZhBspvgc_7nQ0PHk/400x0/filters:quality(85)/1/1/b/9af9cef02d3e4e6bbbaf75f34baf9b11.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Tracks — Émission du jeudi 8 octobre 2026
+francetv://06538372-c723-4596-a1f5-f0ad13ba4e8c
+#EXTINF:-1 tvg-id="francetv-65238a3b-4e87-445c-b7a3-02a7ef6e9c2f" tvg-logo="https://medias.france.tv/FIr8-BR1O5_LBh63O-6CEUyr4Tc/400x0/filters:quality(85)/9/7/f/2a607e43e8fe45beb8ef5de672b1bf79.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Inde : Le monde merveilleux des grenouilles
+francetv://65238a3b-4e87-445c-b7a3-02a7ef6e9c2f
+#EXTINF:-1 tvg-id="francetv-c3137bd3-188a-412c-a272-31f7e9c59dc4" tvg-logo="https://medias.france.tv/ELVSftXCmaSUZKYJlOU_H6dWgn0/400x0/filters:quality(85)/j/w/y/phpc8jywj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Chine, Russie, Inde et Cie, nouveaux maîtres du monde ?
+francetv://c3137bd3-188a-412c-a272-31f7e9c59dc4
+#EXTINF:-1 tvg-id="francetv-3839ea99-8d72-4ffe-8fba-c64882eff5a0" tvg-logo="https://medias.france.tv/hIn1yYPrepa3RjW4qH51WCKZW-I/400x0/filters:quality(85)/3/1/e/c0003ea363e8446bbdb5942c62662e13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Artiste et collectionneur de la modernité
+francetv://3839ea99-8d72-4ffe-8fba-c64882eff5a0
+#EXTINF:-1 tvg-id="francetv-6940a520-c214-4ac1-a9f3-ec41e18ab4de" tvg-logo="https://medias.france.tv/sYIoiP-hADzb3iQsj1qd2_-3i60/400x0/filters:quality(85)/3/c/c/183e4bb293af41efb61b539dd41f2cc3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Est-il vrai que... ? — Est-il vrai que la peste a été la plus grande épidémie de tous les temps ?
+francetv://6940a520-c214-4ac1-a9f3-ec41e18ab4de
+#EXTINF:-1 tvg-id="francetv-e00fefe0-ed2f-4e57-8428-7fdecf2baaa2" tvg-logo="https://medias.france.tv/k7RR00mLMR0BvLW1urwiP4vvw18/400x0/filters:quality(85)/d/5/b/0081b256631b456a9544631d6a645b5d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Avatars du vide
+francetv://e00fefe0-ed2f-4e57-8428-7fdecf2baaa2
+#EXTINF:-1 tvg-id="francetv-6330464f-cfbc-4475-a195-cd8b70eaa171" tvg-logo="https://medias.france.tv/N1w0LI-gu5EeoTtCqBHKFRX2B6Q/400x0/filters:quality(85)/e/0/9/01528b8e18ae46bbb53203ccc7f4090e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Byzance, mille ans qui ont changé le monde
+francetv://6330464f-cfbc-4475-a195-cd8b70eaa171
+#EXTINF:-1 tvg-id="francetv-prog-arte_usa-1960-1980-la-revolution-conservatrice" tvg-logo="https://medias.france.tv/cYH3UWzsOXxQHDRWB1WDuhshpvE/400x0/filters:quality(85)/8/g/d/phpvszdg8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",USA 1960-1980 : La révolution conservatrice
+francetv://program/arte_usa-1960-1980-la-revolution-conservatrice
+#EXTINF:-1 tvg-id="francetv-4c2afed6-208b-4279-9cfe-0ce3c0a41529" tvg-logo="https://medias.france.tv/VCuQ0MfUaj3joiJH2wDmM09Q1ss/400x0/filters:quality(85)/2/b/5/0933e153d8d2474c8a0666cce69585b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE","Le chevalier au dragon", le roman disparu de la Table ronde
+francetv://4c2afed6-208b-4279-9cfe-0ce3c0a41529
+#EXTINF:-1 tvg-id="francetv-1fb5295a-4f51-442f-a022-cc6f47c9bd92" tvg-logo="https://medias.france.tv/y8777GpkhsjXSpj4j445w4-LPG4/400x0/filters:quality(85)/a/3/c/6a021425d3034f7fa9b9b06799018c3a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",François d’Assise - L’exigence de la foi
+francetv://1fb5295a-4f51-442f-a022-cc6f47c9bd92
+#EXTINF:-1 tvg-id="francetv-a42d27d1-9ae2-4b74-b0b7-b267bb2baf70" tvg-logo="https://medias.france.tv/BlNJA0hTvS-z1jKBU5WlVjYdjpI/400x0/filters:quality(85)/8/7/f/beb99aae1d3d4da7bf03dc5eed125f78.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE","Gomorra", manifeste antimafia
+francetv://a42d27d1-9ae2-4b74-b0b7-b267bb2baf70
+#EXTINF:-1 tvg-id="francetv-5308f09d-3eea-4f83-b61c-f33af1f676c0" tvg-logo="https://medias.france.tv/lOhK1NSYz5119n_B9XJcDwIw8tg/400x0/filters:quality(85)/9/a/9/4cd5dd1eea4f4137935cba04f5c109a9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Orient-Express, le voyage d'une légende
+francetv://5308f09d-3eea-4f83-b61c-f33af1f676c0
+#EXTINF:-1 tvg-id="francetv-cbf9575f-e0af-4859-9874-91206693e15c" tvg-logo="https://medias.france.tv/UbTl0LFjhjd4ZWCmbCvaitSnumU/400x0/filters:quality(85)/9/4/7/3748ef9cca804dc89df3287347a8b749.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Matrix Generation
+francetv://cbf9575f-e0af-4859-9874-91206693e15c
+#EXTINF:-1 tvg-id="francetv-f00f58a8-268a-4499-bef3-cf9998ee32a0" tvg-logo="https://medias.france.tv/oRzLSBysc0sqEOgNLFGIMiiTPiE/400x0/filters:quality(85)/2/8/0/166e911475e84ec0b9a9c9105c8c5082.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Le château de Schönbrunn : Les fastes de la cour de Vienne
+francetv://f00f58a8-268a-4499-bef3-cf9998ee32a0
+#EXTINF:-1 tvg-id="francetv-4125b8df-bffe-4113-85d5-19996b7aa2bc" tvg-logo="https://medias.france.tv/3OxgIEY9aEvQlCfkICMWt8c7aQY/400x0/filters:quality(85)/a/b/5/605aa58097a4413896cf9fc985c735ba.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Les étonnantes techniques des bâtisseurs de la pyramide de Khéops
+francetv://4125b8df-bffe-4113-85d5-19996b7aa2bc
+#EXTINF:-1 tvg-id="francetv-2d4807d0-6d23-484e-bd5f-95e323566591" tvg-logo="https://medias.france.tv/s7-vbP_Tqr8PXr_2J8pFuEG4_yI/400x0/filters:quality(85)/2/6/f/d3c4140ce7db47ad98d59ff9bd74af62.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Terminator, des machines et des hommes... et une femme
+francetv://2d4807d0-6d23-484e-bd5f-95e323566591
+#EXTINF:-1 tvg-id="francetv-55523269-e730-4326-8fdb-f73ffbb4d09d" tvg-logo="https://medias.france.tv/DyKLU4aNMejY4AtQNIv8zM7qesM/400x0/filters:quality(85)/a/0/6/126cb1db3897477fb40dd9515e06360a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Matière noire : la traque de l’invisible
+francetv://55523269-e730-4326-8fdb-f73ffbb4d09d
 #EXTINF:-1 tvg-id="francetv-601bc13b-c3e1-11f1-888f-19616fa871f9" tvg-logo="https://medias.france.tv/duhjA7Q8x33gFeEESjqfjORPbkA/400x0/filters:quality(85)/e/9/6/b0160d3d9042413480ae98caf1d0c69e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Morceaux choisis",Quand Alain Delon et son fils Anthony se disputaient... leurs initiales
 francetv://601bc13b-c3e1-11f1-888f-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-a267a578-c23b-11f1-8889-19616fa871f9" tvg-logo="https://medias.france.tv/GFJLS5x0XANqFXfDaNgQQB08myw/400x0/filters:quality(85)/4/e/2/aa1b36bd39154db28178dab7f0f982e4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Morceaux choisis",Enquête de santé — Traitements hormonaux, le témoignage de Laëtitia
@@ -2411,48 +2451,6 @@ francetv://dbaf860a-163f-11f1-82d9-957ddefc544d
 francetv://dceb8135-1306-11f1-82d5-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-e58ef7ac-22b8-11f1-93e3-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/31pE-tVcBf8gZlQ5VuTq-GXZpuc/400x0/filters:quality(85)/d/7/2/97c8c7c1a08b4724840e1caf5e2e827d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Morceaux choisis",Enquête de santé — "Ma vie, c'était un enfer"
 francetv://e58ef7ac-22b8-11f1-93e3-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-7e3d129e-9c17-4d49-a25e-5e913ba91e35" tvg-logo="https://medias.france.tv/W05n912wCAxfOfmSzQHYQfeHqAs/400x0/filters:quality(85)/3/a/8/php7gs8a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Arte
-francetv://7e3d129e-9c17-4d49-a25e-5e913ba91e35
-#EXTINF:-1 tvg-id="francetv-3a71692a-d75c-4408-bd6c-8e89c6675276" tvg-logo="https://medias.france.tv/YYix-4FDz10AbVA5U-8xCjj_36w/400x0/filters:quality(85)/c/e/7/2909e85a6c9043afafa87ba2bd1b47ec.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Israël - Comment sauver la démocratie
-francetv://3a71692a-d75c-4408-bd6c-8e89c6675276
-#EXTINF:-1 tvg-id="francetv-adf5f865-10a2-4be0-a0a2-3c91a2f89f25" tvg-logo="https://medias.france.tv/B7mFZH62CIV9B3HDJT_D_RRdw8Q/400x0/filters:quality(85)/3/1/2/a6588e1fc1fe4d66b19e78c9bbaf6213.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Twist — Détox numérique : alors, heureux ?
-francetv://adf5f865-10a2-4be0-a0a2-3c91a2f89f25
-#EXTINF:-1 tvg-id="francetv-089939a8-3db9-44e4-8799-be8e405ae72c" tvg-logo="https://medias.france.tv/pA2KxtigZno5SoITRyKXLDmNv5U/400x0/filters:quality(85)/d/7/2/aa075dda02cc40b1bd39078717a7d27d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Les secrets des chefs-d'œuvre — "Le cri" d'Edvard Munch
-francetv://089939a8-3db9-44e4-8799-be8e405ae72c
-#EXTINF:-1 tvg-id="francetv-06538372-c723-4596-a1f5-f0ad13ba4e8c" tvg-logo="https://medias.france.tv/P9dONX1gaiBZhBspvgc_7nQ0PHk/400x0/filters:quality(85)/1/1/b/9af9cef02d3e4e6bbbaf75f34baf9b11.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Tracks — Émission du jeudi 8 octobre 2026
-francetv://06538372-c723-4596-a1f5-f0ad13ba4e8c
-#EXTINF:-1 tvg-id="francetv-65238a3b-4e87-445c-b7a3-02a7ef6e9c2f" tvg-logo="https://medias.france.tv/FIr8-BR1O5_LBh63O-6CEUyr4Tc/400x0/filters:quality(85)/9/7/f/2a607e43e8fe45beb8ef5de672b1bf79.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Inde - Le monde merveilleux des grenouilles
-francetv://65238a3b-4e87-445c-b7a3-02a7ef6e9c2f
-#EXTINF:-1 tvg-id="francetv-c3137bd3-188a-412c-a272-31f7e9c59dc4" tvg-logo="https://medias.france.tv/ELVSftXCmaSUZKYJlOU_H6dWgn0/400x0/filters:quality(85)/j/w/y/phpc8jywj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Chine, Russie, Inde et Cie, nouveaux maîtres du monde ?
-francetv://c3137bd3-188a-412c-a272-31f7e9c59dc4
-#EXTINF:-1 tvg-id="francetv-3839ea99-8d72-4ffe-8fba-c64882eff5a0" tvg-logo="https://medias.france.tv/hIn1yYPrepa3RjW4qH51WCKZW-I/400x0/filters:quality(85)/3/1/e/c0003ea363e8446bbdb5942c62662e13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Artiste et collectionneur de la modernité
-francetv://3839ea99-8d72-4ffe-8fba-c64882eff5a0
-#EXTINF:-1 tvg-id="francetv-6940a520-c214-4ac1-a9f3-ec41e18ab4de" tvg-logo="https://medias.france.tv/sYIoiP-hADzb3iQsj1qd2_-3i60/400x0/filters:quality(85)/3/c/c/183e4bb293af41efb61b539dd41f2cc3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Est-il vrai que... ? — Est-il vrai que la peste a été la plus grande épidémie de tous les temps ?
-francetv://6940a520-c214-4ac1-a9f3-ec41e18ab4de
-#EXTINF:-1 tvg-id="francetv-e00fefe0-ed2f-4e57-8428-7fdecf2baaa2" tvg-logo="https://medias.france.tv/k7RR00mLMR0BvLW1urwiP4vvw18/400x0/filters:quality(85)/d/5/b/0081b256631b456a9544631d6a645b5d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Avatars du vide
-francetv://e00fefe0-ed2f-4e57-8428-7fdecf2baaa2
-#EXTINF:-1 tvg-id="francetv-6330464f-cfbc-4475-a195-cd8b70eaa171" tvg-logo="https://medias.france.tv/N1w0LI-gu5EeoTtCqBHKFRX2B6Q/400x0/filters:quality(85)/e/0/9/01528b8e18ae46bbb53203ccc7f4090e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Byzance, mille ans qui ont changé le monde
-francetv://6330464f-cfbc-4475-a195-cd8b70eaa171
-#EXTINF:-1 tvg-id="francetv-prog-arte_usa-1960-1980-la-revolution-conservatrice" tvg-logo="https://medias.france.tv/cYH3UWzsOXxQHDRWB1WDuhshpvE/400x0/filters:quality(85)/8/g/d/phpvszdg8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",USA 1960-1980 : La révolution conservatrice
-francetv://program/arte_usa-1960-1980-la-revolution-conservatrice
-#EXTINF:-1 tvg-id="francetv-4c2afed6-208b-4279-9cfe-0ce3c0a41529" tvg-logo="https://medias.france.tv/VCuQ0MfUaj3joiJH2wDmM09Q1ss/400x0/filters:quality(85)/2/b/5/0933e153d8d2474c8a0666cce69585b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE","Le chevalier au dragon", le roman disparu de la Table ronde
-francetv://4c2afed6-208b-4279-9cfe-0ce3c0a41529
-#EXTINF:-1 tvg-id="francetv-1fb5295a-4f51-442f-a022-cc6f47c9bd92" tvg-logo="https://medias.france.tv/y8777GpkhsjXSpj4j445w4-LPG4/400x0/filters:quality(85)/a/3/c/6a021425d3034f7fa9b9b06799018c3a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",François d’Assise - L’exigence de la foi
-francetv://1fb5295a-4f51-442f-a022-cc6f47c9bd92
-#EXTINF:-1 tvg-id="francetv-a42d27d1-9ae2-4b74-b0b7-b267bb2baf70" tvg-logo="https://medias.france.tv/BlNJA0hTvS-z1jKBU5WlVjYdjpI/400x0/filters:quality(85)/8/7/f/beb99aae1d3d4da7bf03dc5eed125f78.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE","Gomorra", manifeste antimafia
-francetv://a42d27d1-9ae2-4b74-b0b7-b267bb2baf70
-#EXTINF:-1 tvg-id="francetv-5308f09d-3eea-4f83-b61c-f33af1f676c0" tvg-logo="https://medias.france.tv/lOhK1NSYz5119n_B9XJcDwIw8tg/400x0/filters:quality(85)/9/a/9/4cd5dd1eea4f4137935cba04f5c109a9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Orient-Express, le voyage d'une légende
-francetv://5308f09d-3eea-4f83-b61c-f33af1f676c0
-#EXTINF:-1 tvg-id="francetv-cbf9575f-e0af-4859-9874-91206693e15c" tvg-logo="https://medias.france.tv/UbTl0LFjhjd4ZWCmbCvaitSnumU/400x0/filters:quality(85)/9/4/7/3748ef9cca804dc89df3287347a8b749.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Matrix Generation
-francetv://cbf9575f-e0af-4859-9874-91206693e15c
-#EXTINF:-1 tvg-id="francetv-f00f58a8-268a-4499-bef3-cf9998ee32a0" tvg-logo="https://medias.france.tv/oRzLSBysc0sqEOgNLFGIMiiTPiE/400x0/filters:quality(85)/2/8/0/166e911475e84ec0b9a9c9105c8c5082.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Le château de Schönbrunn : Les fastes de la cour de Vienne
-francetv://f00f58a8-268a-4499-bef3-cf9998ee32a0
-#EXTINF:-1 tvg-id="francetv-4125b8df-bffe-4113-85d5-19996b7aa2bc" tvg-logo="https://medias.france.tv/3OxgIEY9aEvQlCfkICMWt8c7aQY/400x0/filters:quality(85)/a/b/5/605aa58097a4413896cf9fc985c735ba.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Les étonnantes techniques des bâtisseurs de la pyramide de Khéops
-francetv://4125b8df-bffe-4113-85d5-19996b7aa2bc
-#EXTINF:-1 tvg-id="francetv-2d4807d0-6d23-484e-bd5f-95e323566591" tvg-logo="https://medias.france.tv/s7-vbP_Tqr8PXr_2J8pFuEG4_yI/400x0/filters:quality(85)/2/6/f/d3c4140ce7db47ad98d59ff9bd74af62.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Terminator, des machines et des hommes... et une femme
-francetv://2d4807d0-6d23-484e-bd5f-95e323566591
-#EXTINF:-1 tvg-id="francetv-55523269-e730-4326-8fdb-f73ffbb4d09d" tvg-logo="https://medias.france.tv/DyKLU4aNMejY4AtQNIv8zM7qesM/400x0/filters:quality(85)/a/0/6/126cb1db3897477fb40dd9515e06360a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les docs d'ARTE",Matière noire : la traque de l’invisible
-francetv://55523269-e730-4326-8fdb-f73ffbb4d09d
 #EXTINF:-1 tvg-id="francetv-689a50d3-a3ed-4539-9521-80cb7eb0c933" tvg-logo="https://medias.france.tv/9R6kSlbh2bEFDC7uoIBGAf9W2ks/400x0/filters:quality(85)/f/n/q/phpshrqnf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Explorations & découvertes scientifiques",Science grand format — Le grand puzzle de Pompéi
 francetv://689a50d3-a3ed-4539-9521-80cb7eb0c933
 #EXTINF:-1 tvg-id="francetv-prog-france-5_mysteres-du-systeme-solaire" tvg-logo="https://medias.france.tv/B-G2DFzQgpt8Sp-08JAOp9ZLfUI/400x0/filters:quality(85)/d/c/q/phpbuyqcd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Explorations & découvertes scientifiques",Mystères du système solaire
@@ -3857,6 +3855,10 @@ francetv://program/franceinfo_a-suivre-avec-loic-de-la-mornais
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-societe_leon-xiv-le-pape-en-france" tvg-logo="https://medias.france.tv/WFfRRgL2Ar7ShvRAQN6bRuzrspc/400x0/filters:quality(85)/e/f/y/phplgdyfe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Grands formats",Léon XIV, le pape en France
 francetv://program/societe_leon-xiv-le-pape-en-france
+#EXTINF:-1 tvg-id="francetv-041c8d10-8be2-4746-b2a9-c7bee0e38da4" tvg-logo="https://medias.france.tv/gUsaF5eEFTYUcqgTw_I_0IapjSE/400x0/filters:quality(85)/e/b/7/4efd4ca5711e4e3d999270f193ac67be.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Fianso
+francetv://041c8d10-8be2-4746-b2a9-c7bee0e38da4
+#EXTINF:-1 tvg-id="francetv-26e28f07-0809-49be-97e2-c787d9289d1c" tvg-logo="https://medias.france.tv/bnde2q_RU4zfvFnnSgm5SAVcyYc/400x0/filters:quality(85)/j/k/q/phpfagqkj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Diane Segard - Parades
+francetv://26e28f07-0809-49be-97e2-c787d9289d1c
 #EXTINF:-1 tvg-id="francetv-08797852-c095-4d5f-802f-8e5a8377a693" tvg-logo="https://medias.france.tv/UZSTX78H0yQal7A1nCy1uySUHMM/400x0/filters:quality(85)/8/o/d/phpkzvdo8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Les Marchands d'étoiles
 francetv://08797852-c095-4d5f-802f-8e5a8377a693
 #EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
@@ -4113,6 +4115,8 @@ francetv://program/spectacles-et-culture_theatre-et-danse_cypher
 francetv://program/spectacles-et-culture_theatre-et-danse_la-ville-dansee
 #EXTINF:-1 tvg-id="francetv-749f5260-a987-4476-a116-0b4b04113210" tvg-logo="https://medias.france.tv/6lxXm4xoT2f7CXQ0HrNXegwsCbM/400x0/filters:quality(85)/k/2/w/phpgktw2k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Le 47e Festival international du cirque de Monte-Carlo
 francetv://749f5260-a987-4476-a116-0b4b04113210
+#EXTINF:-1 tvg-id="francetv-041c8d10-8be2-4746-b2a9-c7bee0e38da4" tvg-logo="https://medias.france.tv/gUsaF5eEFTYUcqgTw_I_0IapjSE/400x0/filters:quality(85)/e/b/7/4efd4ca5711e4e3d999270f193ac67be.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Fianso
+francetv://041c8d10-8be2-4746-b2a9-c7bee0e38da4
 #EXTINF:-1 tvg-id="francetv-62e05001-d5d1-4f1c-b709-c5ff30f17a52" tvg-logo="https://medias.france.tv/fPV5T43PgzjuBNBAz8fVWrDG490/400x0/filters:quality(85)/2/2/d/5763b195f9e741d9bf129b2fbc61dd22.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Vald x Vladimir Cauchemar x Todiefor
 francetv://62e05001-d5d1-4f1c-b709-c5ff30f17a52
 #EXTINF:-1 tvg-id="francetv-2f298a2c-ba3b-4a1f-a35b-7270600c1332" tvg-logo="https://medias.france.tv/XpwwFsxEMeGLEgC-0NPtJh4Jpl4/400x0/filters:quality(85)/b/d/b/9b6f769963dd4d008a583e3d715a7bdb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Jolagreen23
@@ -4279,6 +4283,10 @@ francetv://program/spectacles-et-culture_emissions-culturelles_les-flammes
 francetv://program/spectacles-et-culture_emissions-culturelles_j-aime-a-dire
 #EXTINF:-1 tvg-id="francetv-71ecb942-e4f2-44be-8cb2-2199c7133ddd" tvg-logo="https://medias.france.tv/XkI0TrCztu7YY5q_f7HsDVWkL6w/400x0/filters:quality(85)/3/1/c/8c7d0b64744349e9ade7f5c3830dc48f77e6b69a512e86292c50d39a5327dc13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Meryl, bénie - Le documentaire
 francetv://71ecb942-e4f2-44be-8cb2-2199c7133ddd
+#EXTINF:-1 tvg-id="francetv-26e28f07-0809-49be-97e2-c787d9289d1c" tvg-logo="https://medias.france.tv/bnde2q_RU4zfvFnnSgm5SAVcyYc/400x0/filters:quality(85)/j/k/q/phpfagqkj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Diane Segard - Parades
+francetv://26e28f07-0809-49be-97e2-c787d9289d1c
+#EXTINF:-1 tvg-id="francetv-751da5d8-8ce1-49d9-8f9e-96481b0a4f06" tvg-logo="https://medias.france.tv/bgPM5o8hj3Y_cDcuNWJGygxUVj4/400x0/filters:quality(85)/1/u/m/phpghamu1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Top Comedy Club — Strasbourg, La Péniche du rire
+francetv://751da5d8-8ce1-49d9-8f9e-96481b0a4f06
 #EXTINF:-1 tvg-id="francetv-83102f1e-adab-448f-a6d4-e65a346a83ec" tvg-logo="https://medias.france.tv/BjpeJF8IhHp65Aaia5XGsImZ8Pw/400x0/filters:quality(85)/c/q/o/phpqyooqc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Top Comedy Club — Dijon
 francetv://83102f1e-adab-448f-a6d4-e65a346a83ec
 #EXTINF:-1 tvg-id="francetv-59c98528-2e01-47b8-a759-572e5514e2c3" tvg-logo="https://medias.france.tv/E5NqCkavu6J4CGgUd9OJ-gsEPow/400x0/filters:quality(85)/b/c/k/phpqaokcb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Le gala de l'humour - juste pour rire
