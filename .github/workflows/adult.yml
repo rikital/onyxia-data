@@ -38,14 +38,24 @@ jobs:
             exit 0
           fi
           echo "fichier : $CIBLE"
-          git add "$CIBLE"
-          if git diff --cached --quiet; then
-            echo "aucun changement"
-            exit 0
-          fi
-          git commit -m "adulte: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
-          for i in 1 2 3 4 5; do
-            if git push; then break; fi
-            git pull --rebase --autostash
-            sleep 5
+
+          for tentative in 1 2 3 4 5; do
+            echo "--- tentative $tentative ---"
+            cp "$CIBLE" /tmp/adulte.m3u
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            cp /tmp/adulte.m3u "$CIBLE"
+            git add "$CIBLE"
+            if git diff --cached --quiet; then
+              echo "deja a jour"
+              exit 0
+            fi
+            git commit -q -m "adulte: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+            if git push -q origin main; then
+              echo "pousse"
+              exit 0
+            fi
+            sleep 4
           done
+          echo "echec apres 5 tentatives"
+          exit 1
