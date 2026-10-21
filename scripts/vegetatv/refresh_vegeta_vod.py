@@ -215,6 +215,25 @@ def fetch_servers():
 
 REFUS_FLUX = (401, 403, 456, 458, 512)
 
+def compte_occupe(srv):
+    """2026-10-21 (user : « il y a beaucoup moins de contenu » dans Ciné Films) : un 458
+    veut souvent dire « compte occupé », pas « compte mort ». Mesuré sur tv-premium-pro :
+    compte Active, max_connections=1, active_cons=1 → 458 sur tous les films. 4kgood.org
+    (deux adresses) idem. Ces panels étaient écartés pour la journée selon que quelqu'un
+    regardait ou non à l'heure du refresh (42 000 → 10 500 films d'un jour à l'autre).
+    On interroge le compte : actif et toutes ses connexions prises → panel GARDÉ."""
+    try:
+        url = "%s/player_api.php?username=%s&password=%s" % (srv["b"], srv["u"], srv["p"])
+        r = requests.get(url, headers=H, timeout=(15, 20))
+        ui = (r.json() or {}).get("user_info") or {}
+        if str(ui.get("status", "")).lower() != "active":
+            return False
+        actives = int(ui.get("active_cons") or 0)
+        maxi = int(ui.get("max_connections") or 0)
+        return maxi > 0 and actives >= maxi
+    except Exception:
+        return False
+
 def flux_refuse(srv):
     """Lit les 100 premiers octets d'UN film du panel. Renvoie le code HTTP si le panel
     refuse franchement (deux essais à 20 s d'écart), sinon None. Sans film testable ou
@@ -247,6 +266,9 @@ def flux_refuse(srv):
             except Exception:
                 return None
             if code not in REFUS_FLUX:
+                return None
+            if code == 458 and compte_occupe(srv):
+                log("[%2d] %s : 458 mais compte actif et occupé → panel gardé" % (srv["pos"], srv["b"]))
                 return None
             dernier = code
             if essai == 0:
