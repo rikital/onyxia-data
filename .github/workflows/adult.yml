@@ -25,17 +25,20 @@ jobs:
         run: |
           set -e
           SCRIPT="$(find . -name eporner_m3u.py -not -path './.git/*' | head -n 1)"
-          python "$SCRIPT"
+          echo "script : $SCRIPT"
+          python -u "$SCRIPT"
 
       - name: Publier
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ ! -f data/adult.m3u ]; then
+          CIBLE="$(find . -name adult.m3u -not -path './.git/*' | head -n 1)"
+          if [ -z "$CIBLE" ]; then
             echo "adult.m3u absent, rien a publier"
             exit 0
           fi
-          git add data/adult.m3u
+          echo "fichier : $CIBLE"
+          git add "$CIBLE"
           if git diff --cached --quiet; then
             echo "aucun changement"
             exit 0
