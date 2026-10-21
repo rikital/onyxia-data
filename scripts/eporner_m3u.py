@@ -36,7 +36,7 @@ def _racine_depot():
 
 # ------------------------------- CONFIG --------------------------------
 RACINE       = _racine_depot()
-OUT          = RACINE / "adult.m3u"
+OUT          = RACINE / "data" / "adult.m3u"
 
 GROUPE       = "Zone 18@"            # valeur de group-title
 DUREE_REELLE = True                  # True = durée en secondes | False = -1

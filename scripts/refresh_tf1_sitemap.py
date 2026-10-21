@@ -40,7 +40,7 @@ SITEMAP_INDEX = "https://www.tf1.fr/sitemaps/sitemap-v.xml"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36")
 KEEP_CHANNELS = {"tf1", "tmc", "tfx", "tf1-series-films", "lci"}
-OUT = os.path.join(os.path.dirname(__file__), "..", "data-replay-tf1.m3u")
+OUT = os.path.join(os.path.dirname(__file__), "..", "data", "replay", "data-replay-tf1.m3u")
 MIN_PROGRAMS = 500  # garde-fou : sous ce seuil on considere le sitemap KO
 NOW = datetime.datetime.now(datetime.timezone.utc)
 

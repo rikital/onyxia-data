@@ -18,7 +18,7 @@ INTACT. Append avec saut de ligne en tete.
 import re, sys, os, time, json, urllib.request
 
 HERE = os.path.dirname(__file__)
-M3U = os.path.join(HERE, "..", "data-replay-bfm.m3u")
+M3U = os.path.join(HERE, "..", "data", "replay", "data-replay-bfm.m3u")
 BFF = "https://www.rmcbfmplay.com/api/bff/v1"
 UA  = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 MIN_ENUM = 300

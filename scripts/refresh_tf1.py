@@ -350,7 +350,7 @@ def generate(output_path):
 
 
 if __name__ == "__main__":
-    out = os.environ.get("OUTPUT", "data-replay-tf1.m3u")
+    out = os.environ.get("OUTPUT", "data/replay/data-replay-tf1.m3u")
     n = generate(out)
     if n == 0:
         sys.exit(1)

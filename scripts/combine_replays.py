@@ -10,11 +10,11 @@ import os, re, sys
 from pathlib import Path
 
 SITES = [
-    ("data-replay-bfm.m3u",      "BFM/RMC",         "bfmplay|bfmlive"),
-    ("data-replay-tf1.m3u",      "TF1+",            "tf1plus|tf1live"),
-    ("data-replay-m6.m3u",       "M6+",             "m6play"),
-    ("data-replay-francetv.m3u", "France.tv",       "francetv"),
-    ("data-replay-arte.m3u",     "Arte",            "arte"),
+    ("data/replay/data-replay-bfm.m3u",      "BFM/RMC",         "bfmplay|bfmlive"),
+    ("data/replay/data-replay-tf1.m3u",      "TF1+",            "tf1plus|tf1live"),
+    ("data/replay/data-replay-m6.m3u",       "M6+",             "m6play"),
+    ("data/replay/data-replay-francetv.m3u", "France.tv",       "francetv"),
+    ("data/replay/data-replay-arte.m3u",     "Arte",            "arte"),
 ]
 OUTPUT = os.environ.get("OUTPUT", "data-replay.m3u")
 

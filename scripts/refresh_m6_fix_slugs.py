@@ -25,7 +25,7 @@ GARDE-FOUS (anti-casse) :
 import re, sys, os, time, json, gzip, urllib.request
 
 HERE = os.path.dirname(__file__)
-M3U = os.path.join(HERE, "..", "data-replay-m6.m3u")
+M3U = os.path.join(HERE, "..", "data", "replay", "data-replay-m6.m3u")
 SITEMAP = "https://www.m6.fr/sitemap-program.xml"
 MW = "https://pc.middleware.6play.fr/6play/v2/platforms/m6group_web/services/m6replay/programs"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"

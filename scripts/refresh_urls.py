@@ -262,7 +262,7 @@ async def fetch_external_source(session, label: str, url: str) -> list:
 #   group-title = le nom du dossier -> un dossier dans « Autres Replays > Mix FR ».
 #   La section est reconstruite a chaque refresh (entre les deux marqueurs), donc
 #   toujours a jour ; si un lien ne repond pas, son ancien contenu est conserve.
-DOSSIERS_FICHIER = os.path.join(os.path.dirname(LOCAL_M3U) or ".", "mixfr-dossiers.txt")
+DOSSIERS_FICHIER = os.path.join(os.path.dirname(LOCAL_M3U) or ".", "data", "mixfr-dossiers.txt")
 DOSSIERS_DEBUT = "# ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) ====="
 DOSSIERS_FIN = "# ===== FIN DOSSIERS MIX FR ====="
 
