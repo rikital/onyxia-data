@@ -2,7 +2,7 @@ name: playlist-adulte
 
 on:
   schedule:
-    - cron: "15 */6 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 concurrency:
@@ -25,7 +25,17 @@ jobs:
         run: |
           set -e
           SCRIPT="$(find . -name eporner_m3u.py -not -path './.git/*' | head -n 1)"
+          if [ -z "$SCRIPT" ]; then
+            echo "script eporner_m3u.py introuvable"
+            exit 1
+          fi
           echo "script : $SCRIPT"
+          echo "lignes : $(wc -l < "$SCRIPT")"
+          echo "--- dernieres lignes du script ---"
+          tail -n 3 "$SCRIPT"
+          echo "--- controle de syntaxe ---"
+          python -c "import ast,sys; ast.parse(open(sys.argv[1],encoding='utf-8').read()); print('syntaxe OK')" "$SCRIPT"
+          echo "--- execution ---"
           python -u "$SCRIPT"
 
       - name: Publier
