@@ -5,7 +5,8 @@ eporner_m3u.py
 --------------
 Génère adult.m3u depuis l'API publique Eporner (aucune clé requise).
 
-Le fichier est écrit à la racine du dépôt, à côté des autres .m3u.
+Le fichier est toujours écrit à la RACINE du dépôt, même si ce script
+est placé dans un sous-dossier (scripts/, outils/, ...).
 Aucune dépendance externe : bibliothèque standard uniquement.
 
 Usage :
@@ -22,8 +23,19 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+
+def _racine_depot():
+    """Remonte jusqu'à la racine du dépôt (.git) pour que adult.m3u
+    tombe toujours au même endroit, quel que soit l'emplacement du script."""
+    ici = Path(__file__).resolve().parent
+    for d in (ici, *ici.parents):
+        if (d / ".git").exists():
+            return d
+    return ici
+
+
 # ------------------------------- CONFIG --------------------------------
-RACINE       = Path(__file__).resolve().parent
+RACINE       = _racine_depot()
 OUT          = RACINE / "adult.m3u"
 
 GROUPE       = "Zone 18@"            # valeur de group-title
@@ -130,7 +142,7 @@ def collecter():
 
 
 def main():
-    print("Eporner -> adult.m3u")
+    print(f"Eporner -> {OUT}")
     fiches = collecter()
     print(f"  {len(fiches)} videos distinctes recuperees")
     if not fiches:
@@ -144,24 +156,4 @@ def main():
         gardees = [(f, u) for f, u in zip(fiches, urls) if u]
         print(f"  {len(gardees)}/{len(fiches)} liens valides")
     else:
-        gardees = [(f, resoudre(f["vid"], f["slug"])) for f in fiches]
-
-    if not gardees:
-        print("  aucun lien valide, adult.m3u laisse intact")
-        return 0
-
-    tmp = OUT.parent / (OUT.name + ".tmp")
-    with tmp.open("w", encoding="utf-8", newline="\n") as fh:
-        fh.write("#EXTM3U\n")
-        for f, url in gardees:
-            duree = f["duree"] if DUREE_REELLE else -1
-            titre = f["titre"].replace('"', "'")
-            fh.write(f'#EXTINF:{duree} tvg-logo="{f["logo"]}" '
-                     f'group-title="{GROUPE}",{titre}\n{url}\n')
-    tmp.replace(OUT)
-    print(f"  ecrit : {OUT.name} ({len(gardees)} entrees)")
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+        gardees = [(f, resoudre(f["vid"], f["slug"]))
