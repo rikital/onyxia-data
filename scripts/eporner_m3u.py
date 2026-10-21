@@ -128,3 +128,131 @@ def _poser_cookie(nom, valeur):
         path="/", path_specified=True, secure=True, expires=None,
         discard=False, comment=None, comment_url=None, rest={}, rfc2109=False,
     ))
+def _portail(texte):
+    return "Age verification" in texte[:2000]
+
+
+def _franchir_portail(page):
+    print("  [!] portail d'age detecte, tentative de passage", flush=True)
+
+    def retenter(etiquette):
+        h = _lire("https://www.eporner.com/", "accueil")
+        if h and not _portail(h):
+            print(f"      {etiquette} -> PORTE FRANCHIE", flush=True)
+            return h
+        print(f"      {etiquette} -> toujours bloque", flush=True)
+        return None
+
+    for nom in COOKIES_AGE:
+        _poser_cookie(nom, "1")
+    h = retenter("cookies d'age")
+    if h:
+        return h
+
+    liens = [l for l in re.findall(r'href="([^"]+)"', page)
+             if not re.search(r"\.(css|js|png|jpe?g|svg|ico|gif)(\?|$)", l)]
+    for lien in liens[:6]:
+        url = lien if lien.startswith("http") else "https://www.eporner.com" + lien
+        _lire(url, "lien portail")
+        h = retenter(f"suivi {url}")
+        if h:
+            return h
+
+    for chemin in ("/ageverify/", "/age-verify/", "/?age=1", "/?ageok=1"):
+        _lire("https://www.eporner.com" + chemin, "chemin portail")
+        h = retenter(f"chemin {chemin}")
+        if h:
+            return h
+
+    print("      AUCUN contournement n'a fonctionne", flush=True)
+    return None
+
+
+def _trouver_videos(html):
+    morceaux = re.split(r'data-id="(\d+)"', html)
+    trouvees = []
+    for i in range(1, len(morceaux) - 1, 2):
+        numid, bloc = morceaux[i], morceaux[i + 1]
+        m_lien = re.search(r'href="[^"]*?/video-([A-Za-z0-9]+)/([^/"]+)/"', bloc)
+        if not m_lien:
+            continue                       # carte de photo, pas de video
+        m_alt = re.search(r'alt="([^"]*)"', bloc)
+        m_vig = re.search(r'(?:data-src|src)="(https://[^"]*?\.jpg)"', bloc)
+        m_dur = re.search(r'class="mbtim"[^>]*>(\d{1,3}):(\d{2})', bloc)
+        titre = html_mod.unescape((m_alt.group(1) if m_alt else "").strip())
+        if not titre:
+            titre = m_lien.group(2).replace("-", " ")
+        duree = int(m_dur.group(1)) * 60 + int(m_dur.group(2)) if m_dur else 0
+        trouvees.append((m_lien.group(1), numid, titre, duree,
+                         m_vig.group(1) if m_vig else ""))
+    return trouvees
+
+
+def lien_vivant(url):
+    for methode in ("HEAD", "GET"):
+        for essai in range(3):
+            try:
+                req = urllib.request.Request(url, method=methode, headers=ENTETES)
+                if methode == "GET":
+                    req.add_header("Range", "bytes=0-2047")
+                with OUVREUR.open(req, timeout=DELAI) as r:
+                    return 200 <= r.status < 300
+            except urllib.error.HTTPError as e:
+                if e.code in (405, 501):
+                    break
+                if e.code in REESSAYABLES and essai < 2:
+                    time.sleep(1.0 * (essai + 1))
+                    continue
+                return False
+            except Exception:
+                if essai < 2:
+                    time.sleep(0.8 * (essai + 1))
+                    continue
+                break
+    return False
+
+
+def resoudre(hash_video, numid):
+    for q in QUALITES:
+        url = f"https://www.eporner.com/dload/{hash_video}/{q}/{numid}-{q}p.mp4"
+        if not VERIFIER or lien_vivant(url):
+            return url
+    return None
+
+
+def _pages_eporner(source):
+    base = source.rstrip("/")
+    urls = [source]
+    for n in range(2, PAGES_EPORNER + 1):
+        urls.append(f"{base}/{n}/")
+    return urls
+
+
+def _lire_page(url):
+    h = _lire(url, url)
+    if h and _portail(h):
+        if _franchir_portail(h):
+            h = _lire(url, url)
+    return h
+
+
+def bloc_eporner():
+    print("Eporner :", flush=True)
+    accueil = _lire("https://www.eporner.com/", "accueil")
+    if not accueil:
+        print("  [!] accueil injoignable", flush=True)
+        return []
+    if _portail(accueil) and not _franchir_portail(accueil):
+        print("  [!] portail d'age non franchi", flush=True)
+        return []
+    print(f"  cookies en session : {len(POT_A_COOKIES)}", flush=True)
+
+    urls = []
+    for source in SOURCES_EPORNER:
+        urls.extend(_pages_eporner(source))
+    print(f"  {len(urls)} pages a lire", flush=True)
+
+    vues = {}
+    for debut in range(0, len(urls), THREADS_EPO):
+        lot = urls[debut:debut + THREADS_EPO]
+        with ThreadPoolExecutor(max_workers=THREADS_EPO) as pool:
