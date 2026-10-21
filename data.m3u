@@ -7566,6 +7566,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spect
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:1250 tvg-logo="https://static-ca-cdn.eporner.com/thumbs/static4/1/18/186/18681414/13_240.jpg" group-title="Zone 18@ - Zone 18@",Private Society Emma Two Bigs Soft Pillows
