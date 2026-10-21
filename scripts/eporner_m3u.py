@@ -5,9 +5,8 @@ eporner_m3u.py
 --------------
 Génère adult.m3u depuis les pages publiques d'Eporner (sans clé, sans API).
 
-L'API v2 ne répond qu'aux toutes premières requêtes depuis une IP de
-datacenter, les suivantes expirent. Les pages HTML répondent normalement,
-on les lit donc directement.
+Le site filtre les IP de datacenter : on garde donc une session (cookies
+conservés entre les requêtes) et des en-têtes de navigateur complets.
 
 Le fichier est écrit dans data/adult.m3u si le dossier data/ existe,
 sinon à la racine du dépôt.
@@ -16,6 +15,7 @@ Usage :
     python eporner_m3u.py
 """
 
+import http.cookiejar
 import re
 import sys
 import time
@@ -51,7 +51,7 @@ SOURCES = [
     "https://www.eporner.com/best-videos/",      # la sélection
 ]
 
-VERIFIER     = True                  # teste chaque lien avant de l'écrire
+VERIFIER     = True
 THREADS      = 8
 PAUSE        = 1.0                   # secondes entre deux pages
 DELAI        = 15
@@ -61,9 +61,24 @@ ENTETES = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) "
                    "Chrome/120.0.0.0 Safari/537.36"),
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "image/avif,image/webp,*/*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9,fr;q=0.8",
+    "Accept-Encoding": "identity",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
     "Referer": "https://www.eporner.com/",
-    "Accept": "text/html,application/xhtml+xml,*/*",
+    "Connection": "keep-alive",
 }
+
+# Session partagée : les cookies reçus au premier appel sont renvoyés ensuite.
+POT_A_COOKIES = http.cookiejar.CookieJar()
+OUVREUR = urllib.request.build_opener(
+    urllib.request.HTTPCookieProcessor(POT_A_COOKIES)
+)
 
 REESSAYABLES = (429, 500, 502, 503, 504)
 
@@ -74,10 +89,11 @@ BLOC_VIDEO = re.compile(
 
 
 def _lire(url, etiquette="", essais=3):
+    """GET avec session, en-têtes navigateur et réessais. Rend le texte."""
     for n in range(essais):
         try:
             req = urllib.request.Request(url, method="GET", headers=ENTETES)
-            with urllib.request.urlopen(req, timeout=DELAI) as r:
+            with OUVREUR.open(req, timeout=DELAI) as r:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code in REESSAYABLES and n < essais - 1:
@@ -89,7 +105,7 @@ def _lire(url, etiquette="", essais=3):
             if n < essais - 1:
                 time.sleep(1.5 * (n + 1))
                 continue
-            print(f"  [!] {etiquette} {type(e).__name__}")
+            print(f"  [!] {etiquette} {type(e).__name__}: {e}")
     return ""
 
 
@@ -113,17 +129,17 @@ def _trouver_videos(html):
 
 
 def lien_vivant(url):
-    """HEAD puis repli GET partiel. Reessaie sur 429/5xx et incident reseau."""
+    """HEAD puis repli GET partiel, avec session et réessais."""
     for methode in ("HEAD", "GET"):
         for essai in range(3):
             try:
                 req = urllib.request.Request(url, method=methode, headers=ENTETES)
                 if methode == "GET":
                     req.add_header("Range", "bytes=0-2047")
-                with urllib.request.urlopen(req, timeout=DELAI) as r:
+                with OUVREUR.open(req, timeout=DELAI) as r:
                     return 200 <= r.status < 300
             except urllib.error.HTTPError as e:
-                if e.code in (405, 501):      # methode refusee -> on passe a GET
+                if e.code in (405, 501):
                     break
                 if e.code in REESSAYABLES and essai < 2:
                     time.sleep(1.0 * (essai + 1))
@@ -146,6 +162,10 @@ def resoudre(hash_video, numid):
 
 
 def collecter():
+    print("  ouverture de session sur le site...")
+    _lire("https://www.eporner.com/", "accueil (session)")
+    print(f"  cookies recus : {len(POT_A_COOKIES)}")
+
     vus, fiches, ok = set(), [], 0
     total = len(SOURCES) * PAGES
     for source in SOURCES:
@@ -157,7 +177,8 @@ def collecter():
                 continue
             trouvees = _trouver_videos(html)
             if not trouvees:
-                print(f"  [!] {etiquette} : aucun bloc video reconnu")
+                extrait = re.sub(r"\s+", " ", html[:300])
+                print(f"  [!] {etiquette} : aucun bloc reconnu | {extrait}")
                 continue
             ok += 1
             print(f"  [+] {etiquette} : {len(trouvees)} videos")
