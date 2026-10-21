@@ -256,7 +256,7 @@ def bloc_eporner():
     for debut in range(0, len(urls), THREADS_EPO):
         lot = urls[debut:debut + THREADS_EPO]
         with ThreadPoolExecutor(max_workers=THREADS_EPO) as pool:
-for i, page in enumerate(pool.map(_lire_page, lot), start=debut + 1):
+            for i, page in enumerate(pool.map(_lire_page, lot), start=debut + 1):
                 if not page:
                     print(f"  page {i:2d} : vide", flush=True)
                     continue
