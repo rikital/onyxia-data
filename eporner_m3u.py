@@ -95,17 +95,27 @@ def lien_vivant(url):
     return False
 
 
-def resoudre(vid, slug):
+def _id_numerique(v):
+    """L'id numérique se lit dans le chemin des vignettes : .../<numid>/12_240.jpg"""
+    vignettes = [v.get("default_thumb") or {}] + list(v.get("thumbs") or [])
+    for t in vignettes:
+        m = re.search(r"/(\d+)/\d+_\d+\.jpg", t.get("src") or "")
+        if m:
+            return m.group(1)
+    return None
+
+
+def resoudre(hash_video, numid):
     """Renvoie la première URL de qualité qui répond, sinon None."""
     for q in QUALITES:
-        url = f"https://www.eporner.com/dload/{slug}/{q}/{vid}-{q}p.mp4"
+        url = f"https://www.eporner.com/dload/{hash_video}/{q}/{numid}-{q}p.mp4"
         if not VERIFIER or lien_vivant(url):
             return url
     return None
 
 
 def collecter():
-    vus, fiches = set(), []
+    vus, fiches, ok = set(), [], 0
     for requete in REQUETES:
         for page in range(1, PAGES + 1):
             params = urllib.parse.urlencode({
@@ -121,23 +131,23 @@ def collecter():
             except json.JSONDecodeError:
                 print(f"  [!] {requete or '(top)'} p{page} : JSON illisible")
                 continue
+            ok += 1
             for v in videos:
-                m = re.search(r"video-(\d+)/([^/]+)", v.get("url", ""))
-                if not m:
+                hash_video = (v.get("id") or "").strip()
+                numid = _id_numerique(v)
+                if not hash_video or not numid or hash_video in vus:
                     continue
-                vid, slug = m.group(1), m.group(2)
-                if vid in vus:
-                    continue
-                vus.add(vid)
-                titre = re.sub(r"\s+", " ", v.get("title", "")).strip() or vid
-                logo = (v.get("thumbs") or [{}])[0].get("src", "") or ""
+                vus.add(hash_video)
+                titre = re.sub(r"\s+", " ", v.get("title", "")).strip() or hash_video
+                logo = (v.get("default_thumb") or {}).get("src", "") or ""
                 if logo.startswith("//"):
                     logo = "https:" + logo
                 fiches.append({
-                    "vid": vid, "slug": slug, "titre": titre,
+                    "hash": hash_video, "numid": numid, "titre": titre,
                     "duree": int(v.get("length_sec") or 0), "logo": logo,
                 })
             time.sleep(0.3)
+    print(f"  {ok}/{len(REQUETES) * PAGES} requetes API exploitables")
     return fiches
 
 
@@ -152,11 +162,11 @@ def main():
     if VERIFIER:
         print(f"  verification des liens ({THREADS} en parallele)...")
         with ThreadPoolExecutor(max_workers=THREADS) as ex:
-            urls = list(ex.map(lambda f: resoudre(f["vid"], f["slug"]), fiches))
+            urls = list(ex.map(lambda f: resoudre(f["hash"], f["numid"]), fiches))
         gardees = [(f, u) for f, u in zip(fiches, urls) if u]
         print(f"  {len(gardees)}/{len(fiches)} liens valides")
     else:
-        gardees = [(f, resoudre(f["vid"], f["slug"])) for f in fiches]
+        gardees = [(f, resoudre(f["hash"], f["numid"])) for f in fiches]
 
     if not gardees:
         print("  aucun lien valide, adult.m3u laisse intact")
