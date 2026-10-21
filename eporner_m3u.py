@@ -51,8 +51,9 @@ REQUETES = [
 ]
 
 VERIFIER     = True                  # teste chaque lien avant de l'écrire
-THREADS      = 12                    # parallélisme de la vérification
-DELAI        = 10                    # secondes
+THREADS      = 8                     # parallélisme de la vérification
+PAUSE        = 1.5                   # secondes entre deux requêtes API
+DELAI        = 15                    # secondes
 # -----------------------------------------------------------------------
 
 API = "https://www.eporner.com/api/v2/video/search/"
@@ -61,37 +62,56 @@ ENTETES = {
                    "AppleWebKit/537.36 (KHTML, like Gecko) "
                    "Chrome/120.0.0.0 Safari/537.36"),
     "Referer": "https://www.eporner.com/",
+    "Accept": "application/json, video/*, */*",
 }
 
+REESSAYABLES = (429, 500, 502, 503, 504)
 
-def _lire(url, essais=3):
+
+def _lire(url, etiquette="", essais=4):
     for n in range(essais):
         try:
             req = urllib.request.Request(url, method="GET", headers=ENTETES)
             with urllib.request.urlopen(req, timeout=DELAI) as r:
                 return r.read()
-        except urllib.error.HTTPError:
+        except urllib.error.HTTPError as e:
+            if e.code in REESSAYABLES:
+                attente = 2.0 * (n + 1)
+                print(f"  [~] {etiquette} HTTP {e.code} -> pause {attente:.0f}s")
+                time.sleep(attente)
+                continue
+            print(f"  [!] {etiquette} HTTP {e.code}")
             return b""
-        except Exception:
-            time.sleep(0.7 * (n + 1))
+        except Exception as e:
+            attente = 1.5 * (n + 1)
+            print(f"  [~] {etiquette} {type(e).__name__} -> pause {attente:.0f}s")
+            time.sleep(attente)
+    print(f"  [!] {etiquette} abandon apres {essais} essais")
     return b""
 
 
 def lien_vivant(url):
-    """HEAD puis repli GET partiel. True si le serveur accepte le lien."""
+    """HEAD puis repli GET partiel. Reessaie sur 429/5xx et incident reseau."""
     for methode in ("HEAD", "GET"):
-        try:
-            req = urllib.request.Request(url, method=methode, headers=ENTETES)
-            if methode == "GET":
-                req.add_header("Range", "bytes=0-2047")
-            with urllib.request.urlopen(req, timeout=DELAI) as r:
-                return 200 <= r.status < 300
-        except urllib.error.HTTPError as e:
-            if e.code in (405, 501):     # HEAD refusé -> on retente en GET
-                continue
-            return False
-        except Exception:
-            continue
+        for essai in range(3):
+            try:
+                req = urllib.request.Request(url, method=methode, headers=ENTETES)
+                if methode == "GET":
+                    req.add_header("Range", "bytes=0-2047")
+                with urllib.request.urlopen(req, timeout=DELAI) as r:
+                    return 200 <= r.status < 300
+            except urllib.error.HTTPError as e:
+                if e.code in (405, 501):      # methode refusee -> on passe a GET
+                    break
+                if e.code in REESSAYABLES and essai < 2:
+                    time.sleep(1.0 * (essai + 1))
+                    continue
+                return False
+            except Exception:
+                if essai < 2:
+                    time.sleep(0.8 * (essai + 1))
+                    continue
+                break
     return False
 
 
@@ -116,20 +136,21 @@ def resoudre(hash_video, numid):
 
 def collecter():
     vus, fiches, ok = set(), [], 0
+    total = len(REQUETES) * PAGES
     for requete in REQUETES:
         for page in range(1, PAGES + 1):
+            etiquette = f"{requete or '(top)'} p{page}"
             params = urllib.parse.urlencode({
                 "query": requete, "per_page": PAR_PAGE, "page": page,
                 "order": ORDRE, "lq": 1, "format": "json",
             })
-            brut = _lire(f"{API}?{params}")
+            brut = _lire(f"{API}?{params}", etiquette)
             if not brut:
-                print(f"  [!] {requete or '(top)'} p{page} : pas de reponse")
                 continue
             try:
                 videos = json.loads(brut).get("videos", [])
             except json.JSONDecodeError:
-                print(f"  [!] {requete or '(top)'} p{page} : JSON illisible")
+                print(f"  [!] {etiquette} : JSON illisible")
                 continue
             ok += 1
             for v in videos:
@@ -146,8 +167,8 @@ def collecter():
                     "hash": hash_video, "numid": numid, "titre": titre,
                     "duree": int(v.get("length_sec") or 0), "logo": logo,
                 })
-            time.sleep(0.3)
-    print(f"  {ok}/{len(REQUETES) * PAGES} requetes API exploitables")
+            time.sleep(PAUSE)
+    print(f"  {ok}/{total} requetes API exploitables")
     return fiches
 
 
