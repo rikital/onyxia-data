@@ -51,7 +51,7 @@ SOURCES = [
 
 VERIFIER     = False                 # False = on garde tout, sans test des liens
 THREADS      = 8
-PAUSE        = 1.0                   # secondes entre deux pages
+PAUSE        = 1.0                   # secondes entre deux lots de pages
 DELAI        = 15
 
 COOKIES_AGE = ("age_verified", "age_ok", "ageok", "ep_age",
@@ -115,7 +115,6 @@ def _portail(texte):
 def _franchir_portail(page):
     """Tente de passer la page de vérification d'âge. Rend la vraie page ou None."""
     print("  [!] portail d'age detecte, tentative de passage")
-    print("      extrait : " + re.sub(r"\s+", " ", page[:500]))
 
     def retenter(etiquette):
         h = _lire("https://www.eporner.com/", "accueil")
@@ -208,4 +207,81 @@ def resoudre(hash_video, numid):
     return None
 
 
-def
+def _pages(source):
+    """Liste des URLs de pages à lire pour une source."""
+    base = source.rstrip("/")
+    urls = [source]
+    for n in range(2, PAGES + 1):
+        urls.append(f"{base}/{n}/")
+    return urls
+
+
+def _lire_page(url):
+    """Lit une page en franchissant le portail d'âge si nécessaire."""
+    h = _lire(url, url)
+    if h and _portail(h):
+        if _franchir_portail(h):
+            h = _lire(url, url)
+    return h
+
+
+def main():
+    print("Eporner -> playlist adulte")
+    print(f"  cible : {OUT}")
+
+    accueil = _lire("https://www.eporner.com/", "accueil")
+    if not accueil:
+        print("  [!] accueil injoignable")
+        return 1
+    if _portail(accueil):
+        if not _franchir_portail(accueil):
+            print("  [!] portail d'age non franchi")
+            return 1
+    print(f"  cookies en session : {len(POT_A_COOKIES)}")
+
+    urls = []
+    for source in SOURCES:
+        urls.extend(_pages(source))
+    print(f"  {len(urls)} pages a lire")
+
+    vues = {}
+    for debut in range(0, len(urls), THREADS):
+        lot = urls[debut:debut + THREADS]
+        with ThreadPoolExecutor(max_workers=THREADS) as pool:
+            for i, page in enumerate(pool.map(_lire_page, lot), start=debut + 1):
+                if not page:
+                    print(f"  page {i:2d} : vide")
+                    continue
+                trouvees = _trouver_videos(page)
+                print(f"  page {i:2d} : {len(trouvees):3d} videos")
+                for hash_video, numid, titre, duree, vignette in trouvees:
+                    if numid not in vues:
+                        vues[numid] = (hash_video, titre, duree, vignette)
+        time.sleep(PAUSE)
+
+    print(f"  {len(vues)} videos distinctes")
+    if not vues:
+        print("  [!] rien a ecrire")
+        return 1
+
+    lignes = ["#EXTM3U"]
+    gardees = 0
+    for numid, (hash_video, titre, duree, vignette) in vues.items():
+        url = resoudre(hash_video, numid)
+        if not url:
+            continue
+        d = duree if DUREE_REELLE else -1
+        lignes.append(f'#EXTINF:{d} tvg-logo="{vignette}" '
+                      f'group-title="{GROUPE}",{titre}')
+        lignes.append(url)
+        gardees += 1
+
+    tmp = OUT.with_name(OUT.name + ".tmp")
+    tmp.write_text("\n".join(lignes) + "\n", encoding="utf-8")
+    tmp.replace(OUT)
+    print(f"  ecrit : {OUT} ({gardees} entrees)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
