@@ -237,6 +237,8 @@ tf1plus://tf1/nurses
 tf1plus://tf1/royal-scandal
 #EXTINF:-1 tvg-id="tf1plus-tf1-wildfire-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a42aa6-64d8ef-45d5be-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Wildfire
 tf1plus://tf1/wildfire
+#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
+tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-demain-nous-appartient-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-383bbe-2d5eb0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Demain Nous Appartient
 tf1plus://tf1/demain-nous-appartient
 #EXTINF:-1 tvg-id="tf1plus-tf1-ici-tout-commence-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_itc-2026-6f5fc3-3ada76-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Ici Tout Commence
@@ -245,8 +247,6 @@ tf1plus://tf1/ici-tout-commence
 tf1plus://tf1/plus-belle-la-vie
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-feux-de-l-amour-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d0af9e-eeb3a3-eb3bc6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Les Feux de L Amour
 tf1plus://tf1/les-feux-de-l-amour
-#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
-tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-a-tue-le-petit-emile-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-89fb0d-f110de-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Qui A Tue le Petit Emile
 tf1plus://tf1/qui-a-tue-le-petit-emile
 #EXTINF:-1 tvg-id="tf1plus-tf1-zodiaque-176-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-92d32f-6895ec-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Zodiaque 176
@@ -1049,8 +1049,6 @@ tf1plus://tf1/au-coeur-de-la-vengeance
 tf1plus://tf1/a-dix-minutes-de-nulle-part
 #EXTINF:-1 tvg-id="tf1plus-tf1-noel-a-tous-les-etages-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-bf208d-b70535-f53608-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Noel A Tous les Etages
 tf1plus://tf1/noel-a-tous-les-etages
-#EXTINF:-1 tvg-id="tf1plus-tf1-un-bebe-pour-noel-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-414f47-ae89fb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Un Bebe Pour Noel
-tf1plus://tf1/un-bebe-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-oradour-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ce6fb0-509211-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Oradour
 tf1plus://tf1/oradour
 #EXTINF:-1 tvg-id="tf1plus-tf1-merlin-lenchanteur-desenchante-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2ef434-89a583-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Merlin Lenchanteur Desenchante
@@ -1085,6 +1083,8 @@ tf1plus://tf1/panique-au-grand-magasin
 tf1plus://tf1/un-meurtre-presque-parfait
 #EXTINF:-1 tvg-id="tf1plus-tf1-l-emprise-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-l-emprise-vignette_portrait-73c39a-a26610-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",L Emprise
 tf1plus://tf1/l-emprise
+#EXTINF:-1 tvg-id="tf1plus-tf1-francoise-dolto-desir-de-vivre-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-3ac2c5-d9ee7c-01fd7a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Francoise Dolto Desir de Vivre
+tf1plus://tf1/francoise-dolto-desir-de-vivre
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-medaillon-de-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-ed33d9-bb386c-780e1d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Le Medaillon de Noel
 tf1plus://tf1/le-medaillon-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-rouge-comme-lamour-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-un-noel-rouge-comme-lamour-f348a9-b86ee9-eba72d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Un Noel Rouge Comme Lamour
@@ -3749,8 +3749,6 @@ tf1plus://tf1/flics
 tf1plus://tf1/fort-comme-un-homme
 #EXTINF:-1 tvg-id="tf1plus-tf1-france-kbek-smx" tvg-logo="https://photos.tf1.fr/1200/720/france-kbek-s01-e10-824eec-a19fff-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",France Kbek
 tf1plus://tf1/france-kbek
-#EXTINF:-1 tvg-id="tf1plus-tf1-francoise-dolto-desir-de-vivre-smx" tvg-logo="https://photos.tf1.fr/1200/720/francoise-dolto-le-desir-de-vivre-73252245-1759078764-fc8b49-a310f2-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Françoise Dolto, désir de vivre
-tf1plus://tf1/francoise-dolto-desir-de-vivre
 #EXTINF:-1 tvg-id="tf1plus-tf1-frank-riva-smx" tvg-logo="https://photos.tf1.fr/1200/720/frank-riva-s02-e02-lange-rouge-65763525-1726236146-b33f8c-ce64ff-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Frank Riva
 tf1plus://tf1/frank-riva
 #EXTINF:-1 tvg-id="tf1plus-tf1-frank-sans-c-lheure-des-montres-smx" tvg-logo="https://photos.tf1.fr/1200/720/4-vignette-_moins-de-500_tf1-6a500c-1bb19c-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Frank Sans C - L'heure des montres
@@ -5721,6 +5719,8 @@ tf1plus://tf1/un-automne-a-deux
 tf1plus://tf1/un-automne-a-manhattan
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-baby-sitter-trop-seduisant-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-baby-sitter-trop-seduisant-60269392-1706204839-e4c513-92e47e-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un baby-sitter trop séduisant
 tf1plus://tf1/un-baby-sitter-trop-seduisant
+#EXTINF:-1 tvg-id="tf1plus-tf1-un-bebe-pour-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-bebe-pour-noel-partie-1-52617098-1700668470-c454f3-7d88c8-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Un bébé pour Noël
+tf1plus://tf1/un-bebe-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-billet-pour-le-pole-sud-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-billet-pour-le-pole-sud-1-faede3-089e38-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un billet pour le pôle sud
 tf1plus://tf1/un-billet-pour-le-pole-sud
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-cadavre-dans-le-grenier-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-cadavre-dans-le-grenier-89957592-1751340550-5b58f7-cab210-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un cadavre dans le grenier
