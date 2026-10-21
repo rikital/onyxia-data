@@ -1,0 +1,29 @@
+name: playlist-adulte
+
+on:
+  schedule:
+    - cron: "15 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: donnees
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  adulte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python eporner_m3u.py
+      - run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add adult.m3u
+          git diff --cached --quiet || git commit -m "adulte: refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
