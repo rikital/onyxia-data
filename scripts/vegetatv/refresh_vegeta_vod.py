@@ -26,7 +26,12 @@ from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
-SERVERS_URL = "http://vegetatv.duckdns.org/data/server_status.json"
+# 2026-10-21 (user : « on avait fait que pour les lives et on n'a pas réparé pour films et
+#   séries ») : comme refresh_vegetatv.py depuis le 15/10, on lit AUSSI la liste du backend
+#   de VegetaTV 10.6. L'ancienne liste n'est plus régénérée depuis le 15/10 ; la nouvelle a
+#   52 serveurs, presque tous nouveaux (dont 5 FR). Fusion, doublons écartés par URL.
+SERVERS_URLS = ["http://vegetatvv2.duckdns.org/data/server_status.json",   # backend VegetaTV 10.6
+                "http://vegetatv.duckdns.org/data/server_status.json"]     # ancien
 OUT_INDEX   = os.environ.get("VEGETA_VOD_OUT", "data/vegetatv/vegeta-vod-fr.json")
 OUT_EP_DIR  = os.environ.get("VEGETA_VOD_EP_DIR", "data/vegetatv/vod-ep")
 MAX_SERVERS = int(os.environ.get("VEGETA_VOD_MAX_SERVERS", "6"))
@@ -190,11 +195,25 @@ def api(srv, action, retries=2, timeout=None, **kw):
     raise last
 
 def fetch_servers():
-    r = requests.get(SERVERS_URL, headers=H, timeout=30)
-    r.raise_for_status()
-    lst = (r.json() or {}).get("list") or []
-    out = []
+    lst, erreurs = [], []
+    for url_liste in SERVERS_URLS:
+        try:
+            r = requests.get(url_liste, headers=H, timeout=30)
+            r.raise_for_status()
+            part = (r.json() or {}).get("list") or []
+            log("%s -> %d entrée(s)" % (url_liste, len(part)))
+            lst.extend(part)
+        except Exception as e:
+            erreurs.append("%s: %s" % (url_liste, e))
+            log("liste KO %s : %s" % (url_liste, e))
+    if not lst:
+        raise RuntimeError("aucune liste Vegeta lisible (%s)" % "; ".join(erreurs))
+    out, vus = [], set()
     for i, o in enumerate(lst):
+        cle = (o.get("url", "") or "").strip().lower()
+        if not cle or cle in vus:
+            continue
+        vus.add(cle)
         if not (o.get("up") or o.get("status") == "up"):
             continue
         url = o.get("url", "") or ""
