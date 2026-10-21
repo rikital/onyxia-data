@@ -7514,7 +7514,7 @@ https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
 #EXTINF:-1 tvg-chno="1220" tvg-id="FR2100004D7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2100004D7_20261013T053835SQUARE.png" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",1220. 100% Romance [1080p-samsungtvplus]
@@ -7561,6 +7561,10 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",125. SPECTACLE AUX ÉCLUSES : L'ARRIVÉE DES BATEAUX [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spectacle-aux-écluses-larrivée-des-bateaux.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
