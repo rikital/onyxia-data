@@ -79,29 +79,4 @@ accueil = sondage("accueil", "https://www.eporner.com/",
                   motif=r"<form")
 
 if "Age verification" in accueil[:2000]:
-    print("--- tentative de franchissement par cookies ---")
-    for nom in ("age_verified", "age_ok", "ageok", "ep_age", "ep_age_verified",
-                "age", "adult", "nv_age", "ep_age_ok", "ageverif"):
-        POT.set_cookie(http.cookiejar.Cookie(
-            version=0, name=nom, value="1", port=None, port_specified=False,
-            domain=".eporner.com", domain_specified=True, domain_initial_dot=True,
-            path="/", path_specified=True, secure=True, expires=None,
-            discard=False, comment=None, comment_url=None, rest={}, rfc2109=False))
-    statut, finale, texte = lire("https://www.eporner.com/")
-    bloque = "Age verification" in texte[:2000]
-    print(f"apres cookies : statut {statut} | {len(texte)} octets | "
-          f"portail {'ENCORE LA' if bloque else 'FRANCHI'}")
-    print("cookies poses :", [c.name for c in POT])
-    if bloque:
-        print("--- forme du portail ---")
-        print("  " + extrait(texte, r"<form").replace("\n", "\n  ")[:1800])
-        print("--- entetes de la reponse ---")
-        try:
-            req = urllib.request.Request("https://www.eporner.com/", headers=ENTETES)
-            with OUV.open(req, timeout=25) as r:
-                for k, v in r.headers.items():
-                    print(f"  {k}: {v}")
-        except Exception as e:
-            print("  (entetes illisibles)", e)
-
-sondage("liste", "https://www.
+    print("Eporner impose sa verification d'age : pas de contournement, Eporner reste ignore.")

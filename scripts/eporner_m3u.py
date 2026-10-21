@@ -5,8 +5,9 @@
 # Genere data/adult.m3u : un seul fichier, deux sources (Eporner + XVideos),
 # sous le meme dossier « Zone 18@ ».
 #
-# Eporner : portail « Age verification » a franchir, puis lecture des pages HTML
-#           sans verifier chaque lien (le site etrangle au bout de ~100 requetes).
+# Eporner : lecture des pages HTML sans verifier chaque lien (le site etrangle
+#           au bout de ~100 requetes). Si le site impose sa verification d'age,
+#           Eporner est ignore pour ce passage (pas de contournement).
 # XVideos : les liens de flux sont signes et expirent au bout d'environ 3 h,
 #           d'ou un passage toutes les 2 heures (voir adult.yml).
 #
@@ -86,9 +87,6 @@ OUVREUR = urllib.request.build_opener(
 
 REESSAYABLES = (429, 500, 502, 503, 504)
 
-COOKIES_AGE = ("age_verified", "age_ok", "ageok", "ep_age",
-               "ep_age_verified", "age", "adult", "nv_age")
-
 RE_LIEN = re.compile(r'href="(/video\.([a-z0-9]+)/[^"]*)"')
 RE_HAUT = re.compile(r"setVideoUrlHigh\('([^']+)'\)")
 RE_BAS  = re.compile(r"setVideoUrlLow\('([^']+)'\)")
@@ -121,50 +119,14 @@ def _entree(titre, duree, vignette, url):
 
 
 # ------------------------------- EPORNER --------------------------------
-def _poser_cookie(nom, valeur):
-    POT_A_COOKIES.set_cookie(http.cookiejar.Cookie(
-        version=0, name=nom, value=valeur, port=None, port_specified=False,
-        domain=".eporner.com", domain_specified=True, domain_initial_dot=True,
-        path="/", path_specified=True, secure=True, expires=None,
-        discard=False, comment=None, comment_url=None, rest={}, rfc2109=False,
-    ))
 def _portail(texte):
     return "Age verification" in texte[:2000]
 
 
 def _franchir_portail(page):
-    print("  [!] portail d'age detecte, tentative de passage", flush=True)
-
-    def retenter(etiquette):
-        h = _lire("https://www.eporner.com/", "accueil")
-        if h and not _portail(h):
-            print(f"      {etiquette} -> PORTE FRANCHIE", flush=True)
-            return h
-        print(f"      {etiquette} -> toujours bloque", flush=True)
-        return None
-
-    for nom in COOKIES_AGE:
-        _poser_cookie(nom, "1")
-    h = retenter("cookies d'age")
-    if h:
-        return h
-
-    liens = [l for l in re.findall(r'href="([^"]+)"', page)
-             if not re.search(r"\.(css|js|png|jpe?g|svg|ico|gif)(\?|$)", l)]
-    for lien in liens[:6]:
-        url = lien if lien.startswith("http") else "https://www.eporner.com" + lien
-        _lire(url, "lien portail")
-        h = retenter(f"suivi {url}")
-        if h:
-            return h
-
-    for chemin in ("/ageverify/", "/age-verify/", "/?age=1", "/?ageok=1"):
-        _lire("https://www.eporner.com" + chemin, "chemin portail")
-        h = retenter(f"chemin {chemin}")
-        if h:
-            return h
-
-    print("      AUCUN contournement n'a fonctionne", flush=True)
+    # Le portail de verification d'age n'est pas contourne : si le site le
+    # presente, on renonce a Eporner pour ce passage (XVideos est quand meme ecrit).
+    print("  [!] portail de verification d'age : Eporner ignore pour ce passage", flush=True)
     return None
 
 
