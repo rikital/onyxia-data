@@ -248,19 +248,41 @@ def _pages_xvideos():
 
 
 def _cartes(page):
+    """Rend (chemin, eid, titre, duree, vignette) pour chaque carte video.
+
+    On s'ancre sur les liens /video.<eid>/<slug> : c'est le seul repere stable,
+    la classe des cartes changeant selon les gabarits (thumb-block, frame-block).
+    """
     trouves = []
-    for bloc in page.split('class="thumb-block')[1:]:
-        m_lien = RE_LIEN.search(bloc)
-        if not m_lien:
+    vus = set()
+    for m in re.finditer(r'href="(?:https?://[^"]*?)?(/video\.([a-z0-9]+)/([^"]*))"', page):
+        chemin, eid, slug = m.group(1), m.group(2), m.group(3)
+        if eid in vus:
             continue
-        m_titre = re.search(r'title="([^"]*)"', bloc)
-        m_dur = re.search(r'class="duration">\s*(\d+)\s*min', bloc)
-        m_vig = re.search(r'data-sfwthumb="([^"]*\.jpg)"', bloc)
+        vus.add(eid)
+        bloc = page[m.end():m.end() + 2500]
+
+        m_titre = re.search(r'<p class="title">\s*<a[^>]*>([^<]*)</a>', bloc)
+        if not m_titre:
+            m_titre = re.search(r'title="([^"]*)"', bloc)
+        titre = html_mod.unescape(m_titre.group(1)).strip() if m_titre else ""
+        if not titre:
+            titre = slug.replace("_", " ").strip()
+
+        m_vig = re.search(r'data-sfwthumb="([^"]*)"', bloc)
         if not m_vig:
-            m_vig = re.search(r'src="(https://[^"]*?\.(?:jpg|avif))"', bloc)
-        titre = html_mod.unescape((m_titre.group(1) if m_titre else "").strip())
-        duree = int(m_dur.group(1)) * 60 if m_dur else 0
-        trouves.append((m_lien.group(1), m_lien.group(2), titre, duree,
+            m_vig = re.search(r'data-src="(https://[^"]*?\.jpg)"', bloc)
+
+        duree = 0
+        m_dur = re.search(r'class="duration"[^>]*>(.*?)<', bloc, re.S)
+        if m_dur:
+            h = re.search(r'(\d+)\s*h', m_dur.group(1))
+            mn = re.search(r'(\d+)\s*min', m_dur.group(1))
+            if h or mn:
+                duree = ((int(h.group(1)) if h else 0) * 60
+                         + (int(mn.group(1)) if mn else 0)) * 60
+
+        trouves.append((chemin, eid, titre, duree,
                         m_vig.group(1) if m_vig else ""))
     return trouves
 
