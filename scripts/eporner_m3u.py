@@ -115,3 +115,111 @@ def bloc_eporner():
             lignes.extend(_entree(titre, duree, vignette, url))
     print(f"  {len(lignes) // 2} entrees gardees", flush=True)
     return lignes
+# ------------------------------- XVIDEOS --------------------------------
+def _pages_xvideos():
+    urls = ["https://www.xvideos.com/"]
+    for n in range(1, PAGES_XVIDEOS):
+        urls.append(f"https://www.xvideos.com/new/{n}/")
+    return urls
+
+
+def _cartes(page):
+    trouves = []
+    for bloc in page.split('class="thumb-block')[1:]:
+        m_lien = RE_LIEN.search(bloc)
+        if not m_lien:
+            continue
+        m_titre = re.search(r'title="([^"]*)"', bloc)
+        m_dur = re.search(r'class="duration">\s*(\d+)\s*min', bloc)
+        m_vig = re.search(r'data-sfwthumb="([^"]*\.jpg)"', bloc)
+        if not m_vig:
+            m_vig = re.search(r'src="(https://[^"]*?\.(?:jpg|avif))"', bloc)
+        titre = html_mod.unescape((m_titre.group(1) if m_titre else "").strip())
+        duree = int(m_dur.group(1)) * 60 if m_dur else 0
+        trouves.append((m_lien.group(1), m_lien.group(2), titre, duree,
+                        m_vig.group(1) if m_vig else ""))
+    return trouves
+
+
+def _flux(chemin):
+    page = _lire("https://www.xvideos.com" + chemin, chemin)
+    if not page:
+        return ""
+    m = RE_HAUT.search(page) or RE_BAS.search(page)
+    return m.group(1) if m else ""
+
+
+def bloc_xvideos():
+    print("XVideos :", flush=True)
+    cartes = {}
+    pages = _pages_xvideos()
+    print(f"  {len(pages)} pages de listing", flush=True)
+    for i, url in enumerate(pages, start=1):
+        page = _lire(url, f"page {i}")
+        if not page:
+            print(f"  page {i:2d} : vide", flush=True)
+            continue
+        trouvees = _cartes(page)
+        print(f"  page {i:2d} : {len(trouvees):3d} videos", flush=True)
+        for chemin, eid, titre, duree, vignette in trouvees:
+            if eid not in cartes:
+                cartes[eid] = (chemin, titre, duree, vignette)
+
+    print(f"  {len(cartes)} videos distinctes", flush=True)
+    if not cartes:
+        return []
+
+    items = list(cartes.values())
+    flux = []
+    for debut in range(0, len(items), LOT_XVI):
+        lot = items[debut:debut + LOT_XVI]
+        with ThreadPoolExecutor(max_workers=THREADS_XVI) as pool:
+            flux.extend(pool.map(lambda it: _flux(it[0]), lot))
+        print(f"  {min(debut + LOT_XVI, len(items))}/{len(items)} resolus", flush=True)
+        time.sleep(PAUSE_XVI)
+
+    lignes = []
+    for (chemin, titre, duree, vignette), url in zip(items, flux):
+        if url:
+            lignes.extend(_entree(titre, duree, vignette, url))
+    print(f"  {len(lignes) // 2} entrees gardees", flush=True)
+    return lignes
+
+
+# -------------------------------- MAIN ----------------------------------
+def main():
+    print("Eporner + XVideos -> playlist adulte", flush=True)
+    print(f"  cible : {OUT}", flush=True)
+
+    lignes = ["#EXTM3U"]
+    total = 0
+    for nom, fonction in (("Eporner", bloc_eporner), ("XVideos", bloc_xvideos)):
+        try:
+            part = fonction()
+        except Exception as e:
+            print(f"  [!] {nom} : {type(e).__name__}: {e}", flush=True)
+            part = []
+        if not part:
+            print(f"  [!] {nom} : aucune entree", flush=True)
+        total += len(part) // 2
+        lignes.extend(part)
+        print("", flush=True)
+
+    if total == 0:
+        print("  [!] rien a ecrire", flush=True)
+        return 1
+
+    tmp = OUT.with_name(OUT.name + ".tmp")
+    tmp.write_text("\n".join(lignes) + "\n", encoding="utf-8")
+    tmp.replace(OUT)
+    print(f"  ecrit : {OUT} ({total} entrees)", flush=True)
+    return 0
+
+
+print("== lancement ==", flush=True)
+try:
+    sys.exit(main())
+except Exception:
+    import traceback
+    traceback.print_exc()
+    sys.exit(1)
