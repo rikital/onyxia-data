@@ -3,30 +3,30 @@
 """
 eporner_m3u.py
 --------------
-Génère adult.m3u depuis l'API publique Eporner (aucune clé requise).
+Génère adult.m3u depuis les pages publiques d'Eporner (sans clé, sans API).
 
-Le fichier est toujours écrit à la RACINE du dépôt, même si ce script
-est placé dans un sous-dossier (scripts/, outils/, ...).
-Aucune dépendance externe : bibliothèque standard uniquement.
+L'API v2 ne répond qu'aux toutes premières requêtes depuis une IP de
+datacenter, les suivantes expirent. Les pages HTML répondent normalement,
+on les lit donc directement.
+
+Le fichier est écrit dans data/adult.m3u si le dossier data/ existe,
+sinon à la racine du dépôt.
 
 Usage :
     python eporner_m3u.py
 """
 
-import json
 import re
 import sys
 import time
 import urllib.error
-import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 
 def _racine_depot():
-    """Remonte jusqu'à la racine du dépôt (.git) pour que adult.m3u
-    tombe toujours au même endroit, quel que soit l'emplacement du script."""
+    """Remonte jusqu'à la racine du dépôt (.git)."""
     ici = Path(__file__).resolve().parent
     for d in (ici, *ici.parents):
         if (d / ".git").exists():
@@ -36,58 +36,80 @@ def _racine_depot():
 
 # ------------------------------- CONFIG --------------------------------
 RACINE       = _racine_depot()
-OUT          = RACINE / "data" / "adult.m3u"
+DOSSIER_DATA = RACINE / "data"
+OUT          = (DOSSIER_DATA if DOSSIER_DATA.is_dir() else RACINE) / "adult.m3u"
 
 GROUPE       = "Zone 18@"            # valeur de group-title
-DUREE_REELLE = True                  # True = durée en secondes | False = -1
+DUREE_REELLE = True                  # True = durée réelle | False = -1
 QUALITES     = ("720", "480")        # essai dans l'ordre, 1re qui répond gagne
-ORDRE        = "top-weekly"          # top-weekly | top-monthly | top-rated | latest
-PAGES        = 2                     # pages par requête
-PAR_PAGE     = 100                   # 100 = maximum côté Eporner
+PAGES        = 4                     # pages par source
 
-REQUETES = [
-    "", "milf", "anal", "teen", "lesbian", "amateur", "mature",
-    "big-tits", "asian", "latina", "ebony", "creampie",
+SOURCES = [
+    "https://www.eporner.com/",                  # les plus récentes
+    "https://www.eporner.com/most-viewed/",      # les plus vues
+    "https://www.eporner.com/top-rated/",        # les mieux notées
+    "https://www.eporner.com/best-videos/",      # la sélection
 ]
 
 VERIFIER     = True                  # teste chaque lien avant de l'écrire
-THREADS      = 8                     # parallélisme de la vérification
-PAUSE        = 1.5                   # secondes entre deux requêtes API
-DELAI        = 15                    # secondes
+THREADS      = 8
+PAUSE        = 1.0                   # secondes entre deux pages
+DELAI        = 15
 # -----------------------------------------------------------------------
 
-API = "https://www.eporner.com/api/v2/video/search/"
 ENTETES = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
                    "AppleWebKit/537.36 (KHTML, like Gecko) "
                    "Chrome/120.0.0.0 Safari/537.36"),
     "Referer": "https://www.eporner.com/",
-    "Accept": "application/json, video/*, */*",
+    "Accept": "text/html,application/xhtml+xml,*/*",
 }
 
 REESSAYABLES = (429, 500, 502, 503, 504)
 
+BLOC_VIDEO = re.compile(
+    r'<a[^>]+href="[^"]*?/video-([A-Za-z0-9]+)/([^/"]+)/"[^>]*>(.*?)</a>',
+    re.S,
+)
 
-def _lire(url, etiquette="", essais=4):
+
+def _lire(url, etiquette="", essais=3):
     for n in range(essais):
         try:
             req = urllib.request.Request(url, method="GET", headers=ENTETES)
             with urllib.request.urlopen(req, timeout=DELAI) as r:
-                return r.read()
+                return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
-            if e.code in REESSAYABLES:
-                attente = 2.0 * (n + 1)
-                print(f"  [~] {etiquette} HTTP {e.code} -> pause {attente:.0f}s")
-                time.sleep(attente)
+            if e.code in REESSAYABLES and n < essais - 1:
+                time.sleep(2.0 * (n + 1))
                 continue
             print(f"  [!] {etiquette} HTTP {e.code}")
-            return b""
+            return ""
         except Exception as e:
-            attente = 1.5 * (n + 1)
-            print(f"  [~] {etiquette} {type(e).__name__} -> pause {attente:.0f}s")
-            time.sleep(attente)
-    print(f"  [!] {etiquette} abandon apres {essais} essais")
-    return b""
+            if n < essais - 1:
+                time.sleep(1.5 * (n + 1))
+                continue
+            print(f"  [!] {etiquette} {type(e).__name__}")
+    return ""
+
+
+def _trouver_videos(html):
+    """Rend (hash, id numérique, titre, durée, vignette) pour chaque bloc vidéo."""
+    trouvees = []
+    for bloc in BLOC_VIDEO.finditer(html):
+        hash_video, slug, interieur = bloc.group(1), bloc.group(2), bloc.group(3)
+        m_src = re.search(r'src="([^"]+)"', interieur)
+        m_alt = re.search(r'alt="([^"]*)"', interieur)
+        if not m_src:
+            continue
+        m_num = re.search(r"/(\d+)/\d+_\d+\.jpg", m_src.group(1))
+        if not m_num:
+            continue
+        titre = (m_alt.group(1) if m_alt else "").strip() or slug.replace("-", " ")
+        m_dur = re.search(r"\b(\d{1,3}):(\d{2})\b", html[bloc.end():bloc.end() + 500])
+        duree = int(m_dur.group(1)) * 60 + int(m_dur.group(2)) if m_dur else 0
+        trouvees.append((hash_video, m_num.group(1), titre, duree, m_src.group(1)))
+    return trouvees
 
 
 def lien_vivant(url):
@@ -115,18 +137,7 @@ def lien_vivant(url):
     return False
 
 
-def _id_numerique(v):
-    """L'id numérique se lit dans le chemin des vignettes : .../<numid>/12_240.jpg"""
-    vignettes = [v.get("default_thumb") or {}] + list(v.get("thumbs") or [])
-    for t in vignettes:
-        m = re.search(r"/(\d+)/\d+_\d+\.jpg", t.get("src") or "")
-        if m:
-            return m.group(1)
-    return None
-
-
 def resoudre(hash_video, numid):
-    """Renvoie la première URL de qualité qui répond, sinon None."""
     for q in QUALITES:
         url = f"https://www.eporner.com/dload/{hash_video}/{q}/{numid}-{q}p.mp4"
         if not VERIFIER or lien_vivant(url):
@@ -136,39 +147,31 @@ def resoudre(hash_video, numid):
 
 def collecter():
     vus, fiches, ok = set(), [], 0
-    total = len(REQUETES) * PAGES
-    for requete in REQUETES:
+    total = len(SOURCES) * PAGES
+    for source in SOURCES:
         for page in range(1, PAGES + 1):
-            etiquette = f"{requete or '(top)'} p{page}"
-            params = urllib.parse.urlencode({
-                "query": requete, "per_page": PAR_PAGE, "page": page,
-                "order": ORDRE, "lq": 1, "format": "json",
-            })
-            brut = _lire(f"{API}?{params}", etiquette)
-            if not brut:
+            url = source if page == 1 else f"{source}{page}/"
+            etiquette = url.replace("https://www.eporner.com/", "") or "(accueil)"
+            html = _lire(url, etiquette)
+            if not html:
                 continue
-            try:
-                videos = json.loads(brut).get("videos", [])
-            except json.JSONDecodeError:
-                print(f"  [!] {etiquette} : JSON illisible")
+            trouvees = _trouver_videos(html)
+            if not trouvees:
+                print(f"  [!] {etiquette} : aucun bloc video reconnu")
                 continue
             ok += 1
-            for v in videos:
-                hash_video = (v.get("id") or "").strip()
-                numid = _id_numerique(v)
-                if not hash_video or not numid or hash_video in vus:
+            print(f"  [+] {etiquette} : {len(trouvees)} videos")
+            for hash_video, numid, titre, duree, logo in trouvees:
+                if hash_video in vus:
                     continue
                 vus.add(hash_video)
-                titre = re.sub(r"\s+", " ", v.get("title", "")).strip() or hash_video
-                logo = (v.get("default_thumb") or {}).get("src", "") or ""
-                if logo.startswith("//"):
-                    logo = "https:" + logo
                 fiches.append({
-                    "hash": hash_video, "numid": numid, "titre": titre,
-                    "duree": int(v.get("length_sec") or 0), "logo": logo,
+                    "hash": hash_video, "numid": numid,
+                    "titre": re.sub(r"\s+", " ", titre),
+                    "duree": duree, "logo": logo,
                 })
             time.sleep(PAUSE)
-    print(f"  {ok}/{total} requetes API exploitables")
+    print(f"  {ok}/{total} pages exploitables")
     return fiches
 
 
@@ -193,6 +196,7 @@ def main():
         print("  aucun lien valide, adult.m3u laisse intact")
         return 0
 
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     tmp = OUT.parent / (OUT.name + ".tmp")
     with tmp.open("w", encoding="utf-8", newline="\n") as fh:
         fh.write("#EXTM3U\n")
@@ -202,7 +206,7 @@ def main():
             fh.write(f'#EXTINF:{duree} tvg-logo="{f["logo"]}" '
                      f'group-title="{GROUPE}",{titre}\n{url}\n')
     tmp.replace(OUT)
-    print(f"  ecrit : {OUT.name} ({len(gardees)} entrees)")
+    print(f"  ecrit : {OUT} ({len(gardees)} entrees)")
     return 0
 
 
