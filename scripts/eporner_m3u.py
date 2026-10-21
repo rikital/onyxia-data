@@ -20,6 +20,7 @@
 import html as html_mod
 import http.cookiejar
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -248,11 +249,7 @@ def _pages_xvideos():
 
 
 def _cartes(page):
-    """Rend (chemin, eid, titre, duree, vignette) pour chaque carte video.
-
-    On s'ancre sur les liens /video.<eid>/<slug> : c'est le seul repere stable,
-    la classe des cartes changeant selon les gabarits (thumb-block, frame-block).
-    """
+    """Rend (chemin, eid, titre, duree, vignette) pour chaque carte video."""
     trouves = []
     vus = set()
     for m in re.finditer(r'href="(?:https?://[^"]*?)?(/video\.([a-z0-9]+)/([^"]*))"', page):
@@ -260,6 +257,14 @@ def _cartes(page):
         if eid in vus:
             continue
         vus.add(eid)
+
+        # certains liens de vignette portent des segments en trop
+        # (/video.<eid>/57468328/THUMBNUM/<slug>) : on ne garde que l'identifiant
+        # et le dernier morceau, sinon la page renvoie 404
+        bouts = [p for p in chemin.split("/") if p]
+        if len(bouts) > 2:
+            chemin = "/" + bouts[0] + "/" + bouts[-1]
+
         bloc = page[m.end():m.end() + 2500]
 
         m_titre = re.search(r'<p class="title">\s*<a[^>]*>([^<]*)</a>', bloc)
@@ -332,6 +337,59 @@ def bloc_xvideos():
     return lignes
 
 
+# ------------------------------- REPRISE --------------------------------
+# Si une source ne rend rien pendant un passage, on remet ses entrees deja en
+# ligne (fichier actuel), et a defaut celles du dernier fichier de l'historique
+# git qui en contenait. Seulement pour les sources dont les liens n'expirent
+# pas : les liens XVideos sont signes pour ~3 h, les reprendre ne servirait a rien.
+HOTES_DURABLES = {"Eporner": "eporner.com"}
+
+
+def _entrees_de(texte, hote):
+    lignes = texte.splitlines()
+    out = []
+    for i, ligne in enumerate(lignes):
+        if (ligne.startswith("#EXTINF") and i + 1 < len(lignes)
+                and hote in lignes[i + 1]):
+            out.extend([ligne, lignes[i + 1]])
+    return out
+
+
+def _git(*args):
+    try:
+        return subprocess.run(["git", *args], cwd=RACINE, capture_output=True,
+                              text=True, encoding="utf-8", errors="replace",
+                              timeout=180).stdout
+    except Exception:
+        return ""
+
+
+def _reprise(nom):
+    hote = HOTES_DURABLES.get(nom)
+    if not hote:
+        return []
+    if OUT.exists():
+        e = _entrees_de(OUT.read_text(encoding="utf-8", errors="replace"), hote)
+        if e:
+            print(f"  {nom} : reprise de {len(e) // 2} entrees deja en ligne", flush=True)
+            return e
+    # le checkout d'Actions est superficiel : on recupere quelques jours
+    # d'historique (sans le contenu des fichiers, telecharge a la demande)
+    if _git("rev-parse", "--is-shallow-repository").strip() == "true":
+        _git("fetch", "-q", "--filter=blob:none", "--shallow-since=7 days ago", "origin")
+    chemins = ["data/adult.m3u", "adult.m3u"]
+    for commit in _git("log", "--format=%H", "-n", "300", "--", *chemins).split():
+        for c in chemins:
+            texte = _git("show", f"{commit}:{c}")
+            e = _entrees_de(texte, hote) if texte else []
+            if e:
+                print(f"  {nom} : reprise de {len(e) // 2} entrees depuis "
+                      f"l'historique ({commit[:8]})", flush=True)
+                return e
+    print(f"  [!] {nom} : rien a reprendre", flush=True)
+    return []
+
+
 # -------------------------------- MAIN ----------------------------------
 def main():
     print("Eporner + XVideos -> playlist adulte", flush=True)
@@ -347,6 +405,7 @@ def main():
             part = []
         if not part:
             print(f"  [!] {nom} : aucune entree", flush=True)
+            part = _reprise(nom)
         total += len(part) // 2
         lignes.extend(part)
         print("", flush=True)
