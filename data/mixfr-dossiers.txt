@@ -18,8 +18,9 @@
 # Plusieurs liens = un seul dossier « Zone 18@ » dans l'appli (les playlists s'additionnent).
 # Retire une ligne pour retirer ses chaines. Rien d'autre a toucher.
 
-Zone 18@ | https://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u
+
 Zone 18@ | https://raw.githubusercontent.com/rikital/onyxia-data/main/data/adult.m3u
+Zone 18@ | https://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u
 Zone 18@ | https://iptvmate.net/files/adult.m3u
 Zone 18@ | https://iptvmate.net/files/xxx.m3u
 Zone 18@ | https://adultm3u.com/dl/x-adultm3u-com-07-03-2022.m3u
