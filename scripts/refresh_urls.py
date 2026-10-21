@@ -348,6 +348,24 @@ async def _telecharger_dossier(session, nom: str, url: str) -> str:
     return ''.join(sortie)
 
 
+def _retirer_doublons(blocs: str, vues: set) -> tuple:
+    """Retire les chaines dont l'adresse a deja ete importee (dans ce dossier ou
+    un dossier precedent). Rend (blocs filtres, nombre de doublons retires)."""
+    garde, retires = [], 0
+    for b in re.split(r'(?=#EXTINF)', blocs):
+        if not b.startswith('#EXTINF'):
+            garde.append(b)          # en-tete eventuel (« # --- dossier: ... »)
+            continue
+        m = re.search(r'\n(https?://\S+)', b)
+        if m and m.group(1) in vues:
+            retires += 1
+            continue
+        if m:
+            vues.add(m.group(1))
+        garde.append(b)
+    return ''.join(garde), retires
+
+
 async def importer_dossiers_m3u(content: str, ancienne: str = None) -> str:
     """Reconstruit la section DOSSIERS MIX FR de data.m3u depuis mixfr-dossiers.txt.
     `ancienne` = section precedente (secours si un lien ne repond pas)."""
@@ -361,6 +379,9 @@ async def importer_dossiers_m3u(content: str, ancienne: str = None) -> str:
         return sans if ancienne else content
     print(f"\n=== Phase 5 : dossiers Mix FR ({len(dossiers)} lien(s) dans mixfr-dossiers.txt) ===")
     parties = [DOSSIERS_DEBUT + "\n"]
+    # 2026-10-21 (user : doublons dans Zone 18@, deux listes iptvmate qui se
+    #   recoupent) : une meme adresse n'est importee qu'une fois dans la section.
+    vues, doublons = set(), 0
     conn = aiohttp.TCPConnector(limit=4, ssl=False)
     async with aiohttp.ClientSession(connector=conn) as session:
         for nom, url in dossiers:
@@ -369,9 +390,15 @@ async def importer_dossiers_m3u(content: str, ancienne: str = None) -> str:
                 secours = _blocs_dossier(ancienne, nom)
                 if secours:
                     print(f"  [dossier {nom}] lien injoignable -> ancien contenu conserve")
+                    secours, n = _retirer_doublons(secours, vues)
+                    doublons += n
                     parties.append(secours)
                 continue
+            blocs, n = _retirer_doublons(blocs, vues)
+            doublons += n
             parties.append(f"# --- dossier: {nom} ---\n" + blocs)
+    if doublons:
+        print(f"  {doublons} doublon(s) retire(s)")
     parties.append(DOSSIERS_FIN + "\n")
     return sans.rstrip() + "\n\n" + ''.join(parties)
 
