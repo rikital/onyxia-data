@@ -5,11 +5,9 @@ eporner_m3u.py
 --------------
 Génère adult.m3u depuis les pages publiques d'Eporner (sans clé, sans API).
 
-Deux particularités du site sont gérées :
-  - un portail « Age verification » servi aux nouveaux visiteurs, qu'on franchit
-    en posant des cookies et en suivant les liens de la page ;
-  - les vignettes en chargement différé (data-src), qu'il faut lire à la place
-    de src qui contient un gif transparent.
+Le site sert un portail « Age verification » aux nouveaux visiteurs et
+étrangle après une centaine de requêtes : on lit donc les pages HTML
+directement, sans vérifier chaque lien ensuite.
 
 Usage :
     python eporner_m3u.py
@@ -39,25 +37,23 @@ RACINE       = _racine_depot()
 DOSSIER_DATA = RACINE / "data"
 OUT          = (DOSSIER_DATA if DOSSIER_DATA.is_dir() else RACINE) / "adult.m3u"
 
-GROUPE       = "Zone 18@"
-DUREE_REELLE = True
-QUALITES     = ("720", "480")
-PAGES        = 4
+GROUPE       = "Zone 18@"            # valeur de group-title
+DUREE_REELLE = True                  # True = durée réelle | False = -1
+QUALITES     = ("720", "480")        # utilisées seulement si VERIFIER
+PAGES        = 5                     # pages par source
 
 SOURCES = [
-    "https://www.eporner.com/",
-    "https://www.eporner.com/most-viewed/",
-    "https://www.eporner.com/top-rated/",
-    "https://www.eporner.com/best-videos/",
+    "https://www.eporner.com/",                  # les plus récentes
+    "https://www.eporner.com/most-viewed/",      # les plus vues
+    "https://www.eporner.com/top-rated/",        # les mieux notées
+    "https://www.eporner.com/best-videos/",      # la sélection
 ]
 
-VERIFIER     = True
+VERIFIER     = False                 # False = on garde tout, sans test des liens
 THREADS      = 8
-PAUSE        = 1.0
+PAUSE        = 1.0                   # secondes entre deux pages
 DELAI        = 15
 
-# Noms de cookies plausibles pour le portail d'age : on les pose tous,
-# le serveur n'en a besoin que d'un seul.
 COOKIES_AGE = ("age_verified", "age_ok", "ageok", "ep_age",
                "ep_age_verified", "age", "adult", "nv_age")
 # -----------------------------------------------------------------------
@@ -117,7 +113,7 @@ def _portail(texte):
 
 
 def _franchir_portail(page):
-    """Tente de passer la page de verification d'age. Rend la vraie page ou None."""
+    """Tente de passer la page de vérification d'âge. Rend la vraie page ou None."""
     print("  [!] portail d'age detecte, tentative de passage")
     print("      extrait : " + re.sub(r"\s+", " ", page[:500]))
 
@@ -129,14 +125,12 @@ def _franchir_portail(page):
         print(f"      {etiquette} -> toujours bloque")
         return None
 
-    # 1) cookies classiques
     for nom in COOKIES_AGE:
         _poser_cookie(nom, "1")
     h = retenter("cookies d'age")
     if h:
         return h
 
-    # 2) suivre les liens presents sur le portail
     liens = [l for l in re.findall(r'href="([^"]+)"', page)
              if not re.search(r"\.(css|js|png|jpe?g|svg|ico|gif)(\?|$)", l)]
     for lien in liens[:6]:
@@ -146,7 +140,6 @@ def _franchir_portail(page):
         if h:
             return h
 
-    # 3) chemins classiques de validation
     for chemin in ("/ageverify/", "/age-verify/", "/?age=1", "/?ageok=1"):
         _lire("https://www.eporner.com" + chemin, "chemin portail")
         h = retenter(f"chemin {chemin}")
@@ -160,8 +153,8 @@ def _franchir_portail(page):
 def _trouver_videos(html):
     """Rend (hash, id numérique, titre, durée, vignette) pour chaque carte vidéo.
 
-    Chaque carte porte un attribut data-id qui contient justement l'id numérique
-    nécessaire aux liens de téléchargement : on découpe le HTML dessus.
+    Chaque carte porte un attribut data-id contenant l'id numérique nécessaire
+    aux liens de téléchargement : on découpe le HTML dessus.
     """
     morceaux = re.split(r'data-id="(\d+)"', html)
     trouvees = []
@@ -183,6 +176,7 @@ def _trouver_videos(html):
 
 
 def lien_vivant(url):
+    """Utilisé seulement si VERIFIER est vrai."""
     for methode in ("HEAD", "GET"):
         for essai in range(3):
             try:
@@ -214,80 +208,4 @@ def resoudre(hash_video, numid):
     return None
 
 
-def collecter():
-    print("  ouverture de session...")
-    page = _lire("https://www.eporner.com/", "accueil")
-    if page and _portail(page):
-        page = _franchir_portail(page)
-    print(f"  cookies en session : {len(POT_A_COOKIES)}")
-
-    vus, fiches, ok = set(), [], 0
-    total = len(SOURCES) * PAGES
-    for source in SOURCES:
-        for page_num in range(1, PAGES + 1):
-            url = source if page_num == 1 else f"{source}{page_num}/"
-            etiquette = url.replace("https://www.eporner.com/", "") or "(accueil)"
-            texte = _lire(url, etiquette)
-            if not texte:
-                continue
-            if _portail(texte):
-                print(f"  [!] {etiquette} : encore le portail d'age")
-                continue
-            trouvees = _trouver_videos(texte)
-            if not trouvees:
-                print(f"  [!] {etiquette} : aucun bloc reconnu | "
-                      f"{re.sub(r'[[:space:]]+', ' ', texte[:200])}")
-                continue
-            ok += 1
-            print(f"  [+] {etiquette} : {len(trouvees)} videos")
-            for hash_video, numid, titre, duree, logo in trouvees:
-                if hash_video in vus:
-                    continue
-                vus.add(hash_video)
-                fiches.append({
-                    "hash": hash_video, "numid": numid,
-                    "titre": re.sub(r"\s+", " ", titre),
-                    "duree": duree, "logo": logo,
-                })
-            time.sleep(PAUSE)
-    print(f"  {ok}/{total} pages exploitables")
-    return fiches
-
-
-def main():
-    print(f"Eporner -> {OUT}")
-    fiches = collecter()
-    print(f"  {len(fiches)} videos distinctes recuperees")
-    if not fiches:
-        print("  rien a ecrire, adult.m3u laisse intact")
-        return 0
-
-    if VERIFIER:
-        print(f"  verification des liens ({THREADS} en parallele)...")
-        with ThreadPoolExecutor(max_workers=THREADS) as ex:
-            urls = list(ex.map(lambda f: resoudre(f["hash"], f["numid"]), fiches))
-        gardees = [(f, u) for f, u in zip(fiches, urls) if u]
-        print(f"  {len(gardees)}/{len(fiches)} liens valides")
-    else:
-        gardees = [(f, resoudre(f["hash"], f["numid"])) for f in fiches]
-
-    if not gardees:
-        print("  aucun lien valide, adult.m3u laisse intact")
-        return 0
-
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    tmp = OUT.parent / (OUT.name + ".tmp")
-    with tmp.open("w", encoding="utf-8", newline="\n") as fh:
-        fh.write("#EXTM3U\n")
-        for f, url in gardees:
-            duree = f["duree"] if DUREE_REELLE else -1
-            titre = f["titre"].replace('"', "'")
-            fh.write(f'#EXTINF:{duree} tvg-logo="{f["logo"]}" '
-                     f'group-title="{GROUPE}",{titre}\n{url}\n')
-    tmp.replace(OUT)
-    print(f"  ecrit : {OUT} ({len(gardees)} entrees)")
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+def
