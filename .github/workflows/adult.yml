@@ -11,6 +11,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   adulte:
@@ -69,3 +70,13 @@ jobs:
           done
           echo "echec apres 5 tentatives"
           exit 1
+
+      # autosuppression des vieux runs (comme les autres workflows)
+      - name: Auto-cleanup old workflow runs
+        if: always()
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 10
