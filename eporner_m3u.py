@@ -156,4 +156,24 @@ def main():
         gardees = [(f, u) for f, u in zip(fiches, urls) if u]
         print(f"  {len(gardees)}/{len(fiches)} liens valides")
     else:
-        gardees = [(f, resoudre(f["vid"], f["slug"]))
+        gardees = [(f, resoudre(f["vid"], f["slug"])) for f in fiches]
+
+    if not gardees:
+        print("  aucun lien valide, adult.m3u laisse intact")
+        return 0
+
+    tmp = OUT.parent / (OUT.name + ".tmp")
+    with tmp.open("w", encoding="utf-8", newline="\n") as fh:
+        fh.write("#EXTM3U\n")
+        for f, url in gardees:
+            duree = f["duree"] if DUREE_REELLE else -1
+            titre = f["titre"].replace('"', "'")
+            fh.write(f'#EXTINF:{duree} tvg-logo="{f["logo"]}" '
+                     f'group-title="{GROUPE}",{titre}\n{url}\n')
+    tmp.replace(OUT)
+    print(f"  ecrit : {OUT.name} ({len(gardees)} entrees)")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
