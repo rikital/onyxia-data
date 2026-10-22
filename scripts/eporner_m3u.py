@@ -444,13 +444,28 @@ def bloc_xvideos():
 #   remplir la playlist d'entrees mortes. Pas de reprise tant que le site bloque.
 HOTES_DURABLES = {}
 
+# 2026-10-22 : XVideos repris AUSSI, mais seulement les liens encore valides. Un passage
+#   a rendu 0 lien (pages video sans lien selon le serveur GitHub tire au sort) : sans
+#   reprise, la playlist perdait toutes ses videos pendant 2 h. Chaque lien porte sa date
+#   d'expiration (« secure=<signature>,<horodatage> ») : on ne garde que ceux qui ont
+#   encore au moins MARGE_EXPIRATION secondes devant eux.
+HOTES_EXPIRANTS  = {"XVideos": "xvideos-cdn.com"}
+MARGE_EXPIRATION = 15 * 60
+RE_EXPIRATION    = re.compile(r"[?&]secure=[^,&]*,(\d{9,11})")
 
-def _entrees_de(texte, hote):
+
+def _encore_valide(url):
+    m = RE_EXPIRATION.search(url)
+    return bool(m) and int(m.group(1)) > time.time() + MARGE_EXPIRATION
+
+
+def _entrees_de(texte, hote, filtre=None):
     lignes = texte.splitlines()
     out = []
     for i, ligne in enumerate(lignes):
         if (ligne.startswith("#EXTINF") and i + 1 < len(lignes)
-                and hote in lignes[i + 1]):
+                and hote in lignes[i + 1]
+                and (filtre is None or filtre(lignes[i + 1]))):
             out.extend([ligne, lignes[i + 1]])
     return out
 
@@ -465,11 +480,12 @@ def _git(*args):
 
 
 def _reprise(nom):
-    hote = HOTES_DURABLES.get(nom)
+    hote = HOTES_DURABLES.get(nom) or HOTES_EXPIRANTS.get(nom)
     if not hote:
         return []
+    filtre = _encore_valide if nom in HOTES_EXPIRANTS else None
     if OUT.exists():
-        e = _entrees_de(OUT.read_text(encoding="utf-8", errors="replace"), hote)
+        e = _entrees_de(OUT.read_text(encoding="utf-8", errors="replace"), hote, filtre)
         if e:
             print(f"  {nom} : reprise de {len(e) // 2} entrees deja en ligne", flush=True)
             return e
@@ -481,7 +497,7 @@ def _reprise(nom):
     for commit in _git("log", "--format=%H", "-n", "300", "--", *chemins).split():
         for c in chemins:
             texte = _git("show", f"{commit}:{c}")
-            e = _entrees_de(texte, hote) if texte else []
+            e = _entrees_de(texte, hote, filtre) if texte else []
             if e:
                 print(f"  {nom} : reprise de {len(e) // 2} entrees depuis "
                       f"l'historique ({commit[:8]})", flush=True)
