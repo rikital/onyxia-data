@@ -439,7 +439,10 @@ def bloc_xvideos():
 # ligne (fichier actuel), et a defaut celles du dernier fichier de l'historique
 # git qui en contenait. Seulement pour les sources dont les liens n'expirent
 # pas : les liens XVideos sont signes pour ~3 h, les reprendre ne servirait a rien.
-HOTES_DURABLES = {"Eporner": "eporner.com"}
+# 2026-10-22 : Eporner retire de la reprise — ses anciens liens « dload » ne rendent plus
+#   la video mais la page de verification d'age (text/html) : les remettre ne fait que
+#   remplir la playlist d'entrees mortes. Pas de reprise tant que le site bloque.
+HOTES_DURABLES = {}
 
 
 def _entrees_de(texte, hote):
