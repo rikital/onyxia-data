@@ -508,12 +508,16 @@ def _reprise(nom):
 
 # -------------------------------- MAIN ----------------------------------
 def main():
-    print("AdultTV + Eporner + XVideos -> playlist adulte", flush=True)
+    print("AdultTV + XVideos -> playlist adulte (Eporner desactive)", flush=True)
     print(f"  cible : {OUT}", flush=True)
 
     lignes = ["#EXTM3U"]
     total = 0
-    for nom, fonction in (("AdultTV", _trouver_adulttv), ("Eporner", bloc_eporner), ("XVideos", bloc_xvideos)):
+    # 2026-10-23 (user : « je croyais que tu l'avais retire, on tombait sur un mur ») : Eporner
+    #   DESACTIVE. Ses liens « dload » menent a la verification d'age pour les spectateurs en
+    #   France, meme quand le serveur GitHub, lui, n'y tombe pas. Le code reste (bloc_eporner),
+    #   il suffit de remettre ("Eporner", bloc_eporner) dans la liste pour le reactiver.
+    for nom, fonction in (("AdultTV", _trouver_adulttv), ("XVideos", bloc_xvideos)):
         try:
             part = fonction()
         except Exception as e:
