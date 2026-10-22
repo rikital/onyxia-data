@@ -2,16 +2,10 @@
 # -*- coding: utf-8 -*-
 # ---------------------------------------------------------------------------
 # eporner_m3u.py
-# Genere data/adult.m3u : un seul fichier, deux sources (Eporner + XVideos),
-# sous le meme dossier « Zone 18@ ».
+# Genere data/adult.m3u : une seule source (XVideos), sous le meme dossier « Zone 18@ ».
 #
-# Eporner : lecture des pages HTML sans verifier chaque lien (le site etrangle
-#           au bout de ~100 requetes). Si le site impose sa verification d'age,
-#           Eporner est ignore pour ce passage (pas de contournement).
-# XVideos : les liens de flux sont signes et expirent au bout d'environ 3 h,
-#           d'ou un passage toutes les 2 heures (voir adult.yml).
-#
-# Si une source tombe, l'autre est quand meme ecrite.
+# XVideos : les liens de flux sont signes et expirent au bout d'environ 3 h.
+#           Passage toutes les 2 heures pour rafraichir les liens (voir adult.yml).
 #
 # Volontairement ecrit en commentaires et non en docstring : si un triple quote
 # saute au copier-coller, le fichier ne devient pas un bloc de texte inerte.
@@ -24,7 +18,6 @@ import subprocess
 import sys
 import time
 import urllib.error
-import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -45,26 +38,13 @@ RACINE       = _racine_depot()
 DOSSIER_DATA = RACINE / "data"
 OUT          = (DOSSIER_DATA if DOSSIER_DATA.is_dir() else RACINE) / "adult.m3u"
 
-GROUPE       = "Zone 18@"            # valeur de group-title, pour les deux sources
+GROUPE       = "Zone 18@"            # valeur de group-title
 DUREE_REELLE = True                  # True = duree reelle | False = -1
 
-# --- partie Eporner ---
-SOURCES_EPORNER = [
-    "https://www.eporner.com/",                  # les plus recentes
-    "https://www.eporner.com/most-viewed/",      # les plus vues
-    "https://www.eporner.com/top-rated/",        # les mieux notees
-    "https://www.eporner.com/best-videos/",      # la selection
-]
-PAGES_EPORNER = 5                    # pages par source
-QUALITES      = ("720", "480")       # utilisees seulement si VERIFIER
-VERIFIER      = False                # False = on garde tout, sans test des liens
-THREADS_EPO   = 8
-PAUSE_EPO     = 1.0
-
 # --- partie XVideos ---
-PAGES_XVIDEOS = 12                   # pages de listing, 30 videos par page
+PAGES_XVIDEOS = 30                   # pages de listing, 30 videos par page
 THREADS_XVI   = 8
-LOT_XVI       = 24
+LOT_XVI       = 30                   # group size, increased with page count
 PAUSE_XVI     = 0.4
 
 DELAI = 20
@@ -118,158 +98,6 @@ def _entree(titre, duree, vignette, url):
     d = duree if DUREE_REELLE else -1
     return [f'#EXTINF:{d} tvg-logo="{vignette}" group-title="{GROUPE}",{titre}',
             url]
-
-
-# ------------------------------- EPORNER --------------------------------
-def _portail(texte):
-    return "Age verification" in texte[:2000]
-
-
-def _franchir_portail(html):
-    m_form = re.search(r'<form[^>]*action="([^"]*)"[^>]*>', html)
-    if not m_form:
-        return None
-
-    action = m_form.group(1)
-    print(f"  [!] Portail détecté : formulaire trouvé ({action})", flush=True)
-
-    try:
-        # Construit l'URL du formulaire
-        if action.startswith("http"):
-            submit_url = action
-        else:
-            submit_url = f"https://www.eporner.com{action}"
-
-        # Simulation d'envoi des identifiants (18 ans, genre masculin par défaut)
-        post_data = urllib.parse.urlencode({
-            "age": "18",
-            "gender": "male"
-        }).encode('utf-8')
-
-        req = urllib.request.Request(submit_url, data=post_data, method="POST",
-                                     headers=ENTETES)
-        response = urllib.request.urlopen(req, timeout=DELAI)
-        
-        # Retourne le contenu de la page après validation
-        contenu = response.read().decode("utf-8", "replace")
-        
-        # DEBUG : Affiche les 500 premiers caractères pour voir si le lien est valide
-        print(f"  [LOG] Réponse portail : {contenu[:500]}", flush=True)
-        
-        return contenu
-        
-    except Exception as e:
-        print(f"  [!] Échec du bypass du portail d'âge : {e}", flush=True)
-        return None
-
-
-def _trouver_videos(html):
-    morceaux = re.split(r'data-id="(\d+)"', html)
-    trouvees = []
-    for i in range(1, len(morceaux) - 1, 2):
-        numid, bloc = morceaux[i], morceaux[i + 1]
-        m_lien = re.search(r'href="[^"]*?/video-([A-Za-z0-9]+)/([^/"]+)/"', bloc)
-        if not m_lien:
-            continue                       # carte de photo, pas de video
-        m_alt = re.search(r'alt="([^"]*)"', bloc)
-        m_vig = re.search(r'(?:data-src|src)="(https://[^"]*?\.jpg)"', bloc)
-        m_dur = re.search(r'class="mbtim"[^>]*>(\d{1,3}):(\d{2})', bloc)
-        titre = html_mod.unescape((m_alt.group(1) if m_alt else "").strip())
-        if not titre:
-            titre = m_lien.group(2).replace("-", " ")
-        duree = int(m_dur.group(1)) * 60 + int(m_dur.group(2)) if m_dur else 0
-        trouvees.append((m_lien.group(1), numid, titre, duree,
-                         m_vig.group(1) if m_vig else ""))
-    return trouvees
-
-
-def lien_vivant(url):
-    for methode in ("HEAD", "GET"):
-        for essai in range(3):
-            try:
-                req = urllib.request.Request(url, method=methode, headers=ENTETES)
-                if methode == "GET":
-                    req.add_header("Range", "bytes=0-2047")
-                with OUVREUR.open(req, timeout=DELAI) as r:
-                    return 200 <= r.status < 300
-            except urllib.error.HTTPError as e:
-                if e.code in (405, 501):
-                    break
-                if e.code in REESSAYABLES and essai < 2:
-                    time.sleep(1.0 * (essai + 1))
-                    continue
-                return False
-            except Exception:
-                if essai < 2:
-                    time.sleep(0.8 * (essai + 1))
-                    continue
-                break
-    return False
-
-
-def resoudre(hash_video, numid):
-    for q in QUALITES:
-        url = f"https://www.eporner.com/dload/{hash_video}/{q}/{numid}-{q}p.mp4"
-        if not VERIFIER or lien_vivant(url):
-            return url
-    return None
-
-
-def _pages_eporner(source):
-    base = source.rstrip("/")
-    urls = [source]
-    for n in range(2, PAGES_EPORNER + 1):
-        urls.append(f"{base}/{n}/")
-    return urls
-
-
-def _lire_page(url):
-    h = _lire(url, url)
-    if h and _portail(h):
-        if _franchir_portail(h):
-            h = _lire(url, url)
-    return h
-
-
-def bloc_eporner():
-    print("Eporner :", flush=True)
-    accueil = _lire("https://www.eporner.com/", "accueil")
-    if not accueil:
-        print("  [!] accueil injoignable", flush=True)
-        return []
-    if _portail(accueil) and not _franchir_portail(accueil):
-        print("  [!] portail d'age non franchi", flush=True)
-        return []
-    print(f"  cookies en session : {len(POT_A_COOKIES)}", flush=True)
-
-    urls = []
-    for source in SOURCES_EPORNER:
-        urls.extend(_pages_eporner(source))
-    print(f"  {len(urls)} pages a lire", flush=True)
-
-    vues = {}
-    for debut in range(0, len(urls), THREADS_EPO):
-        lot = urls[debut:debut + THREADS_EPO]
-        with ThreadPoolExecutor(max_workers=THREADS_EPO) as pool:
-            for i, page in enumerate(pool.map(_lire_page, lot), start=debut + 1):
-                if not page:
-                    print(f"  page {i:2d} : vide", flush=True)
-                    continue
-                trouvees = _trouver_videos(page)
-                print(f"  page {i:2d} : {len(trouvees):3d} videos", flush=True)
-                for hash_video, numid, titre, duree, vignette in trouvees:
-                    if numid not in vues:
-                        vues[numid] = (hash_video, titre, duree, vignette)
-        time.sleep(PAUSE_EPO)
-
-    print(f"  {len(vues)} videos distinctes", flush=True)
-    lignes = []
-    for numid, (hash_video, titre, duree, vignette) in vues.items():
-        url = resoudre(hash_video, numid)
-        if url:
-            lignes.extend(_entree(titre, duree, vignette, url))
-    print(f"  {len(lignes) // 2} entrees gardees", flush=True)
-    return lignes
 
 
 # ------------------------------- XVIDEOS --------------------------------
@@ -369,78 +197,24 @@ def bloc_xvideos():
     return lignes
 
 
-# ------------------------------- REPRISE --------------------------------
-# Si une source ne rend rien pendant un passage, on remet ses entrees deja en
-# ligne (fichier actuel), et a defaut celles du dernier fichier de l'historique
-# git qui en contenait. Seulement pour les sources dont les liens n'expirent
-# pas : les liens XVideos sont signes pour ~3 h, les reprendre ne servirait a rien.
-HOTES_DURABLES = {"Eporner": "eporner.com"}
-
-
-def _entrees_de(texte, hote):
-    lignes = texte.splitlines()
-    out = []
-    for i, ligne in enumerate(lignes):
-        if (ligne.startswith("#EXTINF") and i + 1 < len(lignes)
-                and hote in lignes[i + 1]):
-            out.extend([ligne, lignes[i + 1]])
-    return out
-
-
-def _git(*args):
-    try:
-        return subprocess.run(["git", *args], cwd=RACINE, capture_output=True,
-                              text=True, encoding="utf-8", errors="replace",
-                              timeout=180).stdout
-    except Exception:
-        return ""
-
-
-def _reprise(nom):
-    hote = HOTES_DURABLES.get(nom)
-    if not hote:
-        return []
-    if OUT.exists():
-        e = _entrees_de(OUT.read_text(encoding="utf-8", errors="replace"), hote)
-        if e:
-            print(f"  {nom} : reprise de {len(e) // 2} entrees deja en ligne", flush=True)
-            return e
-    # le checkout d'Actions est superficiel : on recupere quelques jours
-    # d'historique (sans le contenu des fichiers, telecharge a la demande)
-    if _git("rev-parse", "--is-shallow-repository").strip() == "true":
-        _git("fetch", "-q", "--filter=blob:none", "--shallow-since=7 days ago", "origin")
-    chemins = ["data/adult.m3u", "adult.m3u"]
-    for commit in _git("log", "--format=%H", "-n", "300", "--", *chemins).split():
-        for c in chemins:
-            texte = _git("show", f"{commit}:{c}")
-            e = _entrees_de(texte, hote) if texte else []
-            if e:
-                print(f"  {nom} : reprise de {len(e) // 2} entrees depuis "
-                      f"l'historique ({commit[:8]})", flush=True)
-                return e
-    print(f"  [!] {nom} : rien a reprendre", flush=True)
-    return []
-
-
 # -------------------------------- MAIN ----------------------------------
 def main():
-    print("Eporner + XVideos -> playlist adulte", flush=True)
+    print("XVideos -> playlist adulte", flush=True)
     print(f"  cible : {OUT}", flush=True)
 
     lignes = ["#EXTM3U"]
     total = 0
-    for nom, fonction in (("Eporner", bloc_eporner), ("XVideos", bloc_xvideos)):
-        try:
-            part = fonction()
-        except Exception as e:
-            print(f"  [!] {nom} : {type(e).__name__}: {e}", flush=True)
-            part = []
-        if not part:
-            print(f"  [!] {nom} : aucune entree", flush=True)
-            part = _reprise(nom)
-        total += len(part) // 2
-        lignes.extend(part)
-        print("", flush=True)
+
+    # --- XVideos only ---
+    try:
+        part = bloc_xvideos()
+    except Exception as e:
+        print(f"  [!] XVideos : {type(e).__name__}: {e}", flush=True)
+        part = []
+
+    total += len(part) // 2
+    lignes.extend(part)
+    print("", flush=True)
 
     if total == 0:
         print("  [!] rien a ecrire", flush=True)
