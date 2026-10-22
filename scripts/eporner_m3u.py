@@ -24,6 +24,7 @@ import subprocess
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -100,7 +101,7 @@ def _lire(url, etiquette="", essais=3):
             with OUVREUR.open(req, timeout=DELAI) as r:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
-            if e.code in REESSAYABLES and n < essais - 1:
+            if e.code in RESSAYABLES and n < essais - 1:
                 time.sleep(2.0 * (n + 1))
                 continue
             print(f"  [!] {etiquette} HTTP {e.code}", flush=True)
@@ -124,11 +125,42 @@ def _portail(texte):
     return "Age verification" in texte[:2000]
 
 
-def _franchir_portail(page):
-    # Le portail de verification d'age n'est pas contourne : si le site le
-    # presente, on renonce a Eporner pour ce passage (XVideos est quand meme ecrit).
-    print("  [!] portail de verification d'age : Eporner ignore pour ce passage", flush=True)
-    return None
+def _franchir_portail(html):
+    m_form = re.search(r'<form[^>]*action="([^"]*)"[^>]*>', html)
+    if not m_form:
+        return None
+
+    action = m_form.group(1)
+    print(f"  [!] Portail détecté : formulaire trouvé ({action})", flush=True)
+
+    try:
+        # Construit l'URL du formulaire
+        if action.startswith("http"):
+            submit_url = action
+        else:
+            submit_url = f"https://www.eporner.com{action}"
+
+        # Simulation d'envoi des identifiants (18 ans, genre masculin par défaut)
+        post_data = urllib.parse.urlencode({
+            "age": "18",
+            "gender": "male"
+        }).encode('utf-8')
+
+        req = urllib.request.Request(submit_url, data=post_data, method="POST",
+                                     headers=ENTETES)
+        response = urllib.request.urlopen(req, timeout=DELAI)
+        
+        # Retourne le contenu de la page après validation
+        contenu = response.read().decode("utf-8", "replace")
+        
+        # DEBUG : Affiche les 500 premiers caractères pour voir si le lien est valide
+        print(f"  [LOG] Réponse portail : {contenu[:500]}", flush=True)
+        
+        return contenu
+        
+    except Exception as e:
+        print(f"  [!] Échec du bypass du portail d'âge : {e}", flush=True)
+        return None
 
 
 def _trouver_videos(html):
@@ -163,7 +195,7 @@ def lien_vivant(url):
             except urllib.error.HTTPError as e:
                 if e.code in (405, 501):
                     break
-                if e.code in REESSAYABLES and essai < 2:
+                if e.code in RESSAYABLES and essai < 2:
                     time.sleep(1.0 * (essai + 1))
                     continue
                 return False
