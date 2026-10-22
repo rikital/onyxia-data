@@ -7945,6 +7945,8 @@ tf1plus://tf1/nurses
 tf1plus://tf1/royal-scandal
 #EXTINF:-1 tvg-id="tf1plus-tf1-wildfire-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a42aa6-64d8ef-45d5be-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Wildfire
 tf1plus://tf1/wildfire
+#EXTINF:-1 tvg-id="tf1plus-tf1-nightsleeper-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-fd6305-544929-44e908-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Nightsleeper
+tf1plus://tf1/nightsleeper
 #EXTINF:-1 tvg-id="tf1plus-tf1-demain-nous-appartient-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-383bbe-2d5eb0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Demain Nous Appartient
 tf1plus://tf1/demain-nous-appartient
 #EXTINF:-1 tvg-id="tf1plus-tf1-ici-tout-commence-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_itc-2026-6f5fc3-3ada76-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Ici Tout Commence
@@ -8079,8 +8081,6 @@ tf1plus://tf1/maison-de-retraite-la-serie
 tf1plus://tf1/lycee-toulouse-lautrec
 #EXTINF:-1 tvg-id="tf1plus-tf1-avenir-a-voir-en-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2-bbe574-880866-3cdca6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - A voir en famille",Avenir
 tf1plus://tf1/avenir
-#EXTINF:-1 tvg-id="tf1plus-tf1-nightsleeper-action-aventure" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-fd6305-544929-44e908-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Action-Aventure",Nightsleeper
-tf1plus://tf1/nightsleeper
 #EXTINF:-1 tvg-id="tf1plus-tf1-flynn-carson-et-les-nouveaux-aventuriers-action-aventure" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-4-jpg-0b3dd5-217932-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Action-Aventure",Flynn Carson et les Nouveaux Aventuriers
 tf1plus://tf1/flynn-carson-et-les-nouveaux-aventuriers
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-negociateur-action-aventure" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-d67335-cf782b-e0bbe1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Action-Aventure",Le Negociateur
@@ -9839,6 +9839,10 @@ tf1plus://tf1/winx-club
 tf1plus://tf1/chica-vampiro
 #EXTINF:-1 tvg-id="tf1plus-tf1-kallys-mashup-la-voix-de-la-pop-835-top-10" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-f2b5e1-eb6da3-2dc115-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Kallys Mashup la Voix de la Pop 835
 tf1plus://tf1/kallys-mashup-la-voix-de-la-pop-835
+#EXTINF:-1 tvg-id="tf1plus-tf1-mille-bornes-challenge-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-3a2e30-02b21f-d73c97-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Mille Bornes Challenge
+tf1plus://tf1/mille-bornes-challenge
+#EXTINF:-1 tvg-id="tf1plus-tf1-molang-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-molang-b152e0-6796d9-f93e80-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Molang
+tf1plus://tf1/molang
 #EXTINF:-1 tvg-id="tf1plus-tf1-martin-matin-827-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-6199e3-d58656-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Martin Matin 827
 tf1plus://tf1/martin-matin-827
 #EXTINF:-1 tvg-id="tf1plus-tf1-milo-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-milo-f45fd1-e0bf33-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Milo
@@ -9847,10 +9851,6 @@ tf1plus://tf1/milo
 tf1plus://tf1/robin-des-bois
 #EXTINF:-1 tvg-id="tf1plus-tf1-sam-sam-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-510719-3eaa48-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Sam Sam
 tf1plus://tf1/sam-sam
-#EXTINF:-1 tvg-id="tf1plus-tf1-mille-bornes-challenge-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-3a2e30-02b21f-d73c97-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Mille Bornes Challenge
-tf1plus://tf1/mille-bornes-challenge
-#EXTINF:-1 tvg-id="tf1plus-tf1-molang-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-molang-b152e0-6796d9-f93e80-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Molang
-tf1plus://tf1/molang
 #EXTINF:-1 tvg-id="tf1plus-tf1-dora-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dora-f2abdd-e860a2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Dora
 tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
@@ -10251,8 +10251,6 @@ tf1plus://tf1/super-heros-malgre-lui
 tf1plus://tfx/fast-and-furious-6
 #EXTINF:-1 tvg-id="tf1plus-tf1-fast-and-furious-x-101-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bd003b-a7cc45-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious X 101
 tf1plus://tf1/fast-and-furious-x-101
-#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-ceb2c9-027b17-eefaeb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Taxi 5
-tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-fast-and-furious-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-fastandfurious5-ed8833-9bea56-81dba4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious 5
 tf1plus://tf1-series-films/fast-and-furious-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-nuit-blanche-710-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-e05cfd-4da869-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Nuit Blanche 710
@@ -10275,6 +10273,10 @@ tf1plus://tf1/american-heist
 tf1plus://tf1/la-victoire-dans-le-sang-trading-paint
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-old-way-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-f02f2f-6188a2-2186f5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Old Way
 tf1plus://tf1/the-old-way
+#EXTINF:-1 tvg-id="tf1plus-tf1-6-bullets-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-d3741d-5bf362-011a7c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",6 Bullets
+tf1plus://tf1/6-bullets
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-sang-du-cartel-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-f11559-7c2798-ea2b0c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Le Sang du Cartel
+tf1plus://tf1/le-sang-du-cartel
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-bad-guys-255-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-les-bad-guys-35ad66-ff9af4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Les Bad Guys 255
 tf1plus://tmc/les-bad-guys-255
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-retour-vers-le-futur-2-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-04782c-01406e-0912b6-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Retour Vers le Futur 2
@@ -10513,8 +10515,6 @@ tf1plus://tf1/e-t-lextra-terrestre
 tf1plus://tf1/monsieur-aznavour-472
 #EXTINF:-1 tvg-id="tf1plus-tf1-valerian-et-la-cite-des-mille-planetes-972-cinéma-xxl,-prix-xxs" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-c7d715-2c496c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma XXL, prix XXS",Valerian et la Cite des Mille Planetes 972
 tf1plus://tf1/valerian-et-la-cite-des-mille-planetes-972
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-sang-du-cartel-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-f11559-7c2798-ea2b0c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Le Sang du Cartel
-tf1plus://tf1/le-sang-du-cartel
 #EXTINF:-1 tvg-id="tf1plus-tf1-jiu-jitsu-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-a75222-97e0e4-2dea54-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Jiu Jitsu
 tf1plus://tf1/jiu-jitsu
 #EXTINF:-1 tvg-id="tf1plus-tf1-drive-hard-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-5b42c5-dbf7aa-be295b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Drive Hard
@@ -10737,8 +10737,6 @@ tf1plus://tf1/24h-pour-sauver-mon-bebe
 tf1plus://tf1/30-ans-demissions-cultes
 #EXTINF:-1 tvg-id="tf1plus-tf1-5-septembre-smx" tvg-logo="https://photos.tf1.fr/1200/720/5-septembre-75672087-1756505200-d2bd2f-d4865f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",5 septembre
 tf1plus://tf1/5-septembre
-#EXTINF:-1 tvg-id="tf1plus-tf1-6-bullets-smx" tvg-logo="https://photos.tf1.fr/1200/720/6-bullets-67319219-1733164469-deeb13-e56b72-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",6 Bullets
-tf1plus://tf1/6-bullets
 #EXTINF:-1 tvg-id="tf1plus-tf1-72-heures-smx" tvg-logo="https://photos.tf1.fr/1200/720/72-heures-s01-e10-hors-circuit-21852827-1704790071-08f722-bc98e7-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",72 heures
 tf1plus://tf1/72-heures
 #EXTINF:-1 tvg-id="tf1plus-tf1-72h-pour-survivre-smx" tvg-logo="https://photos.tf1.fr/1200/720/72h-pour-survivre-14177961-1756610591-70a158-95f83a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",72H pour survivre
@@ -13867,6 +13865,8 @@ tf1plus://tmc/rivalite-meurtriere
 tf1plus://tmc/soiree-transpi-ete-2025-au-camping
 #EXTINF:-1 tvg-id="tf1plus-tmc-sous-soleil-st-tropez-smx" tvg-logo="https://photos.tf1.fr/1200/720/raw-sous-le-soleil-de-st-tropez-course-contre-la-mort-52022180-1676283702-dfd28b-c48f11-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Sous le soleil de Saint-Tropez
 tf1plus://tmc/sous-soleil-st-tropez
+#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-smx" tvg-logo="https://photos.tf1.fr/1200/720/taxi-5-87b995-abdbe6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Taxi 5
+tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-denfer-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-denfer-adfa81-1f9ee1-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël d'enfer
 tf1plus://tmc/un-noel-denfer
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-pour-deux-coup-de-foudre-en-ville-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-pour-deux-coup-de-foudre-en-ville-95d2fc-214abd-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël pour deux : coup de foudre en ville
