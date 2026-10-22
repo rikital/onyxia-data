@@ -101,7 +101,7 @@ def _lire(url, etiquette="", essais=3):
             with OUVREUR.open(req, timeout=DELAI) as r:
                 return r.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
-            if e.code in RESSAYABLES and n < essais - 1:
+            if e.code in REESSAYABLES and n < essais - 1:
                 time.sleep(2.0 * (n + 1))
                 continue
             print(f"  [!] {etiquette} HTTP {e.code}", flush=True)
@@ -195,7 +195,7 @@ def lien_vivant(url):
             except urllib.error.HTTPError as e:
                 if e.code in (405, 501):
                     break
-                if e.code in RESSAYABLES and essai < 2:
+                if e.code in REESSAYABLES and essai < 2:
                     time.sleep(1.0 * (essai + 1))
                     continue
                 return False
