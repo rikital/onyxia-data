@@ -2049,7 +2049,7 @@ http://69.64.57.208/canal2international/playlist.m3u8
 #EXTINF:-1 tvg-id="CheriflaTV.ml@SD" group-title="Généralistes - 100% Français",Cherifla TV (360p)
 http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 tvg-id="CRTV.cm@SD" group-title="Généralistes - 100% Français",CRTV (360p)
-http://145.239.5.177/147/index.m3u8
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EdenTV.bj@SD" group-title="Généralistes - 100% Français",Eden TV (540p) [Not 24/7]
 https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ETV.gp@SD" group-title="Généralistes - 100% Français",ETV (1080p)
@@ -2793,7 +2793,7 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="CStar.fr@SD" group-title="Divertissement - Divertissement",C Star (477p)
-http://145.239.5.177/361/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="TV2.dz@SD" group-title="Généralistes - 100% Français",TV2 (1080p)
@@ -6096,7 +6096,7 @@ http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD" group-title="France TV backup - Autres",arte (720p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 #EXTINF:-1 tvg-id="CStar.fr@SD" group-title="France TV backup - Autres",C Star (1080p) [iptv-org-fr]
-http://145.239.5.177/361/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 
 # === Ajouts FR multi-sources : Cinéma ===
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr@SD" group-title="Cinéma - Films",Cine+ Emotion (720p)
