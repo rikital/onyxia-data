@@ -105,6 +105,9 @@ REESSAYABLES = (429, 500, 502, 503, 504)
 RE_LIEN = re.compile(r'href="(/video\.([a-z0-9]+)/[^"]*)"')
 RE_HAUT = re.compile(r"setVideoUrlHigh\('([^']+)'\)")
 RE_BAS  = re.compile(r"setVideoUrlLow\('([^']+)'\)")
+# Secours : n'importe quel lien .m3u8 dans la page (setVideoHLS, JSON avec \/ echappes...)
+RE_M3U8 = re.compile(r"(https?:(?:\\?/){2}[^\"'\s<>]+?\.m3u8[^\"'\s<>]*)")
+ESSAIS_FLUX = 8                       # essais pour la page video (connexion instable)
 
 
 def _lire(url, etiquette="", essais=3):
@@ -393,10 +396,16 @@ _DIAG_FLUX = 0
 
 
 def _flux(chemin):
-    page = _lire("https://www.xvideos.com" + chemin, chemin)
+    page = _lire("https://www.xvideos.com" + chemin, chemin, essais=ESSAIS_FLUX)
     if not page:
         return ""
     m = RE_HAUT.search(page) or RE_BAS.search(page)
+    if m:
+        return m.group(1)
+    # Secours : un lien HLS (.m3u8) present ailleurs dans la page
+    s = RE_M3U8.search(page)
+    if s:
+        return s.group(1).replace("\\/", "/")
     if not m:
         global _DIAG_FLUX
         _DIAG_FLUX += 1
