@@ -7216,7 +7216,7 @@ https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 
 # === Ajouts FR multi-sources : Lifestyle ===
 #EXTINF:-1 group-title="Lifestyle - Lifestyle",SQOOL TV
-https://new.cache-stream.workers.dev/stream/UCaEqMbRYYOmI3WrALMhxuIg/live.m3u8
+https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/ytbe/sqool.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 (1080p) [iptv-org-fr]
@@ -7589,6 +7589,12 @@ https://jmp2.uk/stvp-FR900002B4
 # === Ajouts FR multi-sources : Documentaire ===
 #EXTINF:-1 group-title="Documentaire - Documentaires",FRANCE TV MATERNELLES
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/maternelles.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="CNews.fr" group-title="France TV backup - Autres",CNEWS [schumijo]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-clair-hd.m3u8
+#EXTINF:-1 group-title="France TV backup - Autres",CNEWS PRIME [schumijo]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnewsprime-clair-hd.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
