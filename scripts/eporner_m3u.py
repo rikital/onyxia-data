@@ -389,11 +389,20 @@ def _cartes(page):
     return trouves
 
 
+_DIAG_FLUX = 0
+
+
 def _flux(chemin):
     page = _lire("https://www.xvideos.com" + chemin, chemin)
     if not page:
         return ""
     m = RE_HAUT.search(page) or RE_BAS.search(page)
+    if not m:
+        global _DIAG_FLUX
+        _DIAG_FLUX += 1
+        # Diagnostic limité aux 3 premiers échecs (évite d'inonder le journal)
+        if _DIAG_FLUX <= 3:
+            print(f"  [diag] aucun lien pour {chemin} — début de la page :\n{page[:1000]}", flush=True)
     return m.group(1) if m else ""
 
 
