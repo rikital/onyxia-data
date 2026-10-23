@@ -112,6 +112,52 @@ def parse_samsung(body):
     return entries
 
 
+# ---------- Samsung TV+ : chaînes retirées ----------
+# 2026-10-23 (user : « retirer les chaînes ») : la liste textup.fr garde des chaînes que
+#   Samsung a supprimées (FailArmy, Culture Pub, Emotion…). Le redirecteur jmp2.uk répond
+#   alors 404 au lieu de 302 → on ne les publie plus. Un doute (réseau, timeout, autre code)
+#   ne condamne pas une chaîne. Garde-fou : si plus de la moitié semble morte, c'est un
+#   problème de vérification, pas de Samsung → on garde tout.
+_RE_STVP = re.compile(r"stvp-[A-Za-z0-9]+")
+
+
+def _jmp2_mort(url):
+    from urllib.request import build_opener, HTTPRedirectHandler
+    from urllib.error import HTTPError
+
+    class _SansRedirection(HTTPRedirectHandler):
+        def redirect_request(self, *a, **k):
+            return None
+
+    m = _RE_STVP.search(url)
+    if not m:
+        return False
+    try:
+        build_opener(_SansRedirection).open(
+            Request("https://jmp2.uk/" + m.group(0), headers={"User-Agent": "Mozilla/5.0"}),
+            timeout=12).close()
+        return False
+    except HTTPError as e:
+        return e.code == 404
+    except Exception:
+        return False
+
+
+def retirer_samsung_morts(entries):
+    if not entries:
+        return entries
+    with ThreadPoolExecutor(max_workers=12) as ex:
+        morts = list(ex.map(lambda en: _jmp2_mort(en[1]), entries))
+    n = sum(morts)
+    if n > len(entries) // 2:
+        print(f"  Samsung TV+: {n}/{len(entries)} liens en 404 → vérification douteuse, rien retiré")
+        return entries
+    if n:
+        noms = [en[0] for en, mort in zip(entries, morts) if mort]
+        print(f"  Samsung TV+: {n} chaîne(s) retirée(s) par Samsung, non publiées : {', '.join(noms)}")
+    return [en for en, mort in zip(entries, morts) if not mort]
+
+
 # ---------- Generic M3U parser ----------
 def parse_m3u(body, service):
     entries, lines, i = [], body.splitlines(), 0
@@ -242,6 +288,7 @@ def main():
     if samsung_body:
         e = parse_samsung(samsung_body)
         print(f"  Samsung TV+: {len(e)} channels")
+        e = retirer_samsung_morts(e)
         all_e.extend(e)
     else:
         print("  Samsung TV+: FAILED")
