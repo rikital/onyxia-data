@@ -316,6 +316,16 @@ def probe_server(srv):
         #   mortes dans Ciné Films. On lit UN flux réel avant de retenir le panel : refus franc
         #   (401/403/456/458) deux fois de suite → panel écarté. Une page « FAILED TO CONNECT »
         #   en 200 ou un 404 sur ce film précis ne condamne pas le panel (c'est propre au film).
+        # 2026-10-23 (user : « ne pas proposer au premier plan les séries qui vont être
+        #   défectueuses ») : nombre de connexions simultanées du compte. Un compte à 1 ou 2
+        #   connexions est pris dès qu'un autre utilisateur regarde → 458 pour tous les autres
+        #   (tv-premium-pro, Infidèles 2025). Ces panels passent en DERNIER dans les sources.
+        try:
+            r_ui = requests.get("%s/player_api.php?username=%s&password=%s" % (srv["b"], srv["u"], srv["p"]),
+                                headers=H, timeout=(15, 20))
+            srv["maxc"] = int(((r_ui.json() or {}).get("user_info") or {}).get("max_connections") or 0)
+        except Exception:
+            srv["maxc"] = 0
         refus = flux_refuse(srv)
         if refus:
             log("[%2d] %s : flux refusés (HTTP %s) → panel écarté" % (srv["pos"], srv["b"], refus))
@@ -507,6 +517,21 @@ def main():
     fusionner(films, lambda e: (norm(e["t"]), e["y"]), MAX_SRC)
     fusionner(series, lambda e: (norm(e["t"]), e["y"]), MAX_SRC_SER)
     log("fusion titre+année : films %d → %d, séries %d → %d" % (nf0, len(films), ns0, len(series)))
+
+    # 2026-10-23 : panels à 1-2 connexions (souvent occupés → 458) placés EN DERNIER dans les
+    #   sources de chaque film/série. Tri stable : l'ordre d'origine est gardé à l'intérieur
+    #   de chaque groupe. Aucune source n'est retirée.
+    maxc = {s["pos"]: s.get("maxc", 0) for s in probed}
+    fragiles = {p for p, m in maxc.items() if 0 < m <= 2}
+    if fragiles:
+        log("panels à 1-2 connexions placés en dernier : %s" % sorted(fragiles))
+        deplaces = 0
+        for table in (films, series):
+            for e in table.values():
+                if len(e["s"]) > 1 and e["s"][0][0] in fragiles:
+                    deplaces += 1
+                e["s"].sort(key=lambda src: src[0] in fragiles)
+        log("  %d fiches dont la 1re source était un panel fragile" % deplaces)
 
     # Épisodes : pour chaque (serveur, série) retenu. ⚠ Tout serveur cité par une source doit
     #   être connu ici (1er run : un serveur dont la liste de films avait échoué mais qui avait
