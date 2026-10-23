@@ -311,6 +311,12 @@ def _flux_adulttv(chemin):
     if not lien.startswith("http"):
         print(f"  {chemin} : aucun lien", flush=True)
         return None
+    # 2026-10-23 (user : « les réparer ») : les liens de type « api » (stream.xlivetv.com)
+    #   ne marchent QUE pour l'adresse IP qui les a demandés -> generes ici, ils etaient
+    #   refuses (403) chez tout le monde. On publie adulttv://<chemin> et l'appli demande
+    #   le lien au moment de la lecture (AdultTvResolver), depuis l'IP de l'utilisateur.
+    if cfg.get("streamType") == "api":
+        lien = "adulttv://" + chemin.strip("/")
 
     m_titre = re.search(r"<h1[^>]*>\s*([^<]+?)\s*</h1>", page) or re.search(r"<title>\s*([^<|]+)", page)
     titre = html_mod.unescape(m_titre.group(1)).strip() if m_titre else chemin.strip("/").replace("-", " ").title()
