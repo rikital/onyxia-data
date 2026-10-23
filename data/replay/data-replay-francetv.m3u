@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde
+francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
 #EXTINF:-1 tvg-id="francetv-bd16bf65-545c-4f56-b56a-58ec78fee439" tvg-logo="https://medias.france.tv/vsvHy7KbFp3auOVka0IHY75Wxrc/400x0/filters:quality(85)/a/v/0/phpapd0va.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Complément d'enquête — Sarah Knafo : Zemmour, gloire et plan B
 francetv://bd16bf65-545c-4f56-b56a-58ec78fee439
 #EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Harceleurs
 francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
+#EXTINF:-1 tvg-id="francetv-prog-france-2_simon-coleman" tvg-logo="https://medias.france.tv/yw8V_qxuYJxvf-Vpj4bXEUqANmA/400x0/filters:quality(85)/f/1/v/phpnvxv1f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Simon Coleman
+francetv://program/france-2_simon-coleman
 #EXTINF:-1 tvg-id="francetv-7272385b-2c90-40fa-b05a-88bf4bba762c" tvg-logo="https://medias.france.tv/7LQ8AjUu1K1Nm6FlJdKrNO_gRE0/400x0/filters:quality(85)/4/0/5/4deae5f64ef441918ebdfcd322722504.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial — Émission du jeudi 22 octobre 2026
 francetv://7272385b-2c90-40fa-b05a-88bf4bba762c
 #EXTINF:-1 tvg-id="francetv-a4408021-5824-4b1b-bb96-a442396379fb" tvg-logo="https://medias.france.tv/6ihIugykJT-rXpCeL3y6vF9qTZU/400x0/filters:quality(85)/l/h/t/php8uuthl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le Grand Échiquier — Spéciale Céline Dion
@@ -15,28 +19,16 @@ francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
 francetv://18cab1ee-cdca-4b8b-acb5-eafd7a8a0a09
 #EXTINF:-1 tvg-id="francetv-0483d880-99fa-43c3-9f7a-656b4b73e8d8" tvg-logo="https://medias.france.tv/4iPxOt4Z0ESY8Dg8XngmncAuISc/400x0/filters:quality(85)/6/0/0/4e2d2fb8b0344b66beab5cad792e9006.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Beau geste — Avec Gilles Lellouche
 francetv://0483d880-99fa-43c3-9f7a-656b4b73e8d8
-#EXTINF:-1 tvg-id="francetv-29109a12-d679-47ef-a6df-5cfb82176fdd" tvg-logo="https://medias.france.tv/2JftwfzT1Mknu199UgwK_OTEuZU/400x0/filters:quality(85)/e/5/5/deb84bc2dc334af69b45ca2f1043255e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",100 % logique : la réponse est sous vos yeux — Émission du samedi 17 octobre 2026
-francetv://29109a12-d679-47ef-a6df-5cfb82176fdd
 #EXTINF:-1 tvg-id="francetv-9255271b-34e7-45c2-b1df-f1c41196b09b" tvg-logo="https://medias.france.tv/Z3XR_hltUwznYbMn90Zrtp6VKRQ/400x0/filters:quality(85)/p/n/w/phpgn1wnp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sommes-nous tous accros aux écrans ?
 francetv://9255271b-34e7-45c2-b1df-f1c41196b09b
-#EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Quelle époque !
-francetv://program/france-2_quelle-epoque
-#EXTINF:-1 tvg-id="francetv-99cb7daa-5c95-4f90-afd1-0cc7fbf84020" tvg-logo="https://medias.france.tv/QoKCp5_qsUZbWiup8W0hIfOiG-Y/400x0/filters:quality(85)/z/k/t/phpajjtkz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les rencontres du Papotin — Fanny Ardant
-francetv://99cb7daa-5c95-4f90-afd1-0cc7fbf84020
-#EXTINF:-1 tvg-id="francetv-151ff365-b1f6-46c7-887b-ec0fa609fe39" tvg-logo="https://medias.france.tv/FtRa2tEWYfQV1brWfK6sAUQMy3g/400x0/filters:quality(85)/y/p/k/php5nzkpy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Complément d'enquête — Carrefour : révélations sur un géant face à la crise
-francetv://151ff365-b1f6-46c7-887b-ec0fa609fe39
 #EXTINF:-1 tvg-id="francetv-3befdb64-81ae-4ff5-86d3-da05fca21fd8" tvg-logo="https://medias.france.tv/CZiJAmqvYEn0K-lBzbTjFh1gjGU/400x0/filters:quality(85)/k/g/j/php5mhjgk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",On aboie en silence
 francetv://3befdb64-81ae-4ff5-86d3-da05fca21fd8
 #EXTINF:-1 tvg-id="francetv-2124a96d-c420-439f-80cc-f8d5e72b265a" tvg-logo="https://medias.france.tv/1Tu6cEIHf1w4t_3HKIb_SMeHkWk/400x0/filters:quality(85)/k/j/q/phpqroqjk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Lâche ton tel
 francetv://2124a96d-c420-439f-80cc-f8d5e72b265a
 #EXTINF:-1 tvg-id="francetv-3c13c584-d7a4-4289-ae8c-86b997ffa2f0" tvg-logo="https://medias.france.tv/fir3m9Wf0ZOjkWNjkrqPcbVOS9Y/400x0/filters:quality(85)/w/l/o/php7opolw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La grande Histoire de la Marine
 francetv://3c13c584-d7a4-4289-ae8c-86b997ffa2f0
-#EXTINF:-1 tvg-id="francetv-prog-france-2_un-soupcon" tvg-logo="https://medias.france.tv/r46hhH0mL4q9qVeXXDExF_6qJMs/400x0/filters:quality(85)/9/9/x/phprtvx99.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un soupçon
-francetv://program/france-2_un-soupcon
 #EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Au sein des autres
 francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
-#EXTINF:-1 tvg-id="francetv-prog-france-2_simon-coleman" tvg-logo="https://medias.france.tv/yw8V_qxuYJxvf-Vpj4bXEUqANmA/400x0/filters:quality(85)/f/1/v/phpnvxv1f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Simon Coleman
-francetv://program/france-2_simon-coleman
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sœurs
 francetv://program/france-2_soeurs
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/uG1pGJa2dHhnjDwbHxz9kVCmHgU/400x0/filters:quality(85)/v/z/1/phpmfs1zv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le Rouge et le Noir
@@ -71,6 +63,8 @@ francetv://program/france-2_bel-et-bien
 francetv://program/france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre
 #EXTINF:-1 tvg-id="francetv-prog-france-2_affaire-conclue-la-vie-des-objets" tvg-logo="https://medias.france.tv/7yAUDFCSgOcDlMNOOh-NcMBUQAY/400x0/filters:quality(85)/p/h/g/phpsxcghp.png" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Affaire conclue : la vie des objets
 francetv://program/france-2_affaire-conclue-la-vie-des-objets
+#EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Quelle époque !
+francetv://program/france-2_quelle-epoque
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
 francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-rencontres-du-papotin" tvg-logo="https://medias.france.tv/f0n78nCs71hhYYpLI1BrFxjs93c/400x0/filters:quality(85)/3/n/k/phpjtukn3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les rencontres du Papotin
@@ -1379,18 +1373,18 @@ francetv://program/france-3_voyages-delices
 francetv://program/france-3_les-temoins-d-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-france-o_passion-outre-mer" tvg-logo="https://medias.france.tv/6V-Bb7cAb1buH1rC4gqi0TghgVA/400x0/filters:quality(85)/k/b/b/phpou0bbk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France Ô",Passion Outremer
 francetv://program/france-o_passion-outre-mer
-#EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La terre et le sang
-francetv://program/france-2_la-terre-et-le-sang
-#EXTINF:-1 tvg-id="francetv-225758a4-9b61-4d3f-ad7a-60243de52345" tvg-logo="https://medias.france.tv/RaTfOPkFA9FEusa__r9epwe6Lls/400x0/filters:quality(85)/o/p/s/phpdiospo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les Farouches
-francetv://225758a4-9b61-4d3f-ad7a-60243de52345
-#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Harceleurs
-francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
-#EXTINF:-1 tvg-id="francetv-10ab1160-256b-4f97-8dc1-e31690213d76" tvg-logo="https://medias.france.tv/nKtIUPooNA9CiCudCdvRij3EvGo/400x0/filters:quality(85)/s/d/s/phpbc2sds.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Un petit air de bonheur
-francetv://10ab1160-256b-4f97-8dc1-e31690213d76
-#EXTINF:-1 tvg-id="francetv-0c84ec18-0a88-4048-9d7a-968b81a428e3" tvg-logo="https://medias.france.tv/rQM_OGruuO6LngSPflP1vaMQin8/400x0/filters:quality(85)/h/f/5/phpe345fh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Péril blanc
-francetv://0c84ec18-0a88-4048-9d7a-968b81a428e3
 #EXTINF:-1 tvg-id="francetv-prog-france-2_simon-coleman" tvg-logo="https://medias.france.tv/yw8V_qxuYJxvf-Vpj4bXEUqANmA/400x0/filters:quality(85)/f/1/v/phpnvxv1f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Simon Coleman
 francetv://program/france-2_simon-coleman
+#EXTINF:-1 tvg-id="francetv-0c84ec18-0a88-4048-9d7a-968b81a428e3" tvg-logo="https://medias.france.tv/rQM_OGruuO6LngSPflP1vaMQin8/400x0/filters:quality(85)/h/f/5/phpe345fh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Péril blanc
+francetv://0c84ec18-0a88-4048-9d7a-968b81a428e3
+#EXTINF:-1 tvg-id="francetv-225758a4-9b61-4d3f-ad7a-60243de52345" tvg-logo="https://medias.france.tv/RaTfOPkFA9FEusa__r9epwe6Lls/400x0/filters:quality(85)/o/p/s/phpdiospo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les Farouches
+francetv://225758a4-9b61-4d3f-ad7a-60243de52345
+#EXTINF:-1 tvg-id="francetv-10ab1160-256b-4f97-8dc1-e31690213d76" tvg-logo="https://medias.france.tv/nKtIUPooNA9CiCudCdvRij3EvGo/400x0/filters:quality(85)/s/d/s/phpbc2sds.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Un petit air de bonheur
+francetv://10ab1160-256b-4f97-8dc1-e31690213d76
+#EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",La terre et le sang
+francetv://program/france-2_la-terre-et-le-sang
+#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Harceleurs
+francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
 #EXTINF:-1 tvg-id="francetv-3befdb64-81ae-4ff5-86d3-da05fca21fd8" tvg-logo="https://medias.france.tv/CZiJAmqvYEn0K-lBzbTjFh1gjGU/400x0/filters:quality(85)/k/g/j/php5mhjgk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",On aboie en silence
 francetv://3befdb64-81ae-4ff5-86d3-da05fca21fd8
 #EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Au sein des autres
@@ -1413,10 +1407,6 @@ francetv://b3853b85-f6aa-4189-b577-44ba0a6fca56
 francetv://337a8853-f515-473f-aa18-815af99241df
 #EXTINF:-1 tvg-id="francetv-bfed2b2e-c919-400c-af2b-72330331e80a" tvg-logo="https://medias.france.tv/agtT_N-iiX-hwNldMjLyO-0szVA/400x0/filters:quality(85)/u/7/a/phpskxa7u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 23 octobre 2026
 francetv://bfed2b2e-c919-400c-af2b-72330331e80a
-#EXTINF:-1 tvg-id="francetv-a4d138ed-7263-4161-8576-b8c08d40d341" tvg-logo="https://medias.france.tv/ngWV8n-7PIB4ZCnWzLmcju0GNPU/400x0/filters:quality(85)/t/3/9/phpftx93t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Capitaine Marleau — La septième danse
-francetv://a4d138ed-7263-4161-8576-b8c08d40d341
-#EXTINF:-1 tvg-id="francetv-prog-france-2_enquetes-au-paradis" tvg-logo="https://medias.france.tv/9zM2SILHqwzRQevvgSojYBP5v2s/400x0/filters:quality(85)/v/l/3/phpb503lv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Enquêtes au paradis
-francetv://program/france-2_enquetes-au-paradis
 #EXTINF:-1 tvg-id="francetv-prog-slash_9-3-bb" tvg-logo="https://medias.france.tv/x413MootXPUsxh48v7mbteAArhc/400x0/filters:quality(85)/m/k/a/phpnrxakm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",9.3 BB
 francetv://program/slash_9-3-bb
 #EXTINF:-1 tvg-id="francetv-c6e2b418-75b2-497a-925a-df80230586f4" tvg-logo="https://medias.france.tv/dlRVDlSzmzI41IKa6b0jO113Ggk/400x0/filters:quality(85)/e/w/k/phpp1rkwe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Flair de famille — Rouge sang
@@ -1431,6 +1421,8 @@ francetv://aeabda6e-d681-46b4-93ed-49138cfb033f
 francetv://1991a964-eb75-4952-b3d2-2be130b32830
 #EXTINF:-1 tvg-id="francetv-1d7a6646-6c41-4a59-9380-cb1b5fd5f32a" tvg-logo="https://medias.france.tv/oeKAcHEECyERsqOuzM18LNGEf5U/400x0/filters:quality(85)/a/y/s/phpdrqsya.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Morts au sommet
 francetv://1d7a6646-6c41-4a59-9380-cb1b5fd5f32a
+#EXTINF:-1 tvg-id="francetv-0c84ec18-0a88-4048-9d7a-968b81a428e3" tvg-logo="https://medias.france.tv/rQM_OGruuO6LngSPflP1vaMQin8/400x0/filters:quality(85)/h/f/5/phpe345fh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Péril blanc
+francetv://0c84ec18-0a88-4048-9d7a-968b81a428e3
 #EXTINF:-1 tvg-id="francetv-d629c96c-3bf6-49b6-bcf6-5cf4387cb574" tvg-logo="https://medias.france.tv/cjpwY4dXNDB-p1NXpwbD5p6EYGY/400x0/filters:quality(85)/t/z/m/phpdnxmzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Fais pas ci, fais pas ça — Y aura-t-il Noël à Noël ?
 francetv://d629c96c-3bf6-49b6-bcf6-5cf4387cb574
 #EXTINF:-1 tvg-id="francetv-eb1ed1c4-593f-48dd-a572-7bad6dadf192" tvg-logo="https://medias.france.tv/SOK1lA4xeX3Yif7bnEoIsETo1yA/400x0/filters:quality(85)/c/6/7/45d0f31507b544fe83d082795c74399f23cf0927102f19a81da3e4cc98daf76c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les Histoires d'Anouk
@@ -1467,8 +1459,10 @@ francetv://program/tv5-monde_fauchees
 francetv://program/france-3_tandem
 #EXTINF:-1 tvg-id="francetv-7e3d129e-9c17-4d49-a25e-5e913ba91e35" tvg-logo="https://medias.france.tv/W05n912wCAxfOfmSzQHYQfeHqAs/400x0/filters:quality(85)/3/a/8/php7gs8a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Arte
 francetv://7e3d129e-9c17-4d49-a25e-5e913ba91e35
-#EXTINF:-1 tvg-id="francetv-prog-arte_portobello" tvg-logo="https://medias.france.tv/hYqjqH_kDAAiAxh80E9B2IFCEv0/400x0/filters:quality(85)/c/3/4/6371135a242f4c0e97c52bbc4ca1343c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Portobello
+#EXTINF:-1 tvg-id="francetv-prog-arte_portobello" tvg-logo="https://medias.france.tv/Qvo5Wt7knDriHl4smTLoKOuVHRg/400x0/filters:quality(85)/9/4/a/dc86a4bd35d541d19b05a60529eada49.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Portobello
 francetv://program/arte_portobello
+#EXTINF:-1 tvg-id="francetv-prog-arte_blood" tvg-logo="https://medias.france.tv/sfyrhtGTvViaBTyhLpg6uoeb9UQ/400x0/filters:quality(85)/6/0/a/6e773675783e4b14aa65e5a08e729a06.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Blood
+francetv://program/arte_blood
 #EXTINF:-1 tvg-id="francetv-prog-arte_camarades" tvg-logo="https://medias.france.tv/bbL7t3nn1VGUeXaauYTCV9jW7Sw/400x0/filters:quality(85)/o/l/y/phpekvylo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Camarades
 francetv://program/arte_camarades
 #EXTINF:-1 tvg-id="francetv-prog-arte_un-jour-on-fera-l-amour" tvg-logo="https://medias.france.tv/sHHa1VBgJbdoROpX2CZdz_0kn2A/400x0/filters:quality(85)/1/4/2/8b34780360d041cf91c833465eeed241.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Un jour on fera l'amour
@@ -3275,72 +3269,34 @@ francetv://80ae7580-8c24-11f1-9512-6dcd43e8ddfd
 francetv://dacbb1aa-5b68-11f1-845a-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-c478740e-2839-11f1-835a-957ddefc544d" tvg-logo="https://medias.france.tv/2fP1wGstPaXhtCxLcQS-4je2jVs/400x0/filters:quality(85)/9/6/9/7e27f61b04594007aa89c17b1fd05969.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Découvrir un film","L'avenir" : Son mari lui fait une annonce difficile
 francetv://c478740e-2839-11f1-835a-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Harceleurs
-francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
-#EXTINF:-1 tvg-id="francetv-3c37472e-ddb5-4d70-a4a8-5d36ae20d641" tvg-logo="https://medias.france.tv/ENy5Senmw5qV2Q2pJLiiS_RkJeo/400x0/filters:quality(85)/i/2/1/phpzjm12i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Débat — Parents, enfants, professeurs : agir face au harcèlement
-francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
-#EXTINF:-1 tvg-id="francetv-6b74d092-8529-4a20-a86f-f677c98f9e2d" tvg-logo="https://medias.france.tv/zPydEsTVnz5Hkv6X-pVwAsc1gxo/400x0/filters:quality(85)/t/z/0/phpvhn0zt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Lindsay, la mécanique du harcèlement
-francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
 #EXTINF:-1 tvg-id="francetv-7272385b-2c90-40fa-b05a-88bf4bba762c" tvg-logo="https://medias.france.tv/7LQ8AjUu1K1Nm6FlJdKrNO_gRE0/400x0/filters:quality(85)/4/0/5/4deae5f64ef441918ebdfcd322722504.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Envoyé spécial — Émission du jeudi 22 octobre 2026
 francetv://7272385b-2c90-40fa-b05a-88bf4bba762c
-#EXTINF:-1 tvg-id="francetv-b1f511a3-232a-48fb-acd0-09407646de2f" tvg-logo="https://medias.france.tv/GsI9pr8SJNaiBCXGGThd353cDu8/400x0/filters:quality(85)/z/j/w/phpvhiwjz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La chaîne des Maternelles
-francetv://b1f511a3-232a-48fb-acd0-09407646de2f
 #EXTINF:-1 tvg-id="francetv-bd16bf65-545c-4f56-b56a-58ec78fee439" tvg-logo="https://medias.france.tv/vsvHy7KbFp3auOVka0IHY75Wxrc/400x0/filters:quality(85)/a/v/0/phpapd0va.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Complément d'enquête — Sarah Knafo : Zemmour, gloire et plan B
 francetv://bd16bf65-545c-4f56-b56a-58ec78fee439
+#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Harceleurs
+francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
+#EXTINF:-1 tvg-id="francetv-prog-france-2_telematin-la-suite" tvg-logo="https://medias.france.tv/ZWPmjIKeoLT0EdyuHjfx3Qs3-eI/400x0/filters:quality(85)/i/j/g/php2u5gji.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Télématin, la suite
+francetv://program/france-2_telematin-la-suite
+#EXTINF:-1 tvg-id="francetv-734f13d7-ae53-484c-93cb-2f452d0cd1c4" tvg-logo="https://medias.france.tv/_Z4rN1Etnj7dLynnQIH6609WmpE/400x0/filters:quality(85)/3/d/9/a07ad1bd75e44dbeaa1ea180e593d9d3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Dans mon ventre, une part de folie ? - Le documentaire
+francetv://734f13d7-ae53-484c-93cb-2f452d0cd1c4
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
+francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/LP1K8wE5RQ0Nm2HMucshDIxEe6M/400x0/filters:quality(85)/v/r/j/php6zjjrv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Narcorama, il était une fois Marseille
+francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
+#EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
+francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
+#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
+francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
+#EXTINF:-1 tvg-id="francetv-6b74d092-8529-4a20-a86f-f677c98f9e2d" tvg-logo="https://medias.france.tv/zPydEsTVnz5Hkv6X-pVwAsc1gxo/400x0/filters:quality(85)/t/z/0/phpvhn0zt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Lindsay, la mécanique du harcèlement
+francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
 #EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
 francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-3db103b5-2c72-4f68-9e80-ec2c3453156d" tvg-logo="https://medias.france.tv/wCidSJ84Cu_VOIwy5haEAGmoGrY/400x0/filters:quality(85)/j/v/y/phpbr0yvj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Prenez soin de vous ! — Se libérer des douleurs chroniques
 francetv://3db103b5-2c72-4f68-9e80-ec2c3453156d
 #EXTINF:-1 tvg-id="francetv-9255271b-34e7-45c2-b1df-f1c41196b09b" tvg-logo="https://medias.france.tv/Z3XR_hltUwznYbMn90Zrtp6VKRQ/400x0/filters:quality(85)/p/n/w/phpgn1wnp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Sommes-nous tous accros aux écrans ?
 francetv://9255271b-34e7-45c2-b1df-f1c41196b09b
-#EXTINF:-1 tvg-id="francetv-734f13d7-ae53-484c-93cb-2f452d0cd1c4" tvg-logo="https://medias.france.tv/_Z4rN1Etnj7dLynnQIH6609WmpE/400x0/filters:quality(85)/3/d/9/a07ad1bd75e44dbeaa1ea180e593d9d3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Dans mon ventre, une part de folie ? - Le documentaire
-francetv://734f13d7-ae53-484c-93cb-2f452d0cd1c4
-#EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
-francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
-francetv://program/documentaires_documentaires-societe_vies-de-famille
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/LP1K8wE5RQ0Nm2HMucshDIxEe6M/400x0/filters:quality(85)/v/r/j/php6zjjrv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Narcorama, il était une fois Marseille
-francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
-#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
-francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
 #EXTINF:-1 tvg-id="francetv-2124a96d-c420-439f-80cc-f8d5e72b265a" tvg-logo="https://medias.france.tv/1Tu6cEIHf1w4t_3HKIb_SMeHkWk/400x0/filters:quality(85)/k/j/q/phpqroqjk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Lâche ton tel
 francetv://2124a96d-c420-439f-80cc-f8d5e72b265a
-#EXTINF:-1 tvg-id="francetv-6b74d092-8529-4a20-a86f-f677c98f9e2d" tvg-logo="https://medias.france.tv/zPydEsTVnz5Hkv6X-pVwAsc1gxo/400x0/filters:quality(85)/t/z/0/phpvhn0zt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Lindsay, la mécanique du harcèlement
-francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
-#EXTINF:-1 tvg-id="francetv-3c37472e-ddb5-4d70-a4a8-5d36ae20d641" tvg-logo="https://medias.france.tv/ENy5Senmw5qV2Q2pJLiiS_RkJeo/400x0/filters:quality(85)/i/2/1/phpzjm12i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Débat — Parents, enfants, professeurs : agir face au harcèlement
-francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
-#EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Harceleurs
-francetv://08e3db78-74c3-4b24-b99c-aef89a91c7d7
-#EXTINF:-1 tvg-id="francetv-c642c957-5db0-4f0e-9154-14e32d4ed385" tvg-logo="https://medias.france.tv/kDpJeWkO39x9nCgAy8Wr6aNkgvQ/400x0/filters:quality(85)/m/p/o/phpufjopm.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Forum jeunes — Harcèlement scolaire et cyber harcèlement
-francetv://c642c957-5db0-4f0e-9154-14e32d4ed385
-#EXTINF:-1 tvg-id="francetv-9498f32e-2b3f-4d93-a215-a5a938bbffd6" tvg-logo="https://medias.france.tv/yf5SSIzpZYrbDagelKVphlOoxWg/400x0/filters:quality(85)/x/m/q/phpblhqmx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Rendez-vous avec la psy — À partir de quand on parle de harcèlement ?
-francetv://9498f32e-2b3f-4d93-a215-a5a938bbffd6
-#EXTINF:-1 tvg-id="francetv-999a2ab3-2fe3-4aff-95a4-ba94a3912f4a" tvg-logo="https://medias.france.tv/tSNKdmnSsBX39XPYyDNtE5ej7pc/400x0/filters:quality(85)/4/c/3/66ca7519fff94447bbfa59bae7d613c4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Psycho — Moi et le harcèlement
-francetv://999a2ab3-2fe3-4aff-95a4-ba94a3912f4a
-#EXTINF:-1 tvg-id="francetv-cda2dc85-d1b4-441e-a206-7dcceaf61ed8" tvg-logo="https://medias.france.tv/I_7PQbi-isUhubSHOnFhnI3tR_0/400x0/filters:quality(85)/6/c/y/phpaphyc6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Un monde en doc — Face au fléau du harcèlement scolaire : comment agir à court et long terme ?
-francetv://cda2dc85-d1b4-441e-a206-7dcceaf61ed8
-#EXTINF:-1 tvg-id="francetv-649310e7-5bd8-4f0d-b418-314166436a90" tvg-logo="https://medias.france.tv/CQEGhUrh17Eap-b8DZQjXawmQ-0/400x0/filters:quality(85)/h/9/k/phpghck9h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Que sont-ils devenus ? — On a retrouvé Sarah, harcelée à l'école en 1989
-francetv://649310e7-5bd8-4f0d-b418-314166436a90
-#EXTINF:-1 tvg-id="francetv-6a93f648-e20d-4a36-92a6-7f41329cd02f" tvg-logo="https://medias.france.tv/6H50GtAuBLIWjgXf6qq9kBlk4P4/400x0/filters:quality(85)/1/0/6/a587f8c1f41f430db646c1f1186fc601.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Tu dis, tu stoppes ! — Le cyberharcèlement
-francetv://6a93f648-e20d-4a36-92a6-7f41329cd02f
-#EXTINF:-1 tvg-id="francetv-0c088c98-4d31-4d2a-8fc6-b91885b682be" tvg-logo="https://medias.france.tv/GLRQTVBVOcus4YX9s0QYFCvEpPw/400x0/filters:quality(85)/x/t/k/phpfcxktx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La France en vrai - Bourgogne Franche Comté — Braver l'ombre, nos vies après le harcèlement
-francetv://0c088c98-4d31-4d2a-8fc6-b91885b682be
-#EXTINF:-1 tvg-id="francetv-e2fb3a50-b81e-45d5-92a4-0d3fbe5b35ba" tvg-logo="https://medias.france.tv/OfaVWH1TS2Mcm4aUczoalFm9Q9A/400x0/filters:quality(85)/q/5/f/phpfkaf5q.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Ça commence aujourd'hui — L'enfer du harcèlement scolaire
-francetv://e2fb3a50-b81e-45d5-92a4-0d3fbe5b35ba
-#EXTINF:-1 tvg-id="francetv-e7ef2584-92d2-4b26-a703-248ea5cd4c5a" tvg-logo="https://medias.france.tv/RL-GT86gHDKTjf6efPjPIDs3AsA/400x0/filters:quality(85)/4/m/l/phphpolm4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",C pas si loin — Harcèlement à l'école : écouter et protéger
-francetv://e7ef2584-92d2-4b26-a703-248ea5cd4c5a
-#EXTINF:-1 tvg-id="francetv-a294eeea-cccd-4092-b9d5-fe64d6969036" tvg-logo="https://medias.france.tv/bC9jryGpgwHhqt6XjzGGZCHv9lc/400x0/filters:quality(85)/5/e/4/a566d345f83b4841b4809acd3da396ae5610424f52ca5fe7cf17be3ecab544e5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",T'es au TOP — Zakary, 9 ans : je bégaie… on se moque de moi
-francetv://a294eeea-cccd-4092-b9d5-fe64d6969036
-#EXTINF:-1 tvg-id="francetv-3dd1530c-9076-481a-89e5-8419314bf3ca" tvg-logo="https://medias.france.tv/yRwF0IfRQgcCogDYCWdj8UXv4Y8/400x0/filters:quality(85)/1/e/2/phpmwq2e1.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Mission info — Comment faire face au harcèlement scolaire ?
-francetv://3dd1530c-9076-481a-89e5-8419314bf3ca
-#EXTINF:-1 tvg-id="francetv-c75cd416-776f-44a4-b36b-4b334e8e1974" tvg-logo="https://medias.france.tv/ajizCvOtz1ZIo2BLyICNXOapzEw/400x0/filters:quality(85)/2/3/b/55ca5f0fed434093b890126558fbeb32.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Psychotuto — Face au harcèlement je fais comment ?
-francetv://c75cd416-776f-44a4-b36b-4b334e8e1974
-#EXTINF:-1 tvg-id="francetv-293695c8-9b5b-11ef-9db8-57a09c50f7ce" tvg-logo="https://medias.france.tv/2HIc9JwAn0F1lMmFuX2Dq555Zws/400x0/filters:quality(85)/c/2/9/45076ec0e2f845b384de3cf68048658c90b80d4f420185820262b441eedc192c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Journal 20h00 — Suicides d'adolescentes : des familles accusent le réseau Tiktok
-francetv://293695c8-9b5b-11ef-9db8-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-b6547096-2045-11eb-807f-000d3a2437a2" tvg-logo="https://medias.france.tv/-IAq_bQ1uPaxekEaT7qLoN3_yXg/400x0/filters:quality(85)/f/c/7/656864ca586f6afc189d25e3cf857cf48ed910c4dd7cf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La maison des Maternelles — Harcèlement scolaire : quels signes doivent alerter ?
-francetv://b6547096-2045-11eb-807f-000d3a2437a2
-#EXTINF:-1 tvg-id="francetv-6a782484-4870-11ec-a994-000d3a2427ab" tvg-logo="https://medias.france.tv/UbytH78PCGwXYjAGNman9t14ong/400x0/filters:quality(85)/2/8/e/656870cb93211b5c3974998087ccaf9db7aaa06386e82.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",La maison des Maternelles — Harcèlement scolaire : comment en sortir ?
-francetv://6a782484-4870-11ec-a994-000d3a2427ab
 #EXTINF:-1 tvg-id="francetv-f7f1fe85-5dfb-4edd-bae1-069f78962904" tvg-logo="https://medias.france.tv/Ba78Zfa8lQIs1aOyoIqLclxkxR4/400x0/filters:quality(85)/b/6/e/c1898b59961c4d479fb565096aa6fe6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Octobre Rose : prévenir et sensibiliser",Au sein des autres
 francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-53418e5e-7ba1-43d0-b8d3-41b020c37ea3" tvg-logo="https://medias.france.tv/voa-kZFoHXckcZEPPWZXjCLP3NU/400x0/filters:quality(85)/x/d/8/phpdxs8dx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Octobre Rose : prévenir et sensibiliser",Enquête de santé — Cancer du sein, le parcours des combattantes
@@ -3371,22 +3327,6 @@ francetv://b08f54ec-faa0-11f0-8570-19616fa871f9
 francetv://4281d9a2-60bc-11f1-845c-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-caebdd0a-5929-11f1-94e3-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/zQrzun-fG8f2MccMFxgostebnpE/400x0/filters:quality(85)/n/k/3/php5am3kn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Octobre Rose : prévenir et sensibiliser",C à vous — Cancer du sein : Laurie Cholewa raconte sa double mastectomie
 francetv://caebdd0a-5929-11f1-94e3-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-fede1e4f-89dd-4af1-b582-0221247d89fb" tvg-logo="https://medias.france.tv/nru94Mn78JlMnl4LFk67uN9Tc9g/400x0/filters:quality(85)/b/6/f/893c46d48409498c91ad68a31d88ff6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Chaque voix compte — IA et emploi : la révolution en marche
-francetv://fede1e4f-89dd-4af1-b582-0221247d89fb
-#EXTINF:-1 tvg-id="francetv-a151b03f-98c1-4040-99af-5f898517a8af" tvg-logo="https://medias.france.tv/1JFkk-qmGXYiMHifVeIbwp86S4U/400x0/filters:quality(85)/1/c/e/ee4a2916027549cc9a4774b9839e8ec1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",IA : data centers vs climat ?
-francetv://a151b03f-98c1-4040-99af-5f898517a8af
-#EXTINF:-1 tvg-id="francetv-1ce6b438-e266-4365-90d9-d5b987df00a3" tvg-logo="https://medias.france.tv/ujdHVRTkskmZh1KJ4PYyDzRTawY/400x0/filters:quality(85)/5/0/0/454899fd60754dd191ef320cf222c005.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Etat de santé — Serons-nous mieux soignés grâce à l'intelligence artificielle ?
-francetv://1ce6b438-e266-4365-90d9-d5b987df00a3
-#EXTINF:-1 tvg-id="francetv-0d2c74f1-63ba-4c34-8823-3c31c22fb71a" tvg-logo="https://medias.france.tv/uyfOkYK7LLhybYhPOGnZi6CEcQE/400x0/filters:quality(85)/b/d/a/32fcab7d6daa4a4c9b0e469db6903adb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",POURQUOI ? — Pourquoi vouloir interdire les lunettes connectées ?
-francetv://0d2c74f1-63ba-4c34-8823-3c31c22fb71a
-#EXTINF:-1 tvg-id="francetv-c7bd0298-51ee-4f2c-96a1-7dacf0c4ca99" tvg-logo="https://medias.france.tv/gbxh7WHaCCEw43RNaPfey7YpNYY/400x0/filters:quality(85)/8/1/6/c40d2c64a4f542e3b0876513241e7618.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",ARTE Regards — Les chorégraphes du brutal
-francetv://c7bd0298-51ee-4f2c-96a1-7dacf0c4ca99
-#EXTINF:-1 tvg-id="francetv-4cc75590-c495-11f0-84f8-19616fa871f9" tvg-logo="https://medias.france.tv/x--nllVSXDB-m_b-TMEd7yKlhJU/400x0/filters:quality(85)/7/5/1/b8e14a77a76e4e9a880c8b06b631e691405834425ef2578e24b6756b426dc157.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Le monde de Jamy — Une intelligence artificielle pour prédire la mode de demain
-francetv://4cc75590-c495-11f0-84f8-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-18c3052e-9d3d-11f1-875b-19616fa871f9" tvg-logo="https://medias.france.tv/SIvEdeAMUVNSZ_3xS822j2FLatg/400x0/filters:quality(85)/9/a/a/928bbb68e73448a787a448664c18daa9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Télématin — Santé - L'IA peut-elle remplacer le psy ?
-francetv://18c3052e-9d3d-11f1-875b-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-729d91b3-78b1-436a-97e7-37c3ab5b9755" tvg-logo="https://medias.france.tv/FyMtIqbST7kgyo4LmB1NrqD1-7s/400x0/filters:quality(85)/6/c/2/75fbd6a271534a20af62892b89f0a2c6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Einstein — L'intelligence artificielle nous rend-elle stupides
-francetv://729d91b3-78b1-436a-97e7-37c3ab5b9755
 #EXTINF:-1 tvg-id="francetv-7272385b-2c90-40fa-b05a-88bf4bba762c" tvg-logo="https://medias.france.tv/7LQ8AjUu1K1Nm6FlJdKrNO_gRE0/400x0/filters:quality(85)/4/0/5/4deae5f64ef441918ebdfcd322722504.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Émission du jeudi 22 octobre 2026
 francetv://7272385b-2c90-40fa-b05a-88bf4bba762c
 #EXTINF:-1 tvg-id="francetv-3fc08012-fcaf-49d6-8d00-7f0363f93aa9" tvg-logo="https://medias.france.tv/B0f34oPunj650s_jp47slNleJ9I/400x0/filters:quality(85)/u/r/i/phpudmiru.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Émission du jeudi 15 octobre 2026
