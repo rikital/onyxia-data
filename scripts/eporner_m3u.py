@@ -524,6 +524,36 @@ def _reprise(nom):
     return []
 
 
+# 2026-10-23 (user : « rester bien couvert ») : echec PARTIEL. Si une source a liens
+#   expirants ramene nettement moins d'entrees que la playlist en ligne (connexion
+#   instable, pages bloquees...), on complete avec les anciennes entrees encore valides
+#   qui manquent, sans depasser le volume precedent.
+SEUIL_COMPLEMENT = 0.8
+
+
+def _completer(nom, part):
+    hote = HOTES_EXPIRANTS.get(nom)
+    if not hote or not part or not OUT.exists():
+        return part
+    anciennes = _entrees_de(OUT.read_text(encoding="utf-8", errors="replace"),
+                            hote, _encore_valide)
+    n_neuf, n_ancien = len(part) // 2, len(anciennes) // 2
+    if n_neuf >= SEUIL_COMPLEMENT * n_ancien:
+        return part
+    deja = set(part[0::2])
+    ajout = []
+    for i in range(0, len(anciennes) - 1, 2):
+        if n_neuf + len(ajout) // 2 >= n_ancien:
+            break
+        if anciennes[i] not in deja:
+            ajout.extend(anciennes[i:i + 2])
+            deja.add(anciennes[i])
+    if ajout:
+        print(f"  {nom} : {n_neuf} entrees seulement (avant : {n_ancien}) -> "
+              f"complement de {len(ajout) // 2} entrees encore valides", flush=True)
+    return part + ajout
+
+
 # -------------------------------- MAIN ----------------------------------
 def main():
     print("AdultTV + XVideos -> playlist adulte (Eporner desactive)", flush=True)
@@ -544,6 +574,8 @@ def main():
         if not part:
             print(f"  [!] {nom} : aucune entree", flush=True)
             part = _reprise(nom)
+        else:
+            part = _completer(nom, part)
         total += len(part) // 2
         lignes.extend(part)
         print("", flush=True)
