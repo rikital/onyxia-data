@@ -30,8 +30,13 @@ import requests
 #   séries ») : comme refresh_vegetatv.py depuis le 15/10, on lit AUSSI la liste du backend
 #   de VegetaTV 10.6. L'ancienne liste n'est plus régénérée depuis le 15/10 ; la nouvelle a
 #   52 serveurs, presque tous nouveaux (dont 5 FR). Fusion, doublons écartés par URL.
-SERVERS_URLS = ["http://vegetatvv2.duckdns.org/data/server_status.json",   # backend VegetaTV 10.6
-                "http://vegetatv.duckdns.org/data/server_status.json"]     # ancien
+# 2026-10-24 (user : « des serveurs une connexion, ça se trouve c'est nous qui les avons mis ») :
+#   l'ANCIENNE liste est retirée. Figée depuis le 15/10, elle marquait encore « up » des panels
+#   que le vrai Vegeta n'a plus (4kgood.org x2, tv-premium-pro.com, angelodebingu.com) : comptes
+#   à 1 connexion pris en permanence (458) ou bloqués par les FAI français → 6 385 séries
+#   illisibles (MyTF1, Séries 2024/2025, VOSTFR, Classiques entièrement).
+SERVERS_URLS = ["http://vegetatvv2.duckdns.org/data/server_status.json"]   # backend VegetaTV 10.6
+#                "http://vegetatv.duckdns.org/data/server_status.json"      # ancien (figé) — retiré
 OUT_INDEX   = os.environ.get("VEGETA_VOD_OUT", "data/vegetatv/vegeta-vod-fr.json")
 OUT_EP_DIR  = os.environ.get("VEGETA_VOD_EP_DIR", "data/vegetatv/vod-ep")
 MAX_SERVERS = int(os.environ.get("VEGETA_VOD_MAX_SERVERS", "6"))
@@ -323,9 +328,12 @@ def probe_server(srv):
         try:
             r_ui = requests.get("%s/player_api.php?username=%s&password=%s" % (srv["b"], srv["u"], srv["p"]),
                                 headers=H, timeout=(15, 20))
-            srv["maxc"] = int(((r_ui.json() or {}).get("user_info") or {}).get("max_connections") or 0)
+            ui_ = (r_ui.json() or {}).get("user_info") or {}
+            srv["maxc"] = int(ui_.get("max_connections") or 0)
+            srv["actives"] = int(ui_.get("active_cons") or 0)
         except Exception:
             srv["maxc"] = 0
+            srv["actives"] = 0
         refus = flux_refuse(srv)
         if refus:
             log("[%2d] %s : flux refusés (HTTP %s) → panel écarté" % (srv["pos"], srv["b"], refus))
@@ -521,17 +529,30 @@ def main():
     # 2026-10-23 : panels à 1-2 connexions (souvent occupés → 458) placés EN DERNIER dans les
     #   sources de chaque film/série. Tri stable : l'ordre d'origine est gardé à l'intérieur
     #   de chaque groupe. Aucune source n'est retirée.
+    # 2026-10-24 (user : « les serveurs où il y a le plus de connexions ») : presque tous les
+    #   panels Vegeta sont des comptes à 1 connexion. Ce qui compte, c'est s'ils font RESPECTER
+    #   la limite : un panel qui a plus de connectés que sa limite (tmpes : 41 pour 1) ne la
+    #   vérifie pas → il sert tout le monde. Ordre des sources : TOLÉRANTS d'abord (les plus
+    #   fréquentés en tête), puis les autres, puis les comptes stricts à 1-2 connexions.
     maxc = {s["pos"]: s.get("maxc", 0) for s in probed}
-    fragiles = {p for p, m in maxc.items() if 0 < m <= 2}
-    if fragiles:
-        log("panels à 1-2 connexions placés en dernier : %s" % sorted(fragiles))
-        deplaces = 0
-        for table in (films, series):
-            for e in table.values():
-                if len(e["s"]) > 1 and e["s"][0][0] in fragiles:
-                    deplaces += 1
-                e["s"].sort(key=lambda src: src[0] in fragiles)
-        log("  %d fiches dont la 1re source était un panel fragile" % deplaces)
+    act = {s["pos"]: s.get("actives", 0) for s in probed}
+    tolerants = {p for p in maxc if maxc[p] > 0 and act.get(p, 0) > maxc[p]}
+    fragiles = {p for p, m in maxc.items() if 0 < m <= 2} - tolerants
+    log("panels tolérants (connectés > limite) en premier : %s" % sorted((p, act[p], maxc[p]) for p in tolerants))
+    log("panels stricts à 1-2 connexions placés en dernier : %s" % sorted(fragiles))
+    def rang(src):
+        p = src[0]
+        if p in tolerants:
+            return (0, -act.get(p, 0))
+        return (2, 0) if p in fragiles else (1, 0)
+    deplaces = 0
+    for table in (films, series):
+        for e in table.values():
+            avant = e["s"][0][0] if e["s"] else None
+            e["s"].sort(key=rang)
+            if e["s"] and e["s"][0][0] != avant:
+                deplaces += 1
+    log("  %d fiches ont changé de 1re source" % deplaces)
 
     # Épisodes : pour chaque (serveur, série) retenu. ⚠ Tout serveur cité par une source doit
     #   être connu ici (1er run : un serveur dont la liste de films avait échoué mais qui avait
