@@ -2241,6 +2241,8 @@ tf1plus://tf1/ratz
 tf1plus://tf1/les-schtroumpfs-976
 #EXTINF:-1 tvg-id="tf1plus-tf1-franklin-héros-cultes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-franklin-ecc27f-96ea9f-9da34c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Héros cultes",Franklin
 tf1plus://tf1/franklin
+#EXTINF:-1 tvg-id="tf1plus-tf1-cedric-héros-cultes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-dfa7d1-d8eb6b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Héros cultes",Cedric
+tf1plus://tf1/cedric
 #EXTINF:-1 tvg-id="tf1plus-tf1-magic-pouvoirs-magiques-et-créatures" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-magic-094128-630a46-e7af31-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pouvoirs magiques et créatures",Magic
 tf1plus://tf1/magic
 #EXTINF:-1 tvg-id="tf1plus-tf1-sabrina-pouvoirs-magiques-et-créatures" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-sabrina-1327b8-5789d5-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pouvoirs magiques et créatures",Sabrina
@@ -2735,6 +2737,8 @@ tf1plus://tf1-series-films/peres-meres-et-supporters
 tf1plus://tf1/disclosure-day
 #EXTINF:-1 tvg-id="tf1plus-tf1-scary-movie-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-070207-c78ed5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Scary Movie
 tf1plus://tf1/scary-movie
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-de-gaulle-lage-de-fer-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-c8cc0c-02a628-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",La Bataille de Gaulle Lage de Fer
+tf1plus://tf1/la-bataille-de-gaulle-lage-de-fer
 #EXTINF:-1 tvg-id="tf1plus-tf1-iron-maiden-burning-ambition-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-991ca6-f593d0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Iron Maiden Burning Ambition
 tf1plus://tf1/iron-maiden-burning-ambition
 #EXTINF:-1 tvg-id="tf1plus-tf1-autofiction-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-bd6767-96e73c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Autofiction
@@ -2769,8 +2773,6 @@ tf1plus://tf1/la-maison-des-femmes
 tf1plus://tf1/scream-7
 #EXTINF:-1 tvg-id="tf1plus-tf1-its-never-over-jeff-buckley-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-5a13c1-597c67-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Its Never Over Jeff Buckley
 tf1plus://tf1/its-never-over-jeff-buckley
-#EXTINF:-1 tvg-id="tf1plus-tf1-coutures-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a8aa27-db2f61-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Coutures
-tf1plus://tf1/coutures
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-mere-dieu-et-sylvie-vartan-074-cinéma-xxl,-prix-xxs" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-667aa5-e3ba6f-a2edfd-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma XXL, prix XXS",Ma Mere Dieu et Sylvie Vartan 074
 tf1plus://tf1/ma-mere-dieu-et-sylvie-vartan-074
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-comte-de-monte-cristo-099-cinéma-xxl,-prix-xxs" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-403b30-f90235-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma XXL, prix XXS",Le Comte de Monte Cristo 099
@@ -3349,8 +3351,6 @@ tf1plus://tf1/ce-qualice-ne-vous-dit-pas
 tf1plus://tf1/ce-quil-faut-savoir-sur-lamour
 #EXTINF:-1 tvg-id="tf1plus-tf1-ce-quon-fait-par-amour-smx" tvg-logo="https://photos.tf1.fr/1200/720/ce-quon-fait-par-amour-0f8ebf-f6248f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ce qu'on fait par amour...
 tf1plus://tf1/ce-quon-fait-par-amour
-#EXTINF:-1 tvg-id="tf1plus-tf1-cedric-smx" tvg-logo="https://photos.tf1.fr/1200/720/cedric-s02-e21-homme-a-tout-faire-9c38bb-5c7e5f-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Cédric
-tf1plus://tf1/cedric
 #EXTINF:-1 tvg-id="tf1plus-tf1-celeste-beard-la-face-cachee-dune-croqueuse-de-diamants-smx" tvg-logo="https://photos.tf1.fr/1200/720/celeste-beard-la-face-cachee-dune-croqueuse-de-diamants-27905802-1752981362-a852f9-049895-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Celeste Beard : la face cachée d'une croqueuse de diamants
 tf1plus://tf1/celeste-beard-la-face-cachee-dune-croqueuse-de-diamants
 #EXTINF:-1 tvg-id="tf1plus-tf1-celibataire-and-fabuleuse-smx" tvg-logo="https://photos.tf1.fr/1200/720/celibataire-and-fabuleuse-25894547-1694789528-fdccf7-572a12-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Célibataire & fabuleuse !
@@ -3517,6 +3517,8 @@ tf1plus://tf1/coup-de-foudre-sur-la-piste-du-tresor
 tf1plus://tf1/coup-de-foudre-sur-les-pistes
 #EXTINF:-1 tvg-id="tf1plus-tf1-coupable-apparence-smx" tvg-logo="https://photos.tf1.fr/1200/720/coupable-apparence-69cc0f-fc13b8-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Coupable apparence
 tf1plus://tf1/coupable-apparence
+#EXTINF:-1 tvg-id="tf1plus-tf1-coutures-smx" tvg-logo="https://photos.tf1.fr/1200/720/coutures-1698ae-c9e65d-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Coutures
+tf1plus://tf1/coutures
 #EXTINF:-1 tvg-id="tf1plus-tf1-crash-smx" tvg-logo="https://photos.tf1.fr/1200/720/crash-s01-e04-a53def-40b0f6-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Crash
 tf1plus://tf1/crash
 #EXTINF:-1 tvg-id="tf1plus-tf1-crimes-en-serie-smx" tvg-logo="https://photos.tf1.fr/1200/720/crimes-en-serie-s01-e11-asphalte-rouge-32360739-1731929192-c1b548-4ce463-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Crimes en série
@@ -4025,8 +4027,6 @@ tf1plus://tf1/kung-fu-panda-3
 tf1plus://tf1/kung-fu-panda-374
 #EXTINF:-1 tvg-id="tf1plus-tf1-kung-fu-panda-4-smx" tvg-logo="https://photos.tf1.fr/1200/720/kung-fu-panda-4-08727351-1755801941-664330-e93666-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Kung Fu Panda 4
 tf1plus://tf1/kung-fu-panda-4
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-de-gaulle-lage-de-fer-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-bataille-de-gaulle-lage-de-fer-627b38-0a9a7f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La Bataille de Gaulle : L'Âge de fer
-tf1plus://tf1/la-bataille-de-gaulle-lage-de-fer
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-des-maries-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-bataille-des-maries-78647577-1711131920-a97847-46bcd5-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La bataille des mariés
 tf1plus://tf1/la-bataille-des-maries
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-battante-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-battante-s01-e03-0213d1-a65ad9-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",La Battante
