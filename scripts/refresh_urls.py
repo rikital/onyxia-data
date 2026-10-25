@@ -43,6 +43,23 @@ SKIP_URLS = (
     "http://live.aab1.top/live/odai/123321/1083.ts",  # W9 TNT France
 )
 
+# 2026-10-25 (user : « comment ça se fait que des trucs morts arrivent quand même ? fais un
+#   nettoyage ») : le test « vivant » ci-dessous laisse passer certains liens morts —
+#   fichiers ParaTV servis par raw.githubusercontent (hôte « de confiance ») dont le jeton
+#   interne a expiré, pages html.bet, CDN qui ne répondent qu'à l'étranger — et un lien mort
+#   hors « Live Canal » n'est jamais retiré. data/mixfr-exclus.txt = URL vérifiées mortes
+#   (depuis la France, dans l'appli) : retirées de data.m3u à chaque passage et jamais
+#   ré-ajoutées par les phases 2 à 4. Retirer une ligne du fichier = la chaîne peut revenir.
+EXCLUS_FICHIER = os.path.join(os.path.dirname(LOCAL_M3U) or ".", "data", "mixfr-exclus.txt")
+
+
+def lire_exclus() -> set:
+    """URL de data/mixfr-exclus.txt (une par ligne, # = commentaire)."""
+    if not os.path.exists(EXCLUS_FICHIER):
+        return set()
+    with open(EXCLUS_FICHIER, encoding='utf-8') as f:
+        return {l.strip() for l in f if l.strip() and not l.strip().startswith('#')}
+
 # === Phase D NEW : sources externes FR ===
 # Source FR : (label, url, source_is_fr) — si True, toutes les chaines sont
 # considerees FR par defaut sauf si un marqueur etranger (USA/Italy/etc) figure
@@ -612,6 +629,19 @@ async def main_async():
         section_dossiers = _section_dossiers(content)
         contenu_travail = content.replace(section_dossiers, "").rstrip() + "\n" if section_dossiers else content
 
+        exclus = lire_exclus()
+        if exclus:
+            morceaux = re.split(r'(?=#EXTINF)', contenu_travail)
+            gardes = []
+            for b in morceaux:
+                m = re.search(r'\n(https?://\S+)', b) if b.startswith('#EXTINF') else None
+                if m and m.group(1).strip() in exclus:
+                    print(f"  EX {extract_channel_name(b)[:40]:40} (mixfr-exclus.txt, retire)")
+                    continue
+                gardes.append(b)
+            print(f"\n  -> {len(morceaux) - len(gardes)} chaine(s) retiree(s) par mixfr-exclus.txt ({len(exclus)} URL)")
+            contenu_travail = ''.join(gardes)
+
         blocks = re.split(r'(?=#EXTINF)', contenu_travail)
         entries = []
         for i, b in enumerate(blocks[1:], 1):
@@ -644,13 +674,13 @@ async def main_async():
         candidates = []
         for i, name, url in dead_entries:
             new_url = paratv_simple.get(normalize_name(name))
-            if new_url and new_url != url:
+            if new_url and new_url != url and new_url not in exclus:
                 candidates.append((i, name, url, new_url, "ParaTV"))
                 continue
             # Fallback : cherche dans sources externes
             for label, (chans, _) in external_data.items():
                 for nm, u, gp, tid, blk in chans:
-                    if normalize_name(nm) == normalize_name(name) and u != url:
+                    if normalize_name(nm) == normalize_name(name) and u != url and u not in exclus:
                         candidates.append((i, name, url, u, label))
                         break
                 else:
@@ -708,8 +738,9 @@ async def main_async():
             if url_m:
                 our_urls.add(url_m.group(1).strip())
 
+        our_urls |= exclus
         new_paratv = [(n,u,g,b) for (n,u,g,b) in paratv_full
-                      if normalize_name(n) not in our_names_norm]
+                      if normalize_name(n) not in our_names_norm and u not in exclus]
 
         n_added = 0
         added_blocks = []
