@@ -9405,3 +9405,24 @@ http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Zone 18@ - Zone 18@",AdultM3u.com Asian
 http://cdn.adultiptv.net/asian.m3u8
 # ===== FIN DOSSIERS MIX FR =====
+
+#EXTINF:-1 group-title="Sport - Sport",Real Madrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="Sport - Sport",DAZN Women's Football
+https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8
+#EXTINF:-1 group-title="Sport - Sport",Sportitalia SoloCalcio
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport - Sport",Sport En France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 group-title="Sport - Sport",A Spor (Turquie)
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:-1 group-title="Sport - Sport",TRT Spor (Turquie)
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Sport - Sport",SSC 1 (Arabie saoudite)
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 group-title="Sport - Sport",Arryadia (Maroc)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport - Sport",MUTV (Man United)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="Sport - Sport",CCTV Fengyun Football
+http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
