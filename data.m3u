@@ -1168,8 +1168,6 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="Africa24Sport.fr@SD" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="Sport - Sport",Africa 24 Sport (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport - Sport",Canal+ Foot
-https://test.946985.filegear-sg.me/proxy/ef3174f16d4557d2
 #EXTINF:-1 tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sport - Sport",Equidia (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/equidia/equidia-live2.m3u8
@@ -1178,8 +1176,6 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-logo="https://i.imgur.com/M1Ee79b.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sport - Sport",KOZOOM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sport - Sport",L'Equipe (1080p)
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sport - Sport",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="78" tvg-id="k5s40USR9HxnG5aCf1y" group-title="Sport - Sport",la chaine L'Équipe en direct
@@ -1258,21 +1254,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region
 #EXTINF:-1 tvg-chno="331" tvg-country="FR" group-title="Sport - Sport",REGION 11 [1080p-equidia.fr]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region11.m3u8
-#EXTINF:-1 tvg-chno="332" tvg-country="FR" group-title="Sport - Sport",REGION 12 [1080p-equidia.fr]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region12.m3u8
-#EXTINF:-1 tvg-chno="333" tvg-country="FR" group-title="Sport - Sport",REGION 13 [1080p-equidia.fr]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region13.m3u8
-#EXTINF:-1 tvg-chno="334" tvg-country="FR" group-title="Sport - Sport",REGION 14 [1080p-equidia.fr]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region14.m3u8
-#EXTINF:-1 tvg-chno="335" tvg-country="FR" group-title="Sport - Sport",REGION 15 [1080p-equidia.fr]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region15.m3u8
-#EXTINF:-1 tvg-chno="336" tvg-country="FR" group-title="Sport - Sport",REGION 16 [1080p-equidia.fr]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/region16.m3u8
 #EXTINF:-1 tvg-chno="354" tvg-id="BFMBusiness.fr" epg-s="1073" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Business_color.png?h=100" tvg-country="FR" group-title="Sport - Sport",BFM Business 
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-chno="355" tvg-id="01TV.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png?h=100" tvg-country="FR" group-title="Sport - Sport",BFM TECH & CO 
@@ -1517,9 +1498,6 @@ https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 #EXTINF:-1 tvg-chno="1605" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png" tvg-country="DE" group-title="NetPlus - Autres",DISNEY CHANNEL DE [DE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-chno="1606" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png" tvg-country="DE" group-title="NetPlus - Autres",EUROSPORT DE [DE]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 #EXTINF:-1 tvg-chno="1607" tvg-logo="https://picserve.netplus.ch/channels/hr.png" tvg-country="DE" group-title="NetPlus - Autres",HR [DE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
@@ -1559,9 +1537,6 @@ https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-chno="1619" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png" tvg-country="DE" group-title="NetPlus - Autres",RTL NITRO [DE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-chno="1620" tvg-logo="https://picserve.netplus.ch/channels/sport1.png" tvg-country="DE" group-title="NetPlus - Autres",SPORT 1 [DE]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 #EXTINF:-1 tvg-chno="1621" tvg-logo="https://picserve.netplus.ch/channels/srf1hd.png" tvg-country="DE" group-title="NetPlus - Autres",SRF 1 HD [DE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
@@ -1703,9 +1678,6 @@ https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
 #EXTINF:-1 tvg-chno="1682" tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png" tvg-country="FR" group-title="NetPlus - Autres",LEMAN BLEU [FR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
-#EXTINF:-1 tvg-chno="1683" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" tvg-country="FR" group-title="NetPlus - Autres",L EQUIPE [FR]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1 tvg-chno="1685" tvg-logo="https://picserve.netplus.ch/channels/maxtv.png" tvg-country="FR" group-title="NetPlus - Autres",MAX TV [FR]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
@@ -2524,10 +2496,6 @@ https://snrtworker.kharazbelaid.workers.dev/?id=laayoune.m3u8
 https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" group-title="Sport - Sport",Canal+ Sport (1080p)
-http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-
-# === Ajouts FR multi-sources : Cinéma ===
 #EXTINF:-1 group-title="Cinéma - Films",Pluto TV 2010's Classics
 https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
 
@@ -3745,8 +3713,6 @@ https://2eug3mw5.html.bet/?67b4b4a21a5ca760802d25fd#
 https://2eug3mw5.html.bet/?5f914f4b36d67d0007a91a04#
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" group-title="Pluto TV - Émissions cultes",Turbo
 https://2eug3mw5.html.bet/?66f55c3955567d0008ef9b68#
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67921b78b83355184c667770/colorLogoPNG.png" group-title="Pluto TV - Sport",UFC
-https://2eug3mw5.html.bet/?67921b78b83355184c667770#
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/colorLogoPNG_1749650858325.png" group-title="Pluto TV - 100% Français",Un Si Grand Soleil
 https://2eug3mw5.html.bet/?6683cd0f63a5f20008fb84a3#
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" group-title="Pluto TV - 100% Français",Un Village Francais
@@ -3927,14 +3893,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-621674502c2627c068e73ada.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png" group-title="Plex TV - 100% Français",Frequence Novelas
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e6ae18a55242eea95997.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png" group-title="Plex TV - 100% Français",FTF Sports
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-605a309dc5acdc002c7a20aa.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png" group-title="Plex TV - 100% Français",FUEL TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-62ffc5cfa6cad6f2991745c2.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png" group-title="Plex TV - 100% Français",Galxy TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-621672e42c2627c068e73ad8.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png" group-title="Plex TV - 100% Français",GFN Football TV
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-67c247c345ae99120c071586.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Plex TV - 100% Français",Glewed TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5eea605474085f0040ddc76d.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Plex TV - 100% Français",GLORY Kickboxing
@@ -4039,8 +4001,6 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-68b9f5a
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="Plex TV - 100% Français",NewsWorld
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png" group-title="Plex TV - 100% Français",NFL Channel
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Plex TV - 100% Français",NHRA TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-60aeb5cd87f9b1002ce12323.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png" group-title="Plex TV - 100% Français",Nolly Africa HD
@@ -4125,10 +4085,6 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-6922294
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-69222b5c5cbe620c1f9b6bbd.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png" group-title="Plex TV - 100% Français",SPEEDVISION
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/61e78adf-40b3-4a6f-9d75-6c9db47248de/SITV_LOGO_PRIMARY_1500X1000.png" group-title="Plex TV - 100% Français",Sports Illustrated TV
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-6216ae22c3bbca2de8704f65.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Plex TV - 100% Français",SportsGrid
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5ef11485d33ab9004048a1ca.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Plex TV - 100% Français",Startalk TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-664292a80e0ec7b4ce5eb28c.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/48c0b1e3e9ef43979ca3e055e2ed3409.png" group-title="Plex TV - 100% Français",Stingray Classica Stream
@@ -4211,8 +4167,6 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-68a799722895f21006e758e4.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png" group-title="Plex TV - 100% Français",TV5MONDE Voyage
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-68b74a235dc5413c905efd62.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" group-title="Plex TV - 100% Français",UFC
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-66ccac69fdf9cd3a568ef135.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/463b2340-1bca-4d07-a8bf-09ed3338d196/Plex_FilmRiseUnSiGrandSoliel_logo_white.png" group-title="Plex TV - 100% Français",Un Si Grand Soleil
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-67f99397bf750bd4ca333ddb.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae88c954-1263-403d-8683-477753868e27/UnVillageFrancais_Logo_Colour_1500X1000.png" group-title="Plex TV - 100% Français",Un Village Francais
@@ -4237,8 +4191,6 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-5f0ff26
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-60d4edddb2fdec002c141135.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" group-title="Plex TV - 100% Français",Wired2Fish
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-608a2c722957c9002c6a617b.m3bx
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png" group-title="Plex TV - 100% Français",Women's Sports Network
-https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png" group-title="Plex TV - 100% Français",World Billiards TV
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-68b9f334fc12601028c5651e.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png" group-title="Plex TV - 100% Français",World Surf League 24/7
@@ -4979,10 +4931,6 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
-#EXTINF:-1 tvg-id="PlutoTVFootanim.de@FR" group-title="Divertissement - Divertissement",Pluto TV Footanim'
-https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
 http://99.27.51.147:8080/M6/index.m3u8
 
@@ -5295,10 +5243,6 @@ http://99.27.51.147:8080/M6/index.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
-#EXTINF:-1 tvg-chno="208" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-596ff6-d00e97-0@3x.png" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",208. CHAMPIONNAT DES NATIONS RUGBY
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/HzIAGFpKgvJd/Q1aBTQrddUtdHjS.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
 http://99.27.51.147:8080/M6/index.m3u8
 
@@ -5361,10 +5305,6 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 #EXTINF:-1 tvg-id="TMC.fr@SD" group-title="France TV backup - Autres",TMC (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/iakX7n1toa84DcDg.m3u8
-#EXTINF:-1 tvg-id="RTS1.ch@SD" group-title="France TV backup - Autres",RTS 1 (720p) [iptv-org-fra]
-http://41.205.70.146/RTSUN/index.m3u8
-
-# === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="WanguRTV.cd@SD" group-title="Généralistes - 100% Français",Wangu RTV
 https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8
 
@@ -5373,12 +5313,6 @@ https://stream.berosat.live/hls/wangu-tv/wangu-tv.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="NWSport1.tg@SD" group-title="Sport - Sport",NW Sport 1 (1080p)
-http://41.205.70.146/BEINSPORT1/index.m3u8
-#EXTINF:-1 tvg-id="NWSport2.tg@SD" group-title="Sport - Sport",NW Sport 2 (1080p)
-http://41.205.70.146/M6/index.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
 http://99.27.51.147:8080/M6/index.m3u8
 
@@ -6069,10 +6003,6 @@ http://145.239.5.177/355/index.m3u8
 http://145.239.5.177/318/index.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="FootPlus.fr@SD" group-title="Sport - Sport",Foot+
-http://145.239.5.177/556a/index.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France TV backup - Autres",LCI HD (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 
@@ -6115,18 +6045,10 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 
 # === Ajouts FR multi-sources : Auto ===
-#EXTINF:-1 tvg-id="Automotolachaine.fr@SD" group-title="Auto - Autres",Automoto la chaine
-https://futbol9865.ultratv13.workers.dev/deportivo111/23.m3u8
-
-# === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="RTS3.sn@SD" group-title="Généralistes - 100% Français",RTS 3 (720p)
 http://145.239.5.177/224/index.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr@SD" group-title="Sport - Sport",Canal+ Sport 360
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France TV backup - Autres",LCI HD (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 
@@ -6534,20 +6456,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/p
 https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
-#EXTINF:-1 tvg-chno="124" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",124. NATATION ARTISTIQUE - FINALE SOLO TECHNIQUE FEMMES [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/natation-artistique-finale-solo-technique-femmes.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-
-# === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="RTB.bf@SD" group-title="Nouveautés FR - Nouveautés",RTB (360p) [Not 24/7]
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
-#EXTINF:-1 tvg-chno="124" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",124. NATATION ARTISTIQUE - FINALE ÉQUIPE TECHNIQUE [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/natation-artistique-finale-équipe-technique.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 (576p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 
@@ -6688,10 +6600,6 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="RMCSport1.fr@SD" group-title="Sport - Sport",RMC Sport 1
-https://7nyaler.streamhostingcdn.top/stream/59/index.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 (576p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 
@@ -7389,16 +7297,10 @@ http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/phAFlwrdPpIHsBFX.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
-#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" group-title="France TV backup - Autres",Canal+ Sport (1080p) [Geo-blocked] [iptv-org-fr]
-http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/iakX7n1toa84DcDg.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="GolfPlus.fr@SD" group-title="Sport - Sport",Golf + (1080p) [Geo-blocked]
-http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
@@ -7539,7 +7441,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qOYc4Ro6dwF/QV7SulsM5Ni2VN.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aNMjc2KMjXRX/Xixr26yfkW86TW.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="BalafonTV.cm@SD" group-title="Info - Info",Balafon TV [Geo-blocked]
@@ -7550,10 +7452,6 @@ https://broadcasting-channels.com:9044/hls/test.m3u8
 http://85.14.32.26:8800/udp/239.100.10.144:5000
 
 # === Ajouts FR multi-sources : Sport ===
-#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" group-title="Sport - Sport",CRTV Sports and Entertainment (360p)
-https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
-
-# === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France TV backup - Autres",20 Minutes TV (1080p) [iptv-org-fr]
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
@@ -7564,7 +7462,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spect
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qOYc4Ro6dwF/QV7SulsM5Ni2VN.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aNMjc2KMjXRX/Xixr26yfkW86TW.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
@@ -7576,7 +7474,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/qOYc4Ro6dwF/QV7SulsM5Ni2VN.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/aNMjc2KMjXRX/Xixr26yfkW86TW.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FR2100003H7" group-title="France TV backup - Autres",Inazuma Eleven [schumijo]
