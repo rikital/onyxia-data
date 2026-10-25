@@ -81,10 +81,10 @@ tf1plus://tf1/new-york-police-judiciaire
 tf1plus://tf1/hartley-coeurs-a-vif
 #EXTINF:-1 tvg-id="tf1plus-tfx-yu-gi-oh-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a51b29-c19f7b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Yu Gi Oh
 tf1plus://tfx/yu-gi-oh
-#EXTINF:-1 tvg-id="tf1plus-tf1-rizzoli-and-isles-autopsie-dun-meurtre-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-rizzoli-and-isles-b82f1b-94fdaa-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Rizzoli And Isles Autopsie Dun Meurtre
-tf1plus://tf1/rizzoli-and-isles-autopsie-dun-meurtre
 #EXTINF:-1 tvg-id="tf1plus-tf1-friends-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-e58ce0-0ac2dd-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Friends
 tf1plus://tf1/friends
+#EXTINF:-1 tvg-id="tf1plus-tf1-new-york-crime-organise-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-c8d8f1-67c9fa-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",New York Crime Organise
+tf1plus://tf1/new-york-crime-organise
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-recrue-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-33da58-106351-8d12e8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",La Recrue
 tf1plus://tf1/la-recrue
 #EXTINF:-1 tvg-id="tf1plus-tf1-juste-un-regard-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-8cbc6b-0160bf-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Juste un Regard
@@ -135,8 +135,6 @@ tf1plus://tf1/mentalist
 tf1plus://tmc/une-nounou-d-enfer
 #EXTINF:-1 tvg-id="tf1plus-tf1-esprits-criminels-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_esprits-criminelles-2026-6abba7-a3ab86-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Esprits Criminels
 tf1plus://tf1/esprits-criminels
-#EXTINF:-1 tvg-id="tf1plus-tf1-new-york-crime-organise-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-c8d8f1-67c9fa-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",New York Crime Organise
-tf1plus://tf1/new-york-crime-organise
 #EXTINF:-1 tvg-id="tf1plus-tf1-new-york-section-criminelle-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-afd805-ef8cb0-f8e99c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",New York Section Criminelle
 tf1plus://tf1/new-york-section-criminelle
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-tudors-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-e2b5ad-14976a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Les Tudors
@@ -147,6 +145,8 @@ tf1plus://tf1/fire-country
 tf1plus://tf1/les-experts-las-vegas
 #EXTINF:-1 tvg-id="tf1plus-tf1-experts-miami-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-les-experts-miami-ce7b7b-478f72-457df0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Experts Miami
 tf1plus://tf1/experts-miami
+#EXTINF:-1 tvg-id="tf1plus-tf1-experts-manhattan-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-les-experts-manhattan-343457-9b2efb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Experts Manhattan
+tf1plus://tf1/experts-manhattan
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-village-francais-séries-françaises" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-e2121e-014c24-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries françaises",Un Village Francais
 tf1plus://tf1/un-village-francais
 #EXTINF:-1 tvg-id="tf1plus-tf1-section-de-recherches-séries-françaises" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-section-de-recherches-saison-14-ce04f4-a65968-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries françaises",Section de Recherches
@@ -259,8 +259,6 @@ tf1plus://tf1/le-diplome
 tf1plus://tf1/le-daron
 #EXTINF:-1 tvg-id="tf1plus-tf1-menace-imminente-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cb5b7d-932e13-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Menace Imminente
 tf1plus://tf1/menace-imminente
-#EXTINF:-1 tvg-id="tf1plus-tf1-experts-manhattan-séries-policières" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-les-experts-manhattan-343457-9b2efb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries policières",Experts Manhattan
-tf1plus://tf1/experts-manhattan
 #EXTINF:-1 tvg-id="tf1plus-tf1-master-crimes-séries-policières" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-eea998-a30b5a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries policières",Master Crimes
 tf1plus://tf1/master-crimes
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-mysteres-de-l-amour-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-9ef33b-7853ef-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Romance",Les Mysteres de L Amour
@@ -447,6 +445,8 @@ tf1plus://tf1/chefs-410
 tf1plus://tf1/une-affaire-francaise
 #EXTINF:-1 tvg-id="tf1plus-tf1-gloria-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-gloria-d7c0d3-ba9131-2f4ec1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Drames",Gloria
 tf1plus://tf1/gloria
+#EXTINF:-1 tvg-id="tf1plus-tf1-enquete-a-coeur-ouvert-drames" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-enquetes-a-coeur-ouvert-06d02f-966a98-dd7f63-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Drames",Enquete A Coeur Ouvert
+tf1plus://tf1/enquete-a-coeur-ouvert
 #EXTINF:-1 tvg-id="tf1plus-tf1-tout-pour-la-lumiere-séries-quotidiennes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3746f0-3d8fe3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries quotidiennes",Tout Pour la Lumiere
 tf1plus://tf1/tout-pour-la-lumiere
 #EXTINF:-1 tvg-id="tf1plus-tf1-indefendable-séries-quotidiennes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-345a6d-0b6ae8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries quotidiennes",Indefendable
@@ -957,6 +957,8 @@ tf1plus://tf1/un-noel-top-secret
 tf1plus://tf1/un-noel-porte-bonheur
 #EXTINF:-1 tvg-id="tf1plus-tf1-noel-au-grand-hotel-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-e30e4a-4929a1-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Top 10",Noel Au Grand Hotel
 tf1plus://tf1/noel-au-grand-hotel
+#EXTINF:-1 tvg-id="tf1plus-tf1-mission-illuminations-de-noel-les-nouveautés-du-moment" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-efd5ff-0f4f77-c06f7c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les nouveautés du moment",Mission Illuminations de Noel
+tf1plus://tf1/mission-illuminations-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-noel-a-tout-prix-la-guerre-des-sapins-les-nouveautés-du-moment" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-385dbd-eaa694-e95d37-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les nouveautés du moment",Noel A Tout Prix la Guerre des Sapins
 tf1plus://tf1/noel-a-tout-prix-la-guerre-des-sapins
 #EXTINF:-1 tvg-id="tf1plus-tf1-joyeux-noel-docteur-williams-les-nouveautés-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-495d74-0be40c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les nouveautés du moment",Joyeux Noel Docteur Williams
@@ -979,8 +981,6 @@ tf1plus://tf1/ma-famille-a-disparu
 tf1plus://tf1/la-jeune-fille-dans-le-grenier
 #EXTINF:-1 tvg-id="tf1plus-tf1-que-le-meilleur-gagne-les-nouveautés-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-23bd30-083c8b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les nouveautés du moment",Que le Meilleur Gagne
 tf1plus://tf1/que-le-meilleur-gagne
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-danger-est-a-ma-porte-les-nouveautés-du-moment" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-f46e11-718009-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Les nouveautés du moment",Le Danger Est A Ma Porte
-tf1plus://tf1/le-danger-est-a-ma-porte
 #EXTINF:-1 tvg-id="tf1plus-tf1-trois-freres-noel-et-un-garcon-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7cdbc6-5b6dc1-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sélection de la semaine",Trois Freres Noel et un Garcon
 tf1plus://tf1/trois-freres-noel-et-un-garcon
 #EXTINF:-1 tvg-id="tf1plus-tf1-lile-merveilleuse-de-noel-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-f2cb6a-6e6f08-2ecc7d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sélection de la semaine",Lile Merveilleuse de Noel
@@ -1041,6 +1041,8 @@ tf1plus://tf1/la-vie-secrete-de-mon-mari
 tf1plus://tf1/dans-les-griffes-de-mon-patient
 #EXTINF:-1 tvg-id="tf1plus-tf1-couple-modele-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-c39b73-74acb0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Couple Modele
 tf1plus://tf1/couple-modele
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-danger-est-a-ma-porte-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-f46e11-718009-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Le Danger Est A Ma Porte
+tf1plus://tf1/le-danger-est-a-ma-porte
 #EXTINF:-1 tvg-id="tf1plus-tf1-pasteur-et-predateur-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d4fbb5-d588d2-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",Pasteur et Predateur
 tf1plus://tf1/pasteur-et-predateur
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-neighbor-téléfilms-étrangers" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-93c222-258554-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms étrangers",The Neighbor
@@ -1051,12 +1053,12 @@ tf1plus://tf1/dans-les-griffes-de-ma-meilleure-amie
 tf1plus://tf1/au-coeur-de-la-vengeance
 #EXTINF:-1 tvg-id="tf1plus-tf1-a-la-maison-pour-noel-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-f37f76-70879c-6eea93-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",A la Maison Pour Noel
 tf1plus://tf1/a-la-maison-pour-noel
+#EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-noel-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-coup-de-foudre-a-noel-2023-388336-62dccf-4ba3c0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Coup de Foudre A Noel
+tf1plus://tf1/coup-de-foudre-a-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-a-dix-minutes-de-nulle-part-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-a-dix-minutes-de-71b969-5a5b92-f91946-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",A Dix Minutes de Nulle Part
 tf1plus://tf1/a-dix-minutes-de-nulle-part
 #EXTINF:-1 tvg-id="tf1plus-tf1-noel-a-tous-les-etages-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-bf208d-b70535-f53608-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Noel A Tous les Etages
 tf1plus://tf1/noel-a-tous-les-etages
-#EXTINF:-1 tvg-id="tf1plus-tf1-un-bebe-pour-noel-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-414f47-ae89fb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Un Bebe Pour Noel
-tf1plus://tf1/un-bebe-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-oradour-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ce6fb0-509211-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Oradour
 tf1plus://tf1/oradour
 #EXTINF:-1 tvg-id="tf1plus-tf1-merlin-lenchanteur-desenchante-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2ef434-89a583-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Merlin Lenchanteur Desenchante
@@ -1089,6 +1091,8 @@ tf1plus://tf1/une-histoire-dame
 tf1plus://tf1/panique-au-grand-magasin
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-meurtre-presque-parfait-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-36cb7d-33949b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Un Meurtre Presque Parfait
 tf1plus://tf1/un-meurtre-presque-parfait
+#EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-avant-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-coup-de-foudre-avant-noel-d89855-cb9a6d-559822-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Coup de Foudre Avant Noel
+tf1plus://tf1/coup-de-foudre-avant-noel
 #EXTINF:-1 tvg-id="tf1plus-tmc-prochain-arret-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-d09f21-abf6fc-838084-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Prochain Arret Noel
 tf1plus://tmc/prochain-arret-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-fabuleuse-parade-de-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-9822f8-757f1c-c1e822-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",La Fabuleuse Parade de Noel
@@ -1201,8 +1205,6 @@ tf1plus://tf1/mange-prie-meurs
 tf1plus://tf1/la-fille-de-la-mariee
 #EXTINF:-1 tvg-id="tf1plus-tf1-captive-et-soumise-trahisons,-manipulations-et-obsessions" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-956a4d-2ae7c5-19f1b0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Trahisons, manipulations et obsessions",Captive et Soumise
 tf1plus://tf1/captive-et-soumise
-#EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-dans-les-bras-dun-tueur-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-44082d-0cb462-64781d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",Ma Fille Dans les Bras Dun Tueur
-tf1plus://tf1/ma-fille-dans-les-bras-dun-tueur
 #EXTINF:-1 tvg-id="tf1plus-tf1-one-way-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-a879f7-b54d91-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",One Way
 tf1plus://tf1/one-way
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-face-cachee-de-mon-fils-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4530dc-b25a00-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",La Face Cachee de Mon Fils
@@ -1225,6 +1227,8 @@ tf1plus://tf1/pris-pour-cible
 tf1plus://tf1/riot
 #EXTINF:-1 tvg-id="tf1plus-tf1-zombie-shark-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bfe264-59631e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",Zombie Shark
 tf1plus://tf1/zombie-shark
+#EXTINF:-1 tvg-id="tf1plus-tf1-death-of-me-suspense-et-grands-frissons" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dca930-278ea0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Suspense et grands frissons",Death Of Me
+tf1plus://tf1/death-of-me
 #EXTINF:-1 tvg-id="tf1plus-tf1-last-man-down-science-fiction-&-cauchemar-en-mer" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b83f8c-933018-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Science-Fiction & Cauchemar en mer",Last Man Down
 tf1plus://tf1/last-man-down
 #EXTINF:-1 tvg-id="tf1plus-tf1-5-headed-shark-attack-science-fiction-&-cauchemar-en-mer" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-cb2a3d-c79a64-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Science-Fiction & Cauchemar en mer",5 Headed Shark Attack
@@ -1255,8 +1259,6 @@ tf1plus://tf1/swim
 tf1plus://tf1/shark-waters
 #EXTINF:-1 tvg-id="tf1plus-tf1-sharknado-3-science-fiction-&-cauchemar-en-mer" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d5a0ff-5bafd9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Science-Fiction & Cauchemar en mer",Sharknado 3
 tf1plus://tf1/sharknado-3
-#EXTINF:-1 tvg-id="tf1plus-tf1-death-of-me-science-fiction-&-cauchemar-en-mer" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dca930-278ea0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Science-Fiction & Cauchemar en mer",Death Of Me
-tf1plus://tf1/death-of-me
 #EXTINF:-1 tvg-id="tf1plus-tf1-control-science-fiction-&-cauchemar-en-mer" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2ce5a2-afa024-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Science-Fiction & Cauchemar en mer",Control
 tf1plus://tf1/control
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-de-fidelite-secrets-de-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-a479ff-42b06e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Secrets de famille",Le Pacte de Fidelite
@@ -1349,6 +1351,8 @@ tf1plus://tf1/alliees-contre-notre-harceleur
 tf1plus://tf1/double-vie-sexe-et-scandale-dans-le-voisinage
 #EXTINF:-1 tvg-id="tf1plus-tf1-voisins-et-plus-si-affinites-face-au-harcèlement" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-0dbda1-507a5f-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Face au harcèlement",Voisins et Plus Si Affinites
 tf1plus://tf1/voisins-et-plus-si-affinites
+#EXTINF:-1 tvg-id="tf1plus-tf1-itineraire-dune-maman-braqueuse-face-au-harcèlement" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-a2140a-090128-d9c4c7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Face au harcèlement",Itineraire Dune Maman Braqueuse
+tf1plus://tf1/itineraire-dune-maman-braqueuse
 #EXTINF:-1 tvg-id="tf1plus-tf1-diamond-dogs-sous-haute-tension" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-398b4b-7dfc30-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous haute tension",Diamond Dogs
 tf1plus://tf1/diamond-dogs
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-ritual-killer-sous-haute-tension" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-c8b4f2-1604e4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Sous haute tension",The Ritual Killer
@@ -1513,8 +1517,6 @@ tf1plus://tf1/le-fabuleux-destin-de-noel
 tf1plus://tmc/un-fiance-a-louer-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-noel-au-manoir-enchante-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-f0c9e1-55e3f7-13e7ba-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Noel Au Manoir Enchante
 tf1plus://tf1/noel-au-manoir-enchante
-#EXTINF:-1 tvg-id="tf1plus-tf1-un-petit-souhait-pour-noel-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-aacacc-8deec5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Un Petit Souhait Pour Noel
-tf1plus://tf1/un-petit-souhait-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-last-moment-of-clarity-derrière-les-apparences" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-f903d5-152338-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Derrière les apparences",Last Moment Of Clarity
 tf1plus://tf1/last-moment-of-clarity
 #EXTINF:-1 tvg-id="tf1plus-tf1-meurtres-au-paradis-249-derrière-les-apparences" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d1ee91-b45fc9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Derrière les apparences",Meurtres Au Paradis 249
@@ -1599,6 +1601,8 @@ tf1plus://tf1/la-star-disparue
 tf1plus://tf1/escroquerie-aux-sentiments
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-mensonge-de-mon-fils-relations-toxiques" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-ca9020-781d4f-fdfde3-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Relations toxiques",Le Mensonge de Mon Fils
 tf1plus://tf1/le-mensonge-de-mon-fils
+#EXTINF:-1 tvg-id="tf1plus-tf1-fiancee-a-un-polygame-relations-toxiques" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-cf1117-5cdf66-bf5035-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Relations toxiques",Fiancee A un Polygame
+tf1plus://tf1/fiancee-a-un-polygame
 #EXTINF:-1 tvg-id="tf1plus-tf1-voice-from-the-stone-dans-l'effroyable-tourmente...." tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-faa953-fa69f0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Dans l'effroyable tourmente....",Voice From The Stone
 tf1plus://tf1/voice-from-the-stone
 #EXTINF:-1 tvg-id="tf1plus-tf1-quand-ma-mere-se-met-en-danger-dans-l'effroyable-tourmente...." tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3feff6-b55236-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Dans l'effroyable tourmente....",Quand Ma Mere Se Met En Danger
@@ -2547,6 +2551,8 @@ tf1plus://tf1/super-heros-malgre-lui
 tf1plus://tfx/fast-and-furious-6
 #EXTINF:-1 tvg-id="tf1plus-tf1-fast-and-furious-x-101-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bd003b-a7cc45-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious X 101
 tf1plus://tf1/fast-and-furious-x-101
+#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-ceb2c9-027b17-eefaeb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Taxi 5
+tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-fast-and-furious-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-fastandfurious5-ed8833-9bea56-81dba4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious 5
 tf1plus://tf1-series-films/fast-and-furious-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-nuit-blanche-710-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-e05cfd-4da869-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Nuit Blanche 710
@@ -2569,8 +2575,6 @@ tf1plus://tf1/the-old-way
 tf1plus://tf1/6-bullets
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-sang-du-cartel-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-f11559-7c2798-ea2b0c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Le Sang du Cartel
 tf1plus://tf1/le-sang-du-cartel
-#EXTINF:-1 tvg-id="tf1plus-tf1-drive-hard-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-5b42c5-dbf7aa-be295b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Drive Hard
-tf1plus://tf1/drive-hard
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-bad-guys-255-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-les-bad-guys-35ad66-ff9af4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Les Bad Guys 255
 tf1plus://tmc/les-bad-guys-255
 #EXTINF:-1 tvg-id="tf1plus-tmc-retour-vers-le-futur-3-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2e8d44-ae5f08-f1e4f3-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Retour Vers le Futur 3
@@ -2645,6 +2649,8 @@ tf1plus://tf1/butterfly-cafe
 tf1plus://tf1/le-pigeon
 #EXTINF:-1 tvg-id="tf1plus-tf1-merci-patron-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-d2f2ab-bfb8d0-5a3e13-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Merci Patron
 tf1plus://tf1/merci-patron
+#EXTINF:-1 tvg-id="tf1plus-tf1-drive-hard-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-5b42c5-dbf7aa-be295b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Drive Hard
+tf1plus://tf1/drive-hard
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-duke-thrillers" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-aa62d3-8c88df-9e6e30-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",The Duke
 tf1plus://tf1/the-duke
 #EXTINF:-1 tvg-id="tf1plus-tf1-tokarev-thrillers" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-png-f19d10-306ae7-95100b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Thrillers",Tokarev
@@ -2737,8 +2743,6 @@ tf1plus://tf1-series-films/peres-meres-et-supporters
 tf1plus://tf1/disclosure-day
 #EXTINF:-1 tvg-id="tf1plus-tf1-scary-movie-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-070207-c78ed5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Scary Movie
 tf1plus://tf1/scary-movie
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-de-gaulle-lage-de-fer-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-c8cc0c-02a628-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",La Bataille de Gaulle Lage de Fer
-tf1plus://tf1/la-bataille-de-gaulle-lage-de-fer
 #EXTINF:-1 tvg-id="tf1plus-tf1-iron-maiden-burning-ambition-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-991ca6-f593d0-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Iron Maiden Burning Ambition
 tf1plus://tf1/iron-maiden-burning-ambition
 #EXTINF:-1 tvg-id="tf1plus-tf1-autofiction-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-bd6767-96e73c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Autofiction
@@ -2773,6 +2777,8 @@ tf1plus://tf1/la-maison-des-femmes
 tf1plus://tf1/scream-7
 #EXTINF:-1 tvg-id="tf1plus-tf1-its-never-over-jeff-buckley-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-5a13c1-597c67-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Its Never Over Jeff Buckley
 tf1plus://tf1/its-never-over-jeff-buckley
+#EXTINF:-1 tvg-id="tf1plus-tf1-coutures-vos-séances-ciné-à-prix-mini" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a8aa27-db2f61-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Vos séances ciné à prix mini",Coutures
+tf1plus://tf1/coutures
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-mere-dieu-et-sylvie-vartan-074-cinéma-xxl,-prix-xxs" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-667aa5-e3ba6f-a2edfd-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma XXL, prix XXS",Ma Mere Dieu et Sylvie Vartan 074
 tf1plus://tf1/ma-mere-dieu-et-sylvie-vartan-074
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-comte-de-monte-cristo-099-cinéma-xxl,-prix-xxs" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-403b30-f90235-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Cinéma XXL, prix XXS",Le Comte de Monte Cristo 099
@@ -2971,8 +2977,6 @@ tf1plus://tmc/martin-weill-ukraine-la-vie-en-temps-de-guerre
 tf1plus://tmc/campagnards-et-fiers-de-letre
 #EXTINF:-1 tvg-id="tf1plus-lci-la-grande-immersion-décryptages" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-41e21e-1e7f21-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Décryptages",La Grande Immersion
 tf1plus://lci/la-grande-immersion
-#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-de-madonna-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-21h-medias-les-scandales-de-madonna-jpg-f92406-809175-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias les Scandales de Madonna
-tf1plus://tmc/21h-medias-les-scandales-de-madonna
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-depardieu-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a00ea9-071d0d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias les Scandales Depardieu
 tf1plus://tmc/21h-medias-les-scandales-depardieu
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-generation-13-novembre-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d5a82a-b1c208-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Generation 13 Novembre
@@ -3473,8 +3477,6 @@ tf1plus://tf1/coup-de-foudre-a-la-saint-valentin
 tf1plus://tf1/coup-de-foudre-a-langlaise
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-lauberge-de-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/coup-de-foudre-a-lauberge-de-noel-52b9f8-7f5afb-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Coup de foudre à l'auberge de Noël
 tf1plus://tf1/coup-de-foudre-a-lauberge-de-noel
-#EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/coup-de-foudre-a-noel-partie-2-78507453-1730908586-b71e87-9539ba-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Coup de foudre à Noël
-tf1plus://tf1/coup-de-foudre-a-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-saint-petersbourg-smx" tvg-logo="https://photos.tf1.fr/1200/720/coup-de-foudre-a-saint-petersbourg-coup-de-foudre-a-saint-petersbourg-partie-2-59538706-1694451521-7a0c00-21ee75-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Coup de foudre à Saint-Petersbourg
 tf1plus://tf1/coup-de-foudre-a-saint-petersbourg
 #EXTINF:-1 tvg-id="tf1plus-tf1-coup-de-foudre-a-valentine-smx" tvg-logo="https://photos.tf1.fr/1200/720/coup-de-foudre-a-valentine-63585965-1740544835-9faa8d-daf1c1-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Coup de foudre à Valentine
@@ -3523,8 +3525,6 @@ tf1plus://tf1/coup-de-foudre-sur-la-piste-du-tresor
 tf1plus://tf1/coup-de-foudre-sur-les-pistes
 #EXTINF:-1 tvg-id="tf1plus-tf1-coupable-apparence-smx" tvg-logo="https://photos.tf1.fr/1200/720/coupable-apparence-69cc0f-fc13b8-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Coupable apparence
 tf1plus://tf1/coupable-apparence
-#EXTINF:-1 tvg-id="tf1plus-tf1-coutures-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-b153f5-ee4261-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Coutures
-tf1plus://tf1/coutures
 #EXTINF:-1 tvg-id="tf1plus-tf1-crash-smx" tvg-logo="https://photos.tf1.fr/1200/720/crash-s02-e09-430dc7-124784-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Crash
 tf1plus://tf1/crash
 #EXTINF:-1 tvg-id="tf1plus-tf1-crimes-en-serie-smx" tvg-logo="https://photos.tf1.fr/1200/720/crimes-en-serie-s01-e04-variations-mortelles-70143862-1731928385-e92db0-c284ba-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Crimes en série
@@ -3703,8 +3703,6 @@ tf1plus://tf1/enlevee-le-jour-de-mon-mariage
 tf1plus://tf1/enlevee-sous-mes-yeux
 #EXTINF:-1 tvg-id="tf1plus-tf1-enlevement-smx" tvg-logo="https://photos.tf1.fr/1200/720/enlevement-c9a56c-7509b0-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Enlèvement
 tf1plus://tf1/enlevement
-#EXTINF:-1 tvg-id="tf1plus-tf1-enquete-a-coeur-ouvert-smx" tvg-logo="https://photos.tf1.fr/1200/720/enquete-a-coeur-ouvert-s01-e01-19000589-1726216983-02dc4b-3bfbf3-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Enquête à cœur ouvert
-tf1plus://tf1/enquete-a-coeur-ouvert
 #EXTINF:-1 tvg-id="tf1plus-tf1-enquetes-reservees-smx" tvg-logo="https://photos.tf1.fr/1200/720/enquetes-reservees-s04-e07-piege-sur-la-toile-99022944-1745685645-fb7106-3c1963-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Enquêtes réservées
 tf1plus://tf1/enquetes-reservees
 #EXTINF:-1 tvg-id="tf1plus-tf1-ensemble-a-tout-prix-smx" tvg-logo="https://photos.tf1.fr/1200/720/ensemble-a-tout-prix-80853888-1706463690-fdb643-872116-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ensemble à tout prix !
@@ -3783,8 +3781,6 @@ tf1plus://tf1/fete-de-famille
 tf1plus://tf1/fiancailles-a-la-grecque
 #EXTINF:-1 tvg-id="tf1plus-tf1-fiancee-a-un-imposteur-smx" tvg-logo="https://photos.tf1.fr/1200/720/fiancee-a-un-imposteur-12678955-1706464685-1dc231-0a70b7-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Fiancée à un imposteur
 tf1plus://tf1/fiancee-a-un-imposteur
-#EXTINF:-1 tvg-id="tf1plus-tf1-fiancee-a-un-polygame-smx" tvg-logo="https://photos.tf1.fr/1200/720/fiancee-a-un-polygame-24831313-1736735842-4d5da2-3a1e6e-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Fiancée à un polygame
-tf1plus://tf1/fiancee-a-un-polygame
 #EXTINF:-1 tvg-id="tf1plus-tf1-fiances-malgre-eux-smx" tvg-logo="https://photos.tf1.fr/1200/720/fiances-malgre-eux-05034429-1694015579-811a28-e0c568-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Fiancés malgré eux
 tf1plus://tf1/fiances-malgre-eux
 #EXTINF:-1 tvg-id="tf1plus-tf1-first-of-legend-la-nouvelle-fureur-de-vaincre-smx" tvg-logo="https://photos.tf1.fr/1200/720/fist-of-legend-la-nouvelle-fureur-de-vaincre-49299255-1761591727-0f9dba-e5581b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Fist Of Legend : la nouvelle fureur de vaincre
@@ -3919,8 +3915,6 @@ tf1plus://tf1/invisible
 tf1plus://tf1/ip-man-final-clash-of-masters
 #EXTINF:-1 tvg-id="tf1plus-tf1-iron-arm-smx" tvg-logo="https://photos.tf1.fr/1200/720/iron-arm-1-1-1-7eb82e-18e45a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Iron Arm
 tf1plus://tf1/iron-arm
-#EXTINF:-1 tvg-id="tf1plus-tf1-itineraire-dune-maman-braqueuse-smx" tvg-logo="https://photos.tf1.fr/1200/720/itineraire-dune-maman-braqueuse-partie-1-66651567-1752256453-7d3184-f46011-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Itinéraire d'une maman braqueuse
-tf1plus://tf1/itineraire-dune-maman-braqueuse
 #EXTINF:-1 tvg-id="tf1plus-tf1-itineraire-pour-lenfer-smx" tvg-logo="https://photos.tf1.fr/1200/720/itineraire-pour-lenfer-57484549-1738033140-41e78e-0a658d-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Itinéraire pour l'enfer
 tf1plus://tf1/itineraire-pour-lenfer
 #EXTINF:-1 tvg-id="tf1plus-tf1-jack-mimoun-et-les-secrets-de-val-verde-943-smx" tvg-logo="https://photos.tf1.fr/1200/720/jack-mimoun-et-les-secrets-de-val-verde-83097433-1760033715-31f546-8e902b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Jack Mimoun et les Secrets de Val Verde
@@ -4039,6 +4033,8 @@ tf1plus://tf1/kung-fu-panda-3
 tf1plus://tf1/kung-fu-panda-374
 #EXTINF:-1 tvg-id="tf1plus-tf1-kung-fu-panda-4-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-a6a373-bd04b2-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Kung Fu Panda 4
 tf1plus://tf1/kung-fu-panda-4
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-de-gaulle-lage-de-fer-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-bataille-de-gaulle-lage-de-fer-627b38-0a9a7f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La Bataille de Gaulle : L'Âge de fer
+tf1plus://tf1/la-bataille-de-gaulle-lage-de-fer
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-bataille-des-maries-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-bataille-des-maries-78647577-1711131920-a97847-46bcd5-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",La bataille des mariés
 tf1plus://tf1/la-bataille-des-maries
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-battante-smx" tvg-logo="https://photos.tf1.fr/1200/720/la-battante-s01-e03-0213d1-a65ad9-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",La Battante
@@ -4851,6 +4847,8 @@ tf1plus://tf1/ma-deuxieme-mere
 tf1plus://tf1/ma-famille-tadore-deja
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-cette-inconnue-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-cette-inconnue-42395289-1685151186-3c01f4-6d580a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille, cette inconnue
 tf1plus://tf1/ma-fille-cette-inconnue
+#EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-dans-les-bras-dun-tueur-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-dans-les-bras-dun-tueur-00966430-1756000509-6da0d8-0e4768-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille dans les bras d'un tueur
+tf1plus://tf1/ma-fille-dans-les-bras-dun-tueur
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-est-une-camgirl-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-est-une-camgirl-36513870-1714582188-d4f9f7-1f2f76-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille est une camgirl
 tf1plus://tf1/ma-fille-est-une-camgirl
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-fille-harcelee-et-laissee-pour-morte-smx" tvg-logo="https://photos.tf1.fr/1200/720/ma-fille-harcelee-et-laissee-pour-morte-07016437-1706760167-80aeba-9278d6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ma fille, harcelée et laissée pour morte
@@ -5393,6 +5391,8 @@ tf1plus://tf1/riptide
 tf1plus://tf1/risen-la-fin-du-monde
 #EXTINF:-1 tvg-id="tf1plus-tf1-rising-fear-smx" tvg-logo="https://photos.tf1.fr/1200/720/rising-fear-08036139-1758042512-126e30-26abda-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Rising Fear
 tf1plus://tf1/rising-fear
+#EXTINF:-1 tvg-id="tf1plus-tf1-rizzoli-and-isles-autopsie-dun-meurtre-smx" tvg-logo="https://photos.tf1.fr/1200/720/rizzoli-and-isles-autopsie-dun-meurtre-s02-e10-le-plus-beau-des-cadeaux-1e8222-d7b0fb-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Rizzoli & Isles : Autopsie d’un meurtre
+tf1plus://tf1/rizzoli-and-isles-autopsie-dun-meurtre
 #EXTINF:-1 tvg-id="tf1plus-tf1-road-trip-mortel-smx" tvg-logo="https://photos.tf1.fr/1200/720/road-trip-mortel-39031760-1740857327-c55584-a7997f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Road trip mortel
 tf1plus://tf1/road-trip-mortel
 #EXTINF:-1 tvg-id="tf1plus-tf1-road-wars-max-fury-smx" tvg-logo="https://photos.tf1.fr/1200/720/road-wars-max-fury-739837-4142c8-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Road Wars : Max Fury
@@ -5765,6 +5765,8 @@ tf1plus://tf1/un-automne-a-deux
 tf1plus://tf1/un-automne-a-manhattan
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-baby-sitter-trop-seduisant-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-baby-sitter-trop-seduisant-60269392-1706204839-e4c513-92e47e-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un baby-sitter trop séduisant
 tf1plus://tf1/un-baby-sitter-trop-seduisant
+#EXTINF:-1 tvg-id="tf1plus-tf1-un-bebe-pour-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-bebe-pour-noel-partie-1-52617098-1700668470-c454f3-7d88c8-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Un bébé pour Noël
+tf1plus://tf1/un-bebe-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-billet-pour-le-pole-sud-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-billet-pour-le-pole-sud-1-faede3-089e38-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un billet pour le pôle sud
 tf1plus://tf1/un-billet-pour-le-pole-sud
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-cadavre-dans-le-grenier-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-cadavre-dans-le-grenier-89957592-1751340550-5b58f7-cab210-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un cadavre dans le grenier
@@ -5847,6 +5849,8 @@ tf1plus://tf1/un-ours-dans-le-jura
 tf1plus://tf1/un-parfum-de-caraibes
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-pari-sur-lamour-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-f6aa2e-28c6b9-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un pari sur l'amour
 tf1plus://tf1/un-pari-sur-lamour
+#EXTINF:-1 tvg-id="tf1plus-tf1-un-petit-souhait-pour-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-petit-souhait-pour-noel-a408bb-699126-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un petit souhait pour Noël
+tf1plus://tf1/un-petit-souhait-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-professeur-trop-seduisant-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-professeur-trop-seduisant-24457304-1719561965-80f99f-6d6312-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un professeur trop séduisant
 tf1plus://tf1/un-professeur-trop-seduisant
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-quartier-totalement-wouf-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-quartier-totalement-wouf-1-1-1-e203db-034960-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un quartier totalement wouf !
@@ -6067,6 +6071,8 @@ tf1plus://tfx/lolywood
 tf1plus://tfx/sisbro
 #EXTINF:-1 tvg-id="tf1plus-tfx-vacances-a-chacun-son-style-smx" tvg-logo="https://photos.tf1.fr/1200/720/camping-et-camping-car-les-vacances-preferees-des-francais-65826f-60237a-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Vacances : à chacun son style
 tf1plus://tfx/vacances-a-chacun-son-style
+#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-de-madonna-smx" tvg-logo="https://photos.tf1.fr/1200/720/21h-medias-les-scandales-de-madonna-partie-2-28fe71-55a4d9-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",21h Médias - Les scandales de Madonna
+tf1plus://tmc/21h-medias-les-scandales-de-madonna
 #EXTINF:-1 tvg-id="tf1plus-tmc-betisiers-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-grand-betisier-du-31-1-d45f1f-66a1ea-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le Grand Bêtisier
 tf1plus://tmc/betisiers
 #EXTINF:-1 tvg-id="tf1plus-tmc-burger-quiz-smx" tvg-logo="https://photos.tf1.fr/1200/720/burger-quiz-speciale-star-wars-avec-chabba-the-hutt-a0a748-b1230b-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Burger Quiz
@@ -6171,8 +6177,6 @@ tf1plus://tmc/rivalite-meurtriere
 tf1plus://tmc/soiree-transpi-ete-2025-au-camping
 #EXTINF:-1 tvg-id="tf1plus-tmc-sous-soleil-st-tropez-smx" tvg-logo="https://photos.tf1.fr/1200/720/raw-sous-le-soleil-de-st-tropez-la-mentaliste-40080833-1676283240-429fa7-d8caa7-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Sous le soleil de Saint-Tropez
 tf1plus://tmc/sous-soleil-st-tropez
-#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-smx" tvg-logo="https://photos.tf1.fr/1200/720/taxi-5-87b995-abdbe6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Taxi 5
-tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-denfer-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-denfer-adfa81-1f9ee1-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël d'enfer
 tf1plus://tmc/un-noel-denfer
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-pour-deux-coup-de-foudre-en-ville-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-pour-deux-coup-de-foudre-en-ville-95d2fc-214abd-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël pour deux : coup de foudre en ville
