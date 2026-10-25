@@ -7604,6 +7604,24 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="arte.fr@SD" group-title="France TV backup - Autres",arte (France) (720p) [iptv-org-fr]
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="France TV backup - Autres",France 2 [iptv-org-fr]
+http://149.62.177.107:9999/France_2/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr@SD" group-title="France TV backup - Autres",France 4 [iptv-org-fr]
+http://149.62.177.107:9999/France_4/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr@SD" group-title="France TV backup - Autres",France 5 [iptv-org-fr]
+http://149.62.177.107:9999/France_5/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr@HD" group-title="France TV backup - Autres",NOVO19 [iptv-org-fr]
+http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 [iptv-org-fr]
+http://149.62.177.107:9999/TF1/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" group-title="France TV backup - Autres",TF1 Series Films [iptv-org-fr]
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+#EXTINF:-1 tvg-id="TFX.fr@SD" group-title="France TV backup - Autres",TFX [iptv-org-fr]
+http://149.62.177.107:9999/TFX/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD [iptv-org-fr]
+http://149.62.177.107:9999/TMC/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
