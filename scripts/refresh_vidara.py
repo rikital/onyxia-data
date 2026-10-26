@@ -41,10 +41,17 @@ def _cadence():
 
 
 # ───────────────────────────────────────────────────────── API Vidara (cle)
-def api(chemin, params, cle, essais=5):
+class LectureIncomplete(RuntimeError):
+    """Une page ou un dossier n'a pas pu etre lu : l'index serait troue."""
+
+
+def api(chemin, params, cle, essais=8):
+    # 2026-10-26 : AVANT, un 429 repete rendait None en silence -> le dossier
+    #   s'arretait a la page 1 (100 fichiers) et le reste tombait "sans dossier".
+    #   Desormais on attend plus longtemps et, en cas d'echec final, on LEVE.
     q = dict(params); q["api_key"] = cle
     url = f"{API}{chemin}?" + urllib.parse.urlencode(q)
-    attente = 2.0
+    attente = 3.0
     for n in range(essais):
         _cadence()
         try:
@@ -52,16 +59,12 @@ def api(chemin, params, cle, essais=5):
             with urllib.request.urlopen(req, timeout=40) as r:
                 return json.loads(r.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
-            if e.code == 429:
-                print(f"    429 sur {chemin}, reessai dans {attente:.0f}s", file=sys.stderr)
-            elif n == essais - 1:
-                raise
-        except Exception:
-            if n == essais - 1:
-                raise
+            print(f"    http {e.code} sur {chemin} {params}, reessai dans {attente:.0f}s", file=sys.stderr)
+        except Exception as e:
+            print(f"    {type(e).__name__} sur {chemin} {params}, reessai dans {attente:.0f}s", file=sys.stderr)
         if n < essais - 1:
-            time.sleep(attente); attente *= 2
-    return None
+            time.sleep(attente); attente = min(attente * 2, 60.0)
+    raise LectureIncomplete(f"API {chemin} {params} illisible apres {essais} essais")
 
 
 # ───────────────────────────────────────────────────────── SITE (arborescence)
@@ -112,11 +115,22 @@ class Site:
         return True
 
     def enfants_ids(self, parent_id, ancetres):
-        _cadence()
+        # 2026-10-26 : AVANT, une page en erreur rendait [] en silence -> des
+        #   dossiers entiers (Guerre, Linkin Park...) disparaissaient de l'index.
         chemin = f"/files?folder_id={parent_id}" if parent_id else "/files"
-        st, html = self._req(f"{SITE}{chemin}")
+        attente, st, html = 3.0, 0, ""
+        for n in range(6):
+            _cadence()
+            try:
+                st, html = self._req(f"{SITE}{chemin}")
+            except Exception as e:
+                st, html = 0, str(e)
+            if st == 200:
+                break
+            print(f"    site {chemin} -> {st}, reessai dans {attente:.0f}s", file=sys.stderr)
+            time.sleep(attente); attente = min(attente * 2, 60.0)
         if st != 200:
-            return []
+            raise LectureIncomplete(f"page {chemin} illisible (http {st})")
         vus, out = set(), []
         for m in re.finditer(r"folder_id=(\d+)", html):
             i = int(m.group(1))
@@ -153,10 +167,15 @@ def fichiers_du_dossier(cle, fld_id, nom_dossier):
         if fld_id is not None:
             params["fld_id"] = fld_id
         d = api("/video/list", params, cle)
-        res = (d or {}).get("result") or {}
+        if not isinstance(d, dict) or not isinstance(d.get("result"), dict):
+            raise LectureIncomplete(f"video/list {params} : reponse inattendue {str(d)[:120]}")
+        res = d["result"]
         arr = res.get("videos") or []
         if not arr:
             break
+        deja = {x["code"] for x in out}
+        if all((f.get("filecode") or f.get("file_code") or f.get("code") or "").strip() in deja for f in arr):
+            break   # l'API renvoie la meme page : on a tout
         for f in arr:
             code = (f.get("filecode") or f.get("file_code") or f.get("code") or "").strip()
             if not code:
@@ -172,10 +191,19 @@ def fichiers_du_dossier(cle, fld_id, nom_dossier):
                 "lib": "perso",
                 "dossier": nom_dossier,
             })
-        if page >= int(res.get("total_pages") or 1):
+        # Page pleine = il y en a peut-etre d'autres, meme si total_pages manque.
+        if len(arr) < PAR_PAGE and page >= int(res.get("total_pages") or 1):
             break
         page += 1
     return out
+
+
+def index_precedent():
+    try:
+        with open(SORTIE, encoding="utf-8") as fh:
+            return json.load(fh).get("items") or []
+    except Exception:
+        return []
 
 
 def main():
@@ -190,28 +218,40 @@ def main():
         return 1
 
     # 1. noms des dossiers (API, a plat)
-    d = api("/folder/list", {}, cle)
-    plats = ((d or {}).get("result") or {}).get("folders") or []
-    noms = {}
-    for f in plats:
-        try:
-            noms[int(f.get("fld_id") or f.get("code"))] = (f.get("name") or "").strip()
-        except (TypeError, ValueError):
-            continue
+    try:
+        noms = {}
+        for page in range(1, 21):   # la liste peut etre paginee : on lit tant qu'il en vient
+            d = api("/folder/list", {"page": page, "per_page": PAR_PAGE}, cle)
+            plats = ((d or {}).get("result") or {}).get("folders") or []
+            avant = len(noms)
+            for f in plats:
+                try:
+                    noms[int(f.get("fld_id") or f.get("code"))] = (f.get("name") or "").strip()
+                except (TypeError, ValueError):
+                    continue
+            if len(noms) == avant or len(plats) < PAR_PAGE:
+                break
+        if not noms:
+            raise LectureIncomplete("aucun nom de dossier")
 
-    # 2. arborescence via le site
-    site = Site()
-    site.connexion(identifiant.strip(), mdp)
-    arbre = arbre_du_site(site, noms)
-    print(f"  {len(arbre)} dossier(s) : " + ", ".join(sorted(arbre.values())[:8])
-          + (" ..." if len(arbre) > 8 else ""))
+        # 2. arborescence via le site
+        site = Site()
+        site.connexion(identifiant.strip(), mdp)
+        arbre = arbre_du_site(site, noms)
+        print(f"  {len(arbre)} dossier(s) : " + ", ".join(sorted(arbre.values())[:8])
+              + (" ..." if len(arbre) > 8 else ""))
 
-    # 3. fichiers : dossiers d'abord, racine (reliquat) ensuite, dedup par code
+        # 3. fichiers : dossiers d'abord, racine (reliquat) ensuite, dedup par code
+        lot = []
+        for fid, nom in sorted(arbre.items(), key=lambda kv: kv[1].lower()):
+            lot += fichiers_du_dossier(cle, fid, nom)
+        lot += fichiers_du_dossier(cle, None, "")   # sans fld_id = tout le compte -> reliquat
+    except LectureIncomplete as e:
+        # Mieux vaut l'index d'hier, complet, qu'un index troue.
+        print(f"lecture incomplete ({e}) — index NON reecrit.", file=sys.stderr)
+        return 1
+
     items, vus = [], set()
-    lot = []
-    for fid, nom in sorted(arbre.items(), key=lambda kv: kv[1].lower()):
-        lot += fichiers_du_dossier(cle, fid, nom)
-    lot += fichiers_du_dossier(cle, None, "")   # sans fld_id = tout le compte -> reliquat
     for it in lot:
         if it["code"] in vus:
             continue
@@ -221,6 +261,16 @@ def main():
     if not items:
         print("aucun fichier — index NON reecrit.", file=sys.stderr)
         return 1
+
+    # 4. filet de securite : un fichier « sans dossier » qui etait range hier
+    #    garde son dossier d'hier (un dossier rate ne doit pas vider le rangement).
+    ancien = {x.get("code"): x.get("dossier") for x in index_precedent() if x.get("dossier")}
+    recases = 0
+    for it in items:
+        if not it["dossier"] and ancien.get(it["code"]):
+            it["dossier"] = ancien[it["code"]]; recases += 1
+    sans = sum(1 for it in items if not it["dossier"])
+    print(f"  {recases} fichier(s) remis dans leur dossier d'hier, {sans} sans dossier")
 
     items.sort(key=lambda x: (x["lib"], x["titre"].lower()))
     doc = {
