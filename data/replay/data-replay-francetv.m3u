@@ -155,8 +155,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
-#EXTINF:-1 tvg-id="francetv-b792bc97-bde7-4f79-a9c3-5108981afd27" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Fenua Vice
-francetv://b792bc97-bde7-4f79-a9c3-5108981afd27
+#EXTINF:-1 tvg-id="francetv-4aa68ca2-ffed-42f7-b43b-1b047f406714" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Fenua Vice
+francetv://4aa68ca2-ffed-42f7-b43b-1b047f406714
 #EXTINF:-1 tvg-id="francetv-prog-france-3_les-enquetes-de-vera" tvg-logo="https://medias.france.tv/XzkDRHgUj0eI0jex-HyLef_RK4c/400x0/filters:quality(85)/a/j/r/phplchrja.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les enquêtes de Vera
 francetv://program/france-3_les-enquetes-de-vera
 #EXTINF:-1 tvg-id="francetv-0b463608-8244-4054-b09e-2e6197b7f94c" tvg-logo="https://medias.france.tv/DXL8qjA8sID79nfa4CNa5TYvdXI/400x0/filters:quality(85)/4/q/w/phppthwq4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à... — Meurtres à Honfleur
@@ -853,12 +853,14 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-7cd4c298-d157-11f1-9697-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/3XhVK2khxceILEJCjfbYRgkAQXE/400x0/filters:quality(85)/c/0/e/19501199eae8428981c840f4b89d5e0c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 26/10/2026 - Le fil info après-midi
+francetv://7cd4c298-d157-11f1-9697-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-55034fd4-d141-11f1-88ac-19616fa871f9" tvg-logo="https://medias.france.tv/-pa3KAfXllCnUtgt2hRvcbHrL6U/400x0/filters:quality(85)/1/0/c/675ae8b1dfbe43178877d94249b1dc01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 26/10/2026 Le fil info 14H
 francetv://55034fd4-d141-11f1-88ac-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-6ffcc890-d13e-11f1-af89-57a09c50f7ce" tvg-logo="https://medias.france.tv/RqnF1yZ_dRWABH1Ll0e_9gxaeg8/400x0/filters:quality(85)/c/6/9/44651b3c0cb54931aad833dfe9ea196c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 26/10/2026 Le fil info 11H
-francetv://6ffcc890-d13e-11f1-af89-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-766dc676-412e-451f-a995-10d9d9ccfdbf" tvg-logo="https://medias.france.tv/as2HU3pjzzt1qKt93dbhMwou4P8/400x0/filters:quality(85)/1/4/d/96eef464381c4449a3432f3684cc1d41.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du lundi 26 octobre 2026
 francetv://766dc676-412e-451f-a995-10d9d9ccfdbf
+#EXTINF:-1 tvg-id="francetv-6ffcc890-d13e-11f1-af89-57a09c50f7ce" tvg-logo="https://medias.france.tv/RqnF1yZ_dRWABH1Ll0e_9gxaeg8/400x0/filters:quality(85)/c/6/9/44651b3c0cb54931aad833dfe9ea196c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 26/10/2026 Le fil info 11H
+francetv://6ffcc890-d13e-11f1-af89-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-eb39a412-84fc-417c-8efd-bad18c1b83a6" tvg-logo="https://medias.france.tv/bMk1uxyTGZBfq3_qIgijnLC2zV4/400x0/filters:quality(85)/d/3/e/f01468ef02d248fd835c04dcd2f76e3d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du lundi 26 octobre 2026
 francetv://eb39a412-84fc-417c-8efd-bad18c1b83a6
 #EXTINF:-1 tvg-id="francetv-7695cb8c-073b-4c7b-852f-695f0e740412" tvg-logo="https://medias.france.tv/g_W99hLxC9Iu8XNAvCw0u7tPmB8/400x0/filters:quality(85)/a/5/5/972eb6d1016a4d02a064e95d8a95455a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du lundi 26 octobre 2026
@@ -891,8 +893,6 @@ francetv://d11b3515-bcf6-43f0-9907-c51209736ade
 francetv://b00d1403-ddb0-43e1-86ae-da6d21befd3d
 #EXTINF:-1 tvg-id="francetv-bb825f94-75a6-4886-8fb7-191528d279ea" tvg-logo="https://medias.france.tv/o5nFFrySgqJsSWgeCo8s1S2Eb8A/400x0/filters:quality(85)/4/3/1/05ccac0e772f4d739799b2d3c8e29134.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — La matinale
 francetv://bb825f94-75a6-4886-8fb7-191528d279ea
-#EXTINF:-1 tvg-id="francetv-ccc879e7-1e6d-4924-9e46-eaa4daae0d3c" tvg-logo="https://medias.france.tv/kLDJRhpJarhFQYCMPCWEFB_g-r4/400x0/filters:quality(85)/c/3/e/ea430b48e07c4f1f9d3229495c1dee3c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info — Émission du samedi 24 octobre 2026
-francetv://ccc879e7-1e6d-4924-9e46-eaa4daae0d3c
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2337,8 +2337,8 @@ francetv://program/documentaires_le-brame-du-cerf
 francetv://program/tv5-monde_le-monde-fascinant-des-arbres
 #EXTINF:-1 tvg-id="francetv-fddb4441-019a-41e5-8417-9e4d18e4cee0" tvg-logo="https://medias.france.tv/UOjAqnL9IZrbEUHsRCqI8uz8Vso/400x0/filters:quality(85)/d/3/5/61f64d6b946f4af69bb0193eb113453d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Promenons-nous dans les bois",La faune connectée — La couleur du lièvre
 francetv://fddb4441-019a-41e5-8417-9e4d18e4cee0
-#EXTINF:-1 tvg-id="francetv-0c8300ce-a3d0-4044-995d-c470e863477f" tvg-logo="https://medias.france.tv/5xml5p9B8PKp3PycLbtDHlnAvLI/400x0/filters:quality(85)/b/1/8/bc4e926d91b548aca5e6de0da67aa81b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Promenons-nous dans les bois",Chroniques de l'arbre mort
-francetv://0c8300ce-a3d0-4044-995d-c470e863477f
+#EXTINF:-1 tvg-id="francetv-0ce374b5-c6f5-4afd-89bf-c35b1469896a" tvg-logo="https://medias.france.tv/5xml5p9B8PKp3PycLbtDHlnAvLI/400x0/filters:quality(85)/b/1/8/bc4e926d91b548aca5e6de0da67aa81b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Promenons-nous dans les bois",Chroniques de l'arbre mort
+francetv://0ce374b5-c6f5-4afd-89bf-c35b1469896a
 #EXTINF:-1 tvg-id="francetv-5b1752a3-61f8-4685-99b6-f6eaa4ec9850" tvg-logo="https://medias.france.tv/oda3GWtQZ87yLiQB14Ie_P0eFLk/400x0/filters:quality(85)/u/7/f/php3gdf7u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Promenons-nous dans les bois",13h15, le samedi — Sur la piste des loups
 francetv://5b1752a3-61f8-4685-99b6-f6eaa4ec9850
 #EXTINF:-1 tvg-id="francetv-df2d7176-ab43-4510-be6c-0d5e229b4e53" tvg-logo="https://medias.france.tv/9xWtxzsjMSPgLbhV41silAzjZXg/400x0/filters:quality(85)/d/b/a/81378b9f167b4c4db10432e4858bfabd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Dracula : la véritable histoire
@@ -2395,8 +2395,8 @@ francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
 francetv://3342d4e9-3ff4-47a4-86f7-107a881f50f8
 #EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
 francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
-#EXTINF:-1 tvg-id="francetv-b792bc97-bde7-4f79-a9c3-5108981afd27" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Fenua Vice
-francetv://b792bc97-bde7-4f79-a9c3-5108981afd27
+#EXTINF:-1 tvg-id="francetv-4aa68ca2-ffed-42f7-b43b-1b047f406714" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Fenua Vice
+francetv://4aa68ca2-ffed-42f7-b43b-1b047f406714
 #EXTINF:-1 tvg-id="francetv-9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6" tvg-logo="https://medias.france.tv/PACKckyOHUMeTYK07Rh6O2yPCAQ/400x0/filters:quality(85)/j/l/3/phpgbb3lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Unité Ados 93
 francetv://9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6
 #EXTINF:-1 tvg-id="francetv-f0cde6a9-544b-4bb3-924d-9656be660532" tvg-logo="https://medias.france.tv/RqlhsArEVm9T-WasfLrUqHPJ1dQ/400x0/filters:quality(85)/e/a/d/42008b7a35f149cc9002fce57c814dae.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Est-il vrai que... ? — Est-il vrai que nous n’avons jamais été aussi épuisés ?
