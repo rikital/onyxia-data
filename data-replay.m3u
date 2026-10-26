@@ -8327,6 +8327,8 @@ tf1live://L_FAST_v2l-ad-les-familles-nombreuses-16617904
 tf1live://L_FAST_v2l-ad-les-mysteres-de-lamour-99639599
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-les-restos-du-coeur-59894021" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Les Restos Du Coeur
 tf1live://L_FAST_v2l-ad-les-restos-du-coeur-59894021
+#EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-lolywood-16739451" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Lolywood
+tf1live://L_FAST_v2l-ad-lolywood-16739451
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-mamans-and-celebres-08240458" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Mamans & Celebres
 tf1live://L_FAST_v2l-ad-mamans-and-celebres-08240458
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-mighty-express-44092248" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Mighty Express
@@ -8341,6 +8343,8 @@ tf1live://L_FAST_v2l-ad-revivez-lintegral-mask-singer-91828794
 tf1live://L_FAST_v2l-ad-sous-le-soleil-18693784
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-star-academy-70671668" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Star Academy
 tf1live://L_FAST_v2l-ad-star-academy-70671668
+#EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-super-nanny-14977255" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Super Nanny
+tf1live://L_FAST_v2l-ad-super-nanny-14977255
 #EXTINF:-1 tvg-id="tf1plus-tf1-cats-eyes-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cats-eyes-s2-keyart-jpg-4d2260-015864-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Cats Eyes
 tf1plus://tf1/cats-eyes
 #EXTINF:-1 tvg-id="tf1plus-tf1-intracables-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-a8dff2-a283e4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Intracables
@@ -10837,6 +10841,8 @@ tf1plus://tf1/super-heros-malgre-lui
 tf1plus://tfx/fast-and-furious-6
 #EXTINF:-1 tvg-id="tf1plus-tf1-fast-and-furious-x-101-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bd003b-a7cc45-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious X 101
 tf1plus://tf1/fast-and-furious-x-101
+#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-ceb2c9-027b17-eefaeb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Taxi 5
+tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-fast-and-furious-5-action" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-fastandfurious5-ed8833-9bea56-81dba4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Fast And Furious 5
 tf1plus://tf1-series-films/fast-and-furious-5
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-nuit-blanche-710-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-e05cfd-4da869-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Nuit Blanche 710
@@ -10855,8 +10861,6 @@ tf1plus://tf1/american-heist
 tf1plus://tf1/la-victoire-dans-le-sang-trading-paint
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-old-way-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-f02f2f-6188a2-2186f5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Old Way
 tf1plus://tf1/the-old-way
-#EXTINF:-1 tvg-id="tf1plus-tf1-6-bullets-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-d3741d-5bf362-011a7c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",6 Bullets
-tf1plus://tf1/6-bullets
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-les-valeurs-de-la-famille-addams-137-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-2860de-c5b89e-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Les Valeurs de la Famille Addams 137
 tf1plus://tf1-series-films/les-valeurs-de-la-famille-addams-137
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-bad-guys-255-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-les-bad-guys-35ad66-ff9af4-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",Les Bad Guys 255
@@ -11321,6 +11325,8 @@ tf1plus://tf1/24h-pour-sauver-mon-bebe
 tf1plus://tf1/30-ans-demissions-cultes
 #EXTINF:-1 tvg-id="tf1plus-tf1-5-septembre-smx" tvg-logo="https://photos.tf1.fr/1200/720/5-septembre-75672087-1756505200-d2bd2f-d4865f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",5 septembre
 tf1plus://tf1/5-septembre
+#EXTINF:-1 tvg-id="tf1plus-tf1-6-bullets-smx" tvg-logo="https://photos.tf1.fr/1200/720/6-bullets-67319219-1733164469-deeb13-e56b72-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",6 Bullets
+tf1plus://tf1/6-bullets
 #EXTINF:-1 tvg-id="tf1plus-tf1-72-heures-smx" tvg-logo="https://photos.tf1.fr/1200/720/72-heures-s01-e10-hors-circuit-21852827-1704790071-08f722-bc98e7-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",72 heures
 tf1plus://tf1/72-heures
 #EXTINF:-1 tvg-id="tf1plus-tf1-72h-pour-survivre-smx" tvg-logo="https://photos.tf1.fr/1200/720/72h-pour-survivre-14177961-1756610591-70a158-95f83a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",72H pour survivre
@@ -14479,8 +14485,6 @@ tf1plus://tmc/rivalite-meurtriere
 tf1plus://tmc/soiree-transpi-ete-2025-au-camping
 #EXTINF:-1 tvg-id="tf1plus-tmc-sous-soleil-st-tropez-smx" tvg-logo="https://photos.tf1.fr/1200/720/raw-sous-le-soleil-de-st-tropez-course-contre-la-mort-52022180-1676283702-dfd28b-c48f11-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Sous le soleil de Saint-Tropez
 tf1plus://tmc/sous-soleil-st-tropez
-#EXTINF:-1 tvg-id="tf1plus-tmc-taxi-5-smx" tvg-logo="https://photos.tf1.fr/1200/720/taxi-5-87b995-abdbe6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Taxi 5
-tf1plus://tmc/taxi-5
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-denfer-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-denfer-adfa81-1f9ee1-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël d'enfer
 tf1plus://tmc/un-noel-denfer
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-pour-deux-coup-de-foudre-en-ville-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-pour-deux-coup-de-foudre-en-ville-95d2fc-214abd-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël pour deux : coup de foudre en ville
