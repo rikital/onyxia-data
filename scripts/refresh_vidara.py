@@ -190,6 +190,10 @@ def fichiers_du_dossier(cle, fld_id, nom_dossier):
                 "duree": int(f.get("length") or 0) * 60,
                 "lib": "perso",
                 "dossier": nom_dossier,
+                # 2026-10-26 : date de depot + numero interne (croissant) -> rangee
+                #   « Derniers ajouts » d'ONYX Films, triee du plus recent au plus ancien.
+                "ajout": (f.get("uploaded") or "").strip(),
+                "vid": int(f.get("vid_id") or 0),
             })
         # Page pleine = il y en a peut-etre d'autres, meme si total_pages manque.
         if len(arr) < PAR_PAGE and page >= int(res.get("total_pages") or 1):
