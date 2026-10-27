@@ -352,8 +352,8 @@ async def _telecharger_dossier(session, nom: str, url: str) -> str:
         if not b.startswith('#EXTINF'):
             continue
         b = '\n'.join(l.strip() for l in b.split('\n') if l.strip())
-        # adulttv:// = chaines Zone 18@ resolues par l'appli a la lecture (AdultTvResolver)
-        if not re.search(r'\n((?:https?|adulttv)://\S+)', b):
+        # adulttv:// et oxax:// = chaines Zone 18@ resolues par l'appli a la lecture (AdultTvResolver, OxaxResolver)
+        if not re.search(r'\n((?:https?|adulttv|oxax)://\S+)', b):
             continue
         premiere, _, reste = b.partition('\n')
         if 'group-title=' in premiere:
@@ -374,7 +374,7 @@ def _retirer_doublons(blocs: str, vues: set) -> tuple:
         if not b.startswith('#EXTINF'):
             garde.append(b)          # en-tete eventuel (« # --- dossier: ... »)
             continue
-        m = re.search(r'\n((?:https?|adulttv)://\S+)', b)
+        m = re.search(r'\n((?:https?|adulttv|oxax)://\S+)', b)
         if m and m.group(1) in vues:
             retires += 1
             continue

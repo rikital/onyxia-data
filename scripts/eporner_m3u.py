@@ -346,6 +346,42 @@ def _trouver_adulttv():
     return lignes
 
 
+# -------------------------------- OXAX ---------------------------------
+# 2026-10-27 (user) : les 41 chaines en direct d'oxax.tv. Leur lien est signe pour l'IP du
+#   visiteur et change a chaque chargement : rien n'est demande au site d'ici. On publie
+#   oxax://<slug> et l'appli fabrique le lien a la lecture (OxaxResolver). Les anciennes
+#   versions de l'appli ignorent ces lignes. Bloc fixe -> aucun appel reseau, toujours le meme.
+OXAX_CHAINES = [
+    ("oh-ah", "ОХ-АХ HD"), ("superone-hd", "Superone HD"), ("sl-hot1", "CineMan XXX HD"),
+    ("sl-hot2", "CineMan XXX2 HD"), ("brazzers-tv-europe", "Brazzers TV Europe"),
+    ("brazzers-tv", "Brazzers TV"), ("red-lips", "Red Lips"), ("kino-xxx", "KinoXXX"),
+    ("xy-max-hd", "XY Max HD"), ("xy-plus-hd", "XY Plus HD"), ("xy-mix-hd", "XY Mix HD"),
+    ("barely-legal", "Barely legal"), ("playboy-tv", "Playboy TV"), ("vivid-red", "Vivid Red HD"),
+    ("hot-pleasure", "Exxxotica HD"), ("babes-tv", "Babes TV"), ("russkaya-noch", "Русская ночь"),
+    ("pink-o", "Pink O TV"), ("erox-hd", "Erox HD"), ("eroxxx-hd", "Eroxxx HD"),
+    ("hustler-hd", "Hustler HD"), ("private-tv", "Private TV"), ("redlight-hd", "Redlight HD"),
+    ("penthouse-gold", "Penthouse Gold HD"), ("penthouse-2", "Penthouse Quickies"),
+    ("o-la-la", "O-la-la"), ("blue-hustler", "Blue Hustler"), ("shalun", "Шалун"),
+    ("dorcel-tv", "Dorcel TV"), ("extasyhd", "Extasy HD"), ("xxl", "XXL"),
+    ("fap-tv-2", "FAP TV 2"), ("fap-tv-3", "FAP TV 3"), ("fap-tv-4", "FAP TV 4"),
+    ("fap-tv-parody", "FAP TV Parody"), ("fap-tv-compilation", "FAP TV Compilation"),
+    ("fap-tv-anal", "FAP TV Anal"), ("fap-tv-teens", "FAP TV Teens"),
+    ("fap-tv-lesbian", "FAP TV Lesbian"), ("fap-tv-bbw", "FAP TV BBW"), ("fap-tv-trans", "FAP TV Trans"),
+]
+
+
+def bloc_oxax():
+    lignes = []
+    vus = set()
+    for slug, titre in OXAX_CHAINES:
+        if slug in vus:
+            continue
+        vus.add(slug)
+        lignes.extend([f'#EXTINF:-1 tvg-logo="" group-title="{GROUPE}",{titre}', f"oxax://{slug}"])
+    print(f"Oxax : {len(lignes) // 2} chaines (liens fabriques par l'appli)", flush=True)
+    return lignes
+
+
 # ------------------------------- XVIDEOS --------------------------------
 def _pages_xvideos():
     urls = ["https://www.xvideos.com/"]
@@ -571,7 +607,7 @@ def main():
     #   DESACTIVE. Ses liens « dload » menent a la verification d'age pour les spectateurs en
     #   France, meme quand le serveur GitHub, lui, n'y tombe pas. Le code reste (bloc_eporner),
     #   il suffit de remettre ("Eporner", bloc_eporner) dans la liste pour le reactiver.
-    for nom, fonction in (("AdultTV", _trouver_adulttv), ("XVideos", bloc_xvideos)):
+    for nom, fonction in (("AdultTV", _trouver_adulttv), ("Oxax", bloc_oxax), ("XVideos", bloc_xvideos)):
         try:
             part = fonction()
         except Exception as e:
