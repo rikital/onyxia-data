@@ -849,6 +849,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-263c961e-d20f-11f1-88af-19616fa871f9" tvg-logo="https://medias.france.tv/3AOx8CzLJbUj2vwOdLRDiEYJKuM/400x0/filters:quality(85)/e/4/4/b24018e4b472496eb2f86007897c944e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 27/10/2026 Le fil info 14H
+francetv://263c961e-d20f-11f1-88af-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-12a5be0b-583a-4d76-8080-23a028d564da" tvg-logo="https://medias.france.tv/S2OC0nzDUEw1jKJ4xjH_2ohhOws/400x0/filters:quality(85)/e/b/5/8f6a4e98c4be45faae9631fcccf6c5be.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du mardi 27 octobre 2026
 francetv://12a5be0b-583a-4d76-8080-23a028d564da
 #EXTINF:-1 tvg-id="francetv-55ad6078-d204-11f1-969a-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/8fSjsY01ngrk5KPxYt9WJQWbvj4/400x0/filters:quality(85)/8/a/5/4321d038ee924c67b22c86e1144d15a8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 27/10/2026 Le fil info 11H
@@ -887,8 +889,6 @@ francetv://eb39a412-84fc-417c-8efd-bad18c1b83a6
 francetv://7695cb8c-073b-4c7b-852f-695f0e740412
 #EXTINF:-1 tvg-id="francetv-769706f5-52e4-470f-8dc2-25cfc2722cc1" tvg-logo="https://medias.france.tv/FAeKeRmpM7nO6xaXfhku_MDJZmU/400x0/filters:quality(85)/2/6/2/429a4951be0641399aed14846fa14262.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://769706f5-52e4-470f-8dc2-25cfc2722cc1
-#EXTINF:-1 tvg-id="francetv-edf258b6-1277-43fd-bdb4-ab0febdf7297" tvg-logo="https://medias.france.tv/lctmo2dKguOFepySDRsxjqtH3G0/400x0/filters:quality(85)/f/6/1/b0b307acbbcc49bcbe5f9f119efdc16f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du lundi 26 octobre 2026
-francetv://edf258b6-1277-43fd-bdb4-ab0febdf7297
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2365,36 +2365,44 @@ francetv://412a296c-95fa-11ef-a58e-6daa476a3b9b
 francetv://d473d4b6-0e0c-4383-9f8b-697305700299
 #EXTINF:-1 tvg-id="francetv-872ae860-eeee-46ec-a1f6-4cfd012a6151" tvg-logo="https://medias.france.tv/q64YcQ_ufj2OQRV3XafXFfETowc/400x0/filters:quality(85)/5/d/5/4dc0ebeef2b44d22bd0f6be92d0037efbe3ecba0a8ad40803d29dd8612e515d5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Sans modération — 1985 : Lucie, le fantôme du château de Veauce
 francetv://872ae860-eeee-46ec-a1f6-4cfd012a6151
-#EXTINF:-1 tvg-id="francetv-8cad0c39-4edc-49b7-ab9e-26f624483384" tvg-logo="https://medias.france.tv/vt_p5UKvLyKBzkSjgUbA6d0WDDk/400x0/filters:quality(85)/d/d/d/0fb568f782e54545b2ce4184d59ecddd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Les enfants du vaudou
-francetv://8cad0c39-4edc-49b7-ab9e-26f624483384
-#EXTINF:-1 tvg-id="francetv-8bec9933-b6bb-4304-aa46-029a63f99f0d" tvg-logo="https://medias.france.tv/ubOKeCm9lg5iPu_Zs3rRtyHQOtM/400x0/filters:quality(85)/c/6/5/1525e760e8c14cec83db7af50c8d756c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",À mort la sorcière
-francetv://8bec9933-b6bb-4304-aa46-029a63f99f0d
-#EXTINF:-1 tvg-id="francetv-6ff7206a-fa4c-434a-920d-9fd05960e647" tvg-logo="https://medias.france.tv/48Vq5RDHZPIvBNcXM4Ue5CfN4Wk/400x0/filters:quality(85)/5/3/b/6a4b41f4754147968f8cad92b5103b35.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Est-il vrai que... ? — Est-il vrai que la chasse aux sorcières commence dès le Moyen Âge ?
-francetv://6ff7206a-fa4c-434a-920d-9fd05960e647
-#EXTINF:-1 tvg-id="francetv-eb54f5d8-b648-11f0-ac0a-57a09c50f7ce" tvg-logo="https://medias.france.tv/wtatZiBEbbgxO6Mdx3witNzH5HA/400x0/filters:quality(85)/r/b/p/phpdmapbr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Pourquoi les clowns font-ils si peur ?
-francetv://eb54f5d8-b648-11f0-ac0a-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-3e7c964f-6ab2-4277-8b43-07d29175e84d" tvg-logo="https://medias.france.tv/UspgdNliBgWiNPKDz9YdOZK95bk/400x0/filters:quality(85)/3/5/d/0e8b996c5b454a048d5f031285942d53.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Hantés ! — La Transylvanie de Dracula
-francetv://3e7c964f-6ab2-4277-8b43-07d29175e84d
-#EXTINF:-1 tvg-id="francetv-bbab3682-9241-11f1-ae56-57a09c50f7ce" tvg-logo="https://medias.france.tv/5hjkmD8KiCyRFJ2avSGWKutsPM0/400x0/filters:quality(85)/3/0/b/9b795faa55964d62bb5dab5f4f613b03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Photographie d'ovnis : de la croyance à la culture du doute
-francetv://bbab3682-9241-11f1-ae56-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-1e3eb2ac-56b3-11ed-a277-4d449243ecd2" tvg-logo="https://medias.france.tv/K4os6iPlTykwedAzfdPMfVP3ucw/400x0/filters:quality(85)/v/t/n/phpsthntv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Tout feu, tout femme — La maison hantée de Sarah Winchester
-francetv://1e3eb2ac-56b3-11ed-a277-4d449243ecd2
-#EXTINF:-1 tvg-id="francetv-0719312b-a87d-4b92-8c66-16d6ee0a49f2" tvg-logo="https://medias.france.tv/Y0H400zYWn7z0zJlMemgIBXOack/400x0/filters:quality(85)/3/8/c/4f4241baff0e4e2499df06afab946c83.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...","La guerre des mondes" : Quand Mars attaque...
-francetv://0719312b-a87d-4b92-8c66-16d6ee0a49f2
-#EXTINF:-1 tvg-id="francetv-1ecda926-7345-11ee-9dbc-b3f0137e7e9d" tvg-logo="https://medias.france.tv/lrzDBH4CqSZcSUFMV5Xpq_Dg8vs/400x0/filters:quality(85)/v/m/m/phpr3jmmv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",La maison Frochot : dernière demeure hantée de Paris ?
-francetv://1ecda926-7345-11ee-9dbc-b3f0137e7e9d
-#EXTINF:-1 tvg-id="francetv-08154ca5-855c-4422-86db-1afffef47ec9" tvg-logo="https://medias.france.tv/qrjjdL0vYiYsJKKw_Xz7QjLlTuM/400x0/filters:quality(85)/2/d/0/26c1dd223cdc40678e56435b82a402a0963007fc9f722ce7b34a44f7624670d2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Sans modération — 1965 : la ferme ensorcelée du Berry
-francetv://08154ca5-855c-4422-86db-1afffef47ec9
 #EXTINF:-1 tvg-id="francetv-8c15be70-d55c-4323-9f80-09b3e815c8c5" tvg-logo="https://medias.france.tv/iDvtNbSYfR_szKhJ3aVrS1Ht_Fw/400x0/filters:quality(85)/9/0/2/eef2e989fb4a44eba875065d9aaeb209.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",360° Reportage — Bulgarie, les chasseurs de démons
 francetv://8c15be70-d55c-4323-9f80-09b3e815c8c5
+#EXTINF:-1 tvg-id="francetv-bec8c78b-f7f5-4401-ae1f-075f30cd5df0" tvg-logo="https://medias.france.tv/Y7qi3NiW25WJlQjzGwHefky2n4Y/400x0/filters:quality(85)/8/2/0/ceecd9fea4464321919d36ed20c0aa028a53a195d67f9942729f58a0bd879028.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Oh My Ghosts! — Jiangshi, le vampire sauteur
+francetv://bec8c78b-f7f5-4401-ae1f-075f30cd5df0
+#EXTINF:-1 tvg-id="francetv-8cad0c39-4edc-49b7-ab9e-26f624483384" tvg-logo="https://medias.france.tv/vt_p5UKvLyKBzkSjgUbA6d0WDDk/400x0/filters:quality(85)/d/d/d/0fb568f782e54545b2ce4184d59ecddd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Les enfants du vaudou
+francetv://8cad0c39-4edc-49b7-ab9e-26f624483384
+#EXTINF:-1 tvg-id="francetv-989f8ad1-3f8c-4a0d-829f-ebc80191f1b2" tvg-logo="https://medias.france.tv/D3bHWjpuJXdvcp1-pNDtepJ_qjc/400x0/filters:quality(85)/1/e/f/11c02ecfa57a478cbd75c907b9ec1fe1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Bulgarie : Une sorcière, des esprits et des bêtes
+francetv://989f8ad1-3f8c-4a0d-829f-ebc80191f1b2
+#EXTINF:-1 tvg-id="francetv-8bec9933-b6bb-4304-aa46-029a63f99f0d" tvg-logo="https://medias.france.tv/ubOKeCm9lg5iPu_Zs3rRtyHQOtM/400x0/filters:quality(85)/c/6/5/1525e760e8c14cec83db7af50c8d756c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",À mort la sorcière
+francetv://8bec9933-b6bb-4304-aa46-029a63f99f0d
+#EXTINF:-1 tvg-id="francetv-eb54f5d8-b648-11f0-ac0a-57a09c50f7ce" tvg-logo="https://medias.france.tv/wtatZiBEbbgxO6Mdx3witNzH5HA/400x0/filters:quality(85)/r/b/p/phpdmapbr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Pourquoi les clowns font-ils si peur ?
+francetv://eb54f5d8-b648-11f0-ac0a-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-6ff7206a-fa4c-434a-920d-9fd05960e647" tvg-logo="https://medias.france.tv/48Vq5RDHZPIvBNcXM4Ue5CfN4Wk/400x0/filters:quality(85)/5/3/b/6a4b41f4754147968f8cad92b5103b35.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Est-il vrai que... ? — Est-il vrai que la chasse aux sorcières commence dès le Moyen Âge ?
+francetv://6ff7206a-fa4c-434a-920d-9fd05960e647
+#EXTINF:-1 tvg-id="francetv-3e7c964f-6ab2-4277-8b43-07d29175e84d" tvg-logo="https://medias.france.tv/UspgdNliBgWiNPKDz9YdOZK95bk/400x0/filters:quality(85)/3/5/d/0e8b996c5b454a048d5f031285942d53.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Hantés ! — La Transylvanie de Dracula
+francetv://3e7c964f-6ab2-4277-8b43-07d29175e84d
+#EXTINF:-1 tvg-id="francetv-5dcd187b-5ef1-42ed-a11c-82b5bf72aa0b" tvg-logo="https://medias.france.tv/-mZYKMiWtGbqctD_Ep09HgVt41Y/400x0/filters:quality(85)/b/4/9/32e5332f63fe468ba35382aa2c2a394b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Gymnastique — SOS, la science voit des fantômes !
+francetv://5dcd187b-5ef1-42ed-a11c-82b5bf72aa0b
+#EXTINF:-1 tvg-id="francetv-bbab3682-9241-11f1-ae56-57a09c50f7ce" tvg-logo="https://medias.france.tv/5hjkmD8KiCyRFJ2avSGWKutsPM0/400x0/filters:quality(85)/3/0/b/9b795faa55964d62bb5dab5f4f613b03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Photographie d'ovnis : de la croyance à la culture du doute
+francetv://bbab3682-9241-11f1-ae56-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-0719312b-a87d-4b92-8c66-16d6ee0a49f2" tvg-logo="https://medias.france.tv/Y0H400zYWn7z0zJlMemgIBXOack/400x0/filters:quality(85)/3/8/c/4f4241baff0e4e2499df06afab946c83.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...","La guerre des mondes" : Quand Mars attaque...
+francetv://0719312b-a87d-4b92-8c66-16d6ee0a49f2
+#EXTINF:-1 tvg-id="francetv-1e3eb2ac-56b3-11ed-a277-4d449243ecd2" tvg-logo="https://medias.france.tv/K4os6iPlTykwedAzfdPMfVP3ucw/400x0/filters:quality(85)/v/t/n/phpsthntv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Tout feu, tout femme — La maison hantée de Sarah Winchester
+francetv://1e3eb2ac-56b3-11ed-a277-4d449243ecd2
+#EXTINF:-1 tvg-id="francetv-a1e680b7-b421-4576-a02b-ef5b81b3d5fd" tvg-logo="https://medias.france.tv/WdHjChXbQOcS8tx7S94-J10WCqY/400x0/filters:quality(85)/0/2/4/88c118e66aad499bbf18d48bd3e5d420.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Blow up - Recut Frankenstein
+francetv://a1e680b7-b421-4576-a02b-ef5b81b3d5fd
+#EXTINF:-1 tvg-id="francetv-08154ca5-855c-4422-86db-1afffef47ec9" tvg-logo="https://medias.france.tv/qrjjdL0vYiYsJKKw_Xz7QjLlTuM/400x0/filters:quality(85)/2/d/0/26c1dd223cdc40678e56435b82a402a0963007fc9f722ce7b34a44f7624670d2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Sans modération — 1965 : la ferme ensorcelée du Berry
+francetv://08154ca5-855c-4422-86db-1afffef47ec9
+#EXTINF:-1 tvg-id="francetv-1ecda926-7345-11ee-9dbc-b3f0137e7e9d" tvg-logo="https://medias.france.tv/lrzDBH4CqSZcSUFMV5Xpq_Dg8vs/400x0/filters:quality(85)/v/m/m/phpr3jmmv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",La maison Frochot : dernière demeure hantée de Paris ?
+francetv://1ecda926-7345-11ee-9dbc-b3f0137e7e9d
 #EXTINF:-1 tvg-id="francetv-5303ad4d-6e7e-44f1-a72f-ce5c5bd27781" tvg-logo="https://medias.france.tv/q0BvwG3XgXui1fa0-yhwLj4RQEo/400x0/filters:quality(85)/4/e/5/4308831ca2b24513818b64875b1425e4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Nos années télé — 1979 : les créatures monstrueuses chez Temps X
 francetv://5303ad4d-6e7e-44f1-a72f-ce5c5bd27781
+#EXTINF:-1 tvg-id="francetv-d34a7a18-b9b6-409f-8d9f-566a17a16c72" tvg-logo="https://medias.france.tv/IogXipgfzsu5zD_u5lZ7nimWOGw/400x0/filters:quality(85)/0/1/b/1d336cae983d4adda2ddf3659ccc0b10.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Blow up - Vous connaissez "Macario" ?
+francetv://d34a7a18-b9b6-409f-8d9f-566a17a16c72
 #EXTINF:-1 tvg-id="francetv-094adc24-4477-4156-bf10-6606f7da029e" tvg-logo="https://medias.france.tv/-UbMxH4hyy8XKBeHky0DJv_9qIo/400x0/filters:quality(85)/e/4/9/9b140d7c929f422ebf6fc5c64e5afd98ea61744b59602ad86e0d12532de4694e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Sans modération — 1971 : sorcellerie dans le Berry
 francetv://094adc24-4477-4156-bf10-6606f7da029e
 #EXTINF:-1 tvg-id="francetv-d0f273c0-a6ca-4462-833d-ec9c385ee802" tvg-logo="https://medias.france.tv/ynSzE9UyX8z_mRok8ijZNaZfBS4/400x0/filters:quality(85)/6/t/d/php7vqdt6.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",La minute curieuse de Papy Léandri — Le fantôme de Crookes
 francetv://d0f273c0-a6ca-4462-833d-ec9c385ee802
-#EXTINF:-1 tvg-id="francetv-37035a17-a218-48db-8b9a-3ac41a69759b" tvg-logo="https://medias.france.tv/Bc39Ac5Kd8re063sd640SIvxWpM/400x0/filters:quality(85)/5/6/3/7dbfb16248f543588ac2da5ce98f1365.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Quand l'histoire fait dates — 1816 - Frankenstein
-francetv://37035a17-a218-48db-8b9a-3ac41a69759b
 #EXTINF:-1 tvg-id="francetv-a7d98320-ca0c-4455-9130-4b1ad6ec4116" tvg-logo="https://medias.france.tv/o8C81349zruAv7Eh7Wu_-9TaqK8/400x0/filters:quality(85)/e/7/1/cc8f7a43ef5342418928ec28a17c217e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Froid dans le dos...",Sans modération — 1970 : les secrets d'une voyante
 francetv://a7d98320-ca0c-4455-9130-4b1ad6ec4116
 #EXTINF:-1 tvg-id="francetv-prog-arte_au-nom-du-maintien-de-l-ordre" tvg-logo="https://medias.france.tv/ZPQlSq_ptnF0Qo1d3awFlNmUiUU/400x0/filters:quality(85)/5/9/9/f974bd1d93404726acbd3a62dd0b5995.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Au nom du maintien de l'ordre
@@ -2403,18 +2411,20 @@ francetv://program/arte_au-nom-du-maintien-de-l-ordre
 francetv://program/tv5-monde_peaux-noires-quel-heritage
 #EXTINF:-1 tvg-id="francetv-6b74d092-8529-4a20-a86f-f677c98f9e2d" tvg-logo="https://medias.france.tv/zPydEsTVnz5Hkv6X-pVwAsc1gxo/400x0/filters:quality(85)/t/z/0/phpvhn0zt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Lindsay, la mécanique du harcèlement
 francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
-#EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
-francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
+#EXTINF:-1 tvg-id="francetv-97a25a8b-37b3-41f3-9c0c-6825067840e0" tvg-logo="https://medias.france.tv/fIeK2gXzXCZ3eaznga5iba1W6FQ/400x0/filters:quality(85)/b/7/f/b16cb5b0055b4011ab0f8ee0b4676f7b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Zone de conflit - Les crises mondiales en bref — Les rebelles Houthis au Yémen : terroristes ou combattants de la liberté ?
+francetv://97a25a8b-37b3-41f3-9c0c-6825067840e0
 #EXTINF:-1 tvg-id="francetv-82cb1568-10ed-41ee-bf8a-93e9af94bf8b" tvg-logo="https://medias.france.tv/td1SsVU8HVyO3Px3CfD8W3z72T0/400x0/filters:quality(85)/6/k/a/phpdrlak6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Madame la préfète
 francetv://82cb1568-10ed-41ee-bf8a-93e9af94bf8b
 #EXTINF:-1 tvg-id="francetv-b792bc97-bde7-4f79-a9c3-5108981afd27" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Fenua Vice
 francetv://b792bc97-bde7-4f79-a9c3-5108981afd27
-#EXTINF:-1 tvg-id="francetv-d44307f4-3659-4e0c-aabe-56beaf6ea80b" tvg-logo="https://medias.france.tv/ysWPe97KrgNfyxijPjNXaLBVm5A/400x0/filters:quality(85)/1/d/5/841b98238ec64c5b81974d521398d5d1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Poutine : après l’Ukraine, l’Europe ?
-francetv://d44307f4-3659-4e0c-aabe-56beaf6ea80b
+#EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
+francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
 #EXTINF:-1 tvg-id="francetv-9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6" tvg-logo="https://medias.france.tv/PACKckyOHUMeTYK07Rh6O2yPCAQ/400x0/filters:quality(85)/j/l/3/phpgbb3lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Unité Ados 93
 francetv://9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6
 #EXTINF:-1 tvg-id="francetv-31b1b701-b97f-412e-8227-66a4c28d0cd7" tvg-logo="https://medias.france.tv/j5qIyRCAGE8OzUrOLpJNQSKLas0/400x0/filters:quality(85)/w/s/g/phpe4bgsw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",42 - La réponse à presque tout — Les Etats peuvent-ils s'endenter sans fin ?
 francetv://31b1b701-b97f-412e-8227-66a4c28d0cd7
+#EXTINF:-1 tvg-id="francetv-d44307f4-3659-4e0c-aabe-56beaf6ea80b" tvg-logo="https://medias.france.tv/ysWPe97KrgNfyxijPjNXaLBVm5A/400x0/filters:quality(85)/1/d/5/841b98238ec64c5b81974d521398d5d1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Poutine : après l’Ukraine, l’Europe ?
+francetv://d44307f4-3659-4e0c-aabe-56beaf6ea80b
 #EXTINF:-1 tvg-id="francetv-3342d4e9-3ff4-47a4-86f7-107a881f50f8" tvg-logo="https://medias.france.tv/z_E5bxJ5lsXM_U8a2u0ph4CtbGI/400x0/filters:quality(85)/e/c/f/phplx4fce.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Admis
 francetv://3342d4e9-3ff4-47a4-86f7-107a881f50f8
 #EXTINF:-1 tvg-id="francetv-211b8b41-ebf3-45f2-aa41-be2d48b0276f" tvg-logo="https://medias.france.tv/n1seEp_2oP9lZ2GhFTsvxPzwWyw/400x0/filters:quality(85)/4/f/1/bfd209fa6e79432b9e39e31c6b5951f4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Hackers : L'intimité violée
@@ -4517,6 +4527,14 @@ francetv://7de734e8-ce43-11f1-af80-57a09c50f7ce
 francetv://0825eb82-ce43-11f1-af80-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-55643942-d13d-11f1-9697-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/6Ki5iG1Pj0MSq28HMB3BFlXrUXY/400x0/filters:quality(85)/b/d/a/ab7c71554db9473b8299ee0e5aa5badb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",La bande-annonce des Jeux Olympiques de la Jeunesse de Dakar 2026
 francetv://55643942-d13d-11f1-9697-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-d63c40d2-7dec-46f1-bb47-f7871ac98e75" tvg-logo="https://medias.france.tv/GS65pcexmTIRgLo5F7zbl_g7ecg/400x0/filters:quality(85)/4/w/2/phpu6k2w4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 1 - Matin
+francetv://d63c40d2-7dec-46f1-bb47-f7871ac98e75
+#EXTINF:-1 tvg-id="francetv-7ecb8eb5-17d9-4d22-bc09-3b6f698b25d5" tvg-logo="https://medias.france.tv/0Ofw3OpU6b9jh_0bxNOT-xrV7Z0/400x0/filters:quality(85)/d/m/m/phpnwzmmd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 1 - Après-midi
+francetv://7ecb8eb5-17d9-4d22-bc09-3b6f698b25d5
+#EXTINF:-1 tvg-id="francetv-96593128-c9c8-442e-8765-02dda8c7a20d" tvg-logo="https://medias.france.tv/gLiPCTV6SiBFRRvh_-cv8SDSE3k/400x0/filters:quality(85)/l/c/3/phpnod3cl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 2
+francetv://96593128-c9c8-442e-8765-02dda8c7a20d
+#EXTINF:-1 tvg-id="francetv-5c00781a-6789-495c-8927-b76f2a70cf9f" tvg-logo="https://medias.france.tv/UyWQe8JBxGdHmZ_exYf67hC99Oc/400x0/filters:quality(85)/n/e/i/phpzqxien.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Cérémonie d'ouverture
+francetv://5c00781a-6789-495c-8927-b76f2a70cf9f
 #EXTINF:-1 tvg-id="francetv-3c10baa8-cef2-11f1-af81-57a09c50f7ce" tvg-logo="https://medias.france.tv/x1eHYZQr7b0emFnwxwwmlwvhfxc/400x0/filters:quality(85)/2/b/1/e7bc36d53d804db1a087830ec88851b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",La bande-annonce de l'édition 2027
 francetv://3c10baa8-cef2-11f1-af81-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-7962f3a0-d094-11f1-af88-57a09c50f7ce" tvg-logo="https://medias.france.tv/UEDmOLsMNvoRJD0Rlhp-XC8vpzk/400x0/filters:quality(85)/d/5/c/d6fc8f3cf71245f2b5e7030d42af7c5d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Le résumé de Pittsburgh Steelers vs New Orleans Saints
