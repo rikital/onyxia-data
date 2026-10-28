@@ -7441,7 +7441,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ZBDDOJ54I9PG/2DT0KQyGmLzT1l1S.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Zeup7Z1Kxhb/Jj1matOSPAlJ0OaZ.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="BalafonTV.cm@SD" group-title="Info - Info",Balafon TV [Geo-blocked]
@@ -7462,7 +7462,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spect
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ZBDDOJ54I9PG/2DT0KQyGmLzT1l1S.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Zeup7Z1Kxhb/Jj1matOSPAlJ0OaZ.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
@@ -7474,7 +7474,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ZBDDOJ54I9PG/2DT0KQyGmLzT1l1S.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Zeup7Z1Kxhb/Jj1matOSPAlJ0OaZ.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FR2100003H7" group-title="France TV backup - Autres",Inazuma Eleven [schumijo]
@@ -7561,6 +7561,12 @@ http://149.62.177.107:9999/LCI/index.m3u8
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="le-meilleur-d-arthur" group-title="France TV backup - Autres",LE MEILLEUR D'ARTHUR [schumijo]
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" group-title="France TV backup - Autres",Franceinfo (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
