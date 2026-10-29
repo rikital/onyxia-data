@@ -866,10 +866,10 @@ https://raw.githubusercontent.com/pinkisso/mored/refs/heads/main/res/26-1/lci1.m
 http://185.160.192.14/live/171348492752/5S6HGsea3j/136866.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/yAiTedt.png" tvg-country="FR" group-title="TNT France - 100% Français",FRANCE 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/jj.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-logo="https://i.imgur.com/b4ASOV2.png" tvg-country="FR" group-title="TNT France - 100% Français",TV5 MONDE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/v7.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="Généralistes - 100% Français",20 Minutes TV (1080p)
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="Généralistes - 100% Français",Alpe d’Huez TV (720p) 
@@ -1005,16 +1005,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/figaro/tv.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-logo="https://i.imgur.com/KQmIjgs.png" tvg-country="FR" group-title="Généralistes - 100% Français",FRANCE TV DOCS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/dm.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/documentaire.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-logo="https://i.imgur.com/ESz1gbr.png" tvg-country="FR" group-title="Généralistes - 100% Français",FRANCE TV SÉRIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/series.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-logo="https://i.imgur.com/IeiMuGI.png" tvg-country="FR" group-title="Généralistes - 100% Français",FRANCE TV SPORT [SSAI]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 #EXTINF:-1 tvg-chno="119" tvg-id="France24.fr" tvg-logo="https://i.imgur.com/yAiTedt.png" tvg-country="FR" group-title="Généralistes - 100% Français",FRANCE 24 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/jj.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://i.imgur.com/pPpiZiQ.png" tvg-country="FR" group-title="Généralistes - 100% Français",INA [SSAI]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
@@ -1023,10 +1023,10 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/ina.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/zNsteaSe9jmGl5L.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-logo="https://i.imgur.com/X1g4fzg.png" tvg-country="FR" group-title="Généralistes - 100% Français",MIEUX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/yt.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/mieux.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-logo="https://i.imgur.com/b4ASOV2.png" tvg-country="FR" group-title="Généralistes - 100% Français",TV5 MONDE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/v7.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/tv5-monde.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-logo="https://i.imgur.com/UpLgsLw.png" tvg-country="FR" group-title="Généralistes - 100% Français",CHAINE ROLAND-GARROS [SSAI]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/roland-garros.m3u8
@@ -2345,13 +2345,13 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="France TV backup - Autres",CANAL+ EN CLAIR [schumijo]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:-1 tvg-id="FranceTVSeries.fr" group-title="France TV backup - Autres",FRANCE TV SÉRIES [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/fr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 #EXTINF:-1 tvg-id="FranceTVDocs.fr" group-title="France TV backup - Autres",FRANCE TV DOCS [schumijo]
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",INA [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/gk.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ina.m3u8
 #EXTINF:-1 tvg-id="BBlackAfrica.fr" group-title="France TV backup - Autres",BBLACK! AFRICA [schumijo]
 http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" group-title="France TV backup - Autres",Le Figaro IDF (1080p) [iptv-org-fr]
@@ -3888,7 +3888,7 @@ https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0a
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png" group-title="Plex TV - 100% Français",Flashback 70s
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-62f15810a3ffe928ef806c75.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png" group-title="Plex TV - 100% Français",FRANCE 24
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/jj.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png" group-title="Plex TV - 100% Français",FrightFlix
 https://d90oj9d2.html.bet/?https://jmp2.uk/plex-6430aa45fc3be5947780904e-621674502c2627c068e73ada.m3bx
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png" group-title="Plex TV - 100% Français",Frequence Novelas
@@ -4622,11 +4622,11 @@ https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FranceTVSeries.fr" group-title="France TV backup - Autres",FRANCE TV SÉRIES [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/fr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FranceTVSeries.fr" group-title="France TV backup - Autres",FRANCE TV SÉRIES [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/fr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/serie.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="enquetes-de-choc-fast-media" group-title="France TV backup - Autres",ENQUÊTES DE CHOC [schumijo]
@@ -5610,7 +5610,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" group-title="France TV backup - Autres",LCP [schumijo]
@@ -5618,7 +5618,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3
 #EXTINF:-1 tvg-id="Equidia.fr" group-title="France TV backup - Autres",ÉQUIDIA [schumijo]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 #EXTINF:-1 tvg-id="FranceTVDocs.fr" group-title="France TV backup - Autres",FRANCE TV DOCS [schumijo]
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/docs.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",INA [schumijo]
@@ -5709,7 +5709,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france4.
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France2.fr" group-title="France TV backup - Autres",FRANCE 2 [schumijo]
@@ -5741,7 +5741,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backu
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France TV backup - Autres",LCI HD (1080p) [iptv-org-fr]
@@ -5816,7 +5816,7 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/lcpps.m3
 #EXTINF:-1 tvg-id="Equidia.fr" group-title="France TV backup - Autres",ÉQUIDIA [schumijo]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" group-title="France TV backup - Autres",CNEWS PRIME (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsprime-clair-hd.m3u8
 
@@ -5832,13 +5832,13 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="Equidia.fr" group-title="France TV backup - Autres",ÉQUIDIA [schumijo]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" group-title="France TV backup - Autres",CNEWS PRIME (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 
@@ -6120,7 +6120,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/PtHbjFXtYkmF/i
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",FRANCE TV SPORT [schumijo]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ok.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/sport.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 (576p) [iptv-org-fr]
@@ -7676,6 +7676,16 @@ oxax://fap-tv-lesbian
 oxax://fap-tv-bbw
 #EXTINF:-1 tvg-logo="" group-title="Zone 18@ - Zone 18@",FAP TV Trans
 oxax://fap-tv-trans
+#EXTINF:420 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/548bb096-acd0-4ff8-80ea-1b35f5c4f6c0/3/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",Stepmom in pink caresses her big tits
+https://mp4-cdn77.xvideos-cdn.com/cccbcccf-b844-461d-aa1d-719cb1b01e75/0/video_360p.mp4?secure=2LR7JaYKuC5z1F4XgsByFQ==,1793260908
+#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/xv_16_t.jpg" group-title="Zone 18@ - Zone 18@",TIDYING UP MY BACKYARD
+https://mp4-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/mp4_sd.mp4?secure=Mikn164ABDLbZ4mqzoyfXg==,1793260920
+#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
+https://mp4-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/mp4_sd.mp4?secure=50nd5vhoMhJI1dtSbrObyw==,1793260928
+#EXTINF:660 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/c9603bca-cc04-44c2-8c8f-9738ea9e768d/6/xv_25_t.jpg" group-title="Zone 18@ - Zone 18@",Pregnant ex alone at home, husband in America... and that low-cut dress
+https://mp4-cdn77.xvideos-cdn.com/c9603bca-cc04-44c2-8c8f-9738ea9e768d/6/mp4_sd.mp4?secure=38PoecK8taU9U2-p0swS7Q==,1793260948
+#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/1aa9dd93-aac6-456e-b470-786241db02ae/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
+https://mp4-cdn77.xvideos-cdn.com/1aa9dd93-aac6-456e-b470-786241db02ae/6/mp4_sd.mp4?secure=1Cvqeb9dT7v2HenvIKNf6g==,1793260988
 #EXTINF:360 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/e14343f9-6eac-45ca-b324-3ad91d8d66ef/0/xv_15_t.jpg" group-title="Zone 18@ - Zone 18@",Starbucks Drive Thrus Make Me CUM HARD
 https://mp4-cdn77.xvideos-cdn.com/e14343f9-6eac-45ca-b324-3ad91d8d66ef/0/video_360p.mp4?secure=DEdlhZVXFb80MRFuiNrsuA==,1793257294
 #EXTINF:540 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b4bbe3ae-33d4-4458-ad64-b27e3774f9fe/3/xv_30_t.jpg" group-title="Zone 18@ - Zone 18@",Japanese Girl Flashing White Panty Cameltoe Upskirt
@@ -7926,8 +7936,6 @@ https://mp4-cdn77.xvideos-cdn.com/a4482e64-774b-47d0-9415-f579c3304d47/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/2044994c-5819-46fe-af30-e9102cdf05cc/6/mp4_sd.mp4?secure=LRhVHrO8_M-oAvkm73YZDg==,1793257305
 #EXTINF:240 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/beea5f35-c4cc-47d1-8d14-f6ee0a8c3d91/6/xv_3_t.jpg" group-title="Zone 18@ - Zone 18@",I Deepthroat His Thick Cock Before He Grabs My Throat and Face-Fucks Me
 https://mp4-cdn77.xvideos-cdn.com/beea5f35-c4cc-47d1-8d14-f6ee0a8c3d91/6/mp4_sd.mp4?secure=9aDJUPn3PwnuAefVRf0RUg==,1793257306
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/xv_16_t.jpg" group-title="Zone 18@ - Zone 18@",TIDYING UP MY BACKYARD
-https://mp4-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/mp4_sd.mp4?secure=mA4wHaN731-J8Cfjme5reA==,1793257306
 #EXTINF:780 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/02954e21-b5a3-4209-8402-357ed83c3363/6/xv_14_t.jpg" group-title="Zone 18@ - Zone 18@",Finally my new stepdaughter and I were left alone at home
 https://mp4-cdn77.xvideos-cdn.com/02954e21-b5a3-4209-8402-357ed83c3363/6/mp4_sd.mp4?secure=j8_rafUVI_Tbj2lee28ApA==,1793257306
 #EXTINF:420 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/5defde8b-67c5-424a-86ff-8dc1da0fbfe0/6/xv_30_t.jpg" group-title="Zone 18@ - Zone 18@",Multiple Orgasms of a MEATY CHUBBY WET PUSSY – Close-Up
@@ -8052,8 +8060,6 @@ https://mp4-cdn77.xvideos-cdn.com/423dccc3-132f-4862-b451-e264e8a0df52/6/mp4_sd.
 https://mp4-gcore.xvideos-cdn.com/288be3c7-bf32-452e-bd4f-9067c141e0d3/6/mp4_sd.mp4?secure=oHrGy0QNe5k5r3scLJFofQ==,1793257311
 #EXTINF:1020 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/3e8ebd58-8bda-49c5-b5c0-eccd36a9a7cb/6/xv_5_t.jpg" group-title="Zone 18@ - Zone 18@",HUNT4K. My loser Boyfriend doesn't know how to Fuck me properly, so I'm going to Fuck with a Stranger
 https://mp4-cdn77.xvideos-cdn.com/3e8ebd58-8bda-49c5-b5c0-eccd36a9a7cb/6/mp4_sd.mp4?secure=f9RNDReLJ07DHNDKVgL65w==,1793257311
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
-https://mp4-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/mp4_sd.mp4?secure=Kf0X0ztJdPePIG0wUKoA5A==,1793257311
 #EXTINF:420 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/1bb7f6e7-044b-4822-8a34-ace1565e6dac/6/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",The BEST Blowjob from a Horny MILF. She tries to Swallow all his Cum at the End
 https://mp4-cdn77.xvideos-cdn.com/1bb7f6e7-044b-4822-8a34-ace1565e6dac/6/mp4_sd.mp4?secure=mWgmrzm_3vjenBGhmIwfrQ==,1793257311
 #EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/44331660-062b-4c8e-a6c2-b1a3734da07d/6/xv_8_t.jpg" group-title="Zone 18@ - Zone 18@",My blind husband doesn't realize that I fuck the delivery guy right next to him - Monique Fuentes & Markus Brown
@@ -8392,8 +8398,6 @@ https://mp4-cdn77.xvideos-cdn.com/0eeed207-5146-435e-8e45-d3e9943996be/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/0b731d5c-7828-4ba8-84f8-24dd6f7c6100/6/mp4_sd.mp4?secure=cR_DjQ9jTsSEmi_pLtWvrQ==,1793257327
 #EXTINF:1320 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/06db06ea-fee4-4598-9d3f-8ba68f3238df/6/xv_3_t.jpg" group-title="Zone 18@ - Zone 18@",Thalia and Felipe meet Andrea and Jean on a cruise and OMG this is what happened...
 https://mp4-cdn77.xvideos-cdn.com/06db06ea-fee4-4598-9d3f-8ba68f3238df/6/mp4_sd.mp4?secure=5YGR5en58zEdVt5DFacRPQ==,1793257327
-#EXTINF:660 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/c9603bca-cc04-44c2-8c8f-9738ea9e768d/6/xv_25_t.jpg" group-title="Zone 18@ - Zone 18@",Pregnant ex alone at home, husband in America... and that low-cut dress
-https://mp4-cdn77.xvideos-cdn.com/c9603bca-cc04-44c2-8c8f-9738ea9e768d/6/mp4_sd.mp4?secure=TRS3UNj2w5SWiS7_6Fvslg==,1793257327
 #EXTINF:720 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/332a366d-9f04-4db5-9c24-505b9cd315d1/6/xv_29_t.jpg" group-title="Zone 18@ - Zone 18@",The Fuckmachine Fills Me So Deep It Leaks Out  (Creampie Mania)
 https://mp4-cdn77.xvideos-cdn.com/332a366d-9f04-4db5-9c24-505b9cd315d1/6/mp4_sd.mp4?secure=RuGe6irYHSYXbAOdn0VtUA==,1793257327
 #EXTINF:600 tvg-logo="https://thumbs-gcore.xvideos-cdn.com/71d362a0-8a87-4e45-b852-bf20d47eced9/6/xv_27_t.jpg" group-title="Zone 18@ - Zone 18@",STEP SISTERS ASS FUCKED BY MACHINE AND SQUIRT ON EACH OTHER
@@ -9022,8 +9026,6 @@ https://mp4-cdn77.xvideos-cdn.com/3b33b8b8-b0db-4eda-8111-66c432d251e9/6/mp4_sd.
 https://mp4-gcore.xvideos-cdn.com/04627436-b6fb-4dc2-9cd1-dbae66c3f2f2/6/mp4_sd.mp4?secure=FJxnerxkCPfgtHJnRkOF7g==,1793257356
 #EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/f16a2d15-b434-4a0f-abfb-a46d9a43656c/6/xv_2_t.jpg" group-title="Zone 18@ - Zone 18@",My girlfriend doesn't pay attention to me and I can't resist her friend's huge and delicious ass! - NICK JOWEL
 https://mp4-cdn77.xvideos-cdn.com/f16a2d15-b434-4a0f-abfb-a46d9a43656c/6/mp4_sd.mp4?secure=y78n_u3YIqD20NU_gNmi-A==,1793257356
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/1aa9dd93-aac6-456e-b470-786241db02ae/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
-https://mp4-cdn77.xvideos-cdn.com/1aa9dd93-aac6-456e-b470-786241db02ae/6/mp4_sd.mp4?secure=qON0DBiGCagtX9yjYG5prQ==,1793257356
 #EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/444807cc-286d-4f65-853a-a2fdcf432d61/6/xv_30_t.jpg" group-title="Zone 18@ - Zone 18@",I swear I won't tell anyone, stepdaughter...
 https://mp4-cdn77.xvideos-cdn.com/444807cc-286d-4f65-853a-a2fdcf432d61/6/mp4_sd.mp4?secure=9fnd6Yv7EfJqheLDIk9SGw==,1793257356
 #EXTINF:660 tvg-logo="https://thumbs-gcore.xvideos-cdn.com/2d3a9a33-af31-4bbf-890d-43b27455a012/6/xv_5_t.jpg" group-title="Zone 18@ - Zone 18@",I fuck the big-assed girl from the gym in the bathroom - anal
@@ -9328,8 +9330,6 @@ https://mp4-cdn77.xvideos-cdn.com/38480d46-abd9-47d2-8a60-4129809ac713/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/fa583ca4-ff4d-41d3-9da6-ebf40f8a5dfd/6/mp4_sd.mp4?secure=ObmmlpFYbK0lSkoN1MwOMw==,1793257369
 #EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/a03cc727-e02e-4ace-88d4-7ac22bfc54f7/6/xv_3_t.jpg" group-title="Zone 18@ - Zone 18@",HOT LESBIAN SEX TURNS INTO WILD HARDCORE THREESOME FUCK FEST
 https://mp4-gcore.xvideos-cdn.com/a03cc727-e02e-4ace-88d4-7ac22bfc54f7/6/mp4_sd.mp4?secure=ZPvNsHH9wRTlgnQybsB6Pg==,1793257369
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/c2240f94-6f12-4d3d-b1cd-b1c5793ab4b3/6/xv_18_t.jpg" group-title="Zone 18@ - Zone 18@",Amazing Blonde Squirter Fucked Rough!!!!!
-https://mp4-cdn77.xvideos-cdn.com/c2240f94-6f12-4d3d-b1cd-b1c5793ab4b3/6/mp4_sd.mp4?secure=Ai0ngM8PwJ9ia3iLEGBrbQ==,1793257369
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
 https://live.mycamtv.com/teen.m3u8
