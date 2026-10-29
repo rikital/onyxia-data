@@ -857,6 +857,8 @@ francetv://039b1476-d3ab-11f1-969b-6dcd43e8ddfd
 francetv://d360a986-6c91-4f3f-8d58-72be12de96a0
 #EXTINF:-1 tvg-id="francetv-c4893858-d3aa-11f1-af8c-57a09c50f7ce" tvg-logo="https://medias.france.tv/Rm3l2uyhYj0jiUtqLdlvCwIjteI/400x0/filters:quality(85)/0/7/4/dc257f5217454b0883dcdd4ebcef6470.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 29/10/2026 Le fil info 11H
 francetv://c4893858-d3aa-11f1-af8c-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-13f2eb7f-923f-488d-b91f-fa6707253cbd" tvg-logo="https://medias.france.tv/tZeC7HcJYgpw8YcAkykwxWuOWq8/400x0/filters:quality(85)/b/4/2/8fca4b450a964ca2b33142f6113f724b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du jeudi 29 octobre 2026
+francetv://13f2eb7f-923f-488d-b91f-fa6707253cbd
 #EXTINF:-1 tvg-id="francetv-56936ccb-9565-4f51-b8fe-8dc5a31efb3c" tvg-logo="https://medias.france.tv/TUo-y4SbORRMzIya_uoxWEtdGQY/400x0/filters:quality(85)/0/5/6/5f0cc8bf385e4a62a76d2e683a2e7650.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du jeudi 29 octobre 2026
 francetv://56936ccb-9565-4f51-b8fe-8dc5a31efb3c
 #EXTINF:-1 tvg-id="francetv-6c93b6cb-db62-4096-88e1-f48add777df4" tvg-logo="https://medias.france.tv/c06-qOqbPn5ypVzW-xby2zUS1HU/400x0/filters:quality(85)/1/1/1/144c22e483364d3b8c22bf636c35e111.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 29 octobre 2026
@@ -889,8 +891,6 @@ francetv://02f63a6c-afa5-4be3-baec-e9032663e397
 francetv://24dd8ad6-30bb-4c4a-8df7-84443a8ba939
 #EXTINF:-1 tvg-id="francetv-ce633d0c-a2d2-40ec-af69-8c606e0a6773" tvg-logo="https://medias.france.tv/Nd7Jhw4oRLqoW7N_p_KNplhkXhc/400x0/filters:quality(85)/7/9/0/4bc37b7039d246aeaa25f45c4f8c5097.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://ce633d0c-a2d2-40ec-af69-8c606e0a6773
-#EXTINF:-1 tvg-id="francetv-7bed462f-17af-4a89-a877-a22c28ffd50b" tvg-logo="https://medias.france.tv/1tAZ7N0zuV02q57YSO6fWYsujOU/400x0/filters:quality(85)/c/2/4/23cb217542b444df91c7e8966594f42c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mercredi 28 octobre 2026
-francetv://7bed462f-17af-4a89-a877-a22c28ffd50b
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -5027,7 +5027,7 @@ francetv://606fb21d-773b-46aa-8314-c5661c37a8ca
 francetv://f6a781b3-6d44-41af-a735-e145b9f4ce36
 #EXTINF:-1 tvg-id="francetv-6bee3520-f3fb-4366-adf4-49936283236a" tvg-logo="https://medias.france.tv/xPzAVUsM49Uqw8Y8yexkDsVgb20/400x0/filters:quality(85)/e/9/a/c90f6f81af4a4f7f86c69cd8457d7a9e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Riding Zone, sports extrêmes et culture glisse — Prank : On piège un stage de pilotage avec une pilote de la F1 Academy
 francetv://6bee3520-f3fb-4366-adf4-49936283236a
-#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_un-musee-une-expo" tvg-logo="https://medias.france.tv/Q3lJQNTOp811mSNEEIZHkoZ2858/400x0/filters:quality(85)/f/9/j/phpjtwj9f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Un musée, une expo !
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_un-musee-une-expo" tvg-logo="https://medias.france.tv/9FTqW-KSPuP0e0ELrFtsFiamQA0/400x0/filters:quality(85)/v/v/0/phpyr80vv.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Un musée, une expo !
 francetv://program/spectacles-et-culture_un-musee-une-expo
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_parlons-peu-parlons-bien" tvg-logo="https://medias.france.tv/_tpQ0GSiJ2dmF2zdYzr4AO_yCok/400x0/filters:quality(85)/f/d/e/4ded4febba404a5ba4c16afe0fbd1edf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Parlons peu parlons bien
 francetv://program/tv5-monde_parlons-peu-parlons-bien
