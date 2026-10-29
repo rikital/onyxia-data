@@ -2729,7 +2729,7 @@ https://cdn.haititivi.com/website/haitinews/index.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="LaUne.be@SD" group-title="Divertissement - Divertissement",La Une (720p)
-http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
+http://41.205.93.154/LA-UNE/index.m3u8
 
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="EvasionTV.gn@SD" group-title="Généralistes - 100% Français",Evasion TV
@@ -5956,7 +5956,7 @@ https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="LaTrois.be@SD" group-title="France TV backup - Autres",La Trois (720p) [iptv-org-fra]
 http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="LaUne.be@SD" group-title="France TV backup - Autres",La Une (720p) [iptv-org-fra]
-http://145.239.5.177/329/index.m3u8
+http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="Tipik.be@SD" group-title="France TV backup - Autres",Tipik (720p) [iptv-org-fra]
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" group-title="France TV backup - Autres",TV5Monde Africa (720p) [iptv-org-fra]
@@ -6563,7 +6563,7 @@ http://145.239.5.177/371/index.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml@SD" group-title="France TV backup - Autres",D3 TV (720p) [iptv-org-fra]
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="LaUne.be@SD" group-title="France TV backup - Autres",La Une (720p) [iptv-org-fra]
-http://145.239.5.177/329/index.m3u8
+http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [iptv-org-fra]
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
@@ -7441,7 +7441,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Wa8nNwCywxRp/tchm6xrDS1EfmqG1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/y4Yq6p3E5CHG/YBT1G9swiKruf.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="BalafonTV.cm@SD" group-title="Info - Info",Balafon TV [Geo-blocked]
@@ -7462,7 +7462,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spect
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Wa8nNwCywxRp/tchm6xrDS1EfmqG1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/y4Yq6p3E5CHG/YBT1G9swiKruf.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
@@ -7474,7 +7474,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/Wa8nNwCywxRp/tchm6xrDS1EfmqG1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/y4Yq6p3E5CHG/YBT1G9swiKruf.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FR2100003H7" group-title="France TV backup - Autres",Inazuma Eleven [schumijo]
