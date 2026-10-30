@@ -149,6 +149,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-0b9b1355-5dc6-472f-ac2a-d44dd51195cf" tvg-logo="https://medias.france.tv/28MQnt37-SN0CQcsC-YyJoQNimY/400x0/filters:quality(85)/w/o/w/phphrfwow.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La boîte à secrets — Émission du vendredi 30 octobre 2026
+francetv://0b9b1355-5dc6-472f-ac2a-d44dd51195cf
 #EXTINF:-1 tvg-id="francetv-177e9678-09d3-435c-b207-2ab4e33ad36b" tvg-logo="https://medias.france.tv/HrU8MnUw9t6o1H7V-sAfmGiT4ig/400x0/filters:quality(85)/f/y/u/phpi9kuyf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur — Le sentier perdu
 francetv://177e9678-09d3-435c-b207-2ab4e33ad36b
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/wNhjnLTUGgBHAy4496J7PJNSrB0/400x0/filters:quality(85)/b/o/e/phpodweob.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Alex Hugo
@@ -1325,8 +1327,6 @@ francetv://4c1727e5-1e34-48c8-85f7-bac785a2bb28
 francetv://07bec272-c577-4ee8-9507-7dfbbf786cb4
 #EXTINF:-1 tvg-id="francetv-cb86ff16-41a0-42b2-b1bd-641bb9a8dd63" tvg-logo="https://medias.france.tv/qp65zJQDoPjthcxDeQfypmA5tvk/400x0/filters:quality(85)/x/a/j/phpdcgjax.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 24",Reporters — Louisiane : la bataille autour d’une carte électorale
 francetv://cb86ff16-41a0-42b2-b1bd-641bb9a8dd63
-#EXTINF:-1 tvg-id="francetv-71fc2b7f-bfcb-4b35-9aa8-92be91076a4b" tvg-logo="https://medias.france.tv/Ww3r4JlVc21iD2QLmtTvNaqyVys/400x0/filters:quality(85)/k/t/d/phpi8pdtk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 24",Info ou intox — "America" : quand l'IA de Trump contredit... Trump
-francetv://71fc2b7f-bfcb-4b35-9aa8-92be91076a4b
 #EXTINF:-1 tvg-id="francetv-6d0fc983-0dce-4e7d-982d-6905e2ceb80b" tvg-logo="https://medias.france.tv/6rw4fbxYPqg4NuwCVC_hWhrG5wQ/400x0/filters:quality(85)/7/1/r/phpcnrr17.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 24",Focus — États-Unis : mobilisation contre les data centers, des républicains texans se rebiffent
 francetv://6d0fc983-0dce-4e7d-982d-6905e2ceb80b
 #EXTINF:-1 tvg-id="francetv-3a76ad19-60fd-49c2-8af0-0dfa5de82254" tvg-logo="https://medias.france.tv/AgsGue84PkH-l_Zpsdp3oAbb8yI/400x0/filters:quality(85)/f/o/5/phpywo5of.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 24",Reporters — ICE au Texas : vivre dans la peur
