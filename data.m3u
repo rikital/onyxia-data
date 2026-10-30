@@ -2745,7 +2745,7 @@ https://kali.vdopanel.com:3119/hybrid/play.m3u8
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="Tipik.be@SD" group-title="Nouveautés FR - Nouveautés",Tipik (720p)
-http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
+http://41.205.93.154/TIPIK/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="Africa24English.fr@SD" group-title="France TV backup - Autres",Africa 24 English (1080p) [iptv-org-fr]
@@ -7441,7 +7441,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/9KopOb2Vnce/sms0IEzWxk0fOUPO.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zPz6dRj0xCJN/HyXkiBDb40rwXLm.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="BalafonTV.cm@SD" group-title="Info - Info",Balafon TV [Geo-blocked]
@@ -7462,7 +7462,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/spect
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/9KopOb2Vnce/sms0IEzWxk0fOUPO.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zPz6dRj0xCJN/HyXkiBDb40rwXLm.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1080p) [iptv-org-fr]
@@ -7474,7 +7474,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/9KopOb2Vnce/sms0IEzWxk0fOUPO.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zPz6dRj0xCJN/HyXkiBDb40rwXLm.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="FR2100003H7" group-title="France TV backup - Autres",Inazuma Eleven [schumijo]
@@ -7704,11 +7704,15 @@ http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [kilirushi]
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
