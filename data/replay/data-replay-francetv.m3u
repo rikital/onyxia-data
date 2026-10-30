@@ -861,6 +861,10 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-d8b6e4d0-d47a-11f1-8646-957ddefc544d" tvg-logo="https://medias.france.tv/f1D7xOmw_A8tVO-7gQZfXfwkSu8/400x0/filters:quality(85)/3/d/a/6616c5aa756c4683bfefc78ca8f0cad3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 30/10/2026 - Le fil info après-midi
+francetv://d8b6e4d0-d47a-11f1-8646-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-4d786211-a9c9-4e62-a8f0-7ce950746ac8" tvg-logo="https://medias.france.tv/AZjeSkRnkV0XegdY98ygPo8U4n0/400x0/filters:quality(85)/7/9/2/f49bccf83d5649babd7dedc7a0331297.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du vendredi 30 octobre 2026
+francetv://4d786211-a9c9-4e62-a8f0-7ce950746ac8
 #EXTINF:-1 tvg-id="francetv-c42a550a-d46c-11f1-96a0-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/PLSRuMvclVNeoXZJecw1vayu8Yk/400x0/filters:quality(85)/b/7/1/cbb74351cc894f2faaf90fa4ed62317b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 30/10/2026 Le fil info 14H
 francetv://c42a550a-d46c-11f1-96a0-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-cde6f286-58da-42ef-b954-7a73b462c909" tvg-logo="https://medias.france.tv/t9Wyb4oscESZcUCf5I628vJsRAM/400x0/filters:quality(85)/1/0/7/1f5ea622fdfa4e2d8338b020b2efe701.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du vendredi 30 octobre 2026
@@ -897,10 +901,6 @@ francetv://d360a986-6c91-4f3f-8d58-72be12de96a0
 francetv://c4893858-d3aa-11f1-af8c-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-13f2eb7f-923f-488d-b91f-fa6707253cbd" tvg-logo="https://medias.france.tv/tZeC7HcJYgpw8YcAkykwxWuOWq8/400x0/filters:quality(85)/b/4/2/8fca4b450a964ca2b33142f6113f724b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du jeudi 29 octobre 2026
 francetv://13f2eb7f-923f-488d-b91f-fa6707253cbd
-#EXTINF:-1 tvg-id="francetv-56936ccb-9565-4f51-b8fe-8dc5a31efb3c" tvg-logo="https://medias.france.tv/TUo-y4SbORRMzIya_uoxWEtdGQY/400x0/filters:quality(85)/0/5/6/5f0cc8bf385e4a62a76d2e683a2e7650.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du jeudi 29 octobre 2026
-francetv://56936ccb-9565-4f51-b8fe-8dc5a31efb3c
-#EXTINF:-1 tvg-id="francetv-6c93b6cb-db62-4096-88e1-f48add777df4" tvg-logo="https://medias.france.tv/c06-qOqbPn5ypVzW-xby2zUS1HU/400x0/filters:quality(85)/1/1/1/144c22e483364d3b8c22bf636c35e111.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 29 octobre 2026
-francetv://6c93b6cb-db62-4096-88e1-f48add777df4
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -3443,22 +3443,26 @@ francetv://4cc75590-c495-11f0-84f8-19616fa871f9
 francetv://18c3052e-9d3d-11f1-875b-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-729d91b3-78b1-436a-97e7-37c3ab5b9755" tvg-logo="https://medias.france.tv/FyMtIqbST7kgyo4LmB1NrqD1-7s/400x0/filters:quality(85)/6/c/2/75fbd6a271534a20af62892b89f0a2c6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - IA : Impacts sur la société",Einstein — L'intelligence artificielle nous rend-elle stupides
 francetv://729d91b3-78b1-436a-97e7-37c3ab5b9755
+#EXTINF:-1 tvg-id="francetv-b019dc37-8bce-49dd-a1e7-413c28199ad6" tvg-logo="https://medias.france.tv/GCqj4xAOjCUxZqLeVtlmrsU0LII/400x0/filters:quality(85)/m/m/r/phpygarmm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Les petits secrets du roi du poulet
+francetv://b019dc37-8bce-49dd-a1e7-413c28199ad6
+#EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Doctolib, votre santé est leur business
+francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-2e6b9b7f-2cef-4ef7-ac43-2a45bed2fb2b" tvg-logo="https://medias.france.tv/6BiPMd7w42Dj8Lrwy0zs4B5qaQ8/400x0/filters:quality(85)/0/8/3/0728b2f4bdf04ad18dc960d2950b7380.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Agriculteurs : se réinventer face au climat
 francetv://2e6b9b7f-2cef-4ef7-ac43-2a45bed2fb2b
 #EXTINF:-1 tvg-id="francetv-bd16bf65-545c-4f56-b56a-58ec78fee439" tvg-logo="https://medias.france.tv/vsvHy7KbFp3auOVka0IHY75Wxrc/400x0/filters:quality(85)/a/v/0/phpapd0va.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Sarah Knafo : Zemmour, gloire et plan B
 francetv://bd16bf65-545c-4f56-b56a-58ec78fee439
 #EXTINF:-1 tvg-id="francetv-prog-slash_influence-mortelle-la-face-cachee-de-tiktok" tvg-logo="https://medias.france.tv/IDOSMQCfMZeSeD0RBR-XwJxi_kc/400x0/filters:quality(85)/r/a/f/phpv6cfar.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Influence mortelle, la face cachée de TikTok
 francetv://program/slash_influence-mortelle-la-face-cachee-de-tiktok
-#EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Doctolib, votre santé est leur business
-francetv://cf0e1d4a-b2ab-11f1-8529-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-151ff365-b1f6-46c7-887b-ec0fa609fe39" tvg-logo="https://medias.france.tv/FtRa2tEWYfQV1brWfK6sAUQMy3g/400x0/filters:quality(85)/y/p/k/php5nzkpy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Carrefour : révélations sur un géant face à la crise
-francetv://151ff365-b1f6-46c7-887b-ec0fa609fe39
-#EXTINF:-1 tvg-id="francetv-91f2fdfb-1f9d-4165-839d-df77d9a3929a" tvg-logo="https://medias.france.tv/j8_2As3GESS4bdEf-a2l9lnu4Gg/400x0/filters:quality(85)/e/5/5/329ff88c14ac4b0c8ff77570f791855e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Carburants : comment ne plus subir la crise ?
-francetv://91f2fdfb-1f9d-4165-839d-df77d9a3929a
-#EXTINF:-1 tvg-id="francetv-2ef4193a-3e42-4e02-9ae2-42421e1f61d4" tvg-logo="https://medias.france.tv/NqoVT3cuSOXbkSPbAeMRLVgLBEw/400x0/filters:quality(85)/p/v/v/phpfjovvp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Logement : en coloc malgré eux
-francetv://2ef4193a-3e42-4e02-9ae2-42421e1f61d4
 #EXTINF:-1 tvg-id="francetv-1346b804-acbe-4a00-8e03-41d99f5083d5" tvg-logo="https://medias.france.tv/vSRSoG6E2tOHXrhBL1jtwcvnOVM/400x0/filters:quality(85)/8/d/f/phpnhafd8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Cash Investigation — Cyber-arnaques : État et entreprises nous protègent-ils vraiment ?
 francetv://1346b804-acbe-4a00-8e03-41d99f5083d5
+#EXTINF:-1 tvg-id="francetv-91f2fdfb-1f9d-4165-839d-df77d9a3929a" tvg-logo="https://medias.france.tv/j8_2As3GESS4bdEf-a2l9lnu4Gg/400x0/filters:quality(85)/e/5/5/329ff88c14ac4b0c8ff77570f791855e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Carburants : comment ne plus subir la crise ?
+francetv://91f2fdfb-1f9d-4165-839d-df77d9a3929a
+#EXTINF:-1 tvg-id="francetv-1c6e27a3-3f00-4bce-a5c8-e6ced1c21692" tvg-logo="https://medias.france.tv/vMIFzrI0roVdusI-VB5J2jjngdc/400x0/filters:quality(85)/f/9/8/phpewy89f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Des infos ou désinfo ? La méthode CNews
+francetv://1c6e27a3-3f00-4bce-a5c8-e6ced1c21692
+#EXTINF:-1 tvg-id="francetv-151ff365-b1f6-46c7-887b-ec0fa609fe39" tvg-logo="https://medias.france.tv/FtRa2tEWYfQV1brWfK6sAUQMy3g/400x0/filters:quality(85)/y/p/k/php5nzkpy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Carrefour : révélations sur un géant face à la crise
+francetv://151ff365-b1f6-46c7-887b-ec0fa609fe39
+#EXTINF:-1 tvg-id="francetv-2ef4193a-3e42-4e02-9ae2-42421e1f61d4" tvg-logo="https://medias.france.tv/NqoVT3cuSOXbkSPbAeMRLVgLBEw/400x0/filters:quality(85)/p/v/v/phpfjovvp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Logement : en coloc malgré eux
+francetv://2ef4193a-3e42-4e02-9ae2-42421e1f61d4
 #EXTINF:-1 tvg-id="francetv-b0aa3405-0a47-46f4-bfb6-2dd76f5d97f3" tvg-logo="https://medias.france.tv/BekBfGEehw6mEuALjCszhUZiALk/400x0/filters:quality(85)/w/z/3/phplsd3zw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Pouvoir, Scandale et Gros sous : les hors-jeu du PSG
 francetv://b0aa3405-0a47-46f4-bfb6-2dd76f5d97f3
 #EXTINF:-1 tvg-id="francetv-b3a7eaf6-e756-497d-b426-644bf3f219fe" tvg-logo="https://medias.france.tv/IdtG_cATFWT77J-r2RLmXzsyjic/400x0/filters:quality(85)/c/y/k/phpytjkyc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Cash Investigation — Aliments ultratransformés : dans les arrière-cuisines des industriels
@@ -3507,46 +3511,8 @@ francetv://a5804fbb-82a2-4204-9c77-1998e487187a
 francetv://abe8a649-a087-4feb-ae6f-15522f31f2e1
 #EXTINF:-1 tvg-id="francetv-40b410d0-562f-4178-8f60-5a6a696b5ba2" tvg-logo="https://medias.france.tv/dsgjAxeVwPzIbI5AvmbVFM9NoJg/400x0/filters:quality(85)/f/q/q/phpcasqqf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Le monde en face — Scientologie, l'empire du secret
 francetv://40b410d0-562f-4178-8f60-5a6a696b5ba2
-#EXTINF:-1 tvg-id="francetv-1c6e27a3-3f00-4bce-a5c8-e6ced1c21692" tvg-logo="https://medias.france.tv/vMIFzrI0roVdusI-VB5J2jjngdc/400x0/filters:quality(85)/f/9/8/phpewy89f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Des infos ou désinfo ? La méthode CNews
-francetv://1c6e27a3-3f00-4bce-a5c8-e6ced1c21692
 #EXTINF:-1 tvg-id="francetv-740b01e0-2f80-4815-8a3b-40e6a96d9e79" tvg-logo="https://medias.france.tv/5l26SETiGCubJKs38Bj3H-SpFhU/400x0/filters:quality(85)/i/m/0/phpsvb0mi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Sur le front — Que se passe-t-il dans nos champs ?
 francetv://740b01e0-2f80-4815-8a3b-40e6a96d9e79
-#EXTINF:-1 tvg-id="francetv-prog-france-2_20h30-le-dimanche" tvg-logo="https://medias.france.tv/8ajy5HAUwEHCjME9iQXW49Uwjd0/400x0/filters:quality(85)/7/m/v/php0r7vm7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",20h30 le dimanche
-francetv://program/france-2_20h30-le-dimanche
-#EXTINF:-1 tvg-id="francetv-prog-france-2_beau-geste" tvg-logo="https://medias.france.tv/Cmq3-dHKTdj4Q6bPF2qKoG4Dmy4/400x0/filters:quality(85)/q/x/x/phpobaxxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",Beau geste
-francetv://program/france-2_beau-geste
-#EXTINF:-1 tvg-id="francetv-prog-societe_la-maison-des-maternelles" tvg-logo="https://medias.france.tv/Fnu7VNzO5F6gI6YUmg88bQPgojg/400x0/filters:quality(85)/s/w/h/phpbtthws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",La maison des Maternelles
-francetv://program/societe_la-maison-des-maternelles
-#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",Ça commence aujourd'hui
-francetv://program/france-2_ca-commence-aujourd-hui
-#EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",La grande librairie
-francetv://program/france-5_la-grande-librairie
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",C à vous
-francetv://program/france-5_c-a-vous
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-politique" tvg-logo="https://medias.france.tv/Ue9BBaQ5wlCwffog-NIZ6b6s0zA/400x0/filters:quality(85)/m/r/3/phpjy03rm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",C politique
-francetv://program/france-5_c-politique
-#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Vous aimez les regarder, vous allez adorer les écouter",Un dimanche à la campagne
-francetv://program/france-2_un-dimanche-a-la-campagne
-#EXTINF:-1 tvg-id="francetv-25a4a7a2-fd89-4127-b958-eebc844f876a" tvg-logo="https://medias.france.tv/8GY2tEgtqsmf7SwPZYdx5x-VAbo/400x0/filters:quality(85)/f/n/3/php2xk3nf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Grignote-moi si tu peux, les dessous de l'apéritif
-francetv://25a4a7a2-fd89-4127-b958-eebc844f876a
-#EXTINF:-1 tvg-id="francetv-157d7fb7-0edd-468e-bf51-85f1f13fc424" tvg-logo="https://medias.france.tv/fs6xh5J8ZtN9c1zbYc7Tn2L5Q4w/400x0/filters:quality(85)/c/k/q/php6acqkc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Poulet mania
-francetv://157d7fb7-0edd-468e-bf51-85f1f13fc424
-#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-table-du-fermier" tvg-logo="https://medias.france.tv/tfsNVPZSCYniQSgblHaY2KfEv24/400x0/filters:quality(85)/7/3/f/9f802fb85f4741289bce2b557e874f37.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",La table du fermier
-francetv://program/tv5-monde_la-table-du-fermier
-#EXTINF:-1 tvg-id="francetv-0b34cf4e-e23c-4a45-98a6-b33f0159827b" tvg-logo="https://medias.france.tv/n-0pGDNFGLEuuIcITedSUTZnd70/400x0/filters:quality(85)/n/j/z/phpbaczjn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Le monde de Jamy — Manger de la viande, un crime pour la planète ?
-francetv://0b34cf4e-e23c-4a45-98a6-b33f0159827b
-#EXTINF:-1 tvg-id="francetv-d9cf7813-390f-45df-9ac6-6615eee8f42e" tvg-logo="https://medias.france.tv/VIDqjqnoqA26oaAX077f2TvmfoI/400x0/filters:quality(85)/n/8/g/phppvbg8n.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Chill — Viande, appli de livraison, régime : la Gen Z et l’alimentation sans tabou
-francetv://d9cf7813-390f-45df-9ac6-6615eee8f42e
-#EXTINF:-1 tvg-id="francetv-prog-slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix" tvg-logo="https://medias.france.tv/w16P546XsOnTtimBaMnFfao-6ks/400x0/filters:quality(85)/j/c/m/php9temcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Nabil Zemmouri – Le Chef des défis à petit prix
-francetv://program/slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix
-#EXTINF:-1 tvg-id="francetv-b3a7eaf6-e756-497d-b426-644bf3f219fe" tvg-logo="https://medias.france.tv/IdtG_cATFWT77J-r2RLmXzsyjic/400x0/filters:quality(85)/c/y/k/phpytjkyc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Cash Investigation — Aliments ultratransformés : dans les arrière-cuisines des industriels
-francetv://b3a7eaf6-e756-497d-b426-644bf3f219fe
-#EXTINF:-1 tvg-id="francetv-54a565b0-47b6-4d8d-a901-5d1a97a539c2" tvg-logo="https://medias.france.tv/aHNUm7qkaoybAnBgHmld4tjZp40/400x0/filters:quality(85)/b/8/c/5f9bcef30a4e4cbf81519210b8e8ac8b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Envoyé spécial — Arménie : le plus vieux vin du monde
-francetv://54a565b0-47b6-4d8d-a901-5d1a97a539c2
-#EXTINF:-1 tvg-id="francetv-prog-lcp_vip-very-important-paysans" tvg-logo="https://medias.france.tv/U2rae7VVfPQomf-yzvfdE4kOUHY/400x0/filters:quality(85)/9/e/e/df7a939aa62f4c4a8915d068c21b6ee9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",VIP Very Important Paysans
-francetv://program/lcp_vip-very-important-paysans
-#EXTINF:-1 tvg-id="francetv-6629a1e6-87f1-425e-beb8-13e6939cd5e8" tvg-logo="https://medias.france.tv/qlGT_2JESNNkSoSSST5fmXGtbpk/400x0/filters:quality(85)/c/f/3/1a6d1f646a3144cb93ae0691588203fc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nos habitudes passent à table",Voyage en cuisine — La pizza argentine : la fugazzeta
-francetv://6629a1e6-87f1-425e-beb8-13e6939cd5e8
 #EXTINF:-1 tvg-id="francetv-182a031e-d47e-44ee-9f3e-144453dcc4a4" tvg-logo="https://medias.france.tv/TIS46rQTHS6RYCEQumimkh7Kt7g/400x0/filters:quality(85)/r/x/q/phpsdwqxr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Chroniques judiciaires",13h15, le samedi — Les aveux de Cédric Jubillar
 francetv://182a031e-d47e-44ee-9f3e-144453dcc4a4
 #EXTINF:-1 tvg-id="francetv-ceba8bbc-1241-4629-b403-c2d824da205f" tvg-logo="https://medias.france.tv/C5LiBUkWV0cPPSsuvypNZtG4-So/400x0/filters:quality(85)/t/3/9/php0ab93t.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Chroniques judiciaires",Au bout de l'enquête, la fin du crime parfait ? — Affaire Jonathann Daval : Le meurtrier qui a trompé la France (1/2)
