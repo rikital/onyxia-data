@@ -863,6 +863,8 @@ francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 francetv://07240417-4994-4398-af6b-660126b1fa66
 #EXTINF:-1 tvg-id="francetv-c42a550a-d46c-11f1-96a0-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/PLSRuMvclVNeoXZJecw1vayu8Yk/400x0/filters:quality(85)/b/7/1/cbb74351cc894f2faaf90fa4ed62317b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 30/10/2026 Le fil info 14H
 francetv://c42a550a-d46c-11f1-96a0-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-cde6f286-58da-42ef-b954-7a73b462c909" tvg-logo="https://medias.france.tv/t9Wyb4oscESZcUCf5I628vJsRAM/400x0/filters:quality(85)/1/0/7/1f5ea622fdfa4e2d8338b020b2efe701.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du vendredi 30 octobre 2026
+francetv://cde6f286-58da-42ef-b954-7a73b462c909
 #EXTINF:-1 tvg-id="francetv-5aeac232-d46c-11f1-af8c-57a09c50f7ce" tvg-logo="https://medias.france.tv/FtDhQRcfoioqNxfiuBdfmWtWNqc/400x0/filters:quality(85)/7/8/2/bcfffcdd18e345ef853628ca32abc287.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 30/10/2026 Le fil info 11H
 francetv://5aeac232-d46c-11f1-af8c-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-9282c8b2-f8b0-4b0e-baaf-e2c45dada50d" tvg-logo="https://medias.france.tv/oyWgcESMpvIhRWQQtJDyH8IOY8k/400x0/filters:quality(85)/5/4/d/db9bd197ee51443b88e8d36bc4565d45.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du vendredi 30 octobre 2026
@@ -899,8 +901,6 @@ francetv://13f2eb7f-923f-488d-b91f-fa6707253cbd
 francetv://56936ccb-9565-4f51-b8fe-8dc5a31efb3c
 #EXTINF:-1 tvg-id="francetv-6c93b6cb-db62-4096-88e1-f48add777df4" tvg-logo="https://medias.france.tv/c06-qOqbPn5ypVzW-xby2zUS1HU/400x0/filters:quality(85)/1/1/1/144c22e483364d3b8c22bf636c35e111.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 29 octobre 2026
 francetv://6c93b6cb-db62-4096-88e1-f48add777df4
-#EXTINF:-1 tvg-id="francetv-ef35c923-8fbb-4542-8395-c0acaed9afea" tvg-logo="https://medias.france.tv/tXXTTl9S4YQUGNG8Q2eCwrT0pAI/400x0/filters:quality(85)/4/6/2/6dbe11967f864250a668394bb3a65264.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
-francetv://ef35c923-8fbb-4542-8395-c0acaed9afea
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -3719,16 +3719,20 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/SlvWLJrESdVgrowgzMoOGQdrP8M/400x0/filters:quality(85)/x/n/e/phpogsenx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
-#EXTINF:-1 tvg-id="francetv-1b761d0b-d613-46fe-86ef-a8976a6a0a4d" tvg-logo="https://medias.france.tv/6wUmP6hm3Xnp-t6lDWOHyMjU7Yg/400x0/filters:quality(85)/a/u/u/phpeskuua.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Le luxe, un pouvoir français
-francetv://1b761d0b-d613-46fe-86ef-a8976a6a0a4d
+#EXTINF:-1 tvg-id="francetv-c50fc04d-988b-493b-bf04-a0b9fc386a56" tvg-logo="https://medias.france.tv/NtUaX533cX5Cq7BiGRV9g35RlBM/400x0/filters:quality(85)/6/b/f/d47ac625d92f45068978930cb6d41fb6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Envoyé spécial — Émission du jeudi 29 octobre 2026
+francetv://c50fc04d-988b-493b-bf04-a0b9fc386a56
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/sOg9_oe8FMhR1JiqjE-wcTgYxGc/400x0/filters:quality(85)/s/x/r/phpkv0rxs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
+#EXTINF:-1 tvg-id="francetv-b019dc37-8bce-49dd-a1e7-413c28199ad6" tvg-logo="https://medias.france.tv/GCqj4xAOjCUxZqLeVtlmrsU0LII/400x0/filters:quality(85)/m/m/r/phpygarmm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Complément d'enquête — Les petits secrets du roi du poulet
+francetv://b019dc37-8bce-49dd-a1e7-413c28199ad6
 #EXTINF:-1 tvg-id="francetv-0013c982-d122-11f1-9696-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/AbImQx2CALOXVT_agygW5uQdasI/400x0/filters:quality(85)/0/4/e/fd10a85f225c40f284ff1fc46e4b0e40.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Envoyé spécial — L'Intérieur vu de l'intérieur
 francetv://0013c982-d122-11f1-9696-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-63171038-44f7-4033-89c9-d3387c497a03" tvg-logo="https://medias.france.tv/K5_V248YJXi8b4AtHfg6kr0HQ_k/400x0/filters:quality(85)/c/b/2/2a3639f1e09140f7b0b0657fde9ea2bc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Cap sur l’Élysée — RN, en marche vers la victoire ?
 francetv://63171038-44f7-4033-89c9-d3387c497a03
 #EXTINF:-1 tvg-id="francetv-prog-arte_un-micro-a-la-dgse-la-vie-secrete-des-espions" tvg-logo="https://medias.france.tv/FJ3HpXjetpuglSZazErLn2POa00/400x0/filters:quality(85)/e/2/b/90c19377fc7749cba17992be22c38b2e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Un micro à la DGSE - La vie secrète des espions
 francetv://program/arte_un-micro-a-la-dgse-la-vie-secrete-des-espions
+#EXTINF:-1 tvg-id="francetv-1b761d0b-d613-46fe-86ef-a8976a6a0a4d" tvg-logo="https://medias.france.tv/6wUmP6hm3Xnp-t6lDWOHyMjU7Yg/400x0/filters:quality(85)/a/u/u/phpeskuua.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Le luxe, un pouvoir français
+francetv://1b761d0b-d613-46fe-86ef-a8976a6a0a4d
 #EXTINF:-1 tvg-id="francetv-bd16bf65-545c-4f56-b56a-58ec78fee439" tvg-logo="https://medias.france.tv/vsvHy7KbFp3auOVka0IHY75Wxrc/400x0/filters:quality(85)/a/v/0/phpapd0va.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Complément d'enquête — Sarah Knafo : Zemmour, gloire et plan B
 francetv://bd16bf65-545c-4f56-b56a-58ec78fee439
 #EXTINF:-1 tvg-id="francetv-8bd0de7b-05b1-4da7-bde6-08650e0e189b" tvg-logo="https://medias.france.tv/PZHcvuBUU-aupVMSWChv4BkDERs/400x0/filters:quality(85)/d/u/v/phpckivud.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Camille enquête - Batteries explosives
@@ -3743,36 +3747,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/public-senat_droit-de-suite
 #EXTINF:-1 tvg-id="francetv-prog-arte_arte-reportage" tvg-logo="https://medias.france.tv/N-q_aPaC583vWhOrSd4RqwzZsNk/400x0/filters:quality(85)/1/a/i/phplnsia1.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",ARTE Reportage
 francetv://program/arte_arte-reportage
-#EXTINF:-1 tvg-id="francetv-34cf82be-4abd-46b5-9782-44d175caed63" tvg-logo="https://medias.france.tv/F3iIgKo-HauW3jn0pqwSAmBgU0s/400x0/filters:quality(85)/z/e/k/phpj11kez.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C politique, la suite — Le pouvoir a-t-il repris le contrôle ?
-francetv://34cf82be-4abd-46b5-9782-44d175caed63
-#EXTINF:-1 tvg-id="francetv-0013c982-d122-11f1-9696-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/AbImQx2CALOXVT_agygW5uQdasI/400x0/filters:quality(85)/0/4/e/fd10a85f225c40f284ff1fc46e4b0e40.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",Envoyé spécial — L'Intérieur vu de l'intérieur
-francetv://0013c982-d122-11f1-9696-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-b59d1386-e087-4af6-951a-d3b18eb84797" tvg-logo="https://medias.france.tv/FA4V6OxSD6NN0xnKZhb9oNONN5s/400x0/filters:quality(85)/s/l/u/phpp02uls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C dans l'air — Mobilisations, violences : les leçons du samedi 24 octobre
-francetv://b59d1386-e087-4af6-951a-d3b18eb84797
-#EXTINF:-1 tvg-id="francetv-8a183457-dafb-43f7-871c-36bd552d545f" tvg-logo="https://medias.france.tv/hGsfg3SQc7s2jUKFnQ1850zrtaQ/400x0/filters:quality(85)/9/1/4/be8e4c6c70864e3a9fd471cac2d5c419.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",L'INA éclaire l'actu — Nous avons montré les anciennes mobilisations aux lycéens d'aujourd'hui
-francetv://8a183457-dafb-43f7-871c-36bd552d545f
-#EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",En tension dans les blocus lycéens avec HugoDécrypte
-francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
-#EXTINF:-1 tvg-id="francetv-eecfa7d4-cc69-11f1-968b-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/-ec8Sy119btFtqt6BYm6KiQK9n8/400x0/filters:quality(85)/9/4/9/285422f3612a4c839534d00f5d3c8949.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",Journal 20h00 — Comment expliquer la "perte de contrôle" ?
-francetv://eecfa7d4-cc69-11f1-968b-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-9aa0e6fe-c7ce-11f1-8622-957ddefc544d" tvg-logo="https://medias.france.tv/3rmDT-UW2stAPTS85SFoLMVDNXY/400x0/filters:quality(85)/7/8/2/5d3cdc00a8ce4ec2bf46df6d7a79e287.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",Journal 20h00 — Profs remplaçants : promesse tenue ?
-francetv://9aa0e6fe-c7ce-11f1-8622-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-9b0076c1-8b97-4fa3-82ed-f83f5b5952ee" tvg-logo="https://medias.france.tv/uzrEWoWNuqG0_RqcMi_yX1qpt5s/400x0/filters:quality(85)/n/e/s/phpsi2sen.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C dans l'air l'invité — Sophie Binet - Mobilisation du 24 octobre : quel rôle pour la CGT ?
-francetv://9b0076c1-8b97-4fa3-82ed-f83f5b5952ee
-#EXTINF:-1 tvg-id="francetv-0aba777f-512b-444b-a483-7e15a3d666c0" tvg-logo="https://medias.france.tv/Erqq7-V6_cUjc7gIsynOVDmfmV8/400x0/filters:quality(85)/b/i/k/phpkhlkib.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C dans l'air l'invité — Laure Beccuau - Quelles peines pour les casseurs ?
-francetv://0aba777f-512b-444b-a483-7e15a3d666c0
-#EXTINF:-1 tvg-id="francetv-3160a2b1-3a01-45f1-9915-b20160852239" tvg-logo="https://medias.france.tv/7ry5OibTaqyRJElqQmsr-HciLf4/400x0/filters:quality(85)/b/l/b/phpdtsblb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C ce soir — 17-Octobre : la mobilisation lycéenne éclipsée ?
-francetv://3160a2b1-3a01-45f1-9915-b20160852239
-#EXTINF:-1 tvg-id="francetv-50cb3d79-3f32-4490-b46b-6ac1181c0477" tvg-logo="https://medias.france.tv/HJfmXMb_C641Po5KigjwCjqHnA0/400x0/filters:quality(85)/6/c/5/4dc00fe1042a4043b48bccdaa52fc5c6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",Envoyé spécial — Élève mutilé : un lycée sous le choc
-francetv://50cb3d79-3f32-4490-b46b-6ac1181c0477
-#EXTINF:-1 tvg-id="francetv-580a35f5-8e64-4aaf-bdeb-0a4614906a58" tvg-logo="https://medias.france.tv/qH-Vm-fvPF36THXrIfPHzxdjvSA/400x0/filters:quality(85)/o/s/b/php3bmbso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C dans l'air — Lycéens, Gilets Jaunes, casseurs... Le début d'un embrasement ?
-francetv://580a35f5-8e64-4aaf-bdeb-0a4614906a58
-#EXTINF:-1 tvg-id="francetv-3e5a6f1a-d4d0-4821-9205-32ec1b16a734" tvg-logo="https://medias.france.tv/PM1Eu2A4-2YncX6Id4rHGTctcEw/400x0/filters:quality(85)/4/w/f/phpb4qfw4.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",Grand Format — Manifestations : mais que fait la police ?
-francetv://3e5a6f1a-d4d0-4821-9205-32ec1b16a734
-#EXTINF:-1 tvg-id="francetv-a0ee56df-5738-465f-9994-7223a5e4ad37" tvg-logo="https://medias.france.tv/h0S-8EZevUy86JWM_suze5b0qAo/400x0/filters:quality(85)/d/1/4/8b5a5b310198410494fdec7ab5e5441d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",POURQUOI ? — Pourquoi une telle colère dans les lycées ?
-francetv://a0ee56df-5738-465f-9994-7223a5e4ad37
-#EXTINF:-1 tvg-id="francetv-ee06088a-c0ce-11f1-af5d-57a09c50f7ce" tvg-logo="https://medias.france.tv/RDJhf6tj9DPlusgVRbgEN-Meg50/400x0/filters:quality(85)/6/1/e/3d53443a54224bafa24d77f115282e16.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Manifestations du 17 et 24 octobre",C pas si loin — Mon lycée va craquer
-francetv://ee06088a-c0ce-11f1-af5d-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-5dc41c96-8794-4655-8208-76b517988ce8" tvg-logo="https://medias.france.tv/7tDP04DIPsrZasDPyL9fN-ksmyI/400x0/filters:quality(85)/9/e/9/23934216ea77441fa67916e2bc2f89e9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Les docs d'info",13h15, le dimanche — B.R.I
+francetv://5dc41c96-8794-4655-8208-76b517988ce8
 #EXTINF:-1 tvg-id="francetv-prog-france-5_aux-origines-des-terrorismes" tvg-logo="https://medias.france.tv/2vHBPAPYyaLA2OU0pa2iFXDQMEw/400x0/filters:quality(85)/x/w/8/phpckm8wx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Les docs d'info",Aux origines des terrorismes
 francetv://program/france-5_aux-origines-des-terrorismes
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/LP1K8wE5RQ0Nm2HMucshDIxEe6M/400x0/filters:quality(85)/v/r/j/php6zjjrv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Les docs d'info",Narcorama, il était une fois Marseille
