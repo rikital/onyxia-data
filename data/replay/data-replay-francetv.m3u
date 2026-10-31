@@ -861,6 +861,10 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-8006394d-674a-49e2-8b8f-b7db36003536" tvg-logo="https://medias.france.tv/Hk_iBPxF4Iv2RoG3ooND6t0am-c/400x0/filters:quality(85)/8/6/5/f5abc885124c46a08cfbea2af794d568.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A suivre avec Claire-Elisabeth Beaufort — Émission du vendredi 30 octobre 2026
+francetv://8006394d-674a-49e2-8b8f-b7db36003536
+#EXTINF:-1 tvg-id="francetv-655618be-22bb-41d3-93c6-c64aa0b0a3d0" tvg-logo="https://medias.france.tv/y7-s73EhbnshFNAAIQHTk1VVKpM/400x0/filters:quality(85)/0/5/8/ccec8a3d62424f82bdecf1a36ea23850.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A suivre avec Claire-Elisabeth Beaufort — Émission du vendredi 30 octobre 2026
+francetv://655618be-22bb-41d3-93c6-c64aa0b0a3d0
 #EXTINF:-1 tvg-id="francetv-93c58834-6bef-47f3-882c-2656415f157e" tvg-logo="https://medias.france.tv/Mcbh_OwtbZ2hh5zmRnmFQsUxsKo/400x0/filters:quality(85)/3/d/8/2c4541e3463e48218ec95ced0f53d8d3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du vendredi 30 octobre 2026
 francetv://93c58834-6bef-47f3-882c-2656415f157e
 #EXTINF:-1 tvg-id="francetv-dd5f46e3-42dc-4a44-a2bc-2abb0a5f6464" tvg-logo="https://medias.france.tv/Fb1DlkHfX_KKgArzCQ8PGg2bM9c/400x0/filters:quality(85)/b/5/0/d7b7b87afa194f8ab5de4c3b6527105b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du vendredi 30 octobre 2026
@@ -897,10 +901,6 @@ francetv://5af66d84-5bf1-469d-b1b7-1b5c87d826e5
 francetv://35f6f3c0-d3b2-11f1-969b-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-039b1476-d3ab-11f1-969b-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/V0g7AfrqPR99lk0HXG9rzwZCWgs/400x0/filters:quality(85)/1/7/2/d2457f80512747c1a96c0f6517402271.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 29/10/2026 Le fil info 14H
 francetv://039b1476-d3ab-11f1-969b-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-9c335f5e-ff06-47f2-a55d-9a8f1a485631" tvg-logo="https://medias.france.tv/cDOcVPOgJO6iCfEaY1SrTVdHs6c/400x0/filters:quality(85)/f/8/9/042a2f2275c74af0a4c0fb161e6fc98f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du jeudi 29 octobre 2026
-francetv://9c335f5e-ff06-47f2-a55d-9a8f1a485631
-#EXTINF:-1 tvg-id="francetv-d360a986-6c91-4f3f-8d58-72be12de96a0" tvg-logo="https://medias.france.tv/re_MwoyzKZUShiSoNE7-hvKmGvM/400x0/filters:quality(85)/9/a/6/62bb0426a6ac42d0a7808dece11286a9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du jeudi 29 octobre 2026
-francetv://d360a986-6c91-4f3f-8d58-72be12de96a0
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -4649,6 +4649,592 @@ francetv://1930a2bb-6344-4173-bec3-16a4ff83c18b
 francetv://program/france-3_championnats-de-france-de-bmx
 #EXTINF:-1 tvg-id="francetv-prog-france-3_occitanie_route-d-occitanie" tvg-logo="https://medias.france.tv/XNKUSVX7-PCXh5spPaKx6eoS9Gc/400x0/filters:quality(85)/6/f/n/phph1gnf6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - La tête dans le guidon",La Route d'Occitanie CIC
 francetv://program/france-3_occitanie_route-d-occitanie
+#EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",100 % logique : la réponse est sous vos yeux
+francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_mot-de-passe" tvg-logo="https://medias.france.tv/2g-sk5V-CrN3U2Lv67Z0zpKNK-4/400x0/filters:quality(85)/t/3/9/phpsma93t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Mot de passe
+francetv://program/jeux-et-divertissements_mot-de-passe
+#EXTINF:-1 tvg-id="francetv-0483d880-99fa-43c3-9f7a-656b4b73e8d8" tvg-logo="https://medias.france.tv/4iPxOt4Z0ESY8Dg8XngmncAuISc/400x0/filters:quality(85)/6/0/0/4e2d2fb8b0344b66beab5cad792e9006.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Beau geste — Avec Gilles Lellouche
+francetv://0483d880-99fa-43c3-9f7a-656b4b73e8d8
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La boîte à secrets
+francetv://program/france-3_la-boite-a-secrets
+#EXTINF:-1 tvg-id="francetv-b815fbd2-f971-49ac-bdc2-d6a475297a34" tvg-logo="https://medias.france.tv/MIcvgOCUuiaGxGvzPS5NWXlKP7Q/400x0/filters:quality(85)/4/i/g/phpuiygi4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Échappées belles — Ecosse, la magie des Highlands
+francetv://b815fbd2-f971-49ac-bdc2-d6a475297a34
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Les as du jardin
+francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
+#EXTINF:-1 tvg-id="francetv-817020c3-8ddf-47d7-be42-fbe7a95a06ed" tvg-logo="https://medias.france.tv/DfhFEk9IxwIc5vco5xRJBNW4Dbw/400x0/filters:quality(85)/m/e/g/phpcepgem.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Midi Minuit — Une journée avec Camille Lellouche
+francetv://817020c3-8ddf-47d7-be42-fbe7a95a06ed
+#EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Quelle époque !
+francetv://program/france-2_quelle-epoque
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Vies de famille
+francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-99cb7daa-5c95-4f90-afd1-0cc7fbf84020" tvg-logo="https://medias.france.tv/QoKCp5_qsUZbWiup8W0hIfOiG-Y/400x0/filters:quality(85)/z/k/t/phpajjtkz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Les rencontres du Papotin — Fanny Ardant
+francetv://99cb7daa-5c95-4f90-afd1-0cc7fbf84020
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc" tvg-logo="https://medias.france.tv/mL06GA_w90ykljybJNsgjP9d4Ao/400x0/filters:quality(85)/l/d/n/phpgh8ndl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Trouve ta coloc'
+francetv://program/jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc
+#EXTINF:-1 tvg-id="francetv-d0192190-e06d-4492-aa78-cbcf298b9a62" tvg-logo="https://medias.france.tv/h9WoIlw8HOGFd7S1YVZZeE9tlGk/400x0/filters:quality(85)/l/e/0/phpcr90el.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Le grand bêtisier - 50 ans de rire
+francetv://d0192190-e06d-4492-aa78-cbcf298b9a62
+#EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/gJ1wgGIVJLj73GYL-LEPND7DghY/400x0/filters:quality(85)/v/e/d/phpdcgdev.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",The Floor - À la conquête du sol
+francetv://program/france-2_the-floor-a-la-conquete-du-sol
+#EXTINF:-1 tvg-id="francetv-e971253c-4aef-4dbf-b83a-f9d39e723770" tvg-logo="https://medias.france.tv/HJ6XfhFZMuI0qZPYpSjFWTna1W4/400x0/filters:quality(85)/c/d/s/phpo6bsdc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Rendez-vous en terre inconnue — Tony Parker chez les Ovakuvale en Angola
+francetv://e971253c-4aef-4dbf-b83a-f9d39e723770
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Tout le monde veut prendre sa place
+francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
+#EXTINF:-1 tvg-id="francetv-prog-france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre" tvg-logo="https://medias.france.tv/MKJ-xiVD9kRMJ81z7v8pxvnCiLo/400x0/filters:quality(85)/l/o/a/phpxg2aol.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Affaire conclue, tout le monde a quelque chose à vendre
+francetv://program/france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre
+#EXTINF:-1 tvg-id="francetv-prog-france-5_silence-ca-pousse" tvg-logo="https://medias.france.tv/lg07RM2qDwil27DpIUFP3LXCT3Y/400x0/filters:quality(85)/x/u/i/phpyoviux.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Silence, ça pousse !
+francetv://program/france-5_silence-ca-pousse
+#EXTINF:-1 tvg-id="francetv-prog-france-3_slam" tvg-logo="https://medias.france.tv/V9bGi7-gAKueakS45H_wHy3TGSg/400x0/filters:quality(85)/b/f/s/phpmifsfb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Slam
+francetv://program/france-3_slam
+#EXTINF:-1 tvg-id="francetv-ecde57b4-cfe2-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/wf4ezMHZ37f9GwDEenyI4mgSSTs/400x0/filters:quality(85)/4/1/4/04f4320e880b44c8a383bb9dd44c0414.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Alec – Comment Tu Vas ? (France)
+francetv://ecde57b4-cfe2-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fa5e1428-cfe3-11f1-9694-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/aaUU4jq5gabfvVktxl5nlUNag2U/400x0/filters:quality(85)/0/6/1/514f879692f54980a558eeeb55eea160.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Naré - BOO! (Arménie)
+francetv://fa5e1428-cfe3-11f1-9694-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-da0db0d8-cfdf-11f1-9694-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/4gkCLB1dMN_XpsZdV5Ulkn1ccvk/400x0/filters:quality(85)/c/d/0/21627014485947638aeca7a0cff780dc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Maria - Stronger Together (Pays-Bas)
+francetv://da0db0d8-cfdf-11f1-9694-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-edc70fd8-cfe0-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/_nM19DjavlzcvfRGuM8pdcXRNOE/400x0/filters:quality(85)/8/a/3/phpfuz3a8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Harry Georgiou - Who I can be (Chypre)
+francetv://edc70fd8-cfe0-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-44cc5644-cfe1-11f1-af86-57a09c50f7ce" tvg-logo="https://medias.france.tv/Ozh_YemBnDlxsFikxjVNfnIon8c/400x0/filters:quality(85)/e/d/4/d326f493e729483a97706719e15aa4de.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Salvador Rio – Alma (Portugal)
+francetv://44cc5644-cfe1-11f1-af86-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-1ca0daea-cfe2-11f1-af86-57a09c50f7ce" tvg-logo="https://medias.france.tv/xUov36APBtQJjZLH2GqSXRsubOs/400x0/filters:quality(85)/1/f/d/a4cd97ee0bff486782518157f7e69df1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Mija Vujović - Muzika Nas Spaja (Monténégro)
+francetv://1ca0daea-cfe2-11f1-af86-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-643ff3e0-cfe2-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/4Khl4a17dCj5qbkBTHvDfSMvtDs/400x0/filters:quality(85)/a/6/e/049c7afd6a5a4948bf7a3eeed3018e6a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Violamarie - Ruota Panoramica (Saint-Marin)
+francetv://643ff3e0-cfe2-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-8dd09e34-cfe3-11f1-9694-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/kL7Or9XZfkMFWIFFgnHxSvczL7U/400x0/filters:quality(85)/7/b/d/44c1f537a7154e43b44c89c5deae9db7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Wiktor Sas – Gravity (Pologne)
+francetv://8dd09e34-cfe3-11f1-9694-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-afa603b8-cfe4-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/QJ43VkjiD4FdM90BDZV8AOYR-ic/400x0/filters:quality(85)/5/9/3/ccd9567cd1404314a76954cb0388a395.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Beppe - Blue Bird (Malte)
+francetv://afa603b8-cfe4-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-0f07d650-cfe6-11f1-af86-57a09c50f7ce" tvg-logo="https://medias.france.tv/5ZN34nvyCPXIuBAyop45NdAasp8/400x0/filters:quality(85)/a/7/2/88aed5baee244f8cb6e2b2c8c547327a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Matteo Trullu - Che Cos’è l’Amore? (Italie)
+francetv://0f07d650-cfe6-11f1-af86-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-7ffcc514-cfe6-11f1-af86-57a09c50f7ce" tvg-logo="https://medias.france.tv/JUKnXMYr4agUU-dKQjihDf_e0Ks/400x0/filters:quality(85)/9/6/d/d05dd7d654174227a6017beecda36d69.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Erika Kolesnichenko - NOT A LULLABY (Ukraine)
+francetv://7ffcc514-cfe6-11f1-af86-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-f7678210-cfe6-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/lwxxYlm8LlZyF9hPz9sWHpxlb3A/400x0/filters:quality(85)/7/8/f/71b486a313d4430eb12094b4684bdf87.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Ana Stojanoska - Idnata Jas (Macédonie du Nord)
+francetv://f7678210-cfe6-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-9994de84-cfe7-11f1-9694-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/HR0uQRWqLiJpI2_hvkFAT4pbkVE/400x0/filters:quality(85)/4/4/b/9b4879b7b77246f88a8c06db8d93cb44.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Caleb Kirwan & Naomi Gribben - Níos Láidre (Irlande)
+francetv://9994de84-cfe7-11f1-9694-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-1fcc2034-cfe8-11f1-8637-957ddefc544d" tvg-logo="https://medias.france.tv/tkZWFBukCYIf2WK1IzTBTqIw_p0/400x0/filters:quality(85)/3/b/2/696d2e10a2d041abb2dd57252cb0a2b3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Eslin Kurti – « Kërce Me Mua » (Albanie)
+francetv://1fcc2034-cfe8-11f1-8637-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-d0483088-cfe8-11f1-88aa-19616fa871f9" tvg-logo="https://medias.france.tv/rEnPkQzyHGvBGktA3vRIaQJ9ew4/400x0/filters:quality(85)/3/9/8/8e7254494028496a80201998ab8f4893.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Davit Lomidze - Sun on the Rooftops (Géorgie)
+francetv://d0483088-cfe8-11f1-88aa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-53bddaa8-cfe9-11f1-9694-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/ExlTXh0u_S0R25JHSXjVj2ffy-A/400x0/filters:quality(85)/8/a/9/25ed7ed140564198b294c11b377449a8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Lucas Paulano - Cuore Bello (Te Quiero, Te Quiero) (Espagne)
+francetv://53bddaa8-cfe9-11f1-9694-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-b96549a6-cff1-11f1-af87-57a09c50f7ce" tvg-logo="https://medias.france.tv/i4fhy1gQD30EZNkVHAjgPFnJzdA/400x0/filters:quality(85)/5/3/3/50911cadaf414e7cba5d609d9b0c6335.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Et le gagnant est...
+francetv://b96549a6-cff1-11f1-af87-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-3979f266-dd34-4a44-a54d-2e6bd1d57417" tvg-logo="https://medias.france.tv/sV5INVnx6PWeociapAk3JXFbn-o/400x0/filters:quality(85)/u/9/5/phpnm759u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Dans les coulisses de l'Eurovision Junior 2026
+francetv://3979f266-dd34-4a44-a54d-2e6bd1d57417
+#EXTINF:-1 tvg-id="francetv-prog-france-2_concours-eurovision-de-la-chanson-junior" tvg-logo="https://medias.france.tv/NUESg24v3eZm8NJ3gI4LOni3jC0/400x0/filters:quality(85)/n/j/d/php6yzdjn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Les meilleurs moments de l'Eurovision junior 2026",Eurovision junior
+francetv://program/france-2_concours-eurovision-de-la-chanson-junior
+#EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",100 % logique : la réponse est sous vos yeux
+francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Tout le monde veut prendre sa place
+francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
+#EXTINF:-1 tvg-id="francetv-prog-france-3_questions-pour-un-champion" tvg-logo="https://medias.france.tv/LY0H1l6DsjxrU7InSqB0TKpJlAc/400x0/filters:quality(85)/c/x/r/php81irxc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Questions pour un champion
+francetv://program/france-3_questions-pour-un-champion
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Les as du jardin
+francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/gJ1wgGIVJLj73GYL-LEPND7DghY/400x0/filters:quality(85)/v/e/d/phpdcgdev.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",The Floor - À la conquête du sol
+francetv://program/france-2_the-floor-a-la-conquete-du-sol
+#EXTINF:-1 tvg-id="francetv-prog-france-3_slam" tvg-logo="https://medias.france.tv/V9bGi7-gAKueakS45H_wHy3TGSg/400x0/filters:quality(85)/b/f/s/phpmifsfb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Slam
+francetv://program/france-3_slam
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc" tvg-logo="https://medias.france.tv/mL06GA_w90ykljybJNsgjP9d4Ao/400x0/filters:quality(85)/l/d/n/phpgh8ndl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Trouve ta coloc'
+francetv://program/jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc
+#EXTINF:-1 tvg-id="francetv-4eaea4d1-e392-48a6-bbbf-a39809e1ad8e" tvg-logo="https://medias.france.tv/6d5WPtU_lj2xz0AokaMIAEzRJFo/400x0/filters:quality(85)/0/w/g/phpxdxgw0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Droit ou pas droit ?
+francetv://4eaea4d1-e392-48a6-bbbf-a39809e1ad8e
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-carte-aux-tresors" tvg-logo="https://medias.france.tv/eVoFmqS0Tgbq2NcKYIGGmZJlFyM/400x0/filters:quality(85)/o/r/1/php4yf1ro.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",La carte aux trésors
+francetv://program/france-3_la-carte-aux-tresors
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-a-son-mot-a-dire" tvg-logo="https://medias.france.tv/-FJk7hTmv112X-m_HpI-x7lv2vo/400x0/filters:quality(85)/y/b/w/phpeilwby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Tout le monde a son mot à dire
+francetv://program/france-2_tout-le-monde-a-son-mot-a-dire
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-chaises-musicales-infernales" tvg-logo="https://medias.france.tv/eoERVPy0FIrWhUKyJKJe1YR0nmo/400x0/filters:quality(85)/p/f/z/phpxdpzfp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Les Chaises Musicales Infernales
+francetv://program/france-2_les-chaises-musicales-infernales
+#EXTINF:-1 tvg-id="francetv-prog-france-3_duels-en-familles-le-match-des-regions" tvg-logo="https://medias.france.tv/aS-FpSeAlmyqF4hZWY4EMnCYizc/400x0/filters:quality(85)/y/j/k/phplvwkjy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Duels en familles
+francetv://program/france-3_duels-en-familles-le-match-des-regions
+#EXTINF:-1 tvg-id="francetv-prog-france-2_intuition-qui-sera-le-plus-proche" tvg-logo="https://medias.france.tv/ImtfAyZ9InEJve2BLCysKQI3Frw/400x0/filters:quality(85)/k/a/x/phppurxak.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Intuition, qui sera le plus proche ?
+francetv://program/france-2_intuition-qui-sera-le-plus-proche
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_epique" tvg-logo="https://medias.france.tv/HfCWMBTT5jUs69GR8cg5z6SwNe4/400x0/filters:quality(85)/9/1/b/9b66c632afa74b85b3b04c39a9b43b19.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",EPIQUE
+francetv://program/tv5-monde_epique
+#EXTINF:-1 tvg-id="francetv-prog-france-2_chacun-son-tour" tvg-logo="https://medias.france.tv/m4foeLkPTiZEnhOoRib9Ruqx6fE/400x0/filters:quality(85)/r/a/s/php05dsar.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Chacun son Tour
+francetv://program/france-2_chacun-son-tour
+#EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",N'oubliez pas les paroles
+francetv://program/france-2_n-oubliez-pas-les-paroles
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_les-nouveaux-boss" tvg-logo="https://medias.france.tv/ggzdu2ndFKpbgXqsZSHt1Fg-Wps/400x0/filters:quality(85)/m/b/y/phpu6qybm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Les Nouveaux Boss
+francetv://program/tv5-monde_les-nouveaux-boss
+#EXTINF:-1 tvg-id="francetv-prog-france-3_le-jeu-des-1000-euros" tvg-logo="https://medias.france.tv/x0_rpamYmhxoLJOvh4iSIKf0dm8/400x0/filters:quality(85)/t/n/3/phpht83nt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Le jeu des 1000 euros
+francetv://program/france-3_le-jeu-des-1000-euros
+#EXTINF:-1 tvg-id="francetv-prog-france-2_l-anneau" tvg-logo="https://medias.france.tv/DZDrlVN_lq2pmaokDkTU7fVE1TA/400x0/filters:quality(85)/q/u/s/phpe0hsuq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",L'Anneau
+francetv://program/france-2_l-anneau
+#EXTINF:-1 tvg-id="francetv-prog-france-2_qui-ment" tvg-logo="https://medias.france.tv/LbLM0IEoNTeFz2g34MYfPJkmxAE/400x0/filters:quality(85)/r/4/t/php0pjt4r.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Qui ment ?
+francetv://program/france-2_qui-ment
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_dj-battle-africa" tvg-logo="https://medias.france.tv/kcsuwSeUnz0HqeAyu3Y7Et3wo2k/400x0/filters:quality(85)/6/6/5/208d042bd1fc438c8488967d6c4ab566.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Dj Battle Africa
+francetv://program/tv5-monde_dj-battle-africa
+#EXTINF:-1 tvg-id="francetv-prog-france-2_qui-restera-dans-la-lumiere" tvg-logo="https://medias.france.tv/uRmho0wgjrXV1gkMzsPgjdZGmhg/400x0/filters:quality(85)/k/c/f/phpgb0fck.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Qui restera dans la lumière ?
+francetv://program/france-2_qui-restera-dans-la-lumiere
+#EXTINF:-1 tvg-id="francetv-817020c3-8ddf-47d7-be42-fbe7a95a06ed" tvg-logo="https://medias.france.tv/DfhFEk9IxwIc5vco5xRJBNW4Dbw/400x0/filters:quality(85)/m/e/g/phpcepgem.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Midi Minuit — Une journée avec Camille Lellouche
+francetv://817020c3-8ddf-47d7-be42-fbe7a95a06ed
+#EXTINF:-1 tvg-id="francetv-2f965729-3020-4256-bd93-8fe5415f3fcd" tvg-logo="https://medias.france.tv/BchNrqONjbhAi-2gx3fdILduoiQ/400x0/filters:quality(85)/b/c/9/875eaf377cfa4573ab24c56fb453c9cb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Safe Zone, par Faustine Bollaert — Faustine reçoit Juliette Katz
+francetv://2f965729-3020-4256-bd93-8fe5415f3fcd
+#EXTINF:-1 tvg-id="francetv-e680e558-0332-4a57-957a-a5dfd69b8ddd" tvg-logo="https://medias.france.tv/7-C9xoY-Lgu1_sx5TCyCeWpwJK0/400x0/filters:quality(85)/s/p/b/php1o9bps.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les rencontres du Papotin — Kad Merad
+francetv://e680e558-0332-4a57-957a-a5dfd69b8ddd
+#EXTINF:-1 tvg-id="francetv-f42c2387-47c9-488e-8efc-390a00d95f63" tvg-logo="https://medias.france.tv/9gI-te97Kr9nyFKZY7jG0tcNmk8/400x0/filters:quality(85)/d/y/n/phputnnyd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Abdoul fait son cinéma — JoeyStarr  se livre comme jamais
+francetv://f42c2387-47c9-488e-8efc-390a00d95f63
+#EXTINF:-1 tvg-id="francetv-ee4eaae8-d473-4176-aff8-465f9acbe521" tvg-logo="https://medias.france.tv/dlWQDcoi72Dh7k8TWSAIelIMigc/400x0/filters:quality(85)/5/e/9/6035baedc40e461da0472b89e96209e5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Midi Minuit — Une journée avec Paul de Saint Sernin
+francetv://ee4eaae8-d473-4176-aff8-465f9acbe521
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_abdoul-fait-son-cinema" tvg-logo="https://medias.france.tv/sOc_xC-kO00Z_4lwrIHcdcDOLJs/400x0/filters:quality(85)/7/h/q/phpukaqh7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Abdoul fait son cinéma
+francetv://program/spectacles-et-culture_abdoul-fait-son-cinema
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Un dimanche à la campagne
+francetv://program/france-2_un-dimanche-a-la-campagne
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-rencontres-du-papotin" tvg-logo="https://medias.france.tv/f0n78nCs71hhYYpLI1BrFxjs93c/400x0/filters:quality(85)/3/n/k/phpjtukn3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les rencontres du Papotin
+francetv://program/france-2_les-rencontres-du-papotin
+#EXTINF:-1 tvg-id="francetv-prog-slash_derush" tvg-logo="https://medias.france.tv/QTDmJdQ4t3LKO2mQmTnCco44xzs/400x0/filters:quality(85)/8/c/q/phph9pqc8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Dérush
+francetv://program/slash_derush
+#EXTINF:-1 tvg-id="francetv-prog-slash_midi-minuit" tvg-logo="https://medias.france.tv/xVV7wCx7-kmfv4djSeRJxO-0m3M/400x0/filters:quality(85)/p/b/x/phpatnxbp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Midi Minuit
+francetv://program/slash_midi-minuit
+#EXTINF:-1 tvg-id="francetv-prog-slash_safe-zone-par-faustine-bollaert" tvg-logo="https://medias.france.tv/vHMQWpxaAsbjlWBZ_lP7bnlRTdA/400x0/filters:quality(85)/1/4/y/phppsay41.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Safe Zone, par Faustine Bollaert
+francetv://program/slash_safe-zone-par-faustine-bollaert
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-grande-galerie-francophone" tvg-logo="https://medias.france.tv/58yvGo7wx6yDFWpVhuIscVLt8S4/400x0/filters:quality(85)/5/3/0/c999124b2bab4718a306e0c6caf4f370337a45772b49648cb08ebb0e2a668035.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",La grande galerie francophone
+francetv://program/tv5-monde_la-grande-galerie-francophone
+#EXTINF:-1 tvg-id="francetv-prog-slash_feat" tvg-logo="https://medias.france.tv/Edq7jBBlHKj1UXJhSK_WgQbUnvg/400x0/filters:quality(85)/x/x/y/phpsmfyxx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",feat.
+francetv://program/slash_feat
+#EXTINF:-1 tvg-id="francetv-prog-public-senat_un-monde-un-regard" tvg-logo="https://medias.france.tv/8cZgutRP9jWKiw2udj06clQc6IM/400x0/filters:quality(85)/d/k/j/phpkudjkd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Un monde, un regard
+francetv://program/public-senat_un-monde-un-regard
+#EXTINF:-1 tvg-id="francetv-prog-france-4_conciliabule" tvg-logo="https://medias.france.tv/mKa0QL-mdM5TqSuSi1-n2IEIRds/400x0/filters:quality(85)/w/i/y/phpwupyiw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Conciliabule
+francetv://program/france-4_conciliabule
+#EXTINF:-1 tvg-id="francetv-prog-france-2_theo-le-taxi" tvg-logo="https://medias.france.tv/wRksO7eKBWchJxZBqOI0byo1Z4c/400x0/filters:quality(85)/3/j/o/phpgwxoj3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Théo le taxi
+francetv://program/france-2_theo-le-taxi
+#EXTINF:-1 tvg-id="francetv-prog-slash_insomnie" tvg-logo="https://medias.france.tv/slT-aYO7NC-MYuUnj7CpV26ExP4/400x0/filters:quality(85)/k/h/3/phpci43hk.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Insomnie
+francetv://program/slash_insomnie
+#EXTINF:-1 tvg-id="francetv-prog-arte_les-grands-entretiens" tvg-logo="https://medias.france.tv/-Htkui394P4sNY9vhLrnNEbtaJw/400x0/filters:quality(85)/d/f/d/fff9bed1df384e658f24c36b2ba33dfd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les grands entretiens
+francetv://program/arte_les-grands-entretiens
+#EXTINF:-1 tvg-id="francetv-prog-slash_moonwalk" tvg-logo="https://medias.france.tv/KmuzYROifz1BlwnDB0XqlnLjwwk/400x0/filters:quality(85)/e/x/d/php2xddxe.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Moonwalk
+francetv://program/slash_moonwalk
+#EXTINF:-1 tvg-id="francetv-prog-films_rencontre-s" tvg-logo="https://medias.france.tv/zXPw4GsNkrRKrWirGclTlplllOA/400x0/filters:quality(85)/e/t/w/php0n5wte.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Rencontre(s)...
+francetv://program/films_rencontre-s
+#EXTINF:-1 tvg-id="francetv-b815fbd2-f971-49ac-bdc2-d6a475297a34" tvg-logo="https://medias.france.tv/MIcvgOCUuiaGxGvzPS5NWXlKP7Q/400x0/filters:quality(85)/4/i/g/phpuiygi4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Échappées belles — Ecosse, la magie des Highlands
+francetv://b815fbd2-f971-49ac-bdc2-d6a475297a34
+#EXTINF:-1 tvg-id="francetv-5308f09d-3eea-4f83-b61c-f33af1f676c0" tvg-logo="https://medias.france.tv/lOhK1NSYz5119n_B9XJcDwIw8tg/400x0/filters:quality(85)/9/a/9/4cd5dd1eea4f4137935cba04f5c109a9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Orient-Express, le voyage d'une légende
+francetv://5308f09d-3eea-4f83-b61c-f33af1f676c0
+#EXTINF:-1 tvg-id="francetv-0a2c73e3-dbb7-4888-b1ad-daa3c53c7980" tvg-logo="https://medias.france.tv/M3_j4jK8oHPq01qw2TrkNHhQ6lE/400x0/filters:quality(85)/9/e/4/c11b305970d2456bbc767d40bd6414e9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Hokkaïdo, le pôle japonais
+francetv://0a2c73e3-dbb7-4888-b1ad-daa3c53c7980
+#EXTINF:-1 tvg-id="francetv-prog-arte_hotels-mythiques" tvg-logo="https://medias.france.tv/OQlIfPRYNgxnEOxueQAe-wf_CWo/400x0/filters:quality(85)/1/d/a/025f7f93df694e0b9675d2cabc0d9ad1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Hôtels mythiques
+francetv://program/arte_hotels-mythiques
+#EXTINF:-1 tvg-id="francetv-6fb89920-3b88-4031-8eeb-7f73bff08722" tvg-logo="https://medias.france.tv/ytOsU0mj21OpAthx9lrHOS34BqY/400x0/filters:quality(85)/i/m/v/phpdljvmi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Des trains pas comme les autres — Istanbul, au fil du Bosphore
+francetv://6fb89920-3b88-4031-8eeb-7f73bff08722
+#EXTINF:-1 tvg-id="francetv-3408ded3-7e66-4dda-bd26-b69e17d68eb5" tvg-logo="https://medias.france.tv/iCai9-rRY6nX4OXB_-kwRbjHyMA/400x0/filters:quality(85)/a/e/s/phpgh7sea.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Destination francophonie - Version 52' — Destination Lettonie
+francetv://3408ded3-7e66-4dda-bd26-b69e17d68eb5
+#EXTINF:-1 tvg-id="francetv-33ff1303-626d-4352-8246-0981afb57c75" tvg-logo="https://medias.france.tv/fai19pZbdqOi8HR-Kq8gKvbT_hY/400x0/filters:quality(85)/1/6/d/9a033894913046d4ad0c17b808ebcd61.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Les Seychelles : Un joyau de la nature
+francetv://33ff1303-626d-4352-8246-0981afb57c75
+#EXTINF:-1 tvg-id="francetv-17d55299-bc6e-493e-962d-5bebf6fc0cf0" tvg-logo="https://medias.france.tv/R3n04FIL9bv3hEwvcM13Xk07TqE/400x0/filters:quality(85)/4/5/p/phprqtp54.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Échappées belles — Tarn, fascinante découverte
+francetv://17d55299-bc6e-493e-962d-5bebf6fc0cf0
+#EXTINF:-1 tvg-id="francetv-prog-france-5_les-aventuriers-de-l-egypte-antique" tvg-logo="https://medias.france.tv/LEAJU9Fz8XLNHGTwiQqa-XSAq20/400x0/filters:quality(85)/1/i/u/phppxtui1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Les aventuriers de l'Egypte antique
+francetv://program/france-5_les-aventuriers-de-l-egypte-antique
+#EXTINF:-1 tvg-id="francetv-prog-france-5_j-ai-un-colis-pour-vous" tvg-logo="https://medias.france.tv/q7jbgWLMyVHupWs_eOuOhZY_owE/400x0/filters:quality(85)/s/w/z/phpdp0zws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",J'ai un colis pour vous !
+francetv://program/france-5_j-ai-un-colis-pour-vous
+#EXTINF:-1 tvg-id="francetv-prog-public-senat_patrimoines-de-france" tvg-logo="https://medias.france.tv/sRZM_RwOZBMTBKOyr_mJYV67bVA/400x0/filters:quality(85)/w/o/c/php948cow.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Patrimoines de France
+francetv://program/public-senat_patrimoines-de-france
+#EXTINF:-1 tvg-id="francetv-prog-france-5_des-trains-pas-comme-les-autres" tvg-logo="https://medias.france.tv/PDYBJfIzSEvCSruR3JDbsA2AHCc/400x0/filters:quality(85)/i/6/b/phpzrqb6i.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Des trains pas comme les autres
+francetv://program/france-5_des-trains-pas-comme-les-autres
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_j-ai-les-cles" tvg-logo="https://medias.france.tv/U1QkF94JoNdJiVNUZ7rYZNW7WeQ/400x0/filters:quality(85)/8/3/c/5964a01024204d9e9102cdf943fcdc38.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",J'ai les clés
+francetv://program/tv5-monde_j-ai-les-cles
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_destination-francophonie-version-52" tvg-logo="https://medias.france.tv/RGiSDa7Iri13NjUZxXOcDXOWZ7k/400x0/filters:quality(85)/d/d/2/bc6bd765fe3a42b8b3db57fc513c72dd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Destination francophonie - Version 52'
+francetv://program/tv5-monde_destination-francophonie-version-52
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-belle-vie" tvg-logo="https://medias.france.tv/fEW8IyjGGk0C6g8gubllFY0rBIg/400x0/filters:quality(85)/6/d/2/0bb6c0ccc4a140eab4ac107fc89272d6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",La belle vie
+francetv://program/tv5-monde_la-belle-vie
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_pilotes-de-brousse" tvg-logo="https://medias.france.tv/7HWeqViMekDuNYfXeC4OCsRhRHM/400x0/filters:quality(85)/a/c/d/b4cc39bf5ff145c88625a3110acb6dca.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Pilotes de brousse
+francetv://program/tv5-monde_pilotes-de-brousse
+#EXTINF:-1 tvg-id="francetv-prog-france-5_echappees-belles" tvg-logo="https://medias.france.tv/YEPSNRUiQSVfkdVA65TPVlioxaU/400x0/filters:quality(85)/d/v/g/phpfsqgvd.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Échappées belles
+francetv://program/france-5_echappees-belles
+#EXTINF:-1 tvg-id="francetv-prog-france-5_les-100-lieux-qu-il-faut-voir" tvg-logo="https://medias.france.tv/rR-SDhzb8dyvpAccHVyaQGogWDU/400x0/filters:quality(85)/d/6/5/php5j456d.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Les 100 lieux qu'il faut voir
+francetv://program/france-5_les-100-lieux-qu-il-faut-voir
+#EXTINF:-1 tvg-id="francetv-prog-arte_invitation-au-voyage" tvg-logo="https://medias.france.tv/vXh72ASMeWD8JQnkCRvDJNMtYP0/400x0/filters:quality(85)/4/d/9/c649ed6b07df46ffb2388ce87d0989d4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Invitation au voyage
+francetv://program/arte_invitation-au-voyage
+#EXTINF:-1 tvg-id="francetv-prog-france-5_thalassa-aventures-extremes" tvg-logo="https://medias.france.tv/OqZkEFFAdXC9iTOG8830VeGvDug/400x0/filters:quality(85)/x/6/k/phpfd7k6x.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Thalassa, aventures extrêmes
+francetv://program/france-5_thalassa-aventures-extremes
+#EXTINF:-1 tvg-id="francetv-prog-france-5_25-kilos-3-jours-pour-vider-son-sac" tvg-logo="https://medias.france.tv/ylmd0CbFnC-02gqtZQ1w101iL-k/400x0/filters:quality(85)/n/5/m/phpxrjm5n.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",25 kilos : 3 jours pour vider son sac
+francetv://program/france-5_25-kilos-3-jours-pour-vider-son-sac
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_destination-francophonie" tvg-logo="https://medias.france.tv/E--TPYw52OFpRN1zVrbDA2B2uGI/400x0/filters:quality(85)/9/3/5/d840f673881241f58d40303f9f900539.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Destination francophonie
+francetv://program/tv5-monde_destination-francophonie
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_nus-et-culottes" tvg-logo="https://medias.france.tv/WrQyZv7HIiB4FUrwQ_wpYsSaOCc/400x0/filters:quality(85)/a/x/h/phpuz9hxa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Nus & culottés
+francetv://program/documentaires_nus-et-culottes
+#EXTINF:-1 tvg-id="francetv-aa35cc90-aef7-490e-807d-3cc9916660dc" tvg-logo="https://medias.france.tv/3LXNvPcS8OBEjX5WsS2xhsAicaE/400x0/filters:quality(85)/u/a/2/phphy42au.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Le meilleur de... — Le meilleur de la crêpe
+francetv://aa35cc90-aef7-490e-807d-3cc9916660dc
+#EXTINF:-1 tvg-id="francetv-25a4a7a2-fd89-4127-b958-eebc844f876a" tvg-logo="https://medias.france.tv/8GY2tEgtqsmf7SwPZYdx5x-VAbo/400x0/filters:quality(85)/f/n/3/php2xk3nf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Grignote-moi si tu peux, les dessous de l'apéritif
+francetv://25a4a7a2-fd89-4127-b958-eebc844f876a
+#EXTINF:-1 tvg-id="francetv-bca3735f-2c82-445c-b91a-1fd2f491a02e" tvg-logo="https://medias.france.tv/9uIp3TDAYk4MdN4v8scTwe_Zb5M/400x0/filters:quality(85)/5/6/0/6b97df6f5d1f448d811454f9801e0065.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Voyage gourmand — Les pâtes
+francetv://bca3735f-2c82-445c-b91a-1fd2f491a02e
+#EXTINF:-1 tvg-id="francetv-prog-france-3_cuisine-ouverte" tvg-logo="https://medias.france.tv/wq83V_jwPcX4UOA8Fv6VmD21ulM/400x0/filters:quality(85)/d/l/v/phpet0vld.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Cuisine ouverte
+francetv://program/france-3_cuisine-ouverte
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_ton-plat-mon-plat" tvg-logo="https://medias.france.tv/5gMAhq0Pr2XtfqQ8V5QIthYQpQw/400x0/filters:quality(85)/6/2/3/409514d8b921458b98d81f199ed36326.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Ton plat, mon plat !
+francetv://program/tv5-monde_ton-plat-mon-plat
+#EXTINF:-1 tvg-id="francetv-prog-slash_passion-pizza" tvg-logo="https://medias.france.tv/A4_-kNyhOyIYVHRieI8OG63P0SY/400x0/filters:quality(85)/3/e/q/phpuudqe3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Passion Pizza
+francetv://program/slash_passion-pizza
+#EXTINF:-1 tvg-id="francetv-prog-arte_voyage-en-cuisine" tvg-logo="https://medias.france.tv/qk7abNQvsChMZyd6gTz8p4EWLjo/400x0/filters:quality(85)/5/b/e/f160a75648844a6faf6abbabb4dd6eb5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Voyage en cuisine
+francetv://program/arte_voyage-en-cuisine
+#EXTINF:-1 tvg-id="francetv-prog-france-3_grand-est_c-est-succulent" tvg-logo="https://medias.france.tv/NaQWTp6SuCVKud5w6W6jxnL2Dbc/400x0/filters:quality(85)/w/5/w/phpwuqw5w.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",C'est Succulent !
+francetv://program/france-3_grand-est_c-est-succulent
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_safran-saveurs-by-chef-simo" tvg-logo="https://medias.france.tv/LWJRgfT-QbVMVfJ8XE7fMPgxx4E/400x0/filters:quality(85)/b/0/6/f31e47f8bf1f45fd9ebda998023135b9f18dbc767f510c578b5d600b0ab9860b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Safran & Saveurs by Chef Simo
+francetv://program/tv5-monde_safran-saveurs-by-chef-simo
+#EXTINF:-1 tvg-id="francetv-prog-slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix" tvg-logo="https://medias.france.tv/w16P546XsOnTtimBaMnFfao-6ks/400x0/filters:quality(85)/j/c/m/php9temcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Nabil Zemmouri – Le Chef des défis à petit prix
+francetv://program/slash_nabil-zemmouri-le-chef-des-defis-a-petit-prix
+#EXTINF:-1 tvg-id="francetv-prog-arte_cuisines-des-terroirs" tvg-logo="https://medias.france.tv/I8ENLM8uMULl_sThAdg64J29ZVc/400x0/filters:quality(85)/7/a/b/8ce500f9bcdb4967a50719c8a37d41ac4470c17ad575ac058669f0749860dba7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Cuisines des terroirs
+francetv://program/arte_cuisines-des-terroirs
+#EXTINF:-1 tvg-id="francetv-prog-france-3_grand-est_succulent" tvg-logo="https://medias.france.tv/Qs-BWk3WRQqgLS6rW0yEnxnkT9Q/400x0/filters:quality(85)/e/4/r/php9qmr4e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",*Succulent !
+francetv://program/france-3_grand-est_succulent
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_guadeloupe_chef-pays" tvg-logo="https://medias.france.tv/h11gLyffjWDqgrD1lPyCDjFjsHw/400x0/filters:quality(85)/i/p/8/phph3v8pi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Chef pays
+francetv://program/la1ere_guadeloupe_chef-pays
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-table-du-fermier" tvg-logo="https://medias.france.tv/tfsNVPZSCYniQSgblHaY2KfEv24/400x0/filters:quality(85)/7/3/f/9f802fb85f4741289bce2b557e874f37.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",La table du fermier
+francetv://program/tv5-monde_la-table-du-fermier
+#EXTINF:-1 tvg-id="francetv-10f4d49e-5924-451d-a7c1-9a639901a043" tvg-logo="https://medias.france.tv/q039Wue7l38STSdKU45DDFS99Go/400x0/filters:quality(85)/b/m/k/phpk19kmb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",INA ADN — Thierry Marx, le chef engagé
+francetv://10f4d49e-5924-451d-a7c1-9a639901a043
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_nouvelle-caledonie_bon-ap-les-recettes-caledoniennes" tvg-logo="https://medias.france.tv/u10Kc_sBt4F7QVzeQ4MJ2G4phjg/400x0/filters:quality(85)/4/m/f/phpdvafm4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Bon ap', les recettes calédoniennes
+francetv://program/la1ere_nouvelle-caledonie_bon-ap-les-recettes-caledoniennes
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_a-l-ecole-hoteliere" tvg-logo="https://medias.france.tv/93udbMN68kOusxPw2XMo17ciPsI/400x0/filters:quality(85)/e/1/e/a5106f84390a49f1941cc0bc91238e1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",À l'école hôtelière
+francetv://program/tv5-monde_a-l-ecole-hoteliere
+#EXTINF:-1 tvg-id="francetv-prog-france-3_bretagne_homard-et-cordon-bleu" tvg-logo="https://medias.france.tv/ZK0cHFkn01yU6_wdBIrcDejxxlc/400x0/filters:quality(85)/1/u/c/php8ajcu1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Homard et cordon bleu
+francetv://program/france-3_bretagne_homard-et-cordon-bleu
+#EXTINF:-1 tvg-id="francetv-prog-slash_bistronomia" tvg-logo="https://medias.france.tv/kJy7xhoirSbLETw77TroHocjE5U/400x0/filters:quality(85)/f/s/i/php3umisf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Bistronomia
+francetv://program/slash_bistronomia
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-recette-du-bonheur" tvg-logo="https://medias.france.tv/oMdw7F1su1FPdxGhJXvdtS7_8ow/400x0/filters:quality(85)/1/6/b/c22da1255fde47e5a18d2dad935ceb61.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",La recette du bonheur
+francetv://program/tv5-monde_la-recette-du-bonheur
+#EXTINF:-1 tvg-id="francetv-prog-france-3_interieurs" tvg-logo="https://medias.france.tv/9ChQV36aBf0sDTgHgzLRDljX9x0/400x0/filters:quality(85)/1/h/e/phpzhreh1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Intérieurs, la déco de vos régions
+francetv://program/france-3_interieurs
+#EXTINF:-1 tvg-id="francetv-prog-france-5_silence-ca-pousse" tvg-logo="https://medias.france.tv/lg07RM2qDwil27DpIUFP3LXCT3Y/400x0/filters:quality(85)/x/u/i/phpyoviux.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Silence, ça pousse !
+francetv://program/france-5_silence-ca-pousse
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_ding-dong-montre-moi-ta-maison" tvg-logo="https://medias.france.tv/WTLQ0TDiWGmEnrUnOwbRz1PLyo8/400x0/filters:quality(85)/5/7/a/36490e9b4c67489d8e49be13bc283a75.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Ding dong : montre-moi ta maison !
+francetv://program/tv5-monde_ding-dong-montre-moi-ta-maison
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_histoire-s-de-jardins" tvg-logo="https://medias.france.tv/zZICceZ8FMSNQycjNFYGBWq0yLE/400x0/filters:quality(85)/c/1/5/935b05cd47ac4b00a7fa67f9859dd51c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Histoire(s) de jardins
+francetv://program/tv5-monde_histoire-s-de-jardins
+#EXTINF:-1 tvg-id="francetv-prog-france-3_nouvelle-aquitaine_la-vie-a-velo" tvg-logo="https://medias.france.tv/ElQTW8ZfYd0PhbpIOVci4EPjU1c/400x0/filters:quality(85)/t/6/6/phpjza66t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",La vie à vélo
+francetv://program/france-3_nouvelle-aquitaine_la-vie-a-velo
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_les-30-travaux-de-charlie-et-elliot" tvg-logo="https://medias.france.tv/7wXrn5s1xeTgbazdP2zI0RKAi4c/400x0/filters:quality(85)/6/9/8/dc81313234d941d9b02e16333d169896.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Les 30 travaux de Charlie et Elliot
+francetv://program/tv5-monde_les-30-travaux-de-charlie-et-elliot
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_cousu" tvg-logo="https://medias.france.tv/LjDXsR1Waw1NfFbuMAOsf3PiBuM/400x0/filters:quality(85)/f/b/5/5cf07030d719411bbefcb8407ef555bf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Cousu
+francetv://program/tv5-monde_cousu
+#EXTINF:-1 tvg-id="francetv-prog-france-3_grand-est_cosy-le-mag-deco" tvg-logo="https://medias.france.tv/9CqKuWU1wR8oLLJ9WUKHSb7z_vk/400x0/filters:quality(85)/p/v/i/phpn32ivp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Cosy, le mag déco
+francetv://program/france-3_grand-est_cosy-le-mag-deco
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_nouvelle-caledonie_des-racines-et-des-plantes" tvg-logo="https://medias.france.tv/ixWJAfI2do58q8vBHq7t8Qb7xME/400x0/filters:quality(85)/w/z/r/php7qwrzw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Des racines et des plantes
+francetv://program/la1ere_nouvelle-caledonie_des-racines-et-des-plantes
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_bien-bati" tvg-logo="https://medias.france.tv/exIHuggixsGa-cu-I5xghMvQqfM/400x0/filters:quality(85)/2/2/a/9910072ad85047e99007a11206f1ba22.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Bien bâti
+francetv://program/tv5-monde_bien-bati
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_tendance-xxi" tvg-logo="https://medias.france.tv/7EcK7wO_Aun_uGf0xN5E4ZjNzRw/400x0/filters:quality(85)/0/3/8/fe522d6f454f452ea7ae38d6ab5be830.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Tendance XXI
+francetv://program/tv5-monde_tendance-xxi
+#EXTINF:-1 tvg-id="francetv-prog-arte_autour-de-la-maison" tvg-logo="https://medias.france.tv/aFV37je0eefaU5eJwvo-rjAaDoQ/400x0/filters:quality(85)/e/e/s/phpncqsee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Autour de la maison
+francetv://program/arte_autour-de-la-maison
+#EXTINF:-1 tvg-id="francetv-prog-france-2_bel-et-bien" tvg-logo="https://medias.france.tv/h6PSaZA7HNBHSxNFhxKBxjVMzS4/400x0/filters:quality(85)/i/h/x/phpfjgxhi.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Bel & bien
+francetv://program/france-2_bel-et-bien
+#EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Macadam Circus
+francetv://937df373-39ec-4f57-8ddc-67cff8364100
+#EXTINF:-1 tvg-id="francetv-53063e49-562c-432a-9f03-b0fad6bd1836" tvg-logo="https://medias.france.tv/F7PKqyrkHyqkis4MU8SoJiU8Ep0/400x0/filters:quality(85)/j/w/o/phpwjbowj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club — Mulhouse
+francetv://53063e49-562c-432a-9f03-b0fad6bd1836
+#EXTINF:-1 tvg-id="francetv-26e28f07-0809-49be-97e2-c787d9289d1c" tvg-logo="https://medias.france.tv/bnde2q_RU4zfvFnnSgm5SAVcyYc/400x0/filters:quality(85)/j/k/q/phpfagqkj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Diane Segard - Parades
+francetv://26e28f07-0809-49be-97e2-c787d9289d1c
+#EXTINF:-1 tvg-id="francetv-751da5d8-8ce1-49d9-8f9e-96481b0a4f06" tvg-logo="https://medias.france.tv/bgPM5o8hj3Y_cDcuNWJGygxUVj4/400x0/filters:quality(85)/1/u/m/phpghamu1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club — Strasbourg, La Péniche du rire
+francetv://751da5d8-8ce1-49d9-8f9e-96481b0a4f06
+#EXTINF:-1 tvg-id="francetv-83102f1e-adab-448f-a6d4-e65a346a83ec" tvg-logo="https://medias.france.tv/BjpeJF8IhHp65Aaia5XGsImZ8Pw/400x0/filters:quality(85)/c/q/o/phpqyooqc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club — Dijon
+francetv://83102f1e-adab-448f-a6d4-e65a346a83ec
+#EXTINF:-1 tvg-id="francetv-59c98528-2e01-47b8-a759-572e5514e2c3" tvg-logo="https://medias.france.tv/E5NqCkavu6J4CGgUd9OJ-gsEPow/400x0/filters:quality(85)/b/c/k/phpqaokcb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Le gala de l'humour - juste pour rire
+francetv://59c98528-2e01-47b8-a759-572e5514e2c3
+#EXTINF:-1 tvg-id="francetv-3640d2eb-b594-4a0d-9110-a655c9278520" tvg-logo="https://medias.france.tv/npm4MHmSPEQ6V7cMl36HsvUGUos/400x0/filters:quality(85)/l/4/u/phpgigu4l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Paloma au PluriElles
+francetv://3640d2eb-b594-4a0d-9110-a655c9278520
+#EXTINF:-1 tvg-id="francetv-41b61021-3d08-43b7-8bbb-d65894554ad2" tvg-logo="https://medias.france.tv/f765U5CedYK4Qrg1mQ-Kxx_BKM8/400x0/filters:quality(85)/v/z/x/phphwvxzv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",David Castello-Lopes : Authentique
+francetv://41b61021-3d08-43b7-8bbb-d65894554ad2
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_best-of-montreux-comedy-festival" tvg-logo="https://medias.france.tv/jvKsplZ3-SEDIAk19hg2CnGExc0/400x0/filters:quality(85)/9/a/8/e07791b6ea5047949736965028ae38a9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Best of Montreux Comedy Festival
+francetv://program/tv5-monde_best-of-montreux-comedy-festival
+#EXTINF:-1 tvg-id="francetv-23ba87eb-1bea-429d-a6e3-5d1b9d23e7c0" tvg-logo="https://medias.france.tv/YD4vMQzda50ZVZvm8FM5Etok6jY/400x0/filters:quality(85)/d/n/c/php92ucnd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",L'humour à la française
+francetv://23ba87eb-1bea-429d-a6e3-5d1b9d23e7c0
+#EXTINF:-1 tvg-id="francetv-prog-arte_stand-up-la-rage-de-rire" tvg-logo="https://medias.france.tv/jB0vV2C66XHU2Hrl-6AJG_h9d9E/400x0/filters:quality(85)/3/f/d/8df9dd2d26614d01b02b08e103f728771513feff9047ada7538349c2550f6df3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Stand-up la rage de rire
+francetv://program/arte_stand-up-la-rage-de-rire
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_comme-a-la-maison" tvg-logo="https://medias.france.tv/PIQMrDMVBE2skKOre0Lu6kP2knQ/400x0/filters:quality(85)/e/7/e/e009ed0560854a5f9f9a9288784d4e7e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Comme à la maison
+francetv://program/tv5-monde_comme-a-la-maison
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_top-comedy-club" tvg-logo="https://medias.france.tv/ZlyL1KsTio-i6UqCBoc6Oeyktj0/400x0/filters:quality(85)/a/g/o/php8ueoga.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club
+francetv://program/spectacles-et-culture_top-comedy-club
+#EXTINF:-1 tvg-id="francetv-prog-france-2_generation-paname" tvg-logo="https://medias.france.tv/f232nR0a0xeYdshSrwXLyUeKtIA/400x0/filters:quality(85)/r/k/d/phpaerdkr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Génération Paname
+francetv://program/france-2_generation-paname
+#EXTINF:-1 tvg-id="francetv-prog-france-2_comedy-club-express" tvg-logo="https://medias.france.tv/7hU4h8FcbDwvN-IvKhY0CVYOx04/400x0/filters:quality(85)/m/i/6/phpdz16im.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Comedy Club Express
+francetv://program/france-2_comedy-club-express
+#EXTINF:-1 tvg-id="francetv-bbe063a8-65d9-4809-af44-e655485d774a" tvg-logo="https://medias.france.tv/h02LhHTUyvjeNbPBB10gqoK5-xo/400x0/filters:quality(85)/4/1/d/d384066e6e9b49b9919312ac9b1b7d14.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Comedy Club Express — Toulouse
+francetv://bbe063a8-65d9-4809-af44-e655485d774a
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_cotonou-comedy-festival-2025" tvg-logo="https://medias.france.tv/f-kWhcKO1LJT4gd1PPFZb1wwjWM/400x0/filters:quality(85)/8/b/d/95b359dfc06e4e7692a4cf68a269fdb8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Cotonou Comedy Festival 2025
+francetv://program/tv5-monde_cotonou-comedy-festival-2025
+#EXTINF:-1 tvg-id="francetv-246f86d4-f350-11ee-97e0-2ba3426fa3df" tvg-logo="https://medias.france.tv/TXDz6aboimqP-RnzS02u0OKKP1E/400x0/filters:quality(85)/4/a/2/php6kn2a4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",À l'origine du stand-up
+francetv://246f86d4-f350-11ee-97e0-2ba3426fa3df
+#EXTINF:-1 tvg-id="francetv-1a06015f-e77e-428f-b7e2-38d13b071592" tvg-logo="https://medias.france.tv/yacl2YlSvqPDNdlqkPYMQNipZPc/400x0/filters:quality(85)/1/d/f/9ab0daba836641f19599786a1edabfd1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Riding Zone, sports extrêmes et culture glisse — Le jour où Taïg Khris a sauté de la Tour Eiffel en roller
+francetv://1a06015f-e77e-428f-b7e2-38d13b071592
+#EXTINF:-1 tvg-id="francetv-ae44e07a-a488-11f1-9540-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/owW7ebcgzyEcNPZmLaX-WF2jdto/400x0/filters:quality(85)/2/9/5/b4f306b6f0ac414880155584159b8592.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Isack Hadjar et Sophie Adenot : de la piste aux étoiles
+francetv://ae44e07a-a488-11f1-9540-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-prog-france-3_hors-jeu" tvg-logo="https://medias.france.tv/Lz1jTzcby8l-4hJaKm3LvdO5-Zg/400x0/filters:quality(85)/c/n/i/phpawoinc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Hors Jeu
+francetv://program/france-3_hors-jeu
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_terrain-de-jeu" tvg-logo="https://medias.france.tv/oQMNkjJCxbFOn9YsS3ZD96xd24s/400x0/filters:quality(85)/6/d/9/f6b96e1f73374630b60cef2cbc69d9d6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Terrain de jeu
+francetv://program/tv5-monde_terrain-de-jeu
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_l-etoffe-des-athletes" tvg-logo="https://medias.france.tv/DUY1F8Rf32xoXdvsoj83b_Ys5p0/400x0/filters:quality(85)/c/a/4/773430e506bc4c7897771ddc9a9e051e50c1e5717f5a6340fc40ad77c00374ac.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",L'étoffe des athlètes
+francetv://program/tv5-monde_l-etoffe-des-athletes
+#EXTINF:-1 tvg-id="francetv-424276bf-f8a6-41e2-bc73-5c3295368117" tvg-logo="https://medias.france.tv/gOX5ILr3Krq5IubKmBqx4uur_HE/400x0/filters:quality(85)/s/j/3/phpste3js.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Duels d'Histoire — Billie Jean King vs Bobby Riggs
+francetv://424276bf-f8a6-41e2-bc73-5c3295368117
+#EXTINF:-1 tvg-id="francetv-bf7943d4-f7b5-11f0-82b3-957ddefc544d" tvg-logo="https://medias.france.tv/XLsn-bk7_bKW1VecH0zxc6fllOI/400x0/filters:quality(85)/8/f/a/381183bcd4654461aba932304d4d9af8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Théo le Taxi : en voiture avec Nikola Karabatic
+francetv://bf7943d4-f7b5-11f0-82b3-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-1930a2bb-6344-4173-bec3-16a4ff83c18b" tvg-logo="https://medias.france.tv/I12CA4EwQKJG_Mz72lKZTog8VTE/400x0/filters:quality(85)/7/9/3/e908579c264b457099a53e2e9a143397.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",MMA, au-delà des coups - Le documentaire
+francetv://1930a2bb-6344-4173-bec3-16a4ff83c18b
+#EXTINF:-1 tvg-id="francetv-1df9aa4c-ef29-11f0-ac7b-57a09c50f7ce" tvg-logo="https://medias.france.tv/yrbiF7ycTQkzB_CD06IYPMXTeRc/400x0/filters:quality(85)/4/3/5/a29ae6c65cc04280b73c14b9803a9534.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Stade 2 — Grand format : Jimmy Gressier, le rêve américain
+francetv://1df9aa4c-ef29-11f0-ac7b-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-aa413347-356b-47a7-9f44-52610cf7ff26" tvg-logo="https://medias.france.tv/5ucvhscO4NhFmEZf7JtWiyOzrqs/400x0/filters:quality(85)/m/e/4/phpzew4em.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Les étoiles de la glace : Gala des champions
+francetv://aa413347-356b-47a7-9f44-52610cf7ff26
+#EXTINF:-1 tvg-id="francetv-prog-slash_riding-zone-sports-extremes-et-culture-glisse" tvg-logo="https://medias.france.tv/lMcc-8bqVtwi1V2WfqldhEpcZmw/400x0/filters:quality(85)/x/n/r/php11drnx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Riding Zone, sports extrêmes et culture glisse
+francetv://program/slash_riding-zone-sports-extremes-et-culture-glisse
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_les-heros-du-gazon" tvg-logo="https://medias.france.tv/SIkGb9qANizQ1OxWnNvAqKDAQJw/400x0/filters:quality(85)/j/c/m/phpy1dmcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Les héros du gazon
+francetv://program/documentaires_les-heros-du-gazon
+#EXTINF:-1 tvg-id="francetv-prog-slash_made-in-massy-une-saison-pour-devenir-pro" tvg-logo="https://medias.france.tv/JomT7BfVaWUkNL59SvPaB3q1Slk/400x0/filters:quality(85)/z/v/v/php33kvvz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Made in Massy, une saison pour devenir pro
+francetv://program/slash_made-in-massy-une-saison-pour-devenir-pro
+#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_au-galop" tvg-logo="https://medias.france.tv/4JhjSfkj1HS1TL4THnaO7iIyCHc/400x0/filters:quality(85)/e/9/g/phpfbzg9e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Au galop !
+francetv://program/enfants_six-huit-ans_au-galop
+#EXTINF:-1 tvg-id="francetv-prog-france-2_au-coeur-du-gp-explorer" tvg-logo="https://medias.france.tv/foFFnfIY_cv5B0e08nRJk0SZCOU/400x0/filters:quality(85)/n/u/m/phptkymun.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Au coeur du GP Explorer
+francetv://program/france-2_au-coeur-du-gp-explorer
+#EXTINF:-1 tvg-id="francetv-prog-slash_level-up-au-coeur-de-l-esport-francais" tvg-logo="https://medias.france.tv/Iz65YGQi-H7GWdj30fYpMphBltw/400x0/filters:quality(85)/a/h/3/phpz6b3ha.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Level up, au cœur de l'esport français
+francetv://program/slash_level-up-au-coeur-de-l-esport-francais
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_virago-sportives" tvg-logo="https://medias.france.tv/CI_NH1TTJ8oYszuu-O7fzzg4kOE/400x0/filters:quality(85)/b/9/9/fbdd39d7668c4122b2f1fd813813daabf132c31c9e1bb196d9094e9e0eb9699b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Virago sportives
+francetv://program/tv5-monde_virago-sportives
+#EXTINF:-1 tvg-id="francetv-df630fd0-01f2-11f1-ac9f-57a09c50f7ce" tvg-logo="https://medias.france.tv/hGZDJjmD7jtAKR2LdhieohXf38U/400x0/filters:quality(85)/4/5/3/a5b43f22386c48fe8764d218658f8354.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Thibault Anselmet, l'or au sommet
+francetv://df630fd0-01f2-11f1-ac9f-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-82579466-fe3c-11ee-8d80-a32b834a1ddb" tvg-logo="https://medias.france.tv/XQmb4SY2Si7d2C2_2OdomG_TK1k/400x0/filters:quality(85)/5/1/q/php5i2q15.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Les yeux dans les Jeux — Avec Anthony Jeanjean
+francetv://82579466-fe3c-11ee-8d80-a32b834a1ddb
+#EXTINF:-1 tvg-id="francetv-3611a2f6-5038-11ef-b3dc-b9b856da0ddd" tvg-logo="https://medias.france.tv/7sCgwx4vNpCyr_nt_TQGDMfVMog/400x0/filters:quality(85)/2/a/1/a37430b8e54a4f688948bc9ad05f2e83adaadb9f06e1a852636d0c8888de41a2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Natation (H) : les secrets de la réussite de Léon Marchand
+francetv://3611a2f6-5038-11ef-b3dc-b9b856da0ddd
+#EXTINF:-1 tvg-id="francetv-75d0e000-3101-11f0-84d8-19616fa871f9" tvg-logo="https://medias.france.tv/aTA-zvMYh7wx6s0naulQJX_ayv0/400x0/filters:quality(85)/9/2/t/phplgzt29.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Les 5 plus beaux points de Serena Williams à Roland-Garros
+francetv://75d0e000-3101-11f0-84d8-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-8c1697cc-1e4c-11f1-93b0-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/8VRQkx_B5dkpBTCDZTLbTnb-3C4/400x0/filters:quality(85)/3/8/b/2d25390bdf4a41cf9c7a2bd74a27cb83.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Stade 2 la quotidienne — Patinage artistique : le phénomène Alysa Liu
+francetv://8c1697cc-1e4c-11f1-93b0-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-7a9c1dc0-f636-11f0-8570-19616fa871f9" tvg-logo="https://medias.france.tv/JVYRRo2lvSQTk8d-fU0bZ0EkMG4/400x0/filters:quality(85)/8/6/2/7dc4d0979e7240008f6722b761189268.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Stade 2 Ligue 1 — Kylian Mbappé : Monaco, là où tout a commencé
+francetv://7a9c1dc0-f636-11f0-8570-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-606fb21d-773b-46aa-8314-c5661c37a8ca" tvg-logo="https://medias.france.tv/WAEIH7DpPYssAiSOh63eZLCN0VM/400x0/filters:quality(85)/5/3/7/2633809fd30c4fc3aba743ecbab96735.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Le dessous des images — Les footballeurs sur le terrain de la mode
+francetv://606fb21d-773b-46aa-8314-c5661c37a8ca
+#EXTINF:-1 tvg-id="francetv-f6a781b3-6d44-41af-a735-e145b9f4ce36" tvg-logo="https://medias.france.tv/PvyNkbrB61qQ3NhEgmFaMFfeq4w/400x0/filters:quality(85)/9/0/a/53fa5670259c43ed8f627f91c4290a09.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Riding Zone, sports extrêmes et culture glisse — Ils affrontent la piste la plus raide d’Europe
+francetv://f6a781b3-6d44-41af-a735-e145b9f4ce36
+#EXTINF:-1 tvg-id="francetv-6bee3520-f3fb-4366-adf4-49936283236a" tvg-logo="https://medias.france.tv/xPzAVUsM49Uqw8Y8yexkDsVgb20/400x0/filters:quality(85)/e/9/a/c90f6f81af4a4f7f86c69cd8457d7a9e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Il va y avoir du sport !",Riding Zone, sports extrêmes et culture glisse — Prank : On piège un stage de pilotage avec une pilote de la F1 Academy
+francetv://6bee3520-f3fb-4366-adf4-49936283236a
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_un-musee-une-expo" tvg-logo="https://medias.france.tv/9FTqW-KSPuP0e0ELrFtsFiamQA0/400x0/filters:quality(85)/v/v/0/phpyr80vv.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Un musée, une expo !
+francetv://program/spectacles-et-culture_un-musee-une-expo
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_parlons-peu-parlons-bien" tvg-logo="https://medias.france.tv/_tpQ0GSiJ2dmF2zdYzr4AO_yCok/400x0/filters:quality(85)/f/d/e/4ded4febba404a5ba4c16afe0fbd1edf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Parlons peu parlons bien
+francetv://program/tv5-monde_parlons-peu-parlons-bien
+#EXTINF:-1 tvg-id="francetv-prog-slash_anime-une-epopee-japonaise" tvg-logo="https://medias.france.tv/Xgrz_GvTUmKeETPYpW5oteuwQFA/400x0/filters:quality(85)/u/j/w/php0crwju.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Anime, une épopée japonaise
+francetv://program/slash_anime-une-epopee-japonaise
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_quelle-histoire-les-grandes-civilisations" tvg-logo="https://medias.france.tv/rTfG7J3e8sF3E7O8mrqHdXKsRMs/400x0/filters:quality(85)/9/e/1/9601bc213c594752b8270d247be161e9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Quelle histoire - Les grandes civilisations
+francetv://program/tv5-monde_quelle-histoire-les-grandes-civilisations
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_quelle-histoire-les-femmes-inspirantes" tvg-logo="https://medias.france.tv/vzQT7Jml3ZZlWTZAtfxdpqkL5S4/400x0/filters:quality(85)/c/2/1/c1080638da264b84b821acb11db7312c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Quelle histoire - Les femmes inspirantes
+francetv://program/tv5-monde_quelle-histoire-les-femmes-inspirantes
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_quelle-histoire-les-grands-ecrivains-francais" tvg-logo="https://medias.france.tv/w6m33_VNF2k-LgMspY7zrwtGSZo/400x0/filters:quality(85)/e/1/9/49af5a6e67e34e2bb805c22a3cd5091e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Quelle histoire - Les grands écrivains français
+francetv://program/tv5-monde_quelle-histoire-les-grands-ecrivains-francais
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_legendes-mythologiques" tvg-logo="https://medias.france.tv/IVmcZRrjAavukZGVnj_f88fzaZk/400x0/filters:quality(85)/c/b/c/c8e2b92e81b045f8afc46f3e7ee55cbc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Légendes mythologiques
+francetv://program/tv5-monde_legendes-mythologiques
+#EXTINF:-1 tvg-id="francetv-prog-france-5_aux-arts-et-caetera" tvg-logo="https://medias.france.tv/5UOmezDYSH7zwVeUbwOIwehmRnw/400x0/filters:quality(85)/g/e/8/phpblu8eg.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Aux arts et cætera
+francetv://program/france-5_aux-arts-et-caetera
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_style" tvg-logo="https://medias.france.tv/S7yoXCcmguc6UxBYHVCY2U3BY_M/400x0/filters:quality(85)/8/1/1/d2e91a1facd2496b9b0069b67cb84118.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Stylé !
+francetv://program/tv5-monde_style
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_on-va-dire-les-termes" tvg-logo="https://medias.france.tv/Qz7iHewvbFl-PfaaxXvdh4iKdok/400x0/filters:quality(85)/4/e/6/b1ff2aba1d814db583c9f4af9684de9b23af695cf8b0dea9f8f5a1f00aaa46e4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",On va dire les termes
+francetv://program/tv5-monde_on-va-dire-les-termes
+#EXTINF:-1 tvg-id="francetv-prog-arte_culbute" tvg-logo="https://medias.france.tv/vNI3YopZ7TNJtW0zKgSSW_rEjx8/400x0/filters:quality(85)/7/b/b/428ac908721e4ae1ad262680f037abb7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Culbute
+francetv://program/arte_culbute
+#EXTINF:-1 tvg-id="francetv-prog-arte_karambolage" tvg-logo="https://medias.france.tv/u-DvxGt58uVC77_OThftlDI_j1A/400x0/filters:quality(85)/d/d/7/e90c141877bd4f5d8967ec02c2fd66186c5f8ab972cdc8ed79320eb378ab57dd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Karambolage
+francetv://program/arte_karambolage
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_version-francaise" tvg-logo="https://medias.france.tv/Mlk6yCrVFl4ZeYs0aBXrtme4bE0/400x0/filters:quality(85)/f/1/7/bb24c89329a0410d826e8b9209a0271f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Version française
+francetv://program/tv5-monde_version-francaise
+#EXTINF:-1 tvg-id="francetv-prog-arte_twist" tvg-logo="https://medias.france.tv/SM2w_SUHF74S3A7pAeVWHLFwkj8/400x0/filters:quality(85)/v/g/p/phpxh0pgv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Twist
+francetv://program/arte_twist
+#EXTINF:-1 tvg-id="francetv-prog-arte_est-il-vrai-que" tvg-logo="https://medias.france.tv/d4CiA56cp-RBfQZDDnpvxbPYW8Y/400x0/filters:quality(85)/a/0/e/dc0e287afff64082a76d2f202939fe0a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Est-il vrai que... ?
+francetv://program/arte_est-il-vrai-que
+#EXTINF:-1 tvg-id="francetv-prog-arte_42-la-reponse-a-presque-tout" tvg-logo="https://medias.france.tv/cc0M6bGlUaueWeHLUi0lRxm9N_U/400x0/filters:quality(85)/c/3/a/815beb801e8f4620afb5f9a699c142396db755b78f4011dd671f8876ea9a5a3c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",42 - La réponse à presque tout
+francetv://program/arte_42-la-reponse-a-presque-tout
+#EXTINF:-1 tvg-id="francetv-prog-arte_bienvenue-en-geozarbie" tvg-logo="https://medias.france.tv/G3ft8fDGh_Db1WzOwonLOkLOV_I/400x0/filters:quality(85)/7/8/d/0c871c3e4fd2455e8d83e12f0f825fcbfc2c8c026d04f46d84c5658fa673ed87.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Bienvenue en Géozarbie
+francetv://program/arte_bienvenue-en-geozarbie
+#EXTINF:-1 tvg-id="francetv-prog-france-24_legendes-urbaines" tvg-logo="https://medias.france.tv/exCBwj7IqAKF2am-GTBcCtqH1qE/400x0/filters:quality(85)/d/f/9/2c916aa5438c4b1cbd4a6002bcf276d2497d8ce8b00a8cc750924cf7de45a9fd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Légendes urbaines
+francetv://program/france-24_legendes-urbaines
+#EXTINF:-1 tvg-id="francetv-prog-france-4_il-etait-une-fois-la-vie" tvg-logo="https://medias.france.tv/mtiT3g4qyikjFlFFyHbjaXkcHiA/400x0/filters:quality(85)/m/j/y/phpzisyjm.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Il était une fois... la vie
+francetv://program/france-4_il-etait-une-fois-la-vie
+#EXTINF:-1 tvg-id="francetv-65eb58b4-ce9a-11f0-825c-957ddefc544d" tvg-logo="https://medias.france.tv/GCdOn5VD_7ApKJIE79BXhmT43k8/400x0/filters:quality(85)/a/b/9/phptcf9ba.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",L'histoire du succès des Schtroumpfs
+francetv://65eb58b4-ce9a-11f0-825c-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-bd6c51c3-2037-4f77-824c-37a82890669c" tvg-logo="https://medias.france.tv/7k92fSaTbu5VZf_f3jbC03px1sI/400x0/filters:quality(85)/j/i/m/phprdrmij.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Libre antenne
+francetv://bd6c51c3-2037-4f77-824c-37a82890669c
+#EXTINF:-1 tvg-id="francetv-9ffcdb2c-0908-4ba0-8743-042130c62022" tvg-logo="https://medias.france.tv/Z5yqzF0Pv0oNgphV380KwJ9oixM/400x0/filters:quality(85)/b/6/2/2a1ec027e33845658c8eff88557af26b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",42 - La réponse à presque tout — Émission du dimanche 1 février 2026
+francetv://9ffcdb2c-0908-4ba0-8743-042130c62022
+#EXTINF:-1 tvg-id="francetv-4c87811c-c98f-11ed-8024-51666bb397a4" tvg-logo="https://medias.france.tv/NyE3e4Obr7-AOITO8gtloQPYljE/400x0/filters:quality(85)/c/g/a/phpwleagc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",L'évolution des génériques de séries TV
+francetv://4c87811c-c98f-11ed-8024-51666bb397a4
+#EXTINF:-1 tvg-id="francetv-23cb4ddf-018a-4b18-8aae-9d653f18988a" tvg-logo="https://medias.france.tv/NcS-hgQ7hz-FaVtk8XWGB2ln_ng/400x0/filters:quality(85)/9/0/0/e2b145f337434788a93c462fe51a8009.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - La pause découverte",Tracks — Le clip vidéo, encore d'actualité ?
+francetv://23cb4ddf-018a-4b18-8aae-9d653f18988a
+#EXTINF:-1 tvg-id="francetv-prog-slash_safe-zone-par-faustine-bollaert" tvg-logo="https://medias.france.tv/vHMQWpxaAsbjlWBZ_lP7bnlRTdA/400x0/filters:quality(85)/1/4/y/phppsay41.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Safe Zone, par Faustine Bollaert
+francetv://program/slash_safe-zone-par-faustine-bollaert
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-rencontres-du-papotin" tvg-logo="https://medias.france.tv/f0n78nCs71hhYYpLI1BrFxjs93c/400x0/filters:quality(85)/3/n/k/phpjtukn3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Les rencontres du Papotin
+francetv://program/france-2_les-rencontres-du-papotin
+#EXTINF:-1 tvg-id="francetv-prog-slash_derush" tvg-logo="https://medias.france.tv/QTDmJdQ4t3LKO2mQmTnCco44xzs/400x0/filters:quality(85)/8/c/q/phph9pqc8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Dérush
+francetv://program/slash_derush
+#EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",La grande librairie
+francetv://program/france-5_la-grande-librairie
+#EXTINF:-1 tvg-id="francetv-prog-slash_ballroom-danser-pour-exister" tvg-logo="https://medias.france.tv/YpNWvLaqidL0sietH5fLYymHtt0/400x0/filters:quality(85)/k/i/z/phpvzhzik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Ballroom, danser pour exister
+francetv://program/slash_ballroom-danser-pour-exister
+#EXTINF:-1 tvg-id="francetv-prog-france-2_drag-race-france-all-stars" tvg-logo="https://medias.france.tv/_JzZjloSCtgrmPJKFqCGqAoaD5M/400x0/filters:quality(85)/m/2/n/phptnln2m.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Drag Race France All Stars
+francetv://program/france-2_drag-race-france-all-stars
+#EXTINF:-1 tvg-id="francetv-prog-france-2_drag-race-france" tvg-logo="https://medias.france.tv/MlYuKGsIqXceFhBYnQxJCXvglD8/400x0/filters:quality(85)/l/y/4/php5hz4yl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Drag Race France
+francetv://program/france-2_drag-race-france
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-chaises-musicales-infernales" tvg-logo="https://medias.france.tv/eoERVPy0FIrWhUKyJKJe1YR0nmo/400x0/filters:quality(85)/p/f/z/phpxdpzfp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Les Chaises Musicales Infernales
+francetv://program/france-2_les-chaises-musicales-infernales
+#EXTINF:-1 tvg-id="francetv-prog-france-2_fort-boyard" tvg-logo="https://medias.france.tv/74xewXMKSOzlcII_lgoUVhOE8DY/400x0/filters:quality(85)/p/v/t/phpigstvp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Fort Boyard
+francetv://program/france-2_fort-boyard
+#EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",100 % logique : la réponse est sous vos yeux
+francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
+#EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/gJ1wgGIVJLj73GYL-LEPND7DghY/400x0/filters:quality(85)/v/e/d/phpdcgdev.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",The Floor - À la conquête du sol
+francetv://program/france-2_the-floor-a-la-conquete-du-sol
+#EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",N'oubliez pas les paroles
+francetv://program/france-2_n-oubliez-pas-les-paroles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_theo-le-taxi" tvg-logo="https://medias.france.tv/wRksO7eKBWchJxZBqOI0byo1Z4c/400x0/filters:quality(85)/3/j/o/phpgwxoj3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Théo le taxi
+francetv://program/france-2_theo-le-taxi
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Tout le monde veut prendre sa place
+francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-carte-aux-tresors" tvg-logo="https://medias.france.tv/eVoFmqS0Tgbq2NcKYIGGmZJlFyM/400x0/filters:quality(85)/o/r/1/php4yf1ro.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",La carte aux trésors
+francetv://program/france-3_la-carte-aux-tresors
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_epique" tvg-logo="https://medias.france.tv/HfCWMBTT5jUs69GR8cg5z6SwNe4/400x0/filters:quality(85)/9/1/b/9b66c632afa74b85b3b04c39a9b43b19.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",EPIQUE
+francetv://program/tv5-monde_epique
+#EXTINF:-1 tvg-id="francetv-prog-slash_le-tuning-vaincra" tvg-logo="https://medias.france.tv/50ODf2N-DJebu-piNCPPuMtbw_w/400x0/filters:quality(85)/3/9/w/phpkzzw93.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Le tuning vaincra
+francetv://program/slash_le-tuning-vaincra
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_les-heros-du-gazon" tvg-logo="https://medias.france.tv/SIkGb9qANizQ1OxWnNvAqKDAQJw/400x0/filters:quality(85)/j/c/m/phpy1dmcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Les héros du gazon
+francetv://program/documentaires_les-heros-du-gazon
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_pignon-sur-rue" tvg-logo="https://medias.france.tv/GHZgeWIvKCx7fZ5mIFcV2ZCs6I8/400x0/filters:quality(85)/0/d/3/dba206efbf454591a536a33400d173d0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Pignon sur rue
+francetv://program/tv5-monde_pignon-sur-rue
+#EXTINF:-1 tvg-id="francetv-prog-france-24_a-l-affiche" tvg-logo="https://medias.france.tv/WCtZ89WUS3B2l5ey11kh3KcX2GY/400x0/filters:quality(85)/c/1/c/b711bc00d52b4bfd8ec9de445f68deeb2102586cba24aad83946597430152c1c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",À l'Affiche !
+francetv://program/france-24_a-l-affiche
+#EXTINF:-1 tvg-id="francetv-prog-slash_feat" tvg-logo="https://medias.france.tv/Edq7jBBlHKj1UXJhSK_WgQbUnvg/400x0/filters:quality(85)/x/x/y/phpsmfyxx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",feat.
+francetv://program/slash_feat
+#EXTINF:-1 tvg-id="francetv-prog-france-4_planete-rap-la-quotidienne" tvg-logo="https://medias.france.tv/mtAg-9qnCmmSuCKGWdX4CeYTl30/400x0/filters:quality(85)/h/8/m/phpvx2m8h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Planète Rap La Quotidienne
+francetv://program/france-4_planete-rap-la-quotidienne
+#EXTINF:-1 tvg-id="francetv-prog-slash_kebab-date" tvg-logo="https://medias.france.tv/1LusvBucCmWex9692DIYz7us_yk/400x0/filters:quality(85)/6/r/a/phpuyvar6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Kebab Date
+francetv://program/slash_kebab-date
+#EXTINF:-1 tvg-id="francetv-prog-slash_insomnie" tvg-logo="https://medias.france.tv/slT-aYO7NC-MYuUnj7CpV26ExP4/400x0/filters:quality(85)/k/h/3/phpci43hk.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Insomnie
+francetv://program/slash_insomnie
+#EXTINF:-1 tvg-id="francetv-prog-france-4_basique-les-sessions" tvg-logo="https://medias.france.tv/60hFEaLlMbJLGdkRoDoPIdu7zsw/400x0/filters:quality(85)/3/v/j/phpmvijv3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Basique, les sessions
+francetv://program/france-4_basique-les-sessions
+#EXTINF:-1 tvg-id="francetv-prog-france-2_le-pitch-cinema" tvg-logo="https://medias.france.tv/4mt0r8v4Hfpw_cOh5iMQiAB9GUE/400x0/filters:quality(85)/t/c/n/phpmfonct.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Le pitch cinéma
+francetv://program/france-2_le-pitch-cinema
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous-la-suite" tvg-logo="https://medias.france.tv/8dbphw1cB01Cilrs2w0W8q0hhfw/400x0/filters:quality(85)/1/f/a/phpwr5af1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",C à vous la suite
+francetv://program/france-5_c-a-vous-la-suite
+#EXTINF:-1 tvg-id="francetv-prog-france-2_bel-et-bien" tvg-logo="https://medias.france.tv/h6PSaZA7HNBHSxNFhxKBxjVMzS4/400x0/filters:quality(85)/i/h/x/phpfjgxhi.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",Bel & bien
+francetv://program/france-2_bel-et-bien
+#EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",La grande librairie
+francetv://program/france-5_la-grande-librairie
+#EXTINF:-1 tvg-id="francetv-prog-societe_la-maison-des-maternelles" tvg-logo="https://medias.france.tv/Fnu7VNzO5F6gI6YUmg88bQPgojg/400x0/filters:quality(85)/s/w/h/phpbtthws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",La maison des Maternelles
+francetv://program/societe_la-maison-des-maternelles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",Ça commence aujourd'hui
+francetv://program/france-2_ca-commence-aujourd-hui
+#EXTINF:-1 tvg-id="francetv-prog-france-2_telematin" tvg-logo="https://medias.france.tv/LuwNKrC_Y4sm3y6hOiehhq9QccM/400x0/filters:quality(85)/a/c/k/phptbikca.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",Télématin
+francetv://program/france-2_telematin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_telematin-la-suite" tvg-logo="https://medias.france.tv/ZWPmjIKeoLT0EdyuHjfx3Qs3-eI/400x0/filters:quality(85)/i/j/g/php2u5gji.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",Télématin, la suite
+francetv://program/france-2_telematin-la-suite
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-pas-si-loin" tvg-logo="https://medias.france.tv/MQZyBAqZM6JgEDvkFGeL2WAsASo/400x0/filters:quality(85)/y/f/y/phpyqzyfy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Chaque jour à nos côtés",C pas si loin
+francetv://program/france-5_c-pas-si-loin
+#EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Quelle époque !
+francetv://program/france-2_quelle-epoque
+#EXTINF:-1 tvg-id="francetv-prog-france-2_beau-geste" tvg-logo="https://medias.france.tv/Cmq3-dHKTdj4Q6bPF2qKoG4Dmy4/400x0/filters:quality(85)/q/x/x/phpobaxxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Beau geste
+francetv://program/france-2_beau-geste
+#EXTINF:-1 tvg-id="francetv-prog-slash_riding-zone-sports-extremes-et-culture-glisse" tvg-logo="https://medias.france.tv/lMcc-8bqVtwi1V2WfqldhEpcZmw/400x0/filters:quality(85)/x/n/r/php11drnx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Riding Zone, sports extrêmes et culture glisse
+francetv://program/slash_riding-zone-sports-extremes-et-culture-glisse
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Un dimanche à la campagne
+francetv://program/france-2_un-dimanche-a-la-campagne
+#EXTINF:-1 tvg-id="francetv-prog-france-5_silence-ca-pousse" tvg-logo="https://medias.france.tv/lg07RM2qDwil27DpIUFP3LXCT3Y/400x0/filters:quality(85)/x/u/i/phpyoviux.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Silence, ça pousse !
+francetv://program/france-5_silence-ca-pousse
+#EXTINF:-1 tvg-id="francetv-prog-france-2_bel-et-bien" tvg-logo="https://medias.france.tv/h6PSaZA7HNBHSxNFhxKBxjVMzS4/400x0/filters:quality(85)/i/h/x/phpfjgxhi.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Bel & bien
+francetv://program/france-2_bel-et-bien
+#EXTINF:-1 tvg-id="francetv-prog-france-3_nos-maisons-enchantees" tvg-logo="https://medias.france.tv/oW97wCNGsqd9g_3WXpJKZJ8QGLY/400x0/filters:quality(85)/v/o/f/phpkzafov.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Nos maisons enchantées
+francetv://program/france-3_nos-maisons-enchantees
+#EXTINF:-1 tvg-id="francetv-prog-france-3_vivement-dimanche" tvg-logo="https://medias.france.tv/EP46KayLV-gSf-1UxoDYXnm3BvU/400x0/filters:quality(85)/h/f/t/phphcltfh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Vivement dimanche
+francetv://program/france-3_vivement-dimanche
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",La boîte à secrets
+francetv://program/france-3_la-boite-a-secrets
+#EXTINF:-1 tvg-id="francetv-prog-france-2_20h30-le-samedi" tvg-logo="https://medias.france.tv/xwNA_LXI9OSCwSE2vaUfXXptHxk/400x0/filters:quality(85)/h/t/5/phpvkr5th.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",20h30 le samedi
+francetv://program/france-2_20h30-le-samedi
+#EXTINF:-1 tvg-id="francetv-prog-france-2_20h30-le-dimanche" tvg-logo="https://medias.france.tv/8ajy5HAUwEHCjME9iQXW49Uwjd0/400x0/filters:quality(85)/7/m/v/php0r7vm7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",20h30 le dimanche
+francetv://program/france-2_20h30-le-dimanche
+#EXTINF:-1 tvg-id="francetv-prog-france-3_samedi-d-en-rire" tvg-logo="https://medias.france.tv/hFXWrlIu7uVDGadmJsyHwDxxACA/400x0/filters:quality(85)/d/a/v/phpogevad.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Samedi d'en rire
+francetv://program/france-3_samedi-d-en-rire
+#EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - C'est le week-end tous les jours",Les enfants de la télé
+francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-a2d2f09a-c3c0-11f1-888c-19616fa871f9" tvg-logo="https://medias.france.tv/B6-q_wGieN7k45BRC0zlzbx5KYY/400x0/filters:quality(85)/d/8/f/9cd467ee14dd4e1e841db83e434edf8d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Bilal Hassani se confie sur son identité gender fluid
+francetv://a2d2f09a-c3c0-11f1-888c-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-bed477ca-c3fa-11f1-9677-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/7vkAktMVgt9KoYWqcxvMF0VFI_Y/400x0/filters:quality(85)/0/1/7/72c713ff7ad04c6e9dc86723d0ac0710.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Pourquoi Roman Doduik s'est engagé contre le harcèlement scolaire
+francetv://bed477ca-c3fa-11f1-9677-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-272d59ea-c09a-11f1-8886-19616fa871f9" tvg-logo="https://medias.france.tv/cMpv2F44ia_iNrYa0wZJR6wfyx4/400x0/filters:quality(85)/6/l/5/phpor55l6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Mercotte regrette de ne pas avoir été une mère démonstrative
+francetv://272d59ea-c09a-11f1-8886-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-a267a578-c23b-11f1-8889-19616fa871f9" tvg-logo="https://medias.france.tv/GFJLS5x0XANqFXfDaNgQQB08myw/400x0/filters:quality(85)/4/e/2/aa1b36bd39154db28178dab7f0f982e4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Enquête de santé — Traitements hormonaux, le témoignage de Laëtitia
+francetv://a267a578-c23b-11f1-8889-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-def25d8c-b8ed-11f1-853a-957ddefc544d" tvg-logo="https://medias.france.tv/2hzjzKED0-IbmoKDtehrWKC4d1I/400x0/filters:quality(85)/f/6/e/9dd9d6c7f196419fa236ce49540d8e6f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Hélène Ségara se confie
+francetv://def25d8c-b8ed-11f1-853a-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-441927be-b5b4-11f1-852a-957ddefc544d" tvg-logo="https://medias.france.tv/3W0jYXv8xSxhEm1ST3J20pgdOFc/400x0/filters:quality(85)/0/7/e/b2f71373d9a24bfca8f6ec80bf746e70.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Arié face au succès de son frère Gad Elmaleh
+francetv://441927be-b5b4-11f1-852a-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-13e57546-bb4c-11f1-959c-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/Me2tJKoe57Qx2x9HcwWDZYurCkY/400x0/filters:quality(85)/4/e/c/5af14629f72d4531b41f11806b4e4ce4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le dimanche — Tom Cruise : "Donner au public l'opportunité de réfléchir"
+francetv://13e57546-bb4c-11f1-959c-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-bac56020-bb1e-11f1-959b-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/bE5qJ-AlRFAXz8q-RAa4uGWl8ek/400x0/filters:quality(85)/8/6/3/a8a71408f7204aa7bdd21af64a9d9368.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Tristan Lopin, son spectacle thérapeutique
+francetv://bac56020-bb1e-11f1-959b-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-eaeb0724-b35c-11f1-9591-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/YOg95ltmxjq-euVV6tn5z7S_Ek8/400x0/filters:quality(85)/2/e/3/91635d181afc42faaa17e904baf903e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Kad Merad se confie sur son père
+francetv://eaeb0724-b35c-11f1-9591-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-32a4251a-9264-11f1-874e-19616fa871f9" tvg-logo="https://medias.france.tv/VZdkSAGHHDRjJH3NyvtVTPm6-xk/400x0/filters:quality(85)/3/3/b/722e36c359c34a57b181ff9611f99b33.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Drag Race France — Comment le drag leur a permis de se libérer
+francetv://32a4251a-9264-11f1-874e-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-874937ee-b5a6-11f1-9593-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/20qb72EWa4ktlJnHpXKNr-I1C9Y/400x0/filters:quality(85)/b/0/3/81d20115598f46aebee19eaba857c30b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Arié Elmaleh, exister dans l'ombre d'un frère célèbre
+francetv://874937ee-b5a6-11f1-9593-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-29633b68-b5a4-11f1-87c8-19616fa871f9" tvg-logo="https://medias.france.tv/XVIFDokN7c8eDWKVEe6X9-4czGk/400x0/filters:quality(85)/c/6/c/0b21b0d3ea514526bff0de867256dc6c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Nino Arial, ses débuts dans l'humour
+francetv://29633b68-b5a4-11f1-87c8-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-5c7372c2-97b6-11f1-951b-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/TjqgdJShPdXqxAUU7ZgkXnc7QBk/400x0/filters:quality(85)/1/2/9/650a14be32dc4e019a9163cde4237921.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Drag Race France — Le témoignage de Percholet, hébergé par Le Refuge
+francetv://5c7372c2-97b6-11f1-951b-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-208ad69a-b5a4-11f1-9593-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/W36bn4Knei_IatZhMyaxgO6v8Bo/400x0/filters:quality(85)/c/8/6/d5337990c6c945ee9f336513d0e8868c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Catherine Ceylac, souvenirs d'enfance
+francetv://208ad69a-b5a4-11f1-9593-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-b8e90b44-a2c3-11f1-8772-19616fa871f9" tvg-logo="https://medias.france.tv/I48xCTJVAGBrQAv1PxRApmpRMhs/400x0/filters:quality(85)/1/a/9/3a6448ccf6ba4c4ebcafc35c77bb79a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Une anecdote royale !
+francetv://b8e90b44-a2c3-11f1-8772-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-3c614962-97ef-11f1-8495-957ddefc544d" tvg-logo="https://medias.france.tv/8ZTOUI06cQpW3HHCHQ2jj4WGw_4/400x0/filters:quality(85)/f/f/3/9b2b4b3d178747a3a3417bbc492263ff.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences","Faut déconner, débloquer..."
+francetv://3c614962-97ef-11f1-8495-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-a204de86-8fdf-11f1-9513-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/2EPe448thtFD1vL8_ETh03nMbdY/400x0/filters:quality(85)/6/0/9/73c4ff8859cd4b2aa77e1622e945d906.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",L'Heure D — "J'ai peur d'être la tutrice de mon père"
+francetv://a204de86-8fdf-11f1-9513-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-7806df46-5ff4-11f1-94e6-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/zn8MbdV1Aa1p0G9rvsbN60gm_hw/400x0/filters:quality(85)/a/c/e/php4yieca.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",La maison des Maternelles — Un papa rappeur au coeur tendre
+francetv://7806df46-5ff4-11f1-94e6-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-051e5cb0-67e3-11f1-872a-19616fa871f9" tvg-logo="https://medias.france.tv/YGokxmh8JNqeSwskQ1DX3oJxiuM/400x0/filters:quality(85)/3/a/1/ce0024e612494082a1e4e1339954d1a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Quelle époque ! — Antoine de Caunes : L'interview "Vieux, c'est mieux"
+francetv://051e5cb0-67e3-11f1-872a-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-90229794-42f5-11f1-94d2-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/xP0oAKLs2DR9z9878G_vCUa9PVY/400x0/filters:quality(85)/8/b/7/b13176175433400faac2f29edef8c7b8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Bel & Bien ensemble — Flavie Flament témoigne : "Comment accepter son corps qui vieillit sous le regard des autres ?"
+francetv://90229794-42f5-11f1-94d2-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-86f0b07a-6320-11f1-8720-19616fa871f9" tvg-logo="https://medias.france.tv/i6tsmKkXR3SRBJzTec_QD2w1PYo/400x0/filters:quality(85)/4/d/1/d0d45277a6c74c4993aee1e61eae81d4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le dimanche — Steven Spielberg et les extraterrestres
+francetv://86f0b07a-6320-11f1-8720-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-914f1898-60e3-11f1-871e-19616fa871f9" tvg-logo="https://medias.france.tv/vH1xDfDBfymDAXnsJPLMqvNrptw/400x0/filters:quality(85)/d/d/2/5d9899ac492c49ad8448a9bf19c152dd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Le seul trophée que Gad Elmaleh a gagné dans sa vie
+francetv://914f1898-60e3-11f1-871e-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fd73d57e-4d45-11f1-adff-57a09c50f7ce" tvg-logo="https://medias.france.tv/3aD7SVynKvu7xATEqKPaS2LmvRM/400x0/filters:quality(85)/e/6/2/09780f5a1f244edca70dcbc2201ed26e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le dimanche — "J’habite toujours au même endroit"
+francetv://fd73d57e-4d45-11f1-adff-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-62e4b8f8-446b-11f1-8447-957ddefc544d" tvg-logo="https://medias.france.tv/WOy04eIIs7XSzaJRE1Dx1MZOtpY/400x0/filters:quality(85)/0/f/b/89a1c53e28204a23b8e4bdf140a2fbf0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",La grande librairie — Droit dans les yeux - Fabrice Luchini
+francetv://62e4b8f8-446b-11f1-8447-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-673ec694-421a-11f1-8700-19616fa871f9" tvg-logo="https://medias.france.tv/5AziD3OrvaQ2oKHT_lLMxzAsBYU/400x0/filters:quality(85)/6/6/7/d2bd3e6a2dfa4633a1b2b65482ae1766.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Une rencontre "lunaire" !
+francetv://673ec694-421a-11f1-8700-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fc6c705a-0051-11f1-8573-19616fa871f9" tvg-logo="https://medias.france.tv/5EwrJnTcYWSKoXu6vvPna2ppaHs/400x0/filters:quality(85)/4/0/a/3b5d817152294a9d99215156cca3da04.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Beau geste — Les castings "salés" de Karin Viard à ses débuts
+francetv://fc6c705a-0051-11f1-8573-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-32c7fd38-4213-11f1-94d1-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/er5_BSszUZophaTe0L-33hB5XK0/400x0/filters:quality(85)/1/c/5/2b5ea70ca64742c89da7f0decc9f75c1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Gilbert Montagné ému par cette rencontre
+francetv://32c7fd38-4213-11f1-94d1-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-c0582be0-3e5e-11f1-86f4-19616fa871f9" tvg-logo="https://medias.france.tv/CHXPvf1rMhxglypU-PDB4joalYI/400x0/filters:quality(85)/2/d/3/1d78c90aebf74d5faa646a67ce6493d2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — Comment une blague en repas de famille lui a permis de comprendre qui il était
+francetv://c0582be0-3e5e-11f1-86f4-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-cbe02bd2-3a73-11f1-adec-57a09c50f7ce" tvg-logo="https://medias.france.tv/WU9jG8l9Y64Zl2N1nfXsq75NM_c/400x0/filters:quality(85)/8/8/b/f6bb27a7a950496fb901320034c61b88.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Beau geste — Tourner avec des femmes a changé la vision de François Cluzet
+francetv://cbe02bd2-3a73-11f1-adec-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-9b13d54e-3e56-11f1-94c6-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/Gb0lZDSxxK2VDjvPM0e7k1xw_Ok/400x0/filters:quality(85)/8/7/f/88dab0de3aac4ecdb046764d485b9f78.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",C à vous la suite — Laurence Arné et Alexandre Kominek racontent leur plus gros mensonge
+francetv://9b13d54e-3e56-11f1-94c6-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-0a68e0ec-3d62-11f1-94c3-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/JQCPyr7fEY-WndcUx_M_g1axENQ/400x0/filters:quality(85)/1/d/1/a34eeb9ae899407f9c6a2a8c628101d1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le dimanche — "On m'appelle la patte folle"
+francetv://0a68e0ec-3d62-11f1-94c3-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-b5b326dc-37e1-11f1-ade3-57a09c50f7ce" tvg-logo="https://medias.france.tv/VUOh1K7hCLxkv55KCCnnkpCcthY/400x0/filters:quality(85)/5/e/e/5cc1bb91b3634d438dd876705cc86ee5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le samedi — Comment Audrey Tautou a été choisie pour jouer Amélie Poulain ?
+francetv://b5b326dc-37e1-11f1-ade3-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-4ec662fe-33f9-11f1-841f-957ddefc544d" tvg-logo="https://medias.france.tv/aFSNox98awwMHZg5U18USmJ4eqo/400x0/filters:quality(85)/6/9/b/6a55409017d54ce5aa80e40eb87f7b96.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Ça commence aujourd'hui — Charles Doré : "J'arrivais sur scène, je chantais faux"
+francetv://4ec662fe-33f9-11f1-841f-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-fa17ff8e-328a-11f1-ade0-57a09c50f7ce" tvg-logo="https://medias.france.tv/JeeeRGqV6Vadc0Ri4HL1F1a20fU/400x0/filters:quality(85)/5/6/3/805a570dd1404209a5170cf8d0d2d365.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Dérush — "Si Hugo l'a dit, c'est que c'est vrai"
+francetv://fa17ff8e-328a-11f1-ade0-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-fe7c2100-26c2-11f1-8356-957ddefc544d" tvg-logo="https://medias.france.tv/noSgum0jo22RIAanqz5fpQQYYMg/400x0/filters:quality(85)/4/b/9/f3dd3afb13884759902f4c622f2929b4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Franck Dubosc a longtemps cru que son père n'était pas fier de lui
+francetv://fe7c2100-26c2-11f1-8356-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-3303b4ac-1ee3-11f1-85cf-19616fa871f9" tvg-logo="https://medias.france.tv/QowFsyKKryls0HvlQE4TMA3K3Bc/400x0/filters:quality(85)/7/b/f/d986a7aef1a34e8baa10c62e7fb61fb7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Dérush — Bigflo et Oli, les inséparables !
+francetv://3303b4ac-1ee3-11f1-85cf-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-53664a20-1baa-11f1-82e6-957ddefc544d" tvg-logo="https://medias.france.tv/DZ9XK1Bo6SotJ8x51Z4CruTIW9o/400x0/filters:quality(85)/b/b/9/e88ae4e936114348a73b8190f46689bb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Quelle époque ! — Ce que la série L'affaire Laura Stern a changé en Valérie Bonneton
+francetv://53664a20-1baa-11f1-82e6-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-8575f08a-1c89-11f1-82f1-957ddefc544d" tvg-logo="https://medias.france.tv/7b1DZykaD3yWXgtyKp5KVqnz21c/400x0/filters:quality(85)/2/d/f/b3a09e33ad9a43dd81e7d4300202efd2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",20h30 le dimanche — Garou se souvient de ses débuts dans "Notre-Dame de Paris"
+francetv://8575f08a-1c89-11f1-82f1-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-4875bfd6-1b9d-11f1-8599-19616fa871f9" tvg-logo="https://medias.france.tv/BbzTsv7hcMmuk0tSNOH2CcFmXNk/400x0/filters:quality(85)/b/9/a/b55cc267dea04c6ab9b582792b502a9b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — "Il m'a tué ma vie"
+francetv://4875bfd6-1b9d-11f1-8599-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-0eca419e-1616-11f1-82d9-957ddefc544d" tvg-logo="https://medias.france.tv/klosupAwf8C2DBD9Tcv4P1GVtJ0/400x0/filters:quality(85)/5/e/f/1bf453a6adfd4756bd7bc313686eefe5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Beau geste — L'histoire d'amour de Laurent Lafitte avec la comédie
+francetv://0eca419e-1616-11f1-82d9-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-e73c1b6e-10a9-11f1-858c-19616fa871f9" tvg-logo="https://medias.france.tv/Ce9-IVACarewkN-zVgIUeeoB8CQ/400x0/filters:quality(85)/9/6/8/1f40cfebe42540d3a35665dd5e0f1869.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — "J'ai cru que je ne m'en sortirais pas"
+francetv://e73c1b6e-10a9-11f1-858c-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-fb9c098a-0040-11f1-936c-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/2EH5h4fW0VgDuRoaor-8uwY7rLE/400x0/filters:quality(85)/6/4/d/98ed7608972d4c15b636855beebdbd46.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Un dimanche à la campagne — "Le bébé c'est pour quand ?" Laëtitia Milot n'en peut plus de cette question
+francetv://fb9c098a-0040-11f1-936c-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-3c1fecea-0020-11f1-ac9e-57a09c50f7ce" tvg-logo="https://medias.france.tv/6M0shn1JXimWJVeo7H30qO4K7rM/400x0/filters:quality(85)/1/a/a/cc6dd2ad9f7d4156bd2f13c4ca613aa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Pourquoi Orelsan aime le rap ?
+francetv://3c1fecea-0020-11f1-ac9e-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-1f415202-f841-4bf6-83ff-6dc83807204b" tvg-logo="https://medias.france.tv/54b6TriHA-Oc6eFQ4e567rSImI0/400x0/filters:quality(85)/j/l/9/phpan99lj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",La sorcière dans les airs
 francetv://1f415202-f841-4bf6-83ff-6dc83807204b
 #EXTINF:-1 tvg-id="francetv-49af6fb6-f4ea-46fb-a62b-1d9a86598f39" tvg-logo="https://medias.france.tv/lAwBWamDr0tR1oOGICjjdKmnaVs/400x0/filters:quality(85)/v/d/f/phpg1rfdv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Joyeux Halloween, Scooby-Doo !
@@ -4671,8 +5257,8 @@ francetv://4e53fd5c-f888-425b-bdbf-66f2d491c290
 francetv://program/enfants_trois-cinq-ans_pompon-ours
 #EXTINF:-1 tvg-id="francetv-9a1ce18d-9786-4d0b-ad4d-1eeb014b90d9" tvg-logo="https://medias.france.tv/Mw6ql6IqhGssSI3djZggTzILDfA/400x0/filters:quality(85)/f/8/t/phpvx8t8f.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Monsieur Crocodile — Un croco d'Halloween
 francetv://9a1ce18d-9786-4d0b-ad4d-1eeb014b90d9
-#EXTINF:-1 tvg-id="francetv-ce1439c5-4cf0-43cf-934b-a1a43bec520c" tvg-logo="https://medias.france.tv/-bQvdTmmrh2ROPcA3M5SJ4yTEmM/400x0/filters:quality(85)/u/y/1/phpxkl1yu.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Moustache & Patoune — Halloween
-francetv://ce1439c5-4cf0-43cf-934b-a1a43bec520c
+#EXTINF:-1 tvg-id="francetv-423a9e98-dbb0-46cf-8bcf-f80e4f37e7ee" tvg-logo="https://medias.france.tv/-bQvdTmmrh2ROPcA3M5SJ4yTEmM/400x0/filters:quality(85)/u/y/1/phpxkl1yu.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Moustache & Patoune — Halloween
+francetv://423a9e98-dbb0-46cf-8bcf-f80e4f37e7ee
 #EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_pompon-ours" tvg-logo="https://medias.france.tv/U9gpJKBUo4WwCmf9rIfdkHbWjLE/400x0/filters:quality(85)/h/7/9/phpagy97h.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Pompon Ours
 francetv://program/enfants_trois-cinq-ans_pompon-ours
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_monsieur-crocodile" tvg-logo="https://medias.france.tv/bRbHgEf7vZpBHVA-8lbntNtONH8/400x0/filters:quality(85)/u/y/a/phptngayu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Monsieur Crocodile
