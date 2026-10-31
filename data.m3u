@@ -7747,6 +7747,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/route
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 
+# === Ajouts FR multi-sources : Généralistes ===
+#EXTINF:-1 tvg-id="TebeoTV.fr@SD" group-title="Généralistes - 100% Français",Tebeo TV (576i)
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
