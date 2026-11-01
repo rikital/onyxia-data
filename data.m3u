@@ -7606,7 +7606,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="Nouveautés FR - Nouveautés",Africanews English (720p)
-https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews English (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews German (720p)
@@ -7686,7 +7686,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="Nouveautés FR - Nouveautés",France 24 English (720p)
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="Nouveautés FR - Nouveautés",Africanews English (720p)
-https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" group-title="Nouveautés FR - Nouveautés",Eurosport 1 Hungary
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" group-title="Nouveautés FR - Nouveautés",Eurosport 2 Hungary
@@ -7816,6 +7816,10 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [kilirushi]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France TV backup - Autres",Africanews English (720p) [kilirushi]
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
