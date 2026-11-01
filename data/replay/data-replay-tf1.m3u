@@ -1097,6 +1097,8 @@ tf1plus://tf1/poulets-grilles
 tf1plus://tf1/simple
 #EXTINF:-1 tvg-id="tf1plus-tf1-une-histoire-dame-téléfilms-français" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-17a770-253304-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Téléfilms français",Une Histoire Dame
 tf1plus://tf1/une-histoire-dame
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-valse-de-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-ffab23-d3f6fa-64e2bd-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",La Valse de Noel
+tf1plus://tf1/la-valse-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tmc-cinq-cartes-de-voeux-pour-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-ff4d56-09f579-edd5eb-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Cinq Cartes de Voeux Pour Noel
 tf1plus://tmc/cinq-cartes-de-voeux-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-a-la-recherche-de-lesprit-de-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-a-la-recherche-de-lesprit-de-noel-516201-0195a2-b15d58-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",A la Recherche de Lesprit de Noel
@@ -1113,8 +1115,6 @@ tf1plus://tf1/la-plus-belle-etoile-de-noel
 tf1plus://tf1/la-tempete-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-bonheur-en-cadeau-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-8fdac8-6ad2be-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Le Bonheur En Cadeau
 tf1plus://tf1/le-bonheur-en-cadeau
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-nombre-magique-de-noel-installez-vous,-noël-commence-maintenant-!" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-cce5fc-e9837b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Installez-vous, Noël commence maintenant !",Le Nombre Magique de Noel
-tf1plus://tf1/le-nombre-magique-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-alina-thompson-lhistoire-vraie-dune-survivante-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-e1266c-f8d451-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Alina Thompson Lhistoire Vraie Dune Survivante
 tf1plus://tf1/alina-thompson-lhistoire-vraie-dune-survivante
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-diable-a-la-maison-lhistoire-vraie-de-ruby-d'après-une-histoire-vraie" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7f7b3e-46df41-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - D'après une histoire vraie",Le Diable A la Maison Lhistoire Vraie de Ruby
@@ -1515,8 +1515,6 @@ tf1plus://tf1/coup-de-foudre-dans-lallee-des-sapins
 tf1plus://tf1/un-noel-magique-a-rome
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-medaillon-de-noel-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-ed33d9-bb386c-780e1d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Le Medaillon de Noel
 tf1plus://tf1/le-medaillon-de-noel
-#EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-rouge-comme-lamour-casting-d'exception" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-un-noel-rouge-comme-lamour-f348a9-b86ee9-eba72d-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Casting d'exception",Un Noel Rouge Comme Lamour
-tf1plus://tmc/un-noel-rouge-comme-lamour
 #EXTINF:-1 tvg-id="tf1plus-tf1-last-moment-of-clarity-derrière-les-apparences" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-f903d5-152338-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Derrière les apparences",Last Moment Of Clarity
 tf1plus://tf1/last-moment-of-clarity
 #EXTINF:-1 tvg-id="tf1plus-tf1-meurtres-au-paradis-249-derrière-les-apparences" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-d1ee91-b45fc9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Derrière les apparences",Meurtres Au Paradis 249
@@ -4497,6 +4495,8 @@ tf1plus://tf1/le-mystere-des-fils-dorion
 tf1plus://tf1/le-noel-du-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-nom-de-la-rose-391-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-nom-de-la-rose-31087804-1760036292-73958c-0f55ab-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le Nom de la rose
 tf1plus://tf1/le-nom-de-la-rose-391
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-nombre-magique-de-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-nombre-magique-de-noel-1-057b1a-9bdf85-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le nombre magique de Noel
+tf1plus://tf1/le-nombre-magique-de-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-des-voleuses-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-pacte-des-voleuses-93753260-1714739883-405a29-c6116b-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le pacte des voleuses
 tf1plus://tf1/le-pacte-des-voleuses
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-pacte-impossible-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-pacte-impossible-75517792-1747274080-7a98b8-5cdc65-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le pacte impossible
@@ -6245,6 +6245,8 @@ tf1plus://tmc/un-noel-denfer
 tf1plus://tmc/un-noel-pour-deux-coup-de-foudre-en-ville
 #EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-pour-deux-retour-a-la-maison-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-pour-deux-retour-a-la-maison-c59fb6-1862a5-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Un Noël pour deux : Retour à la maison
 tf1plus://tmc/un-noel-pour-deux-retour-a-la-maison
+#EXTINF:-1 tvg-id="tf1plus-tmc-un-noel-rouge-comme-lamour-smx" tvg-logo="https://photos.tf1.fr/1200/720/un-noel-rouge-comme-lamour-605c70-e11826-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Un Noël rouge comme l'amour
+tf1plus://tmc/un-noel-rouge-comme-lamour
 #EXTINF:-1 tvg-id="tf1plus-tmc-une-voix-dor-pour-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/une-voix-dor-pour-noel-88ed25-1bb92f-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Une voix d'or pour Noël
 tf1plus://tmc/une-voix-dor-pour-noel
 #EXTINF:-1 tvg-id="tf1plus-tmc-vincent-dedienne-smx" tvg-logo="https://photos.tf1.fr/1200/720/vlcsnap-2019-01-09-19h10m17s701-23737d-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Vincent Dedienne
