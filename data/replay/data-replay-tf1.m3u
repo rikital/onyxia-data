@@ -2875,8 +2875,6 @@ tf1plus://tf1/tf1-explainer
 tf1plus://tf1/les-reportages-de-francois-xavier-menage
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-grands-reportages-de-la-redaction-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-2026-colonies-en-cisjordanie-lautre-bataille-disrael-jpg-1e2426-468415-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Les Grands Reportages de la Redaction
 tf1plus://tf1/les-grands-reportages-de-la-redaction
-#EXTINF:-1 tvg-id="tf1plus-lci-objectif-2027-dimanche-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-objectif-2027-dimanche-jpg-5eb59a-5ec3e5-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Objectif 2027 Dimanche
-tf1plus://lci/objectif-2027-dimanche
 #EXTINF:-1 tvg-id="tf1plus-lci-podcast-de-gaspard-g-les-dossiers-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-97d6ca-91a4fe-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Podcast de Gaspard G les Dossiers
 tf1plus://lci/podcast-de-gaspard-g-les-dossiers
 #EXTINF:-1 tvg-id="tf1plus-lci-objectif-2027-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-objectif-2027-francois-ruffin-jpg-223db3-5925c7-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Objectif 2027
@@ -2887,10 +2885,10 @@ tf1plus://lci/podcast-francois-lenglet-pourquoi-faire-complique
 tf1plus://lci/edition-speciale-lci
 #EXTINF:-1 tvg-id="tf1plus-lci-aura-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-789560-0af87d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Aura
 tf1plus://lci/aura
+#EXTINF:-1 tvg-id="tf1plus-tf1-top-info-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-207e99-35a90c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Top Info
+tf1plus://tf1/top-info
 #EXTINF:-1 tvg-id="tf1plus-lci-la-matinale-618-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1a9208-52a1a1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",La Matinale 618
 tf1plus://lci/la-matinale-618
-#EXTINF:-1 tvg-id="tf1plus-tf1-top-info-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-207e99-35a90c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",Top Info
-tf1plus://tf1/top-info
 #EXTINF:-1 tvg-id="tf1plus-lci-24h-pujadas-l-info-en-questions-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-1abdf1-73e410-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",24h Pujadas L Info En Questions
 tf1plus://lci/24h-pujadas-l-info-en-questions
 #EXTINF:-1 tvg-id="tf1plus-lci-le-grand-dossier-jt" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-43f8c8-fc7e1a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - JT",Le Grand Dossier
@@ -2911,6 +2909,8 @@ tf1plus://lci/grands-reportages-lci
 tf1plus://lci/histoires-criminelles-lenquete
 #EXTINF:-1 tvg-id="tf1plus-lci-18h-darius-rochebin-lci,-au-rythme-de-l'info" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-67dbc3-5d5512-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - LCI, au rythme de l'info",18h Darius Rochebin
 tf1plus://lci/18h-darius-rochebin
+#EXTINF:-1 tvg-id="tf1plus-lci-impact-positif-lci,-au-rythme-de-l'info" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-79bd49-4ab69c-ff6e20-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - LCI, au rythme de l'info",Impact Positif
+tf1plus://lci/impact-positif
 #EXTINF:-1 tvg-id="tf1plus-tf1-guerilla-urbaine-au-coeur-de-lentrainement-des-soldats-francais-reportages" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-guerilla-urbaine-136d9d-8e7d7f-4a9892-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Reportages",Guerilla Urbaine Au Coeur de Lentrainement des Soldats Francais
 tf1plus://tf1/guerilla-urbaine-au-coeur-de-lentrainement-des-soldats-francais
 #EXTINF:-1 tvg-id="tf1plus-tmc-qui-veut-tuer-la-democratie-reportages" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-177fbd-c1ae99-aa1800-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Reportages",Qui Veut Tuer la Democratie
