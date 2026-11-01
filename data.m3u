@@ -7449,7 +7449,7 @@ https://broadcasting-channels.com:9044/hls/test.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France3.fr@National" group-title="France TV backup - Autres",France 3 [iptv-org-fr]
-http://85.14.32.26:8800/udp/239.100.10.144:5000
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/backup/france3.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" group-title="France TV backup - Autres",20 Minutes TV (1080p) [iptv-org-fr]
@@ -7804,6 +7804,10 @@ https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-f
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France3.fr@National" group-title="France TV backup - Autres",France 3 [iptv-org-fr]
+http://85.14.32.26:8800/udp/239.100.10.144:5000
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
