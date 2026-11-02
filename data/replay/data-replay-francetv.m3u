@@ -1177,6 +1177,8 @@ francetv://d8c69d62-d3cb-11f1-88b7-19616fa871f9
 francetv://f380a66c-d302-11f1-863d-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-1fc300f4-d23a-11f1-88b1-19616fa871f9" tvg-logo="https://medias.france.tv/fgVz8fQQhYPUKxyyxtDnDLk0P6w/400x0/filters:quality(85)/y/s/l/phpiq1lsy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football - Ballon d'Or : Harry Kane, un avènement tardif
 francetv://1fc300f4-d23a-11f1-88b1-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-487ab76e-d6ca-11f1-af91-57a09c50f7ce" tvg-logo="https://medias.france.tv/7eaAoUkhcbOdh7vlF_8PA3X41xE/400x0/filters:quality(85)/c/8/7/8abccd320c494f648648f4fac81d478c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Rugby à 7 (H) : le résumé de France vs Canada
+francetv://487ab76e-d6ca-11f1-af91-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-c22cb38e-d6af-11f1-88bd-19616fa871f9" tvg-logo="https://medias.france.tv/ezhD8fIUPS1lIiRO7HnSHcm1y74/400x0/filters:quality(85)/x/n/s/phpkgssnx.png" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Baseball5 : le résumé de France vs Cuba
 francetv://c22cb38e-d6af-11f1-88bd-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-5f9fc162-d69f-11f1-af91-57a09c50f7ce" tvg-logo="https://medias.france.tv/xBglhFadnL9iIgG_dGd8hppNSBQ/400x0/filters:quality(85)/8/8/f/950b3356efcb460096ca3e2efe6e9f88.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Badminton (H) : le résumé de Mady Sow vs Aleksa Radovanovic
@@ -3639,6 +3641,22 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/SlvWLJrESdVgrowgzMoOGQdrP8M/400x0/filters:quality(85)/x/n/e/phpogsenx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
+#EXTINF:-1 tvg-id="francetv-prog-france-2_20h30-le-dimanche" tvg-logo="https://medias.france.tv/8ajy5HAUwEHCjME9iQXW49Uwjd0/400x0/filters:quality(85)/7/m/v/php0r7vm7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",20h30 le dimanche
+francetv://program/france-2_20h30-le-dimanche
+#EXTINF:-1 tvg-id="francetv-prog-france-2_beau-geste" tvg-logo="https://medias.france.tv/Cmq3-dHKTdj4Q6bPF2qKoG4Dmy4/400x0/filters:quality(85)/q/x/x/phpobaxxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Beau geste
+francetv://program/france-2_beau-geste
+#EXTINF:-1 tvg-id="francetv-prog-societe_la-maison-des-maternelles" tvg-logo="https://medias.france.tv/Fnu7VNzO5F6gI6YUmg88bQPgojg/400x0/filters:quality(85)/s/w/h/phpbtthws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",La maison des Maternelles
+francetv://program/societe_la-maison-des-maternelles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Ça commence aujourd'hui
+francetv://program/france-2_ca-commence-aujourd-hui
+#EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",La grande librairie
+francetv://program/france-5_la-grande-librairie
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",C à vous
+francetv://program/france-5_c-a-vous
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-politique" tvg-logo="https://medias.france.tv/Ue9BBaQ5wlCwffog-NIZ6b6s0zA/400x0/filters:quality(85)/m/r/3/phpjy03rm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",C politique
+francetv://program/france-5_c-politique
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Un dimanche à la campagne
+francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-50916937-481a-4632-aad8-d484df6486a9" tvg-logo="https://medias.france.tv/d1R6PRcBH6pUoT_5b_4qcH1UJm4/400x0/filters:quality(85)/y/2/n/phpxdfn2y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Trahisons, l'art de rompre en politique
 francetv://50916937-481a-4632-aad8-d484df6486a9
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/sOg9_oe8FMhR1JiqjE-wcTgYxGc/400x0/filters:quality(85)/s/x/r/phpkv0rxs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
@@ -4535,6 +4553,8 @@ francetv://26fab9ec-cb2d-4b10-839a-2709206a86f1
 francetv://bf4bc062-3556-4475-a185-48d21266d4fe
 #EXTINF:-1 tvg-id="francetv-57abec12-76d8-47d0-a300-6f7ef639f418" tvg-logo="https://medias.france.tv/RSst4aljyxuccEO1esX6pQJyEJg/400x0/filters:quality(85)/e/m/y/phpkhhyme.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 10 - Après-midi
 francetv://57abec12-76d8-47d0-a300-6f7ef639f418
+#EXTINF:-1 tvg-id="francetv-487ab76e-d6ca-11f1-af91-57a09c50f7ce" tvg-logo="https://medias.france.tv/7eaAoUkhcbOdh7vlF_8PA3X41xE/400x0/filters:quality(85)/c/8/7/8abccd320c494f648648f4fac81d478c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Rugby à 7 (H) : le résumé de France vs Canada
+francetv://487ab76e-d6ca-11f1-af91-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-c22cb38e-d6af-11f1-88bd-19616fa871f9" tvg-logo="https://medias.france.tv/ezhD8fIUPS1lIiRO7HnSHcm1y74/400x0/filters:quality(85)/x/n/s/phpkgssnx.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Baseball5 : le résumé de France vs Cuba
 francetv://c22cb38e-d6af-11f1-88bd-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-5f9fc162-d69f-11f1-af91-57a09c50f7ce" tvg-logo="https://medias.france.tv/xBglhFadnL9iIgG_dGd8hppNSBQ/400x0/filters:quality(85)/8/8/f/950b3356efcb460096ca3e2efe6e9f88.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Badminton (H) : le résumé de Mady Sow vs Aleksa Radovanovic
@@ -4633,12 +4653,16 @@ francetv://program/france-3_occitanie_route-d-occitanie
 francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
 #EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",N'oubliez pas les paroles
 francetv://program/france-2_n-oubliez-pas-les-paroles
+#EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Macadam Circus
+francetv://937df373-39ec-4f57-8ddc-67cff8364100
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La boîte à secrets
 francetv://program/france-3_la-boite-a-secrets
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_mot-de-passe" tvg-logo="https://medias.france.tv/2g-sk5V-CrN3U2Lv67Z0zpKNK-4/400x0/filters:quality(85)/t/3/9/phpsma93t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Mot de passe
 francetv://program/jeux-et-divertissements_mot-de-passe
 #EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Quelle époque !
 francetv://program/france-2_quelle-epoque
+#EXTINF:-1 tvg-id="francetv-e4f7ef6e-c134-45a1-b001-f41555a51c88" tvg-logo="https://medias.france.tv/nC-OLVqJvg5dl3YJZxzNvEj7yAE/400x0/filters:quality(85)/c/c/d/phpd12dcc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Bel & bien — L'énergie de l'automne sur notre bien-être !
+francetv://e4f7ef6e-c134-45a1-b001-f41555a51c88
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Les as du jardin
 francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
 #EXTINF:-1 tvg-id="francetv-0483d880-99fa-43c3-9f7a-656b4b73e8d8" tvg-logo="https://medias.france.tv/4iPxOt4Z0ESY8Dg8XngmncAuISc/400x0/filters:quality(85)/6/0/0/4e2d2fb8b0344b66beab5cad792e9006.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Beau geste — Avec Gilles Lellouche
@@ -4793,12 +4817,14 @@ francetv://program/france-5_25-kilos-3-jours-pour-vider-son-sac
 francetv://program/tv5-monde_destination-francophonie
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_nus-et-culottes" tvg-logo="https://medias.france.tv/WrQyZv7HIiB4FUrwQ_wpYsSaOCc/400x0/filters:quality(85)/a/x/h/phpuz9hxa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Nus & culottés
 francetv://program/documentaires_nus-et-culottes
-#EXTINF:-1 tvg-id="francetv-aa35cc90-aef7-490e-807d-3cc9916660dc" tvg-logo="https://medias.france.tv/3LXNvPcS8OBEjX5WsS2xhsAicaE/400x0/filters:quality(85)/u/a/2/phphy42au.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Le meilleur de... — Le meilleur de la crêpe
-francetv://aa35cc90-aef7-490e-807d-3cc9916660dc
+#EXTINF:-1 tvg-id="francetv-b61dc2f6-8779-4e91-b2f0-510809d622cf" tvg-logo="https://medias.france.tv/KWbYVw8U2hYZvRECpLTvWjozKAI/400x0/filters:quality(85)/f/f/v/phplnyvff.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Le meilleur de... — Le meilleur de la gaufre
+francetv://b61dc2f6-8779-4e91-b2f0-510809d622cf
 #EXTINF:-1 tvg-id="francetv-25a4a7a2-fd89-4127-b958-eebc844f876a" tvg-logo="https://medias.france.tv/8GY2tEgtqsmf7SwPZYdx5x-VAbo/400x0/filters:quality(85)/f/n/3/php2xk3nf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Grignote-moi si tu peux, les dessous de l'apéritif
 francetv://25a4a7a2-fd89-4127-b958-eebc844f876a
 #EXTINF:-1 tvg-id="francetv-bca3735f-2c82-445c-b91a-1fd2f491a02e" tvg-logo="https://medias.france.tv/9uIp3TDAYk4MdN4v8scTwe_Zb5M/400x0/filters:quality(85)/5/6/0/6b97df6f5d1f448d811454f9801e0065.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Voyage gourmand — Les pâtes
 francetv://bca3735f-2c82-445c-b91a-1fd2f491a02e
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_amuse-gueule" tvg-logo="https://medias.france.tv/AmU9PWKdOxhgg9g5KNVioYqQWeQ/400x0/filters:quality(85)/6/2/a/5b55576e781143dfb14f3387eed9ca26.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Amuse-gueule
+francetv://program/tv5-monde_amuse-gueule
 #EXTINF:-1 tvg-id="francetv-prog-france-3_cuisine-ouverte" tvg-logo="https://medias.france.tv/wq83V_jwPcX4UOA8Fv6VmD21ulM/400x0/filters:quality(85)/d/l/v/phpet0vld.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Cuisine ouverte
 francetv://program/france-3_cuisine-ouverte
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_ton-plat-mon-plat" tvg-logo="https://medias.france.tv/5gMAhq0Pr2XtfqQ8V5QIthYQpQw/400x0/filters:quality(85)/6/2/3/409514d8b921458b98d81f199ed36326.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - À table !",Ton plat, mon plat !
@@ -5017,8 +5043,12 @@ francetv://program/france-2_fort-boyard
 francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
 #EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/gJ1wgGIVJLj73GYL-LEPND7DghY/400x0/filters:quality(85)/v/e/d/phpdcgdev.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",The Floor - À la conquête du sol
 francetv://program/france-2_the-floor-a-la-conquete-du-sol
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_mot-de-passe" tvg-logo="https://medias.france.tv/2g-sk5V-CrN3U2Lv67Z0zpKNK-4/400x0/filters:quality(85)/t/3/9/phpsma93t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Mot de passe
+francetv://program/jeux-et-divertissements_mot-de-passe
 #EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",N'oubliez pas les paroles
 francetv://program/france-2_n-oubliez-pas-les-paroles
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",La boîte à secrets
+francetv://program/france-3_la-boite-a-secrets
 #EXTINF:-1 tvg-id="francetv-prog-france-2_theo-le-taxi" tvg-logo="https://medias.france.tv/wRksO7eKBWchJxZBqOI0byo1Z4c/400x0/filters:quality(85)/3/j/o/phpgwxoj3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Théo le taxi
 francetv://program/france-2_theo-le-taxi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Tout le monde veut prendre sa place
@@ -5027,6 +5057,10 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-3_la-carte-aux-tresors
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_epique" tvg-logo="https://medias.france.tv/HfCWMBTT5jUs69GR8cg5z6SwNe4/400x0/filters:quality(85)/9/1/b/9b66c632afa74b85b3b04c39a9b43b19.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",EPIQUE
 francetv://program/tv5-monde_epique
+#EXTINF:-1 tvg-id="francetv-prog-slash_la-team-l-emission-de-pop-culture" tvg-logo="https://medias.france.tv/Jyje6fee9C6tXp_qbTgSK-XkPB4/400x0/filters:quality(85)/x/7/n/php3apn7x.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",La Team, l'émission de pop culture
+francetv://program/slash_la-team-l-emission-de-pop-culture
+#EXTINF:-1 tvg-id="francetv-prog-slash_feat" tvg-logo="https://medias.france.tv/Edq7jBBlHKj1UXJhSK_WgQbUnvg/400x0/filters:quality(85)/x/x/y/phpsmfyxx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",feat.
+francetv://program/slash_feat
 #EXTINF:-1 tvg-id="francetv-prog-slash_le-tuning-vaincra" tvg-logo="https://medias.france.tv/50ODf2N-DJebu-piNCPPuMtbw_w/400x0/filters:quality(85)/3/9/w/phpkzzw93.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Le tuning vaincra
 francetv://program/slash_le-tuning-vaincra
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_les-heros-du-gazon" tvg-logo="https://medias.france.tv/SIkGb9qANizQ1OxWnNvAqKDAQJw/400x0/filters:quality(85)/j/c/m/phpy1dmcj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Les héros du gazon
@@ -5035,8 +5069,6 @@ francetv://program/documentaires_les-heros-du-gazon
 francetv://program/tv5-monde_pignon-sur-rue
 #EXTINF:-1 tvg-id="francetv-prog-france-24_a-l-affiche" tvg-logo="https://medias.france.tv/WCtZ89WUS3B2l5ey11kh3KcX2GY/400x0/filters:quality(85)/c/1/c/b711bc00d52b4bfd8ec9de445f68deeb2102586cba24aad83946597430152c1c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",À l'Affiche !
 francetv://program/france-24_a-l-affiche
-#EXTINF:-1 tvg-id="francetv-prog-slash_feat" tvg-logo="https://medias.france.tv/Edq7jBBlHKj1UXJhSK_WgQbUnvg/400x0/filters:quality(85)/x/x/y/phpsmfyxx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",feat.
-francetv://program/slash_feat
 #EXTINF:-1 tvg-id="francetv-prog-france-4_planete-rap-la-quotidienne" tvg-logo="https://medias.france.tv/mtAg-9qnCmmSuCKGWdX4CeYTl30/400x0/filters:quality(85)/h/8/m/phpvx2m8h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Planète Rap La Quotidienne
 francetv://program/france-4_planete-rap-la-quotidienne
 #EXTINF:-1 tvg-id="francetv-prog-slash_kebab-date" tvg-logo="https://medias.france.tv/1LusvBucCmWex9692DIYz7us_yk/400x0/filters:quality(85)/6/r/a/phpuyvar6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Du divertissement, toute l'année",Kebab Date
