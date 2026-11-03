@@ -863,6 +863,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-3f076f41-a025-4f29-afa6-150532b4d0bf" tvg-logo="https://medias.france.tv/mIQVJYpiH1UJVGjupaW8QzNTut0/400x0/filters:quality(85)/0/4/3/888572d20a16436081c3dd6290032340.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
+francetv://3f076f41-a025-4f29-afa6-150532b4d0bf
 #EXTINF:-1 tvg-id="francetv-6fb262c4-717c-478f-95cc-bee232fcc139" tvg-logo="https://medias.france.tv/7Y0GHnZIqvt_zkMuucucyOdkcAc/400x0/filters:quality(85)/f/9/2/c5f7c9574f1946068b83f47fd60bc29f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du lundi 2 novembre 2026
 francetv://6fb262c4-717c-478f-95cc-bee232fcc139
 #EXTINF:-1 tvg-id="francetv-c73153ee-f2d7-474b-a153-f9067dcabb6d" tvg-logo="https://medias.france.tv/vGNCMISE84VZpnmp_5ZU1fY2-TU/400x0/filters:quality(85)/6/6/8/934168b63a5844c181683217b0131866.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du lundi 2 novembre 2026
@@ -901,8 +903,6 @@ francetv://8b20cdf1-b75b-4f48-b28b-728e4b902d62
 francetv://aeef2946-d60a-11f1-88bd-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-142e572d-2463-48ec-933b-5b1d14a76e0e" tvg-logo="https://medias.france.tv/yMvqObxMkby6XmRTkM4poubSCI4/400x0/filters:quality(85)/f/7/6/3fbd042c75ad4619b26c3ac14d63267f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Le fil info
 francetv://142e572d-2463-48ec-933b-5b1d14a76e0e
-#EXTINF:-1 tvg-id="francetv-61b6f430-9f51-4c93-a056-718b3dc9799f" tvg-logo="https://medias.france.tv/QuJoWgYv6TYtkH2vyRXP-jB8hFI/400x0/filters:quality(85)/7/b/3/033276d140bf4bb1b019e71b39c3b3b7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer — Émission du dimanche 1 novembre 2026
-francetv://61b6f430-9f51-4c93-a056-718b3dc9799f
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -3355,48 +3355,60 @@ francetv://program/mieux_handi-et-alors
 francetv://program/mieux_age-et-prejuges
 #EXTINF:-1 tvg-id="francetv-prog-mieux_mieux-vaut-prevenir" tvg-logo="https://medias.france.tv/77SdFSscIFXv4vDDwuQijDWZ2qQ/400x0/filters:quality(85)/f/4/4/74397b04481640eb995d8101a35fe44f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : toute l'offre Mieux",Mieux vaut prévenir
 francetv://program/mieux_mieux-vaut-prevenir
-#EXTINF:-1 tvg-id="francetv-prog-france-4_il-faut-de-nous-pour-faire-un-monde" tvg-logo="https://medias.france.tv/45YR8_u_jSzoqo_guYO9F8ubH1c/400x0/filters:quality(85)/i/2/y/phpvfry2i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Il faut de nous pour faire un monde
+#EXTINF:-1 tvg-id="francetv-prog-france-4_il-faut-de-nous-pour-faire-un-monde" tvg-logo="https://medias.france.tv/45YR8_u_jSzoqo_guYO9F8ubH1c/400x0/filters:quality(85)/i/2/y/phpvfry2i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Il faut de nous pour faire un monde
 francetv://program/france-4_il-faut-de-nous-pour-faire-un-monde
-#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Bilal Hassani, bats-toi comme une fille mon fils
+#EXTINF:-1 tvg-id="francetv-d0c3d383-e6c7-4e74-9ff0-7922d94158fa" tvg-logo="https://medias.france.tv/yZmNAFtA4pG9pqQodVCMT5eh8BY/400x0/filters:quality(85)/6/c/9/c13ec0a507aa4b4ba8cae56757a64b668d2685002d77338507713c5eeb2739c6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Les archives de l'Histoire — 1982 : la loi dépénalise l'homosexualité en France
+francetv://d0c3d383-e6c7-4e74-9ff0-7922d94158fa
+#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Bilal Hassani, bats-toi comme une fille mon fils
 francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
-#EXTINF:-1 tvg-id="francetv-fab8d7a3-cdce-4a7c-bd2d-f122c7198fe1" tvg-logo="https://medias.france.tv/ATqFY4q7H-zco7wgG9ts_T80z1g/400x0/filters:quality(85)/d/9/a/adc7d172c99748f48940ffd4f1558a9d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",L'homosexualité au cinéma, les chemins de la victoire
-francetv://fab8d7a3-cdce-4a7c-bd2d-f122c7198fe1
-#EXTINF:-1 tvg-id="francetv-91c417fa-5edf-4325-8e8b-06758022f9ec" tvg-logo="https://medias.france.tv/TwTm5W7P0YSOLX9uFjSzFejM5xc/400x0/filters:quality(85)/v/n/d/phpa4ednv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Infrarouge — Homos en France
+#EXTINF:-1 tvg-id="francetv-91c417fa-5edf-4325-8e8b-06758022f9ec" tvg-logo="https://medias.france.tv/TwTm5W7P0YSOLX9uFjSzFejM5xc/400x0/filters:quality(85)/v/n/d/phpa4ednv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Infrarouge — Homos en France
 francetv://91c417fa-5edf-4325-8e8b-06758022f9ec
-#EXTINF:-1 tvg-id="francetv-dc4c4c61-031b-4b22-9a58-b4d52b77140b" tvg-logo="https://medias.france.tv/bfhDj9J-BN9VTrevgvMvtdEP5Tk/400x0/filters:quality(85)/e/3/0/4dc03e96c9e641948bb74b017f3b803e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Bambi
+#EXTINF:-1 tvg-id="francetv-33830152-26a0-11f1-93ec-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/rUCD8KCSAnx_LyLoeqFMvxnr6WY/400x0/filters:quality(85)/9/q/w/phpe9owq9.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",La maison des Maternelles — Le jour où j’ai accepté l’homosexualité de mon fils
+francetv://33830152-26a0-11f1-93ec-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-1a70cc11-5164-4dbe-ae32-66d4125502de" tvg-logo="https://medias.france.tv/Opl1CiFggiB_C74zjbE7jm7asoU/400x0/filters:quality(85)/8/d/9/bdc3a67c88484162a819d0b966bfd9d8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Gymnastique — Qu’est-il arrivé au drapeau arc-en-ciel ?
+francetv://1a70cc11-5164-4dbe-ae32-66d4125502de
+#EXTINF:-1 tvg-id="francetv-fab8d7a3-cdce-4a7c-bd2d-f122c7198fe1" tvg-logo="https://medias.france.tv/ATqFY4q7H-zco7wgG9ts_T80z1g/400x0/filters:quality(85)/d/9/a/adc7d172c99748f48940ffd4f1558a9d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",L'homosexualité au cinéma, les chemins de la victoire
+francetv://fab8d7a3-cdce-4a7c-bd2d-f122c7198fe1
+#EXTINF:-1 tvg-id="francetv-7014fb24-beb0-455d-ab3f-17a641951988" tvg-logo="https://medias.france.tv/CwJh4qzCBsOfwD_n2dMC0gYjzuw/400x0/filters:quality(85)/v/c/5/phpwsv5cv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Hyper Weekend Festival de Radio France — Marguerite à l'Hyper Weekend Festival 2026
+francetv://7014fb24-beb0-455d-ab3f-17a641951988
+#EXTINF:-1 tvg-id="francetv-dc4c4c61-031b-4b22-9a58-b4d52b77140b" tvg-logo="https://medias.france.tv/bfhDj9J-BN9VTrevgvMvtdEP5Tk/400x0/filters:quality(85)/e/3/0/4dc03e96c9e641948bb74b017f3b803e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Bambi
 francetv://dc4c4c61-031b-4b22-9a58-b4d52b77140b
-#EXTINF:-1 tvg-id="francetv-5bc2e3e1-405e-4153-981e-46e0d9f1953d" tvg-logo="https://medias.france.tv/TUW5-liFK9GB6PzmPCUNZ8p8Yu0/400x0/filters:quality(85)/r/b/k/phpdickbr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Devenir Lucky Love
+#EXTINF:-1 tvg-id="francetv-prog-arte_please-like-me" tvg-logo="https://medias.france.tv/0POf0Or0SmqUx_ZQGC_49xvWiUY/400x0/filters:quality(85)/4/1/p/phpik9p14.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Please Like Me
+francetv://program/arte_please-like-me
+#EXTINF:-1 tvg-id="francetv-3640d2eb-b594-4a0d-9110-a655c9278520" tvg-logo="https://medias.france.tv/npm4MHmSPEQ6V7cMl36HsvUGUos/400x0/filters:quality(85)/l/4/u/phpgigu4l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Paloma au PluriElles
+francetv://3640d2eb-b594-4a0d-9110-a655c9278520
+#EXTINF:-1 tvg-id="francetv-84abdd08-6467-4b7b-b8e3-25b00f9813b3" tvg-logo="https://medias.france.tv/Q5laf3zPjG6zEHMUErban3SuasY/400x0/filters:quality(85)/1/8/9/e2ec9009d0d444748aa927788bcfe981.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",INA SPORT — 1999 : l'homophobie face au coming-out d'Amélie Mauresmo
+francetv://84abdd08-6467-4b7b-b8e3-25b00f9813b3
+#EXTINF:-1 tvg-id="francetv-0feb5157-5a9c-4c3e-88a2-073255508cd6" tvg-logo="https://medias.france.tv/I8kucRCZD1rrhqNwesDdWGkOsQk/400x0/filters:quality(85)/e/5/0/7183f123f901400d951a08ba0a63c722f772fcb7235fd000bd2e2ed4b39df05e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Week-ends avec la jeunesse — Rire, se battre et devenir
+francetv://0feb5157-5a9c-4c3e-88a2-073255508cd6
+#EXTINF:-1 tvg-id="francetv-cb0a7c18-897c-41f8-b238-a5868087e61d" tvg-logo="https://medias.france.tv/29jVc2NEYTXOhicqf1i43JSlVDI/400x0/filters:quality(85)/7/1/b/5fe2d585652d4dc5988ad379f7e6cb17.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Safe Zone, par Faustine Bollaert — Faustine reçoit Piche
+francetv://cb0a7c18-897c-41f8-b238-a5868087e61d
+#EXTINF:-1 tvg-id="francetv-7e7eadcd-4c74-4cec-89f1-a3a5bf558f5b" tvg-logo="https://medias.france.tv/r4qKk-K4RweQsUJM4p-hvPOu9E4/400x0/filters:quality(85)/i/w/r/phpydrrwi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",La France en Vrai -  Auvergne - Rhône-Alpes — Les Audacieux.ses
+francetv://7e7eadcd-4c74-4cec-89f1-a3a5bf558f5b
+#EXTINF:-1 tvg-id="francetv-a08ea548-1a24-41cc-8b83-8904056f1c13" tvg-logo="https://medias.france.tv/lqKvzDUNv0zd0vUTovvcQW9VwTk/400x0/filters:quality(85)/b/p/p/phplhqppb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Outremer.ledoc — Guyane, amours taboues
+francetv://a08ea548-1a24-41cc-8b83-8904056f1c13
+#EXTINF:-1 tvg-id="francetv-46d76774-3494-11f0-92cc-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/jX0bmLumgQQYif6i04KuluWAUHo/400x0/filters:quality(85)/6/2/w/phpl71w26.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",L’Eurovision, une vitrine des droits LGBTQ+ en Europe
+francetv://46d76774-3494-11f0-92cc-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-1ceb1b66-f455-416c-b047-ec5eeffbfb27" tvg-logo="https://medias.france.tv/TSrH3f3swBR5SyaEpbKcN5gLe5U/400x0/filters:quality(85)/f/9/6/14e45cdb8c844fbaa2963ef19a8c569f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Passengers
+francetv://1ceb1b66-f455-416c-b047-ec5eeffbfb27
+#EXTINF:-1 tvg-id="francetv-3ac9d819-c378-4001-b4d6-365bd1bb3e83" tvg-logo="https://medias.france.tv/DT6qK-nhZ9k43QSI9u288H7Z3Pk/400x0/filters:quality(85)/6/e/6/c169f8410ad940eeb2f231df8b1e4293a045103cb133b3ab23cb76859188c6e6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Les archives de l'Histoire — 1970 : la première pride aux États-Unis
+francetv://3ac9d819-c378-4001-b4d6-365bd1bb3e83
+#EXTINF:-1 tvg-id="francetv-3a29c86e-4d2a-11ec-a9da-000d3a2427ab" tvg-logo="https://medias.france.tv/J6MavdWaLAO92vX4O44nRGpUnF0/400x0/filters:quality(85)/k/c/n/phpoarnck.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Freddie Mercury, rhapsodie pour un roi
+francetv://3a29c86e-4d2a-11ec-a9da-000d3a2427ab
+#EXTINF:-1 tvg-id="francetv-e83eb310-b1e8-4780-9c57-9a83460de759" tvg-logo="https://medias.france.tv/OiOqhAiNi-lZ4NlmEgj87xQV9oQ/400x0/filters:quality(85)/b/p/o/phpjfwopb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",La vie devant toi
+francetv://e83eb310-b1e8-4780-9c57-9a83460de759
+#EXTINF:-1 tvg-id="francetv-7d985ce6-b2b8-4f16-9b48-0ec0f5b97dcc" tvg-logo="https://medias.france.tv/Oxygvjx3R2K_Qc40O5MC9xnlM4o/400x0/filters:quality(85)/2/e/c/3260e4888e5741b5a03d87f573373d08baa2301fa04f8ad54e31d465f5a6bce2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",INA société — 1983 : dans la peau d'une femme transgenre
+francetv://7d985ce6-b2b8-4f16-9b48-0ec0f5b97dcc
+#EXTINF:-1 tvg-id="francetv-6d2aebb4-98f2-4eff-a0ba-f16b835fca29" tvg-logo="https://medias.france.tv/akGWFDroXlJUmqjZwrc_HzjKjHY/400x0/filters:quality(85)/3/b/3/0980be7832cb44a79e03b89778445a946b3dd8050ad9ba63f8a2d15ed4aa53b3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",INA société — 1985 : "Je suis bisexuelle"
+francetv://6d2aebb4-98f2-4eff-a0ba-f16b835fca29
+#EXTINF:-1 tvg-id="francetv-prog-slash_ballroom-danser-pour-exister" tvg-logo="https://medias.france.tv/YpNWvLaqidL0sietH5fLYymHtt0/400x0/filters:quality(85)/k/i/z/phpvzhzik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Ballroom, danser pour exister
+francetv://program/slash_ballroom-danser-pour-exister
+#EXTINF:-1 tvg-id="francetv-5bc2e3e1-405e-4153-981e-46e0d9f1953d" tvg-logo="https://medias.france.tv/TUW5-liFK9GB6PzmPCUNZ8p8Yu0/400x0/filters:quality(85)/r/b/k/phpdickbr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Devenir Lucky Love
 francetv://5bc2e3e1-405e-4153-981e-46e0d9f1953d
-#EXTINF:-1 tvg-id="francetv-prog-mieux_handi-et-alors" tvg-logo="https://medias.france.tv/J-pP2XAygZftpE0P0CskQ_lJ_MI/400x0/filters:quality(85)/0/b/8/20817d248bba498ea15fe56ae52c98b0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Handi et alors ?
-francetv://program/mieux_handi-et-alors
-#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_talents-extraordinaires" tvg-logo="https://medias.france.tv/MQqZKwswThXLwxK2ZS8pylMUmR4/400x0/filters:quality(85)/9/5/5/db47c1c9fa9b42ee80d54c51c769c559.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Talents Extraordinaires
-francetv://program/tv5-monde_talents-extraordinaires
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-voyage_partenaires-particuliers-un-voyage-pas-comme-les-autres" tvg-logo="https://medias.france.tv/HRkyvBjcGEDpNclaDcUwUj4YoxY/400x0/filters:quality(85)/j/c/n/phpejhncj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Partenaires particuliers, un voyage pas comme les autres
-francetv://program/documentaires_documentaires-voyage_partenaires-particuliers-un-voyage-pas-comme-les-autres
-#EXTINF:-1 tvg-id="francetv-1f363069-9eda-4df9-b5e0-0f8f2a85f954" tvg-logo="https://medias.france.tv/rgIfmE8UwCGM2iPozPyrf9eoPJk/400x0/filters:quality(85)/0/5/4/c13515e6f3c046e4ac86d6d1bc70a450.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Chansigne : quand le corps devient musique
-francetv://1f363069-9eda-4df9-b5e0-0f8f2a85f954
-#EXTINF:-1 tvg-id="francetv-86a58bc8-f33b-4ba4-800a-c30ae1babfca" tvg-logo="https://medias.france.tv/asy3OXohOVjZs2vdTTyorB3RB-g/400x0/filters:quality(85)/a/j/o/php9scoja.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Sommes-nous tous sexistes ?
-francetv://86a58bc8-f33b-4ba4-800a-c30ae1babfca
-#EXTINF:-1 tvg-id="francetv-d67ff7b4-cf17-4df6-a159-1ced2d144496" tvg-logo="https://medias.france.tv/53peg0x_Vhf1qMrZObwLrt-TbDo/400x0/filters:quality(85)/c/c/f/af58e7d7c4e6437aa74260dfc92ee6731a851cd5c3a4fe2541c08c4178d34fcc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Week-ends avec la jeunesse — Liberté, égalité, sororité
-francetv://d67ff7b4-cf17-4df6-a159-1ced2d144496
-#EXTINF:-1 tvg-id="francetv-0fe74d91-399c-4cf0-8953-7b4462e395f5" tvg-logo="https://medias.france.tv/ReGPOSV4Z7813C0N28ZR17arJog/400x0/filters:quality(85)/0/y/l/phparbly0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Des filles dans l'équation
-francetv://0fe74d91-399c-4cf0-8953-7b4462e395f5
-#EXTINF:-1 tvg-id="francetv-34bd2d3a-f1ad-488a-ad2d-9a3802a43b0e" tvg-logo="https://medias.france.tv/AOfEU1d_DHD6g86TX0m6ij_jK80/400x0/filters:quality(85)/n/e/a/phpcrvaen.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Pourquoi t'as pas d'enfants ?
-francetv://34bd2d3a-f1ad-488a-ad2d-9a3802a43b0e
-#EXTINF:-1 tvg-id="francetv-3aa65a6e-397a-4c40-8fb0-3600e6a9744b" tvg-logo="https://medias.france.tv/6R-SRk4SLlgy4m7Rfx7q4Sta2Ec/400x0/filters:quality(85)/6/2/3/ee01890aba3149e4a674d4e3555fd326.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Présent, passé, turfu ! — Épisode 1 : l'histoire du mouvement #metoo
-francetv://3aa65a6e-397a-4c40-8fb0-3600e6a9744b
-#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_peaux-noires-quel-heritage" tvg-logo="https://medias.france.tv/6Q3QCUX_2NvaqLWP9fdwx3hkgTA/400x0/filters:quality(85)/d/0/e/ccc7a7daf32e4b72b7a7f8149a436e0d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Peaux noires : quel héritage ?
-francetv://program/tv5-monde_peaux-noires-quel-heritage
-#EXTINF:-1 tvg-id="francetv-2b0a45b3-d632-49bc-a305-94463af07bc1" tvg-logo="https://medias.france.tv/frCCbADOlPTIPl-QMvaet1m18Kw/400x0/filters:quality(85)/6/7/7/334c20837286456aab9e3714bfee52e52323baf8491afdde443884aa7b549776.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",La grande explication — La marche pour l’égalité et contre le racisme
-francetv://2b0a45b3-d632-49bc-a305-94463af07bc1
-#EXTINF:-1 tvg-id="francetv-eccaea9d-9890-4340-838e-9a87bfc385e6" tvg-logo="https://medias.france.tv/-gmBnBuBpIkmVPoj-R9IHPu-WRE/400x0/filters:quality(85)/b/k/f/phpeqhfkb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Passé composé, figures du siècle — Harlem Désir et la naissance de SOS Racisme
-francetv://eccaea9d-9890-4340-838e-9a87bfc385e6
-#EXTINF:-1 tvg-id="francetv-53c920d7-268c-42b1-8a80-f653cecc95f1" tvg-logo="https://medias.france.tv/Oc7s4bIhXLkgURVxox0xadH5y94/400x0/filters:quality(85)/d/t/w/phptwmwtd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",La grande explication — L'assassinat de Martin Luther King
-francetv://53c920d7-268c-42b1-8a80-f653cecc95f1
-#EXTINF:-1 tvg-id="francetv-9654a3a2-dc48-49ed-bb04-b920a8dae6fe" tvg-logo="https://medias.france.tv/t5TrujUywBkBcubROun23li1T4s/400x0/filters:quality(85)/7/0/b/9238d4a70d3c469783b1579fb16aeb07.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",Maghrébines - Le documentaire
-francetv://9654a3a2-dc48-49ed-bb04-b920a8dae6fe
-#EXTINF:-1 tvg-id="francetv-70eea459-1a55-4b9c-924f-b9772eca9483" tvg-logo="https://medias.france.tv/VN9DhyH6SlN7_bexSYRBu_1Pu5g/400x0/filters:quality(85)/f/n/q/phppdkqnf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Les chemins vers l'égalité",La France en Vrai - Paris Ile-de-France — Tismé love : couples mixtes face au racisme
-francetv://70eea459-1a55-4b9c-924f-b9772eca9483
+#EXTINF:-1 tvg-id="francetv-prog-tv5-monde_geolocaliser-l-amour" tvg-logo="https://medias.france.tv/1QHuLir8_Wag6SGy32UNVFt1TMI/400x0/filters:quality(85)/5/7/e/fb1547e6209546de95f5f5ac79526e75.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Géolocaliser l'amour
+francetv://program/tv5-monde_geolocaliser-l-amour
+#EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_ruby-la-serie" tvg-logo="https://medias.france.tv/COJLXAj5OYVlxHO-XCjBQ-lSBVw/400x0/filters:quality(85)/b/s/n/phpthnnsb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Fiertés : la liberté d'être soi",Ruby
+francetv://program/series-et-fictions_ruby-la-serie
 #EXTINF:-1 tvg-id="francetv-b019dc37-8bce-49dd-a1e7-413c28199ad6" tvg-logo="https://medias.france.tv/GCqj4xAOjCUxZqLeVtlmrsU0LII/400x0/filters:quality(85)/m/m/r/phpygarmm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Complément d'enquête — Les petits secrets du roi du poulet
 francetv://b019dc37-8bce-49dd-a1e7-413c28199ad6
 #EXTINF:-1 tvg-id="francetv-cf0e1d4a-b2ab-11f1-8529-957ddefc544d" tvg-logo="https://medias.france.tv/FWpGrEt8iFJaYX2ayhnP45Hx6rU/400x0/filters:quality(85)/v/t/c/phpu7mctv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Doctolib, votre santé est leur business
