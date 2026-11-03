@@ -19657,12 +19657,12 @@ m6play://gulli/21382
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
-#EXTINF:-1 tvg-id="francetv-bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89" tvg-logo="https://medias.france.tv/Z14Lux5gv4wFDTQYhnauewy4fAQ/400x0/filters:quality(85)/3/2/9/2a2346cfcaaf4e3fbe27f180ee44c923.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",13h15, le dimanche — Trump : Quitte ou double
-francetv://bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-terre-et-le-sang" tvg-logo="https://medias.france.tv/U32Ls6LRpSmBLF6RM1l7M6YicYs/400x0/filters:quality(85)/f/t/u/phppcsutf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La terre et le sang
 francetv://program/france-2_la-terre-et-le-sang
 #EXTINF:-1 tvg-id="francetv-d818c47d-fd8a-4caa-88df-f3878769942b" tvg-logo="https://medias.france.tv/j-tz0c7dG-nLwZcMiZI-D8XONOM/400x0/filters:quality(85)/f/9/x/phpzjrx9f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Flo
 francetv://d818c47d-fd8a-4caa-88df-f3878769942b
+#EXTINF:-1 tvg-id="francetv-bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89" tvg-logo="https://medias.france.tv/Z14Lux5gv4wFDTQYhnauewy4fAQ/400x0/filters:quality(85)/3/2/9/2a2346cfcaaf4e3fbe27f180ee44c923.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",13h15, le dimanche — Trump : Quitte ou double
+francetv://bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_series-drame_les-disparus-des-argonnes" tvg-logo="https://medias.france.tv/OxnTOqA6arPHcYmXBqClhaCoWO0/400x0/filters:quality(85)/r/7/n/phpepqn7r.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les disparus des Argonnes
 francetv://program/series-et-fictions_series-drame_les-disparus-des-argonnes
 #EXTINF:-1 tvg-id="francetv-a7c0bd3d-be2a-4fb3-9ce9-c128e61e16b2" tvg-logo="https://medias.france.tv/-Lc8G2LUw8-BRi0LmJ2bB7JypMY/400x0/filters:quality(85)/4/w/2/phprsd2w4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Quelle époque ! — Émission du samedi 31 octobre 2026
@@ -20835,6 +20835,8 @@ francetv://d8c69d62-d3cb-11f1-88b7-19616fa871f9
 francetv://f380a66c-d302-11f1-863d-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-1fc300f4-d23a-11f1-88b1-19616fa871f9" tvg-logo="https://medias.france.tv/fgVz8fQQhYPUKxyyxtDnDLk0P6w/400x0/filters:quality(85)/y/s/l/phpiq1lsy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football - Ballon d'Or : Harry Kane, un avènement tardif
 francetv://1fc300f4-d23a-11f1-88b1-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-0ee1e874-d797-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/HvUTV1IqP1Ya-LW-ZiaajB-eqjg/400x0/filters:quality(85)/3/d/7/b8b0a45eb3be46069c982b4cc57337d3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Tennis de table (F) : le résumé de Nina Guo Zheng vs Julia Leal
+francetv://0ee1e874-d797-11f1-96a4-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-f9c3c060-d78d-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/oFMJO4BZ7dhkY_fVTO9sewFUeCE/400x0/filters:quality(85)/6/9/c/54040a6b4e9d41808b49d72eb35cac96.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",1er tour : le résumé de Nuno Borges vs Moïse Kouamé
 francetv://f9c3c060-d78d-11f1-96a4-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-e6212cc4-d78c-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/70K4aZTO6Y8ncFKQy-nfGM6Q_t8/400x0/filters:quality(85)/c/0/8/4d3a7d3dd70a4ca89e0857a92a2b680c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Baseball5 : le résumé de France vs Turquie
@@ -22005,16 +22007,22 @@ francetv://8ae191bd-e2c5-4521-8e18-330b1c41c51f
 francetv://b4f005d5-1697-4abe-ac31-cb8e133dfbb3
 #EXTINF:-1 tvg-id="francetv-ad052c49-0f0c-4605-b30e-8ca333ff20f8" tvg-logo="https://medias.france.tv/yOKGVna81AF_NVMD0prxqcuby4Q/400x0/filters:quality(85)/o/s/a/phplo8aso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Des Racines et Des Ailes — Passion patrimoine : terroirs d'excellence dans les Hauts-de-France
 francetv://ad052c49-0f0c-4605-b30e-8ca333ff20f8
+#EXTINF:-1 tvg-id="francetv-56803e17-0884-4f7d-9a21-6f0214f7d587" tvg-logo="https://medias.france.tv/EBbQBBkhzH9Zs5EDeWt_EsYGcDc/400x0/filters:quality(85)/p/w/1/phpy031wp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Martinique, l'Outre-mer au coeur
+francetv://56803e17-0884-4f7d-9a21-6f0214f7d587
+#EXTINF:-1 tvg-id="francetv-9f2f9989-17df-43c7-b6e5-1d684d5faf13" tvg-logo="https://medias.france.tv/EHTEJObUDvFq2EPFs7gXG0bRLog/400x0/filters:quality(85)/g/l/0/phpcx00lg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Pieds Nus & Culottés - Objectif Drôme
+francetv://9f2f9989-17df-43c7-b6e5-1d684d5faf13
 #EXTINF:-1 tvg-id="francetv-2ca18cb3-250d-469a-b600-8a57e3754d8c" tvg-logo="https://medias.france.tv/lrIzYGWHacWcUsAu16pGMN0-Plk/400x0/filters:quality(85)/g/s/2/phpdhd2sg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Corse, les gardiens du Cap
 francetv://2ca18cb3-250d-469a-b600-8a57e3754d8c
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-france-des-villages" tvg-logo="https://medias.france.tv/kNnhPY5a7mzRqrUp_LCQRY5rDVw/400x0/filters:quality(85)/y/t/x/phpz1wxty.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",La France des villages
+francetv://program/france-3_la-france-des-villages
 #EXTINF:-1 tvg-id="francetv-5127381b-bb61-4585-981b-c1b3f161b96a" tvg-logo="https://medias.france.tv/MwB-8qx8_kG2o4TC8AJPfN2pGtI/400x0/filters:quality(85)/t/g/q/php8ouqgt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Week-end à Saint-Tropez
 francetv://5127381b-bb61-4585-981b-c1b3f161b96a
+#EXTINF:-1 tvg-id="francetv-611696eb-15ed-415c-91cd-9bc9bf4c6972" tvg-logo="https://medias.france.tv/gkJLhiddsyOXyhn3gNF9FtgYLwY/400x0/filters:quality(85)/e/u/d/php1zjdue.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Les secrets de Vézelay
+francetv://611696eb-15ed-415c-91cd-9bc9bf4c6972
 #EXTINF:-1 tvg-id="francetv-37f44ad3-7026-4c8a-9f3f-bcaaf62a470c" tvg-logo="https://medias.france.tv/EzSfZnsagvHdV0sOg45hBBwAS8M/400x0/filters:quality(85)/d/u/m/phpiyumud.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Des Racines et Des Ailes — Passion patrimoine : mon île en Normandie
 francetv://37f44ad3-7026-4c8a-9f3f-bcaaf62a470c
 #EXTINF:-1 tvg-id="francetv-fe966aa0-12c0-4cdd-a559-4809c5a074ef" tvg-logo="https://medias.france.tv/zpH_lQ9JanWZCmjicUfihOY5YEQ/400x0/filters:quality(85)/k/y/g/php6dagyk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Finistère, les rivages au bout de la terre
 francetv://fe966aa0-12c0-4cdd-a559-4809c5a074ef
-#EXTINF:-1 tvg-id="francetv-9f2f9989-17df-43c7-b6e5-1d684d5faf13" tvg-logo="https://medias.france.tv/EHTEJObUDvFq2EPFs7gXG0bRLog/400x0/filters:quality(85)/g/l/0/phpcx00lg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Pieds Nus & Culottés - Objectif Drôme
-francetv://9f2f9989-17df-43c7-b6e5-1d684d5faf13
 #EXTINF:-1 tvg-id="francetv-91daaff2-c67b-40be-8c4c-c48a1405db2e" tvg-logo="https://medias.france.tv/L6erubPbYJPq6h7hGBarhQ6Z1WQ/400x0/filters:quality(85)/s/m/4/phpcsk4ms.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Le monument préféré des Français — Édition 2026
 francetv://91daaff2-c67b-40be-8c4c-c48a1405db2e
 #EXTINF:-1 tvg-id="francetv-1ede784d-44ab-4459-90ed-e3d6c49ecb3e" tvg-logo="https://medias.france.tv/MRDPRK5a4yegIdaQMZ25nOKA1j0/400x0/filters:quality(85)/5/6/9/b730bf0783ea42b5a9f60c032f9cf965.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",La Côte d’Azur, mythique et légendaire
@@ -22025,8 +22033,6 @@ francetv://59dca436-3175-490c-bddb-4bd3cb533132
 francetv://88f1ae1a-edea-45ac-a3f3-fa825410899e
 #EXTINF:-1 tvg-id="francetv-a88a10a2-4076-4dfe-b13e-da081f73b082" tvg-logo="https://medias.france.tv/-rVJ9dNIjbbC8NEPSlVcXtnB1Ho/400x0/filters:quality(85)/a/g/e/phplmtega.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Des Racines et Des Ailes — Passion patrimoine : l'Alsace, terre de passion
 francetv://a88a10a2-4076-4dfe-b13e-da081f73b082
-#EXTINF:-1 tvg-id="francetv-611696eb-15ed-415c-91cd-9bc9bf4c6972" tvg-logo="https://medias.france.tv/gkJLhiddsyOXyhn3gNF9FtgYLwY/400x0/filters:quality(85)/e/u/d/php1zjdue.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Les secrets de Vézelay
-francetv://611696eb-15ed-415c-91cd-9bc9bf4c6972
 #EXTINF:-1 tvg-id="francetv-7ecf8b56-7b7f-11f1-ae3e-57a09c50f7ce" tvg-logo="https://medias.france.tv/aqfBR-6rMbVqcek2vPnlRclGdEg/400x0/filters:quality(85)/a/4/c/c78a7bb916d946e599413b8ae30dcc4a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Le village préféré des Français — Et le village préféré des Francais 2026 est...
 francetv://7ecf8b56-7b7f-11f1-ae3e-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-6620d10e-1ad3-4f59-924a-82ebcfed9c50" tvg-logo="https://medias.france.tv/OB0zjTGflEZXMYGLoieTRjGwA9U/400x0/filters:quality(85)/c/n/t/php875tnc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Les 100 lieux qu'il faut voir — La Provence de Van Gogh
@@ -22061,8 +22067,6 @@ francetv://c259a522-b7f6-4137-99dd-f2c6153fa2aa
 francetv://c8825264-a5fc-4052-8662-b90e21fd1c89
 #EXTINF:-1 tvg-id="francetv-c1399140-03a7-4e48-82bf-30ba17b55378" tvg-logo="https://medias.france.tv/nWwv_zf2XbD8HeEnPwdW_waCq34/400x0/filters:quality(85)/9/d/a/bc2a36425b8f4646acbefbad8032bad9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Antibes, cap sur l'azur
 francetv://c1399140-03a7-4e48-82bf-30ba17b55378
-#EXTINF:-1 tvg-id="francetv-56803e17-0884-4f7d-9a21-6f0214f7d587" tvg-logo="https://medias.france.tv/EBbQBBkhzH9Zs5EDeWt_EsYGcDc/400x0/filters:quality(85)/p/w/1/phpy031wp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Martinique, l'Outre-mer au coeur
-francetv://56803e17-0884-4f7d-9a21-6f0214f7d587
 #EXTINF:-1 tvg-id="francetv-2212d4e7-01b4-4822-8fcb-386a2fd6cd43" tvg-logo="https://medias.france.tv/D9O5OOmUdJLhw_xF5wHJ8KUdCdo/400x0/filters:quality(85)/c/t/p/phpgahptc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Échappées belles — Morbihan, la Bretagne dans la peau
 francetv://2212d4e7-01b4-4822-8fcb-386a2fd6cd43
 #EXTINF:-1 tvg-id="francetv-df337b29-c8a7-412d-9d1a-24c61c7cade6" tvg-logo="https://medias.france.tv/l6Lq5S_uCr5A6wNn4FXvTMy-IpI/400x0/filters:quality(85)/i/6/3/php02y36i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Escapades en France",Les 100 lieux qu'il faut voir — Larzac : le génie des Templiers
@@ -24203,6 +24207,8 @@ francetv://26fab9ec-cb2d-4b10-839a-2709206a86f1
 francetv://bf4bc062-3556-4475-a185-48d21266d4fe
 #EXTINF:-1 tvg-id="francetv-57abec12-76d8-47d0-a300-6f7ef639f418" tvg-logo="https://medias.france.tv/RSst4aljyxuccEO1esX6pQJyEJg/400x0/filters:quality(85)/e/m/y/phpkhhyme.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 10 - Après-midi
 francetv://57abec12-76d8-47d0-a300-6f7ef639f418
+#EXTINF:-1 tvg-id="francetv-0ee1e874-d797-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/HvUTV1IqP1Ya-LW-ZiaajB-eqjg/400x0/filters:quality(85)/3/d/7/b8b0a45eb3be46069c982b4cc57337d3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Tennis de table (F) : le résumé de Nina Guo Zheng vs Julia Leal
+francetv://0ee1e874-d797-11f1-96a4-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-f9c3c060-d78d-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/oFMJO4BZ7dhkY_fVTO9sewFUeCE/400x0/filters:quality(85)/6/9/c/54040a6b4e9d41808b49d72eb35cac96.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",1er tour : le résumé de Nuno Borges vs Moïse Kouamé
 francetv://f9c3c060-d78d-11f1-96a4-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-e6212cc4-d78c-11f1-96a4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/70K4aZTO6Y8ncFKQy-nfGM6Q_t8/400x0/filters:quality(85)/c/0/8/4d3a7d3dd70a4ca89e0857a92a2b680c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Baseball5 : le résumé de France vs Turquie
