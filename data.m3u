@@ -7942,7 +7942,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [kilirushi]
@@ -7959,6 +7959,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France TV backup - Autres",France 24 Spanish (720p) [kilirushi]
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
