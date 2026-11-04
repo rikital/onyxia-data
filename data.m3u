@@ -7950,7 +7950,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France TV backup - Autres",France 24 Spanish (720p) [kilirushi]
-http://138.121.15.230:9002/FRANCE-24/index.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France TV backup - Autres",Euronews Russian (576p) [kilirushi]
+http://tmptv.sunduk.tv/CH31/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
