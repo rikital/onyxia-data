@@ -210,6 +210,41 @@ def index_precedent():
         return []
 
 
+_RE_EP_TV = re.compile(r"^tv\d{2,8}\s*-\s*(.+?)\s*-\s*S(\d{1,2})\s*E\d{1,3}", re.I)
+
+
+def compte_series(cle2):
+    """2026-11-05 : 2e compte Vidara (les SERIES), lu par l'API seule avec VIDARA2_API_KEY
+       (pas de mot de passe). L'API ne donne pas l'imbrication des dossiers : pour un
+       episode « tv12345 - Nom - S01E02 » le dossier est deduit du nom (« Séries / Nom /
+       Saison 1 »), sinon on garde le nom du dossier Vidara."""
+    noms = {}
+    for page in range(1, 21):
+        d = api("/folder/list", {"page": page, "per_page": PAR_PAGE}, cle2)
+        if not isinstance(d, dict) or not isinstance(d.get("result"), dict):
+            raise LectureIncomplete(f"compte series : folder/list illisible {str(d)[:120]}")
+        plats = d["result"].get("folders") or []
+        avant = len(noms)
+        for f in plats:
+            try:
+                noms[int(f.get("fld_id") or f.get("code"))] = (f.get("name") or "").strip()
+            except (TypeError, ValueError):
+                continue
+        if len(noms) == avant or len(plats) < PAR_PAGE:
+            break
+    lot = []
+    for fid, nom in sorted(noms.items(), key=lambda kv: kv[1].lower()):
+        lot += fichiers_du_dossier(cle2, fid, nom)
+    lot += fichiers_du_dossier(cle2, None, "")
+    for it in lot:
+        it["compte"] = 2
+        m = _RE_EP_TV.match(it["titre"])
+        if m:
+            # meme dossier « Série » que les series du 1er compte -> un seul dossier dans l'appli
+            it["dossier"] = f"Série/{m.group(1).strip()}/Saison {int(m.group(2))}"
+    return lot
+
+
 def main():
     site_creds = os.environ.get("VIDARA_SITE", "").strip()
     cle = os.environ.get("VIDARA_API_KEY", "").strip()
@@ -254,6 +289,18 @@ def main():
         # Mieux vaut l'index d'hier, complet, qu'un index troue.
         print(f"lecture incomplete ({e}) — index NON reecrit.", file=sys.stderr)
         return 1
+
+    # 3 bis. 2e compte (series). Une lecture ratee ne doit ni bloquer les films ni faire
+    #   disparaitre les series : on reprend alors celles de l'index d'hier.
+    cle2 = os.environ.get("VIDARA2_API_KEY", "").strip()
+    if cle2:
+        try:
+            lot2 = compte_series(cle2)
+            print(f"  compte series : {len(lot2)} fichier(s)")
+        except LectureIncomplete as e:
+            lot2 = [x for x in index_precedent() if x.get("compte") == 2]
+            print(f"  compte series illisible ({e}) — {len(lot2)} entree(s) d'hier reprises", file=sys.stderr)
+        lot += lot2
 
     items, vus = [], set()
     for it in lot:
