@@ -7995,6 +7995,10 @@ http://170.83.16.50/FRANCE_24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [kilirushi]
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" group-title="France TV backup - Autres",TV5Monde Europe (1080p) [kilirushi]
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
