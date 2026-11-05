@@ -28,7 +28,7 @@ PAR_PAGE = 100
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
-ESPACEMENT_S = 0.35
+ESPACEMENT_S = 1.0   # 2026-11-05 : 0.35 -> 1.0, Vidara repondait 429 en rafale (index non reecrit)
 _dernier_appel = 0.0
 
 
@@ -45,7 +45,7 @@ class LectureIncomplete(RuntimeError):
     """Une page ou un dossier n'a pas pu etre lu : l'index serait troue."""
 
 
-def api(chemin, params, cle, essais=8):
+def api(chemin, params, cle, essais=12):   # 2026-11-05 : 8 -> 12 (~7 min de patience)
     # 2026-10-26 : AVANT, un 429 repete rendait None en silence -> le dossier
     #   s'arretait a la page 1 (100 fichiers) et le reste tombait "sans dossier".
     #   Desormais on attend plus longtemps et, en cas d'echec final, on LEVE.
