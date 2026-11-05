@@ -286,9 +286,13 @@ def main():
             lot += fichiers_du_dossier(cle, fid, nom)
         lot += fichiers_du_dossier(cle, None, "")   # sans fld_id = tout le compte -> reliquat
     except LectureIncomplete as e:
-        # Mieux vaut l'index d'hier, complet, qu'un index troue.
-        print(f"lecture incomplete ({e}) — index NON reecrit.", file=sys.stderr)
-        return 1
+        # Mieux vaut l'index d'hier, complet, qu'un index troue. 2026-11-05 : on reprend
+        #   alors les FILMS d'hier tels quels et on continue, pour que le compte des series
+        #   soit quand meme ajoute (Vidara limite souvent la cle des films).
+        lot = [x for x in index_precedent() if x.get("compte") != 2]
+        print(f"lecture incomplete ({e}) — {len(lot)} entree(s) films d'hier reprises.", file=sys.stderr)
+        if not lot:
+            return 1
 
     # 3 bis. 2e compte (series). Une lecture ratee ne doit ni bloquer les films ni faire
     #   disparaitre les series : on reprend alors celles de l'index d'hier.
