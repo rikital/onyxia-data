@@ -180,6 +180,10 @@ def fichiers_du_dossier(cle, fld_id, nom_dossier):
             code = (f.get("filecode") or f.get("file_code") or f.get("code") or "").strip()
             if not code:
                 continue
+            # 2026-11-05 : fichier pas encore converti chez Vidara (« queued ») -> pas encore
+            #   lisible, il donnerait un serveur rouge dans l'appli. Il entrera au passage suivant.
+            if str(f.get("status") or "active").lower() in ("queued", "processing", "encoding", "pending"):
+                continue
             nom = (f.get("title") or f.get("name") or "").strip()
             out.append({
                 "code": code,
