@@ -2973,6 +2973,8 @@ tf1plus://lci/podcast-francois-lenglet-pourquoi-faire-complique
 tf1plus://lci/objectif-2027
 #EXTINF:-1 tvg-id="tf1plus-lci-aura-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-789560-0af87d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Aura
 tf1plus://lci/aura
+#EXTINF:-1 tvg-id="tf1plus-lci-vous-avez-la-parole-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-vous-avez-la-parole-jpg-79f915-0aef33-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Vous Avez la Parole
+tf1plus://lci/vous-avez-la-parole
 #EXTINF:-1 tvg-id="tf1plus-tf1-top-info-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-207e99-35a90c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Top Info
 tf1plus://tf1/top-info
 #EXTINF:-1 tvg-id="tf1plus-lci-histoires-criminelles-lenquete-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-a7be31-cd83c4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Histoires Criminelles Lenquete
@@ -2999,8 +3001,6 @@ tf1plus://lci/grands-reportages-lci
 tf1plus://lci/18h-darius-rochebin
 #EXTINF:-1 tvg-id="tf1plus-lci-impact-positif-lci,-au-rythme-de-l'info" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-79bd49-4ab69c-ff6e20-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - LCI, au rythme de l'info",Impact Positif
 tf1plus://lci/impact-positif
-#EXTINF:-1 tvg-id="tf1plus-lci-week-end-sans-filtre-lci,-au-rythme-de-l'info" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-4c6f29-4d9837-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - LCI, au rythme de l'info",Week End Sans Filtre
-tf1plus://lci/week-end-sans-filtre
 #EXTINF:-1 tvg-id="tf1plus-tf1-guerilla-urbaine-au-coeur-de-lentrainement-des-soldats-francais-reportages" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-guerilla-urbaine-136d9d-8e7d7f-4a9892-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Reportages",Guerilla Urbaine Au Coeur de Lentrainement des Soldats Francais
 tf1plus://tf1/guerilla-urbaine-au-coeur-de-lentrainement-des-soldats-francais
 #EXTINF:-1 tvg-id="tf1plus-tf1-chroniques-criminelles-reportages" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-chroniques-criminelles-la-cavale-des-amants-diaboliques-le-camion-de-la-mort-jpg-776ee8-c95abc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Reportages",Chroniques Criminelles
@@ -3117,6 +3117,8 @@ tf1plus://lci/edition-speciale
 tf1plus://lci/larmee-russe-recrute-a-tout-prix
 #EXTINF:-1 tvg-id="tf1plus-lci-meteo-smx" tvg-logo="https://photos.tf1.fr/1200/720/vignette_paysage-12-459a90-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Météo
 tf1plus://lci/meteo
+#EXTINF:-1 tvg-id="tf1plus-lci-week-end-sans-filtre-smx" tvg-logo="https://photos.tf1.fr/1200/720/week-end-sans-filtre-du-dimanche-1er-novembre-2026-7bc1fc-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Week-end sans filtre
+tf1plus://lci/week-end-sans-filtre
 #EXTINF:-1 tvg-id="tf1plus-tf1-1-an-de-tf1-smx" tvg-logo="https://photos.tf1.fr/1200/720/60179d830423461456edca15ab61e31b4ea4ad24-e975b5-36834d-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",1 an de TF1+ !
 tf1plus://tf1/1-an-de-tf1
 #EXTINF:-1 tvg-id="tf1plus-tf1-10-smx" tvg-logo="https://photos.tf1.fr/1200/720/10-s01-e08-c9f424-5cfcaf-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",10
