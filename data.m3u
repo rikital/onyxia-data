@@ -1837,7 +1837,7 @@ https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24Sport.fr" group-title="France TV backup - Autres",Africa 24 Sport (1080p) [kilirushi]
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" group-title="France TV backup - Autres",Alpe d’Huez TV (720p) [Not 24/7] [kilirushi]
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" group-title="France TV backup - Autres",Generations TV (576p) [kilirushi]
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="TV3V.fr" group-title="France TV backup - Autres",TV3V (720p) [kilirushi]
@@ -1871,11 +1871,11 @@ http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="BBlackClassik.fr" group-title="Musique - Musique",BBLACK! CLASSIK
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.fr" group-title="Musique - Musique",MADRAS FM TV
-https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="BblackAfrica.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Africa (1080p)
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:-1 tvg-id="BblackCaribbean.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Caribbean (1080p)
 https://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
 #EXTINF:-1 tvg-id="BblackClassik.fr" group-title="Nouveautés FR - Nouveautés",Bblack! Classik (1080p)
