@@ -2649,8 +2649,6 @@ tf1plus://tf1/creed-3
 tf1plus://tmc/expendables-4-784
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-the-mortal-instruments-la-cite-des-tenebres-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-3cc65a-1ee3a9-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Mortal Instruments la Cite des Tenebres
 tf1plus://tf1-series-films/the-mortal-instruments-la-cite-des-tenebres
-#EXTINF:-1 tvg-id="tf1plus-tmc-morbius-action" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-1ad5b6-b8c60e-21fc1b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Morbius
-tf1plus://tmc/morbius
 #EXTINF:-1 tvg-id="tf1plus-tf1-series-films-nuit-blanche-710-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-e05cfd-4da869-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",Nuit Blanche 710
 tf1plus://tf1-series-films/nuit-blanche-710
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-revenge-action" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ff39da-395152-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Action",The Revenge
@@ -2923,6 +2921,8 @@ tf1plus://tf1/valerian-et-la-cite-des-mille-planetes-972
 tf1plus://tf1/jiu-jitsu
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-combattant-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b6a309-504c43-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Le Combattant
 tf1plus://tf1/le-combattant
+#EXTINF:-1 tvg-id="tf1plus-tf1-tireur-delite-entre-potes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cb5de4-578089-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre potes",Tireur Delite
+tf1plus://tf1/tireur-delite
 #EXTINF:-1 tvg-id="tf1plus-tf1-above-the-shadow-entre-filles" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-2-8b3ab7-1471e1-d1b58b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Entre filles",Above The Shadow
 tf1plus://tf1/above-the-shadow
 #EXTINF:-1 tvg-id="tf1plus-tf1-good-kids-ados" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-317ce4-ba4dd1-4edd2b-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Ados",Good Kids
@@ -5817,8 +5817,6 @@ tf1plus://tf1/thor-god-of-thunder
 tf1plus://tf1/ticket-to-paradise-068
 #EXTINF:-1 tvg-id="tf1plus-tf1-tirailleurs-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-2159f3-488edf-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Tirailleurs
 tf1plus://tf1/tirailleurs
-#EXTINF:-1 tvg-id="tf1plus-tf1-tireur-delite-smx" tvg-logo="https://photos.tf1.fr/1200/720/tireur-delite-ef0a00-0dafdb-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Tireur d'élite
-tf1plus://tf1/tireur-delite
 #EXTINF:-1 tvg-id="tf1plus-tf1-titanic-ii-smx" tvg-logo="https://photos.tf1.fr/1200/720/raw-titanic-ii-48913018-1684863079-1a7f85-02e227-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Titanic II
 tf1plus://tf1/titanic-ii
 #EXTINF:-1 tvg-id="tf1plus-tf1-titanic-rises-smx" tvg-logo="https://photos.tf1.fr/1200/720/titanic-rises-3cccdd-c15a08-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Titanic rises
