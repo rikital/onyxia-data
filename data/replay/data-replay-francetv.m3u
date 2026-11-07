@@ -165,8 +165,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
-#EXTINF:-1 tvg-id="francetv-prog-france-3_les-enquetes-de-vera" tvg-logo="https://medias.france.tv/XzkDRHgUj0eI0jex-HyLef_RK4c/400x0/filters:quality(85)/a/j/r/phplchrja.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les enquêtes de Vera
-francetv://program/france-3_les-enquetes-de-vera
+#EXTINF:-1 tvg-id="francetv-prog-france-3_le-voyageur" tvg-logo="https://medias.france.tv/UP-QShynOn8R6zdKJ9tDdGM781A/400x0/filters:quality(85)/d/x/x/phpxekxxd.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur
+francetv://program/france-3_le-voyageur
 #EXTINF:-1 tvg-id="francetv-b380a2c6-0bfa-40f8-910d-8dfdafa1a660" tvg-logo="https://medias.france.tv/mC5_k1A36QV1_EwqfbuMYj5abns/400x0/filters:quality(85)/v/d/h/phptuihdv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La boîte à secrets — Émission du vendredi 6 novembre 2026
 francetv://b380a2c6-0bfa-40f8-910d-8dfdafa1a660
 #EXTINF:-1 tvg-id="francetv-prog-france-3_verdun-300-jours-300-nuits" tvg-logo="https://medias.france.tv/UuyMNTV-FoBAWfVVZemp7qn4cG4/400x0/filters:quality(85)/w/q/c/phprahcqw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Verdun : 300 jours, 300 nuits
@@ -179,6 +179,8 @@ francetv://034197fb-579a-48a5-ac05-3007c348d971
 francetv://ebd479de-a2a6-4209-9c00-ae0eb221f7a4
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/wNhjnLTUGgBHAy4496J7PJNSrB0/400x0/filters:quality(85)/b/o/e/phpodweob.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Alex Hugo
 francetv://program/france-3_alex-hugo
+#EXTINF:-1 tvg-id="francetv-prog-france-3_les-enquetes-de-vera" tvg-logo="https://medias.france.tv/XzkDRHgUj0eI0jex-HyLef_RK4c/400x0/filters:quality(85)/a/j/r/phplchrja.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les enquêtes de Vera
+francetv://program/france-3_les-enquetes-de-vera
 #EXTINF:-1 tvg-id="francetv-d20ef9db-047f-4e94-a47e-9338ab76bb1f" tvg-logo="https://medias.france.tv/WGM7SkMpHSK46CrXrwsA2J65jr8/400x0/filters:quality(85)/j/i/f/phpyygfij.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Sans filtre — Agriculture, de la ferme à nos assiettes
 francetv://d20ef9db-047f-4e94-a47e-9338ab76bb1f
 #EXTINF:-1 tvg-id="francetv-177e9678-09d3-435c-b207-2ab4e33ad36b" tvg-logo="https://medias.france.tv/HrU8MnUw9t6o1H7V-sAfmGiT4ig/400x0/filters:quality(85)/f/y/u/phpi9kuyf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur — Le sentier perdu
@@ -255,8 +257,6 @@ francetv://program/france-3_mysteres-au-paradis
 francetv://program/france-3_grantchester
 #EXTINF:-1 tvg-id="francetv-prog-france-3_tom-et-lola" tvg-logo="https://medias.france.tv/WcKLEoRhMRsz7-kfY2rzth4TILs/400x0/filters:quality(85)/g/x/s/phprtisxg.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Tom et Lola
 francetv://program/france-3_tom-et-lola
-#EXTINF:-1 tvg-id="francetv-prog-france-3_le-voyageur" tvg-logo="https://medias.france.tv/UP-QShynOn8R6zdKJ9tDdGM781A/400x0/filters:quality(85)/d/x/x/phpxekxxd.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur
-francetv://program/france-3_le-voyageur
 #EXTINF:-1 tvg-id="francetv-prog-france-3_face-a-face" tvg-logo="https://medias.france.tv/1Jy9XNTH_MLruEq0N5yu7ur74GE/400x0/filters:quality(85)/g/t/w/phpxwxwtg.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Face à face
 francetv://program/france-3_face-a-face
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meurtres-a" tvg-logo="https://medias.france.tv/o3H6Icogqoevrtgq05VNzKZdS8Q/400x0/filters:quality(85)/b/1/r/php29sr1b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à...
@@ -593,6 +593,8 @@ francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festiva
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival" tvg-logo="https://medias.france.tv/BVoLGIPZImlbwb4PpeajseBJCtg/400x0/filters:quality(85)/2/7/x/phpkmqx72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Golden Coast Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival
+#EXTINF:-1 tvg-id="francetv-c31c28ec-b6e0-4000-88cf-90816c23576a" tvg-logo="https://medias.france.tv/uoVgGfb-qRAh3IjINbyYMUHS1Ec/400x0/filters:quality(85)/f/v/i/phpsj0ivf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Des hommes d'influence
+francetv://c31c28ec-b6e0-4000-88cf-90816c23576a
 #EXTINF:-1 tvg-id="francetv-ce9622d0-0927-4fb8-9468-3f5feded62c7" tvg-logo="https://medias.france.tv/YdmXpB_VQhWdwbN-BMaAN6Y0_kY/400x0/filters:quality(85)/p/i/t/phpoagtip.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Aux arts et cætera — Catherine Leroy, une Française dans la guerre du Vietnam
 francetv://ce9622d0-0927-4fb8-9468-3f5feded62c7
 #EXTINF:-1 tvg-id="francetv-863997d8-3a13-404f-9c9d-23d882acfcd3" tvg-logo="https://medias.france.tv/aFz5J13c7sLSugEibC68OH77SQA/400x0/filters:quality(85)/c/e/y/phpsgkyec.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — Siri Hustvedt, Laure Murat, Marc Levy, Frédéric Worms, Lionel Naccache, Eva Bottega, Laura Kasischke
@@ -607,18 +609,8 @@ francetv://99670565-86fa-4e89-8170-11489472f8f6
 francetv://50916937-481a-4632-aad8-d484df6486a9
 #EXTINF:-1 tvg-id="francetv-75730e1b-bdf2-4ddf-b218-8c9ebfd9d15b" tvg-logo="https://medias.france.tv/slzR0MoCDUOhRU_vQNrBAi8_3TU/400x0/filters:quality(85)/z/t/t/phpuokttz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La case du siècle — Chirac sous les Tropiques, petits arrangements avec la République
 francetv://75730e1b-bdf2-4ddf-b218-8c9ebfd9d15b
-#EXTINF:-1 tvg-id="francetv-9226dbdf-e8e2-4251-bc61-745a7c811c06" tvg-logo="https://medias.france.tv/zk6TdqBZxN_LSZR9-GQ_rfuzP0M/400x0/filters:quality(85)/u/c/9/php4ei9cu.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Échappées belles — Les visages de l'Hérault
-francetv://9226dbdf-e8e2-4251-bc61-745a7c811c06
-#EXTINF:-1 tvg-id="francetv-7f780118-7804-4f25-b059-d8d34364d720" tvg-logo="https://medias.france.tv/ox-rzj98ParCb8dwjybEV-XYaOw/400x0/filters:quality(85)/a/r/f/php15xfra.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Primary Colors
-francetv://7f780118-7804-4f25-b059-d8d34364d720
-#EXTINF:-1 tvg-id="francetv-c2a5c371-d2f9-4f9e-81eb-9e40d0d8bc09" tvg-logo="https://medias.france.tv/tnKm7W1A3Phde17Yue6DBOewd3w/400x0/filters:quality(85)/k/k/1/phpmml1kk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — André Comte-Sponville, Blanche Léridon, Sophie Marceau, Clémentine Mélois et Sylvain Prudhomme
-francetv://c2a5c371-d2f9-4f9e-81eb-9e40d0d8bc09
 #EXTINF:-1 tvg-id="francetv-1b761d0b-d613-46fe-86ef-a8976a6a0a4d" tvg-logo="https://medias.france.tv/6wUmP6hm3Xnp-t6lDWOHyMjU7Yg/400x0/filters:quality(85)/a/u/u/phpeskuua.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le luxe, un pouvoir français
 francetv://1b761d0b-d613-46fe-86ef-a8976a6a0a4d
-#EXTINF:-1 tvg-id="francetv-39aae124-f69a-4833-81c4-584809da8ccf" tvg-logo="https://medias.france.tv/H4GuHateIYDXMD-jaeGHdtTv35g/400x0/filters:quality(85)/x/f/s/phpmmfsfx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Thalassa, aventures extrêmes — Chasseurs de records
-francetv://39aae124-f69a-4833-81c4-584809da8ccf
-#EXTINF:-1 tvg-id="francetv-c903d31d-903b-434a-af62-f55583f3ff96" tvg-logo="https://medias.france.tv/LXBSJvFNTQOt1rlBRDZkZydHcG0/400x0/filters:quality(85)/h/b/0/php1xw0bh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Israël, une démocratie en péril
-francetv://c903d31d-903b-434a-af62-f55583f3ff96
 #EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",En tension dans les blocus lycéens avec HugoDécrypte
 francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
 #EXTINF:-1 tvg-id="francetv-a0f4eba6-f59f-4741-89de-a618c84de1be" tvg-logo="https://medias.france.tv/nDKb8YQHCbqyu4YTViJRgvdeke4/400x0/filters:quality(85)/h/e/i/phpgu7ieh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Enquête de santé — Traitements hormonaux : le nouveau scandale sanitaire ?
@@ -651,8 +643,8 @@ francetv://program/france-5_le-monde-en-face
 francetv://program/france-5_la-fabrique-du-mensonge
 #EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie
 francetv://program/france-5_la-grande-librairie
-#EXTINF:-1 tvg-id="francetv-c31c28ec-b6e0-4000-88cf-90816c23576a" tvg-logo="https://medias.france.tv/uoVgGfb-qRAh3IjINbyYMUHS1Ec/400x0/filters:quality(85)/f/v/i/phpsj0ivf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Des hommes d'influence
-francetv://c31c28ec-b6e0-4000-88cf-90816c23576a
+#EXTINF:-1 tvg-id="francetv-7f780118-7804-4f25-b059-d8d34364d720" tvg-logo="https://medias.france.tv/ox-rzj98ParCb8dwjybEV-XYaOw/400x0/filters:quality(85)/a/r/f/php15xfra.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Primary Colors
+francetv://7f780118-7804-4f25-b059-d8d34364d720
 #EXTINF:-1 tvg-id="francetv-44e0faf6-27c2-4c66-9573-efa2aa7679cd" tvg-logo="https://medias.france.tv/pDaIwABxt_AdFs2StS9t1Xu40yY/400x0/filters:quality(85)/e/c/s/phpfawsce.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Les docs de La grande librairie — Victor Hugo
 francetv://44e0faf6-27c2-4c66-9573-efa2aa7679cd
 #EXTINF:-1 tvg-id="francetv-a50e23db-8bdb-43a9-9e59-fd7028177526" tvg-logo="https://medias.france.tv/VrTKxeDrTyBZ_omNVAE_mTQlxbQ/400x0/filters:quality(85)/e/e/t/phpk8ntee.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Aux arts et cætera — Route 66, une légende américaine
@@ -717,6 +709,8 @@ francetv://353fb5ae-fb03-4876-98ef-59b95b8f6259
 francetv://a6b3b9f2-7aa0-40b1-a3cb-dc55554899bc
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_en-tension" tvg-logo="https://medias.france.tv/_G_2q2TuK7_rcIP34mKWp0atlWE/400x0/filters:quality(85)/q/l/7/phpmf07lq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",En tension
 francetv://program/documentaires_en-tension
+#EXTINF:-1 tvg-id="francetv-c903d31d-903b-434a-af62-f55583f3ff96" tvg-logo="https://medias.france.tv/LXBSJvFNTQOt1rlBRDZkZydHcG0/400x0/filters:quality(85)/h/b/0/php1xw0bh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Israël, une démocratie en péril
+francetv://c903d31d-903b-434a-af62-f55583f3ff96
 #EXTINF:-1 tvg-id="francetv-6cca70e5-3267-4b63-96ad-f784bf2f62d0" tvg-logo="https://medias.france.tv/P2IWGZ60F40BpV0QNbIVKoh2xvw/400x0/filters:quality(85)/p/m/y/phphj4ymp.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La case du siècle — Kibboutz Revadim, l'utopie des pionniers
 francetv://6cca70e5-3267-4b63-96ad-f784bf2f62d0
 #EXTINF:-1 tvg-id="francetv-fe9e3c0b-0dee-4b80-91a7-616a32a7b646" tvg-logo="https://medias.france.tv/m9Zc8OAPRJx47QHjXfQbdvfV260/400x0/filters:quality(85)/p/e/m/phpet6mep.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde en face — Etats-Unis - Chine : le clash des superpuissances
@@ -2175,20 +2169,22 @@ francetv://program/enfants_six-huit-ans_tinka
 francetv://program/enfants_neuf-douze-ans_zombie-lars
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_fifi-brindacier" tvg-logo="https://medias.france.tv/SsNfFOkY2h0PcAc0PDQCiWMHXUA/400x0/filters:quality(85)/i/q/z/phpxlazqi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Séries Okoo",Fifi Brindacier
 francetv://program/enfants_six-huit-ans_fifi-brindacier
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Vendée Globe, Seuls autour du monde
-francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
+#EXTINF:-1 tvg-id="francetv-62f0216d-a314-4c9b-91ba-dd5553122eae" tvg-logo="https://medias.france.tv/Mt5WcU-Cs-QPDsdzDiMCi5GBm4I/400x0/filters:quality(85)/p/o/r/php98qrop.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Échappées belles — Week-end à Lille
+francetv://62f0216d-a314-4c9b-91ba-dd5553122eae
 #EXTINF:-1 tvg-id="francetv-e7bb2eb0-f769-4e89-8b3e-c36d6ecd32d9" tvg-logo="https://medias.france.tv/2qS2Z9TZfVUR5qtlG_oD0ioCaNc/400x0/filters:quality(85)/9/q/t/phpfkltq9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Science grand format — Le phare d'Alexandrie : les derniers secrets
 francetv://e7bb2eb0-f769-4e89-8b3e-c36d6ecd32d9
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
 #EXTINF:-1 tvg-id="francetv-prog-france-3_verdun-300-jours-300-nuits" tvg-logo="https://medias.france.tv/UuyMNTV-FoBAWfVVZemp7qn4cG4/400x0/filters:quality(85)/w/q/c/phprahcqw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Verdun : 300 jours, 300 nuits
 francetv://program/france-3_verdun-300-jours-300-nuits
-#EXTINF:-1 tvg-id="francetv-034197fb-579a-48a5-ac05-3007c348d971" tvg-logo="https://medias.france.tv/yYQvb3isSRrWiuw4WQy8j8kHryo/400x0/filters:quality(85)/y/y/3/php3ci3yy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Des Racines et Des Ailes — Jardins d'exception, à l'occasion des 400 ans du Jardin des Plantes
-francetv://034197fb-579a-48a5-ac05-3007c348d971
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Vendée Globe, Seuls autour du monde
+francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-environnement_corridors-de-vie" tvg-logo="https://medias.france.tv/ZDd1DtDY-tBJ3xI3rQffv9ZUF4w/400x0/filters:quality(85)/n/o/k/phpijqkon.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Corridors de vie
 francetv://program/documentaires_documentaires-environnement_corridors-de-vie
 #EXTINF:-1 tvg-id="francetv-0d9dcd58-e964-47f5-a89b-bcfe725ca476" tvg-logo="https://medias.france.tv/8iuWOpvzWPXXEDIl1XTgSMSJSSM/400x0/filters:quality(85)/j/d/j/phpg35jdj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",GTA, le jeu no limit
 francetv://0d9dcd58-e964-47f5-a89b-bcfe725ca476
+#EXTINF:-1 tvg-id="francetv-034197fb-579a-48a5-ac05-3007c348d971" tvg-logo="https://medias.france.tv/yYQvb3isSRrWiuw4WQy8j8kHryo/400x0/filters:quality(85)/y/y/3/php3ci3yy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Des Racines et Des Ailes — Jardins d'exception, à l'occasion des 400 ans du Jardin des Plantes
+francetv://034197fb-579a-48a5-ac05-3007c348d971
 #EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Enquête de santé — Migraine : la fin du casse-tête ?
 francetv://951b8c01-1f7a-4789-9973-7cced32f066b
 #EXTINF:-1 tvg-id="francetv-bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89" tvg-logo="https://medias.france.tv/Z14Lux5gv4wFDTQYhnauewy4fAQ/400x0/filters:quality(85)/3/2/9/2a2346cfcaaf4e3fbe27f180ee44c923.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",13h15, le dimanche — Trump : Quitte ou double
@@ -2197,8 +2193,6 @@ francetv://bfe360ac-2dfb-4a39-a9f1-d3b0e56e6c89
 francetv://ce9622d0-0927-4fb8-9468-3f5feded62c7
 #EXTINF:-1 tvg-id="francetv-prog-france-4_il-faut-de-nous-pour-faire-un-monde" tvg-logo="https://medias.france.tv/45YR8_u_jSzoqo_guYO9F8ubH1c/400x0/filters:quality(85)/i/2/y/phpvfry2i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Il faut de nous pour faire un monde
 francetv://program/france-4_il-faut-de-nous-pour-faire-un-monde
-#EXTINF:-1 tvg-id="francetv-9226dbdf-e8e2-4251-bc61-745a7c811c06" tvg-logo="https://medias.france.tv/zk6TdqBZxN_LSZR9-GQ_rfuzP0M/400x0/filters:quality(85)/u/c/9/php4ei9cu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Échappées belles — Les visages de l'Hérault
-francetv://9226dbdf-e8e2-4251-bc61-745a7c811c06
 #EXTINF:-1 tvg-id="francetv-aa1c79e6-21f5-40db-a48d-00bd1bcc8819" tvg-logo="https://medias.france.tv/qgAg6ilJ1Z6l1NWArVr2_jZ7kU0/400x0/filters:quality(85)/2/3/4/9d68a88768ab47da9abe3c394ae36432.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Jean Gabin - La guerre c'est pas du cinéma
 francetv://aa1c79e6-21f5-40db-a48d-00bd1bcc8819
 #EXTINF:-1 tvg-id="francetv-99670565-86fa-4e89-8170-11489472f8f6" tvg-logo="https://medias.france.tv/C7V2hnudMAPHBnhZTbLaUn8AWoo/400x0/filters:quality(85)/0/a/n/phpvmtna0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Sur le front — La folie des croisières
@@ -2447,10 +2441,10 @@ francetv://program/tv5-monde_peaux-noires-quel-heritage
 francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
 #EXTINF:-1 tvg-id="francetv-ae7472ee-b776-4a1c-9b12-eec48a243379" tvg-logo="https://medias.france.tv/MG7cNKlbtzVo-sCyWRnD3lQ7Pws/400x0/filters:quality(85)/3/0/a/3a7eec5b20924fe19afd52b82a83ea03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Poutine et l'Afrique : La Russie à la conquête du Sahel
 francetv://ae7472ee-b776-4a1c-9b12-eec48a243379
+#EXTINF:-1 tvg-id="francetv-prog-france-2_l-affaire-d-outreau" tvg-logo="https://medias.france.tv/DpHIR5yid1toyTwr9IeabAedoTc/400x0/filters:quality(85)/8/v/p/phpp8npv8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",L'affaire d'Outreau
+francetv://program/france-2_l-affaire-d-outreau
 #EXTINF:-1 tvg-id="francetv-82cb1568-10ed-41ee-bf8a-93e9af94bf8b" tvg-logo="https://medias.france.tv/td1SsVU8HVyO3Px3CfD8W3z72T0/400x0/filters:quality(85)/6/k/a/phpdrlak6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Madame la préfète
 francetv://82cb1568-10ed-41ee-bf8a-93e9af94bf8b
-#EXTINF:-1 tvg-id="francetv-4aa68ca2-ffed-42f7-b43b-1b047f406714" tvg-logo="https://medias.france.tv/U8zZaX0sWsMXB-JkSeE_RNPCi6A/400x0/filters:quality(85)/w/1/n/php1hzn1w.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Fenua Vice
-francetv://4aa68ca2-ffed-42f7-b43b-1b047f406714
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-31b1b701-b97f-412e-8227-66a4c28d0cd7" tvg-logo="https://medias.france.tv/j5qIyRCAGE8OzUrOLpJNQSKLas0/400x0/filters:quality(85)/w/s/g/phpe4bgsw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",42 - La réponse à presque tout — Les Etats peuvent-ils s'endenter sans fin ?
@@ -2467,12 +2461,8 @@ francetv://211b8b41-ebf3-45f2-aa41-be2d48b0276f
 francetv://9b9cf98e-daaa-4c8c-acc7-67d6eda47bf6
 #EXTINF:-1 tvg-id="francetv-b6499d5b-683a-43e6-9029-27485c7c20d6" tvg-logo="https://medias.france.tv/tupfXyx8JDQSv4jBAEdZJDxtEjQ/400x0/filters:quality(85)/o/l/e/phpowwelo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Samuel Paty, le temps de la justice
 francetv://b6499d5b-683a-43e6-9029-27485c7c20d6
-#EXTINF:-1 tvg-id="francetv-10540ab7-0331-44fa-943c-8691d4d7705f" tvg-logo="https://medias.france.tv/o7YD3n-2X7JFVkeZo-k_HmkRYe0/400x0/filters:quality(85)/n/t/t/phpj1vttn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Opération Hao
-francetv://10540ab7-0331-44fa-943c-8691d4d7705f
 #EXTINF:-1 tvg-id="francetv-d112e81f-ea1c-4640-9a8d-a1afd490fa05" tvg-logo="https://medias.france.tv/773iI8Q2Enfl3Q5mAKM7vFbhsCQ/400x0/filters:quality(85)/8/b/7/5022a7cfdf64436e80e647c6421297b8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Cobayes, les écrans
 francetv://d112e81f-ea1c-4640-9a8d-a1afd490fa05
-#EXTINF:-1 tvg-id="francetv-66ab0d8c-02b8-41b1-b940-d1f511c75897" tvg-logo="https://medias.france.tv/MNOvvepM3ayTlzzhyUcCBPj6hjg/400x0/filters:quality(85)/7/6/6/b0cc075c518f4fbcbd63be199f6d5667.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Tous empoisonnés : le fléau des PFAS
-francetv://66ab0d8c-02b8-41b1-b940-d1f511c75897
 #EXTINF:-1 tvg-id="francetv-7e373b98-e32c-45f5-a883-f1d09bed9d3e" tvg-logo="https://medias.france.tv/5V4Go3cr1r7oKy8yJHSlzZt_dwc/400x0/filters:quality(85)/1/2/f/9c566ada386c47d2a195f461a46dcf21.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Un cerveau particulier
 francetv://7e373b98-e32c-45f5-a883-f1d09bed9d3e
 #EXTINF:-1 tvg-id="francetv-6da1ed36-5368-45a8-91cf-0d2626274b9b" tvg-logo="https://medias.france.tv/PqANtfwRtjHlLp1SIQbCy0ZVC5c/400x0/filters:quality(85)/q/r/p/php5qsprq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Après la colère — Le drame de Crépol
@@ -2483,8 +2473,6 @@ francetv://program/slash_je-vais-bien-vivre-avec-la-bipolarite
 francetv://a0f4eba6-f59f-4741-89de-a618c84de1be
 #EXTINF:-1 tvg-id="francetv-2c157e47-5f8d-41a1-8db7-24bca1f1e458" tvg-logo="https://medias.france.tv/ruTWUifjb5abL1XAXlzRek7jR04/400x0/filters:quality(85)/3/2/d/14eef539acd34e5fa5f6044a38922d23.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Mon stage chez les vieux - Le documentaire
 francetv://2c157e47-5f8d-41a1-8db7-24bca1f1e458
-#EXTINF:-1 tvg-id="francetv-a82d6de9-ac61-4630-881e-f845d8f96083" tvg-logo="https://medias.france.tv/J3T_KEIgLItfm7kA3g1e0gYDOkQ/400x0/filters:quality(85)/a/f/e/113566885aa44418b98aa9df79376efa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",ARTE Regards — À 18 ans, le saut dans l’inconnu
-francetv://a82d6de9-ac61-4630-881e-f845d8f96083
 #EXTINF:-1 tvg-id="francetv-34bd2d3a-f1ad-488a-ad2d-9a3802a43b0e" tvg-logo="https://medias.france.tv/AOfEU1d_DHD6g86TX0m6ij_jK80/400x0/filters:quality(85)/n/e/a/phpcrvaen.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Pourquoi t'as pas d'enfants ?
 francetv://34bd2d3a-f1ad-488a-ad2d-9a3802a43b0e
 #EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Explorations & découvertes scientifiques",Enquête de santé — Migraine : la fin du casse-tête ?
@@ -3275,30 +3263,34 @@ francetv://ac6d1292-aabc-11f1-8519-957ddefc544d
 francetv://80ae7580-8c24-11f1-9512-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-c478740e-2839-11f1-835a-957ddefc544d" tvg-logo="https://medias.france.tv/2fP1wGstPaXhtCxLcQS-4je2jVs/400x0/filters:quality(85)/9/6/9/7e27f61b04594007aa89c17b1fd05969.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Découvrir un film","L'avenir" : Son mari lui fait une annonce difficile
 francetv://c478740e-2839-11f1-835a-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Enquête de santé — Migraine : la fin du casse-tête ?
-francetv://951b8c01-1f7a-4789-9973-7cced32f066b
 #EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
 francetv://d7c10dea-5f13-4b6b-af0e-034e2a2395b5
-#EXTINF:-1 tvg-id="francetv-3c37472e-ddb5-4d70-a4a8-5d36ae20d641" tvg-logo="https://medias.france.tv/ENy5Senmw5qV2Q2pJLiiS_RkJeo/400x0/filters:quality(85)/i/2/1/phpzjm12i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Débat — Parents, enfants, professeurs : agir face au harcèlement
-francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
-#EXTINF:-1 tvg-id="francetv-9255271b-34e7-45c2-b1df-f1c41196b09b" tvg-logo="https://medias.france.tv/Z3XR_hltUwznYbMn90Zrtp6VKRQ/400x0/filters:quality(85)/p/n/w/phpgn1wnp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Sommes-nous tous accros aux écrans ?
-francetv://9255271b-34e7-45c2-b1df-f1c41196b09b
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Enquête de santé — Migraine : la fin du casse-tête ?
+francetv://951b8c01-1f7a-4789-9973-7cced32f066b
 #EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
 francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
 francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
 #EXTINF:-1 tvg-id="francetv-prog-france-2_telematin-la-suite" tvg-logo="https://medias.france.tv/ZWPmjIKeoLT0EdyuHjfx3Qs3-eI/400x0/filters:quality(85)/i/j/g/php2u5gji.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Télématin, la suite
 francetv://program/france-2_telematin-la-suite
+#EXTINF:-1 tvg-id="francetv-9255271b-34e7-45c2-b1df-f1c41196b09b" tvg-logo="https://medias.france.tv/Z3XR_hltUwznYbMn90Zrtp6VKRQ/400x0/filters:quality(85)/p/n/w/phpgn1wnp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Sommes-nous tous accros aux écrans ?
+francetv://9255271b-34e7-45c2-b1df-f1c41196b09b
 #EXTINF:-1 tvg-id="francetv-2124a96d-c420-439f-80cc-f8d5e72b265a" tvg-logo="https://medias.france.tv/1Tu6cEIHf1w4t_3HKIb_SMeHkWk/400x0/filters:quality(85)/k/j/q/phpqroqjk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Lâche ton tel
 francetv://2124a96d-c420-439f-80cc-f8d5e72b265a
+#EXTINF:-1 tvg-id="francetv-95a76dce-657d-4f08-8af3-0ef59177a8c4" tvg-logo="https://medias.france.tv/AC-tFodUcIEP9cdwaHUlBuig7HA/400x0/filters:quality(85)/s/0/8/phpiwo80s.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Limoges : reconstruire ensemble
+francetv://95a76dce-657d-4f08-8af3-0ef59177a8c4
 #EXTINF:-1 tvg-id="francetv-c7471f59-f1c4-4a73-9184-8ef2ce96d6d8" tvg-logo="https://medias.france.tv/BYgd4YGctsiILVNoMemC7-Zxr1Q/400x0/filters:quality(85)/q/o/p/phpgaepoq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Mieux
 francetv://c7471f59-f1c4-4a73-9184-8ef2ce96d6d8
 #EXTINF:-1 tvg-id="francetv-1b761d0b-d613-46fe-86ef-a8976a6a0a4d" tvg-logo="https://medias.france.tv/6wUmP6hm3Xnp-t6lDWOHyMjU7Yg/400x0/filters:quality(85)/a/u/u/phpeskuua.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le luxe, un pouvoir français
 francetv://1b761d0b-d613-46fe-86ef-a8976a6a0a4d
+#EXTINF:-1 tvg-id="francetv-3c37472e-ddb5-4d70-a4a8-5d36ae20d641" tvg-logo="https://medias.france.tv/ENy5Senmw5qV2Q2pJLiiS_RkJeo/400x0/filters:quality(85)/i/2/1/phpzjm12i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Débat — Parents, enfants, professeurs : agir face au harcèlement
+francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
 #EXTINF:-1 tvg-id="francetv-6b74d092-8529-4a20-a86f-f677c98f9e2d" tvg-logo="https://medias.france.tv/zPydEsTVnz5Hkv6X-pVwAsc1gxo/400x0/filters:quality(85)/t/z/0/phpvhn0zt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Lindsay, la mécanique du harcèlement
 francetv://6b74d092-8529-4a20-a86f-f677c98f9e2d
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille" tvg-logo="https://medias.france.tv/LP1K8wE5RQ0Nm2HMucshDIxEe6M/400x0/filters:quality(85)/v/r/j/php6zjjrv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Narcorama, il était une fois Marseille
+francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-ca618f3b-cd20-4e82-975d-a9e602c48240" tvg-logo="https://medias.france.tv/CozKQifszCfoDLQ7DX4BsG6bEmk/400x0/filters:quality(85)/d/r/d/phpqwsdrd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ce qui nous tient debout
 francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 #EXTINF:-1 tvg-id="francetv-d8e56629-7ef3-4839-9fbe-3dbdc5e4c5ca" tvg-logo="https://medias.france.tv/YHmR8PxHO0H8rsuEqrHStzGAkXw/400x0/filters:quality(85)/s/t/n/phpgw8nts.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Harcèlement à l’école",Marion, 13 ans pour toujours
@@ -5271,30 +5263,24 @@ francetv://e73c1b6e-10a9-11f1-858c-19616fa871f9
 francetv://fb9c098a-0040-11f1-936c-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-3c1fecea-0020-11f1-ac9e-57a09c50f7ce" tvg-logo="https://medias.france.tv/6M0shn1JXimWJVeo7H30qO4K7rM/400x0/filters:quality(85)/1/a/a/cc6dd2ad9f7d4156bd2f13c4ca613aa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Pourquoi Orelsan aime le rap ?
 francetv://3c1fecea-0020-11f1-ac9e-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_pompon-ours" tvg-logo="https://medias.france.tv/gQBuP6F2vlTV7mRBnONq2_OTlXQ/400x0/filters:quality(85)/k/e/v/phpekxvek.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Pompon Ours
-francetv://program/enfants_trois-cinq-ans_pompon-ours
-#EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_vida-la-veto" tvg-logo="https://medias.france.tv/8SDqdfTkwgeeu-G8o10wfXAhK34/400x0/filters:quality(85)/6/c/d/phpy78dc6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Vida la véto
-francetv://program/enfants_trois-cinq-ans_vida-la-veto
 #EXTINF:-1 tvg-id="francetv-prog-france-4_wylde-pak" tvg-logo="https://medias.france.tv/GAv_cYEXZ7uTb2_vtj55ZBfxW5g/400x0/filters:quality(85)/n/q/a/phphqhaqn.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Wylde Pak
 francetv://program/france-4_wylde-pak
 #EXTINF:-1 tvg-id="francetv-prog-france-4_wallace-et-gromit" tvg-logo="https://medias.france.tv/48Xn7GkRSCnxYyV_HeZ8dPOFK-0/400x0/filters:quality(85)/3/d/u/phppicud3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Wallace et Gromit
 francetv://program/france-4_wallace-et-gromit
-#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_okoo-koo" tvg-logo="https://medias.france.tv/45pqN78K7SEc33WSPNyEwlmqxcM/400x0/filters:quality(85)/e/e/t/phpud4tee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Okoo-koo
-francetv://program/enfants_six-huit-ans_okoo-koo
+#EXTINF:-1 tvg-id="francetv-prog-france-4_le-refuge-d-audrey" tvg-logo="https://medias.france.tv/GEu1ctNdgcKosCcUHvaGHeQpJTc/400x0/filters:quality(85)/k/c/i/phprzyick.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le refuge d'Audrey
+francetv://program/france-4_le-refuge-d-audrey
+#EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_pompon-ours" tvg-logo="https://medias.france.tv/gQBuP6F2vlTV7mRBnONq2_OTlXQ/400x0/filters:quality(85)/k/e/v/phpekxvek.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Pompon Ours
+francetv://program/enfants_trois-cinq-ans_pompon-ours
+#EXTINF:-1 tvg-id="francetv-prog-enfants_trois-cinq-ans_vida-la-veto" tvg-logo="https://medias.france.tv/8SDqdfTkwgeeu-G8o10wfXAhK34/400x0/filters:quality(85)/6/c/d/phpy78dc6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Vida la véto
+francetv://program/enfants_trois-cinq-ans_vida-la-veto
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_askip-le-college-se-la-raconte" tvg-logo="https://medias.france.tv/kv-3rtpPjYhCTGqX0gZ32xW0Yuw/400x0/filters:quality(85)/c/r/k/phpluskrc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",ASKIP
 francetv://program/enfants_neuf-douze-ans_askip-le-college-se-la-raconte
-#EXTINF:-1 tvg-id="francetv-prog-france-4_copains-perdus" tvg-logo="https://medias.france.tv/cOPcX54TA-Y_mLH5VlVW0PfDoDI/400x0/filters:quality(85)/p/2/b/phppusb2p.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Copains Perdus
-francetv://program/france-4_copains-perdus
+#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_le-tresor" tvg-logo="https://medias.france.tv/gAsiwliLqOZi44JTBg1E8xHYpZE/400x0/filters:quality(85)/t/l/t/php4dytlt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le trésor
+francetv://program/enfants_six-huit-ans_le-tresor
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
 #EXTINF:-1 tvg-id="francetv-prog-france-4_la-cour-des-grands" tvg-logo="https://medias.france.tv/8OesxqSQRwb4KE93pFjIYn1P3JM/400x0/filters:quality(85)/t/0/h/phpo72h0t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",La cour des grands
 francetv://program/france-4_la-cour-des-grands
-#EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_le-tresor" tvg-logo="https://medias.france.tv/gAsiwliLqOZi44JTBg1E8xHYpZE/400x0/filters:quality(85)/t/l/t/php4dytlt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le trésor
-francetv://program/enfants_six-huit-ans_le-tresor
-#EXTINF:-1 tvg-id="francetv-prog-france-4_goat-girl" tvg-logo="https://medias.france.tv/C9y9s3-LDm2U8_gBD9PcAVXob3o/400x0/filters:quality(85)/5/e/o/phpdxnoe5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Goat Girl
-francetv://program/france-4_goat-girl
-#EXTINF:-1 tvg-id="francetv-prog-france-4_le-refuge-d-audrey" tvg-logo="https://medias.france.tv/GEu1ctNdgcKosCcUHvaGHeQpJTc/400x0/filters:quality(85)/k/c/i/phprzyick.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Le refuge d'Audrey
-francetv://program/france-4_le-refuge-d-audrey
 #EXTINF:-1 tvg-id="francetv-prog-france-5_bluey" tvg-logo="https://medias.france.tv/WT0AtqaiXD3XN2JimlUnVErWPLQ/400x0/filters:quality(85)/s/a/w/phpnuzwas.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Bluey
 francetv://program/france-5_bluey
 #EXTINF:-1 tvg-id="francetv-e7e765ae-e8bd-420b-ae3f-903423800103" tvg-logo="https://medias.france.tv/rgsKnqDWgviR5tdweYimYnDV3dw/400x0/filters:quality(85)/3/5/3/db3d113bff0045e69a5afa82104c0353.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - 3-5 ans",Bluey — La plage lu par Camille Cottin
@@ -5527,16 +5513,16 @@ francetv://program/france-4_oscar-malika-toujours-en-retard
 francetv://program/france-4_luz-et-les-sonidos
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_contes-d-oc" tvg-logo="https://medias.france.tv/lQZCeM8cj--Tr7uJwO3Kmj8USMM/400x0/filters:quality(85)/p/k/y/phpohcykp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - A regarder en famille",Contes d'Oc
 francetv://program/series-et-fictions_contes-d-oc
-#EXTINF:-1 tvg-id="francetv-a21ebdf7-feae-43d8-8508-9131f0793350" tvg-logo="https://medias.france.tv/zKTjBvb739IXeeL242wbvVXQFP8/400x0/filters:quality(85)/o/s/k/phpzl8kso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton, le film : la ferme contre-attaque
-francetv://a21ebdf7-feae-43d8-8508-9131f0793350
 #EXTINF:-1 tvg-id="francetv-5bef2a6f-d180-437c-b156-acbc8a11b259" tvg-logo="https://medias.france.tv/eysxYLRqIg-MREPiDuJWjYxROzc/400x0/filters:quality(85)/6/a/8/dbd333e8913d491daa810adfa69cb8a6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Le trésor
 francetv://5bef2a6f-d180-437c-b156-acbc8a11b259
+#EXTINF:-1 tvg-id="francetv-a21ebdf7-feae-43d8-8508-9131f0793350" tvg-logo="https://medias.france.tv/zKTjBvb739IXeeL242wbvVXQFP8/400x0/filters:quality(85)/o/s/k/phpzl8kso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton, le film : la ferme contre-attaque
+francetv://a21ebdf7-feae-43d8-8508-9131f0793350
+#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton — Shaun le film
+francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-d2594d60-b734-4ac8-98c3-3527aba6e8e1" tvg-logo="https://medias.france.tv/nHCHAPuF4R2tlCEWAK2_sWaBtn8/400x0/filters:quality(85)/1/3/3/4e2b2c81bb644fa88820e5c772d0e331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Tout en haut du monde
 francetv://d2594d60-b734-4ac8-98c3-3527aba6e8e1
 #EXTINF:-1 tvg-id="francetv-0489a7ef-9560-46dd-918c-d97f7657827e" tvg-logo="https://medias.france.tv/UcEbG4lBI1uqPAwOvI-w2Wa9BX0/400x0/filters:quality(85)/6/8/b/phpmieb86.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Les malheurs de Sophie
 francetv://0489a7ef-9560-46dd-918c-d97f7657827e
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
 #EXTINF:-1 tvg-id="francetv-6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78" tvg-logo="https://medias.france.tv/_x9Yxeu6PTWjrPrp-1F-9fXCflc/400x0/filters:quality(85)/9/n/m/php6xdmn9.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton : les lamas du fermier — Les lamas du fermier
 francetv://6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78
 #EXTINF:-1 tvg-id="francetv-4fd86005-364f-480f-9e43-a91444ea3424" tvg-logo="https://medias.france.tv/35veS9nBZNLUh0zj_rC4y0FtNhM/400x0/filters:quality(85)/8/f/9/6d4bc4730a5445bf8d7dfa2983e729f8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Wallace et Gromit : Rasé de près
@@ -5629,12 +5615,18 @@ francetv://program/enfants_six-huit-ans_tinka
 francetv://program/enfants_six-huit-ans_les-voleurs-de-noel
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_zombie-lars" tvg-logo="https://medias.france.tv/o_j7dFhqPnuePVYaWsTtpPeJkhY/400x0/filters:quality(85)/7/d/5/phpvfe5d7.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries",Zombie Lars
 francetv://program/enfants_neuf-douze-ans_zombie-lars
+#EXTINF:-1 tvg-id="francetv-prog-france-4_wylde-pak" tvg-logo="https://medias.france.tv/GAv_cYEXZ7uTb2_vtj55ZBfxW5g/400x0/filters:quality(85)/n/q/a/phphqhaqn.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Wylde Pak
+francetv://program/france-4_wylde-pak
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_foot2rue" tvg-logo="https://medias.france.tv/7i-eI0VbCRuOSZW-YlDLccy9c1A/400x0/filters:quality(85)/d/s/7/phpftw7sd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Foot2Rue
 francetv://program/enfants_six-huit-ans_foot2rue
 #EXTINF:-1 tvg-id="francetv-prog-france-3_lolirock" tvg-logo="https://medias.france.tv/1_VeAXpqZj1ShXqjjrEOPWtvqPY/400x0/filters:quality(85)/o/w/l/phpjzalwo.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Lolirock
 francetv://program/france-3_lolirock
 #EXTINF:-1 tvg-id="francetv-prog-france-4_l-armure-de-jade" tvg-logo="https://medias.france.tv/hmz-UVVPlZP1DA5VbrwyAyc1v_8/400x0/filters:quality(85)/p/n/3/phpplh3np.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",L'armure de Jade
 francetv://program/france-4_l-armure-de-jade
+#EXTINF:-1 tvg-id="francetv-prog-france-4_avatar-le-dernier-maitre-de-l-air" tvg-logo="https://medias.france.tv/G88SoiGWSkxbX8ruJGgvZkBLko4/400x0/filters:quality(85)/i/c/n/phpmiinci.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Avatar, le dernier maître de l'air
+francetv://program/france-4_avatar-le-dernier-maitre-de-l-air
+#EXTINF:-1 tvg-id="francetv-prog-france-4_la-legende-de-korra" tvg-logo="https://medias.france.tv/lv9N7fMJZ1xd3oKjLda5d1E0Jmc/400x0/filters:quality(85)/1/a/s/phpkqksa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",La légende de Korra
+francetv://program/france-4_la-legende-de-korra
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_la-quete-d-ewilan" tvg-logo="https://medias.france.tv/qtq45GA8s7Vi7SRpexaaGI3cLjY/400x0/filters:quality(85)/a/v/h/phpgxahva.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",La quête d'Ewilan
 francetv://program/enfants_neuf-douze-ans_la-quete-d-ewilan
 #EXTINF:-1 tvg-id="francetv-prog-france-3_wakfu" tvg-logo="https://medias.france.tv/gNq4DEmWgISO-kwr92-bziIICaI/400x0/filters:quality(85)/e/l/t/phpg6ptle.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Séries animées",Wakfu
