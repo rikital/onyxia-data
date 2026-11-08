@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Novembre
+francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
 francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-8a8ef6e0-59eb-4010-bc71-fb014098e643" tvg-logo="https://medias.france.tv/t-McdwRa7wwFRP50N6upRn5QCZc/400x0/filters:quality(85)/a/8/6/14c9f856829546408eb38615ef05868a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'oubliez pas les paroles — Émission du samedi 7 novembre 2026
@@ -1119,46 +1121,18 @@ francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-d
 francetv://1565d1b4-d856-11f1-96a7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-d217142c-d62f-11f1-864a-957ddefc544d" tvg-logo="https://medias.france.tv/oSnjNPcL4chGe6irnIP-Gjr6Zh4/400x0/filters:quality(85)/f/8/c/e9682bba5af443989d8b0a3c7c246c8f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand format : Adrien Raza, le monde pour miroir
 francetv://d217142c-d62f-11f1-864a-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-5fcf358a-dbab-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/ubNn3FBouTJbJdzsB6vItsr98iM/400x0/filters:quality(85)/a/9/4/f5dc6bd855144a3b8ca8dc54927d049a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Rugby - Championnat des Nations : une victoire qui peut laisser des traces
+francetv://5fcf358a-dbab-11f1-96af-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-c96dca66-dbaa-11f1-88d1-19616fa871f9" tvg-logo="https://medias.france.tv/pkv5pBxE4TEfN-QeoHx3BteCyqc/400x0/filters:quality(85)/b/0/1/a3337be0ebcf45bfb8bc225e7eac810b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Formule 1 - Grand Prix du Brésil : Isack Hadjar, un podium sous la pluie
+francetv://c96dca66-dbaa-11f1-88d1-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-507a65ce-dbaa-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/y3_bnmpuv9XO1DhQMS2N4ozq3R8/400x0/filters:quality(85)/3/f/a/7ea684af92be4328b773461304fb2af3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Tennis - Rolex Paris Masters : Luca Van Assche, la révélation
+francetv://507a65ce-dbaa-11f1-96af-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-054c95d6-dbaa-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/22p3nv1NIu2-CdiSPZum_I2sL1o/400x0/filters:quality(85)/d/2/8/2e8cc58ba3d343f182c42c7e09e9982d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Tennis - Rolex Paris Masters : le roi Carlos, première !
+francetv://054c95d6-dbaa-11f1-96af-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-298710fa-dadf-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/LWoQUYJsRAuDBJ6aJdVN95lguFc/400x0/filters:quality(85)/9/1/c/d7e0c3703ad047fb9df0b8d94e546c19.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — NBA : Wemby / Dončić, stars de la nuit
 francetv://298710fa-dadf-11f1-96af-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-cd28b39a-dade-11f1-865d-957ddefc544d" tvg-logo="https://medias.france.tv/b30FRqFO6aD6-oLzBH_OGyFrcX4/400x0/filters:quality(85)/6/e/5/f55ac35ce8f54cfe87ca44de96eac5e6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Équipe de France : Pablo Pagis, la surprise du chef
 francetv://cd28b39a-dade-11f1-865d-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-68a8bf50-dade-11f1-afa4-57a09c50f7ce" tvg-logo="https://medias.france.tv/bwQrpeY1ClnEvUkV_-UEzBzuhXQ/400x0/filters:quality(85)/8/9/f/c0217f4c46634f4b9daabbaed85fbf98.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Championnat des nations : l'hémisphère sud surclasse le nord
-francetv://68a8bf50-dade-11f1-afa4-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-644f238e-da18-11f1-afa4-57a09c50f7ce" tvg-logo="https://medias.france.tv/sIlnmbv9vuKpC04yI2z6KwxnH4U/400x0/filters:quality(85)/4/4/8/b7338afe1ee04d14a1aaf61bcb8f8844.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : Luca Van Assche, la belle histoire
-francetv://644f238e-da18-11f1-afa4-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-d9d7a586-da18-11f1-96ae-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/lWYH47zxpvJHK4dPEjMunV0sW6w/400x0/filters:quality(85)/3/5/f/510e648ff0b64b5f84936988fdb4df53.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Voile - Route du Rhum : dernières heures avant l'arrivée pour Tom Laperche
-francetv://d9d7a586-da18-11f1-96ae-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-d2b1d348-d94c-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/COhju53aJZIQEyFvaLvepq9F_4g/400x0/filters:quality(85)/b/9/9/38255134e6ce47628b65e55ae11f999b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : la journée des Français
-francetv://d2b1d348-d94c-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-28f740a8-d94d-11f1-af9f-57a09c50f7ce" tvg-logo="https://medias.france.tv/4ExXO_OnX8B6zt5cpaXZz1EAHqk/400x0/filters:quality(85)/b/b/6/0cb7cd3365694f44ba32a7900ce8e6bb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Basketball - NBA : record en carrière pour Victor Wembanyama
-francetv://28f740a8-d94d-11f1-af9f-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-cb56de28-d94b-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/beqbV3ITj7zRJB7CorJsP6XHuaM/400x0/filters:quality(85)/2/c/f/6d605e4b8ffc4dc385c2576f5ad4ffc2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football - Ligue des champions : le RC Lens humilié
-francetv://cb56de28-d94b-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-3621b9c6-d94c-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/5f5vXp8iyeWapGda-BHiCX8vaAg/400x0/filters:quality(85)/2/9/a/a8fac914a23c42b9837757264b18aa92.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football : Cristiano Ronaldo annonce sa retraite internationale
-francetv://3621b9c6-d94c-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-71fe23f4-d8a6-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/0pWDU3wRp2fDYLckW3fTpGkGFdc/400x0/filters:quality(85)/5/a/f/f64542f9d0514e2683785aa4395aefa5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Voile - Route du Rhum : pourquoi autant de casse en 2026 ?
-francetv://71fe23f4-d8a6-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-43f9b1fc-d8a7-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/ZXXSjswU9fFMGqI_uOL58qrj-xM/400x0/filters:quality(85)/e/f/c/689ca99d1a2045d9afb2ac994beffcfe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football - Ligue des champions : PSG, un nouveau carton record
-francetv://43f9b1fc-d8a7-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-d9b85186-d8a6-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/xM1_UV2VABgBIKt0dWfEcJG3c-8/400x0/filters:quality(85)/e/2/5/b9813571e125458dac6b709f275c652e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis : Alexander Zverev, numéro 1 mondial contesté
-francetv://d9b85186-d8a6-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-54b5f9c2-d7b9-11f1-88c8-19616fa871f9" tvg-logo="https://medias.france.tv/YyXvbsSvpmwQXpgeBQvakQSbAS4/400x0/filters:quality(85)/x/p/e/phpjbmepx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football : le drame Jesus de Miguel
-francetv://54b5f9c2-d7b9-11f1-88c8-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-2afc43c4-d7ba-11f1-88c8-19616fa871f9" tvg-logo="https://medias.france.tv/2p6XUJQxxiBZdK79znq1tntHrtI/400x0/filters:quality(85)/5/9/d/696a9a4b0a104fbdbe6bb1c3c9489d95.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Alicia Tournebize : la nouvelle promesse du basket français
-francetv://2afc43c4-d7ba-11f1-88c8-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-cafc0216-d7b9-11f1-af99-57a09c50f7ce" tvg-logo="https://medias.france.tv/t16K7u8IHFpmxVIWHcA583GhiXI/400x0/filters:quality(85)/2/b/0/215040cd8ca94ff39e3261cbd37980b2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : l'inoxydable Novak Djokovic
-francetv://cafc0216-d7b9-11f1-af99-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-f8cb1276-d7ba-11f1-af9a-57a09c50f7ce" tvg-logo="https://medias.france.tv/8AwPKEEjWzhzssUihP5tN7WLJ3s/400x0/filters:quality(85)/c/c/1/8eee8a3009a140488896f7d9908af1cc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 Ligue 1 — Achraf Hakimi : le meilleur latéral du monde ?
-francetv://f8cb1276-d7ba-11f1-af9a-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-e2590950-d6f0-11f1-864c-957ddefc544d" tvg-logo="https://medias.france.tv/0AXSuenMEJBWWh6bv6wn2OHXjIc/400x0/filters:quality(85)/8/8/b/66ddbe0c3e404c6eafcf616a2a494b88.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : l'attraction Moïse Kouamé
-francetv://e2590950-d6f0-11f1-864c-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-827560c8-d6f1-11f1-af92-57a09c50f7ce" tvg-logo="https://medias.france.tv/YMt1U17qXVqD_KI_6FhFbmL8MWc/400x0/filters:quality(85)/e/1/e/1cbe4d51a969495ea446e8cc47f9ce1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Voile - Route du Rhum : le crash de Violette Dorange
-francetv://827560c8-d6f1-11f1-af92-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-481f489a-d6f0-11f1-88c1-19616fa871f9" tvg-logo="https://medias.france.tv/FbOsNKs_AxV1WMuc__5gzCGIJZI/400x0/filters:quality(85)/v/0/g/phph24g0v.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Formule 1 : Kimi Antonelli, le sacre d'un surdoué
-francetv://481f489a-d6f0-11f1-88c1-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-e162ad28-d62b-11f1-af90-57a09c50f7ce" tvg-logo="https://medias.france.tv/uGj_zBvz8PcpWyH8gW5yJDYU3J4/400x0/filters:quality(85)/3/6/e/ef9074ce3e0e4c4384326ac51a30be63.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Tennis - Rolex Paris Masters : Arthur Fils, ambition assumée
-francetv://e162ad28-d62b-11f1-af90-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-134a5394-db91-11f1-88d1-19616fa871f9" tvg-logo="https://medias.france.tv/70dgDY4x0xUW4TJEqtVSS_WIWWo/400x0/filters:quality(85)/4/5/4/99df78688145404cb5db8abfe3087454.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Finale : le résumé de Ben Shelton vs Carlos Alcaraz
 francetv://134a5394-db91-11f1-88d1-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-f1917b86-db8d-11f1-afa4-57a09c50f7ce" tvg-logo="https://medias.france.tv/vpiBm6PR4FrBoBhnkl2KLqDqBx8/400x0/filters:quality(85)/2/9/8/e13d74d1a55141a488f4cc1d230a5892.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Tir à l'arc (H) : le résumé de Pin-An Chen vs Maël Lamouret
@@ -2727,6 +2701,8 @@ francetv://program/france-2_laissez-vous-guider
 francetv://program/france-2_13h15-le-samedi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_13h15-le-dimanche" tvg-logo="https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Nos émissions",13h15, le dimanche
 francetv://program/france-2_13h15-le-dimanche
+#EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Novembre
+francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
 #EXTINF:-1 tvg-id="francetv-34e2ffa9-cce5-4230-af53-43f2c694b5c9" tvg-logo="https://medias.france.tv/FqbGOP4lDDax_2632Wxh4pT1x1Y/400x0/filters:quality(85)/s/y/p/phpg7upys.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",The Apprentice
 francetv://34e2ffa9-cce5-4230-af53-43f2c694b5c9
 #EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Réparer les vivants
@@ -2775,6 +2751,8 @@ francetv://81fd3ca4-fe37-4a59-ba4a-33a802d4c135
 francetv://70610daa-65d5-4658-91f4-2cd1f93f976d
 #EXTINF:-1 tvg-id="francetv-66bfdcef-e14d-4cb0-8199-ca4f0a1c1524" tvg-logo="https://medias.france.tv/XYc0aS6_y5m5ntujIsL66cqYZ_8/400x0/filters:quality(85)/t/x/v/phpwpdvxt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Compétition officielle
 francetv://66bfdcef-e14d-4cb0-8199-ca4f0a1c1524
+#EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Novembre
+francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
 #EXTINF:-1 tvg-id="francetv-4261f71e-a512-45e3-af8e-ae45f976f7c9" tvg-logo="https://medias.france.tv/9C7hfAiwXuoYH4Gx-sV5wttk4FM/400x0/filters:quality(85)/6/b/9/17b324d45e5344128a0e2e25bafa09b6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Margot va au mariage
 francetv://4261f71e-a512-45e3-af8e-ae45f976f7c9
 #EXTINF:-1 tvg-id="francetv-39fa38fc-f890-4d8b-9d9c-29f998afedd0" tvg-logo="https://medias.france.tv/efeBO3YNHNVFA8GMF2xi1URnjw8/400x0/filters:quality(85)/b/d/f/44e8c07e56904f8694454d5d62d54fdb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Sibyl
@@ -3049,6 +3027,8 @@ francetv://8324e4d6-d639-48a2-acac-d5827d6199be
 francetv://b6934f71-8290-45c0-aedb-227aeeb4e740
 #EXTINF:-1 tvg-id="francetv-5a585ee5-8854-443d-a4c4-3d6617483280" tvg-logo="https://medias.france.tv/WktKsKn8IgLPeY4MDYnnD4sCf1Y/400x0/filters:quality(85)/z/l/3/phphh73lz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui remuent",Le Hussard sur le toit
 francetv://5a585ee5-8854-443d-a4c4-3d6617483280
+#EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tension !",Novembre
+francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
 #EXTINF:-1 tvg-id="francetv-7799cb1d-ae4b-4f32-a9d5-479ebb440382" tvg-logo="https://medias.france.tv/ftN1eUCNg7_nHCryT7JVs8umJW0/400x0/filters:quality(85)/9/9/4/fbf7e4717ecf45dc9b66ddca36b71499.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tension !",The Sentinel
 francetv://7799cb1d-ae4b-4f32-a9d5-479ebb440382
 #EXTINF:-1 tvg-id="francetv-1b40b227-557b-427f-8745-7347f5197d51" tvg-logo="https://medias.france.tv/FrwVd3iWlKv5nkcGZ4kPjaSxoO8/400x0/filters:quality(85)/c/4/6/b609588d48b24fbf9f59a5142202c64c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Attention, films sous tension !",La Nuit venue
@@ -4513,46 +4493,18 @@ francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-d
 francetv://1565d1b4-d856-11f1-96a7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-d217142c-d62f-11f1-864a-957ddefc544d" tvg-logo="https://medias.france.tv/oSnjNPcL4chGe6irnIP-Gjr6Zh4/400x0/filters:quality(85)/f/8/c/e9682bba5af443989d8b0a3c7c246c8f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Grand format : Adrien Raza, le monde pour miroir
 francetv://d217142c-d62f-11f1-864a-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-5fcf358a-dbab-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/ubNn3FBouTJbJdzsB6vItsr98iM/400x0/filters:quality(85)/a/9/4/f5dc6bd855144a3b8ca8dc54927d049a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Rugby - Championnat des Nations : une victoire qui peut laisser des traces
+francetv://5fcf358a-dbab-11f1-96af-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-c96dca66-dbaa-11f1-88d1-19616fa871f9" tvg-logo="https://medias.france.tv/pkv5pBxE4TEfN-QeoHx3BteCyqc/400x0/filters:quality(85)/b/0/1/a3337be0ebcf45bfb8bc225e7eac810b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Formule 1 - Grand Prix du Brésil : Isack Hadjar, un podium sous la pluie
+francetv://c96dca66-dbaa-11f1-88d1-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-507a65ce-dbaa-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/y3_bnmpuv9XO1DhQMS2N4ozq3R8/400x0/filters:quality(85)/3/f/a/7ea684af92be4328b773461304fb2af3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Tennis - Rolex Paris Masters : Luca Van Assche, la révélation
+francetv://507a65ce-dbaa-11f1-96af-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-054c95d6-dbaa-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/22p3nv1NIu2-CdiSPZum_I2sL1o/400x0/filters:quality(85)/d/2/8/2e8cc58ba3d343f182c42c7e09e9982d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Tennis - Rolex Paris Masters : le roi Carlos, première !
+francetv://054c95d6-dbaa-11f1-96af-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-298710fa-dadf-11f1-96af-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/LWoQUYJsRAuDBJ6aJdVN95lguFc/400x0/filters:quality(85)/9/1/c/d7e0c3703ad047fb9df0b8d94e546c19.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — NBA : Wemby / Dončić, stars de la nuit
 francetv://298710fa-dadf-11f1-96af-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-cd28b39a-dade-11f1-865d-957ddefc544d" tvg-logo="https://medias.france.tv/b30FRqFO6aD6-oLzBH_OGyFrcX4/400x0/filters:quality(85)/6/e/5/f55ac35ce8f54cfe87ca44de96eac5e6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Équipe de France : Pablo Pagis, la surprise du chef
 francetv://cd28b39a-dade-11f1-865d-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-68a8bf50-dade-11f1-afa4-57a09c50f7ce" tvg-logo="https://medias.france.tv/bwQrpeY1ClnEvUkV_-UEzBzuhXQ/400x0/filters:quality(85)/8/9/f/c0217f4c46634f4b9daabbaed85fbf98.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Championnat des nations : l'hémisphère sud surclasse le nord
-francetv://68a8bf50-dade-11f1-afa4-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-644f238e-da18-11f1-afa4-57a09c50f7ce" tvg-logo="https://medias.france.tv/sIlnmbv9vuKpC04yI2z6KwxnH4U/400x0/filters:quality(85)/4/4/8/b7338afe1ee04d14a1aaf61bcb8f8844.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : Luca Van Assche, la belle histoire
-francetv://644f238e-da18-11f1-afa4-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-d9d7a586-da18-11f1-96ae-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/lWYH47zxpvJHK4dPEjMunV0sW6w/400x0/filters:quality(85)/3/5/f/510e648ff0b64b5f84936988fdb4df53.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Voile - Route du Rhum : dernières heures avant l'arrivée pour Tom Laperche
-francetv://d9d7a586-da18-11f1-96ae-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-d2b1d348-d94c-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/COhju53aJZIQEyFvaLvepq9F_4g/400x0/filters:quality(85)/b/9/9/38255134e6ce47628b65e55ae11f999b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : la journée des Français
-francetv://d2b1d348-d94c-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-28f740a8-d94d-11f1-af9f-57a09c50f7ce" tvg-logo="https://medias.france.tv/4ExXO_OnX8B6zt5cpaXZz1EAHqk/400x0/filters:quality(85)/b/b/6/0cb7cd3365694f44ba32a7900ce8e6bb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Basketball - NBA : record en carrière pour Victor Wembanyama
-francetv://28f740a8-d94d-11f1-af9f-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-cb56de28-d94b-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/beqbV3ITj7zRJB7CorJsP6XHuaM/400x0/filters:quality(85)/2/c/f/6d605e4b8ffc4dc385c2576f5ad4ffc2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Football - Ligue des champions : le RC Lens humilié
-francetv://cb56de28-d94b-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-3621b9c6-d94c-11f1-96ab-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/5f5vXp8iyeWapGda-BHiCX8vaAg/400x0/filters:quality(85)/2/9/a/a8fac914a23c42b9837757264b18aa92.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Football : Cristiano Ronaldo annonce sa retraite internationale
-francetv://3621b9c6-d94c-11f1-96ab-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-71fe23f4-d8a6-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/0pWDU3wRp2fDYLckW3fTpGkGFdc/400x0/filters:quality(85)/5/a/f/f64542f9d0514e2683785aa4395aefa5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Voile - Route du Rhum : pourquoi autant de casse en 2026 ?
-francetv://71fe23f4-d8a6-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-43f9b1fc-d8a7-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/ZXXSjswU9fFMGqI_uOL58qrj-xM/400x0/filters:quality(85)/e/f/c/689ca99d1a2045d9afb2ac994beffcfe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Football - Ligue des champions : PSG, un nouveau carton record
-francetv://43f9b1fc-d8a7-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-d9b85186-d8a6-11f1-8656-957ddefc544d" tvg-logo="https://medias.france.tv/xM1_UV2VABgBIKt0dWfEcJG3c-8/400x0/filters:quality(85)/e/2/5/b9813571e125458dac6b709f275c652e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Tennis : Alexander Zverev, numéro 1 mondial contesté
-francetv://d9b85186-d8a6-11f1-8656-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-54b5f9c2-d7b9-11f1-88c8-19616fa871f9" tvg-logo="https://medias.france.tv/YyXvbsSvpmwQXpgeBQvakQSbAS4/400x0/filters:quality(85)/x/p/e/phpjbmepx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Football : le drame Jesus de Miguel
-francetv://54b5f9c2-d7b9-11f1-88c8-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-2afc43c4-d7ba-11f1-88c8-19616fa871f9" tvg-logo="https://medias.france.tv/2p6XUJQxxiBZdK79znq1tntHrtI/400x0/filters:quality(85)/5/9/d/696a9a4b0a104fbdbe6bb1c3c9489d95.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Alicia Tournebize : la nouvelle promesse du basket français
-francetv://2afc43c4-d7ba-11f1-88c8-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-cafc0216-d7b9-11f1-af99-57a09c50f7ce" tvg-logo="https://medias.france.tv/t16K7u8IHFpmxVIWHcA583GhiXI/400x0/filters:quality(85)/2/b/0/215040cd8ca94ff39e3261cbd37980b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : l'inoxydable Novak Djokovic
-francetv://cafc0216-d7b9-11f1-af99-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-f8cb1276-d7ba-11f1-af9a-57a09c50f7ce" tvg-logo="https://medias.france.tv/8AwPKEEjWzhzssUihP5tN7WLJ3s/400x0/filters:quality(85)/c/c/1/8eee8a3009a140488896f7d9908af1cc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 Ligue 1 — Achraf Hakimi : le meilleur latéral du monde ?
-francetv://f8cb1276-d7ba-11f1-af9a-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-e2590950-d6f0-11f1-864c-957ddefc544d" tvg-logo="https://medias.france.tv/0AXSuenMEJBWWh6bv6wn2OHXjIc/400x0/filters:quality(85)/8/8/b/66ddbe0c3e404c6eafcf616a2a494b88.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Tennis - Rolex Paris Masters : l'attraction Moïse Kouamé
-francetv://e2590950-d6f0-11f1-864c-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-827560c8-d6f1-11f1-af92-57a09c50f7ce" tvg-logo="https://medias.france.tv/YMt1U17qXVqD_KI_6FhFbmL8MWc/400x0/filters:quality(85)/e/1/e/1cbe4d51a969495ea446e8cc47f9ce1e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Voile - Route du Rhum : le crash de Violette Dorange
-francetv://827560c8-d6f1-11f1-af92-57a09c50f7ce
-#EXTINF:-1 tvg-id="francetv-481f489a-d6f0-11f1-88c1-19616fa871f9" tvg-logo="https://medias.france.tv/FbOsNKs_AxV1WMuc__5gzCGIJZI/400x0/filters:quality(85)/v/0/g/phph24g0v.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Formule 1 : Kimi Antonelli, le sacre d'un surdoué
-francetv://481f489a-d6f0-11f1-88c1-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-e162ad28-d62b-11f1-af90-57a09c50f7ce" tvg-logo="https://medias.france.tv/uGj_zBvz8PcpWyH8gW5yJDYU3J4/400x0/filters:quality(85)/3/6/e/ef9074ce3e0e4c4384326ac51a30be63.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Tennis - Rolex Paris Masters : Arthur Fils, ambition assumée
-francetv://e162ad28-d62b-11f1-af90-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-633e3aeb-016c-4532-bbc7-cbdbccd05748" tvg-logo="https://medias.france.tv/0ZeOG7uvsezexQ1yapH4fBWHwMM/400x0/filters:quality(85)/y/w/5/phpq5c5wy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 11 - Matin
 francetv://633e3aeb-016c-4532-bbc7-cbdbccd05748
 #EXTINF:-1 tvg-id="francetv-69edcd5b-ec69-499f-8a89-856828782294" tvg-logo="https://medias.france.tv/1JX1ZvVphPEgjMYN8bX4a48KUvA/400x0/filters:quality(85)/i/r/m/phpnuqmri.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos directs à venir",Jour 11 - Après-midi
