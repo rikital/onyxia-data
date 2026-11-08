@@ -2497,8 +2497,8 @@ tf1plus://tf1/star-academy-le-concert-evenement
 tf1plus://tf1/stars-a-domicile
 #EXTINF:-1 tvg-id="tf1plus-tf1-danse-avec-les-stars-si-vous-aimez-la-star-academy..." tvg-logo="https://photos.tf1.fr/217/289/dals-vignette-immersive-3-9b1caf-962b71-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Si vous aimez la Star Academy...",Danse Avec les Stars
 tf1plus://tf1/danse-avec-les-stars
-#EXTINF:-1 tvg-id="tf1plus-tf1-drama-academy-avec-maybelline-new-york-et-garnier-les-récaps-de-la-villa-11" tvg-logo="https://photos.tf1.fr/330/186/minia-lvdcb-lerecap_s01-23bd26-ea9c5e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Les Récaps de la Villa 11",Drama Academy Avec Maybelline New York et Garnier
-tf1plus://tf1/drama-academy-avec-maybelline-new-york-et-garnier
+#EXTINF:-1 tvg-id="tf1plus-tmc-le-grand-vrac-les-récaps-de-la-villa-11" tvg-logo="https://photos.tf1.fr/330/186/minia-lvdcb-lerecap_s01-23bd26-ea9c5e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Les Récaps de la Villa 11",Le Grand Vrac
+tf1plus://tmc/le-grand-vrac
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-grand-concours-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-3a4549-b18370-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Le Grand Concours
 tf1plus://tf1/le-grand-concours
 #EXTINF:-1 tvg-id="tf1plus-tf1-une-famille-en-or-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ferrari-vs-tsamere-f0e725-50d74a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Une Famille En Or
@@ -2509,8 +2509,6 @@ tf1plus://tf1/le-dernier-cercle
 tf1plus://tmc/q-dor
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-veut-gagner-des-millions-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-qvgdm-2026-bdbeb8-d805a1-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Qui Veut Gagner des Millions
 tf1plus://tf1/qui-veut-gagner-des-millions
-#EXTINF:-1 tvg-id="tf1plus-tmc-le-grand-vrac-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-5d8b89-3fa5e5-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Le Grand Vrac
-tf1plus://tmc/le-grand-vrac
 #EXTINF:-1 tvg-id="tf1plus-tmc-canap-detienne-carbonnier-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-6d6964-81ef3c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Canap Detienne Carbonnier
 tf1plus://tmc/canap-detienne-carbonnier
 #EXTINF:-1 tvg-id="tf1plus-tf1-tf1-50-ans-ensemble-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-740774-b13737-3a8d9a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Tf1 50 Ans Ensemble
@@ -3765,6 +3763,8 @@ tf1plus://tf1/dragons-2
 tf1plus://tf1/dragons-2025
 #EXTINF:-1 tvg-id="tf1plus-tf1-dragons-3-le-monde-cache-smx" tvg-logo="https://photos.tf1.fr/1200/720/dragons-3-21469337-1755799333-227612-e705bd-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Dragons 3 : Le monde caché
 tf1plus://tf1/dragons-3-le-monde-cache
+#EXTINF:-1 tvg-id="tf1plus-tf1-drama-academy-avec-maybelline-new-york-et-garnier-smx" tvg-logo="https://photos.tf1.fr/1200/720/vignette-episode-1-451bec-73e4e2-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Drama Academy avec Maybelline New York et Garnier
+tf1plus://tf1/drama-academy-avec-maybelline-new-york-et-garnier
 #EXTINF:-1 tvg-id="tf1plus-tf1-dream-makers-smx" tvg-logo="https://photos.tf1.fr/1200/720/club-med__15-221fe7-e6d442-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Dream Makers
 tf1plus://tf1/dream-makers
 #EXTINF:-1 tvg-id="tf1plus-tf1-drop-game-smx" tvg-logo="https://photos.tf1.fr/1200/720/drop-game-90410580-1755801975-8abea8-2591ce-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Drop Game
