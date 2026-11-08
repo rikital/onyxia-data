@@ -169,6 +169,8 @@ francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-enfants-de-la-tele" tvg-logo="https://medias.france.tv/3QsAo7ZiJ9NRMERZWm2DwZzOVZ4/400x0/filters:quality(85)/i/v/p/php0kgpvi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les enfants de la télé
 francetv://program/france-2_les-enfants-de-la-tele
+#EXTINF:-1 tvg-id="francetv-prog-france-3_les-enquetes-de-vera" tvg-logo="https://medias.france.tv/XzkDRHgUj0eI0jex-HyLef_RK4c/400x0/filters:quality(85)/a/j/r/phplchrja.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les enquêtes de Vera
+francetv://program/france-3_les-enquetes-de-vera
 #EXTINF:-1 tvg-id="francetv-prog-france-3_le-voyageur" tvg-logo="https://medias.france.tv/UP-QShynOn8R6zdKJ9tDdGM781A/400x0/filters:quality(85)/d/x/x/phpxekxxd.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur
 francetv://program/france-3_le-voyageur
 #EXTINF:-1 tvg-id="francetv-b380a2c6-0bfa-40f8-910d-8dfdafa1a660" tvg-logo="https://medias.france.tv/mC5_k1A36QV1_EwqfbuMYj5abns/400x0/filters:quality(85)/v/d/h/phptuihdv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La boîte à secrets — Émission du vendredi 6 novembre 2026
@@ -183,8 +185,6 @@ francetv://034197fb-579a-48a5-ac05-3007c348d971
 francetv://ebd479de-a2a6-4209-9c00-ae0eb221f7a4
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/wNhjnLTUGgBHAy4496J7PJNSrB0/400x0/filters:quality(85)/b/o/e/phpodweob.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Alex Hugo
 francetv://program/france-3_alex-hugo
-#EXTINF:-1 tvg-id="francetv-prog-france-3_les-enquetes-de-vera" tvg-logo="https://medias.france.tv/XzkDRHgUj0eI0jex-HyLef_RK4c/400x0/filters:quality(85)/a/j/r/phplchrja.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les enquêtes de Vera
-francetv://program/france-3_les-enquetes-de-vera
 #EXTINF:-1 tvg-id="francetv-d20ef9db-047f-4e94-a47e-9338ab76bb1f" tvg-logo="https://medias.france.tv/WGM7SkMpHSK46CrXrwsA2J65jr8/400x0/filters:quality(85)/j/i/f/phpyygfij.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Sans filtre — Agriculture, de la ferme à nos assiettes
 francetv://d20ef9db-047f-4e94-a47e-9338ab76bb1f
 #EXTINF:-1 tvg-id="francetv-177e9678-09d3-435c-b207-2ab4e33ad36b" tvg-logo="https://medias.france.tv/HrU8MnUw9t6o1H7V-sAfmGiT4ig/400x0/filters:quality(85)/f/y/u/phpi9kuyf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Le voyageur — Le sentier perdu
@@ -597,8 +597,12 @@ francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festiva
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival" tvg-logo="https://medias.france.tv/BVoLGIPZImlbwb4PpeajseBJCtg/400x0/filters:quality(85)/2/7/x/phpkmqx72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Golden Coast Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival
+#EXTINF:-1 tvg-id="francetv-2c0f2a17-a5e1-47b6-9dcc-46c40db48716" tvg-logo="https://medias.france.tv/E9SS8GeQOxsIOTUpe46vlOYDlqg/400x0/filters:quality(85)/6/u/a/phpzvbau6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La fabrique du mensonge — Hollywood et les femmes, l'empire du silence
+francetv://2c0f2a17-a5e1-47b6-9dcc-46c40db48716
 #EXTINF:-1 tvg-id="francetv-62f0216d-a314-4c9b-91ba-dd5553122eae" tvg-logo="https://medias.france.tv/Mt5WcU-Cs-QPDsdzDiMCi5GBm4I/400x0/filters:quality(85)/p/o/r/php98qrop.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Échappées belles — Week-end à Lille
 francetv://62f0216d-a314-4c9b-91ba-dd5553122eae
+#EXTINF:-1 tvg-id="francetv-029ba4a0-95f4-4684-9386-f544fde97ac4" tvg-logo="https://medias.france.tv/K2zj4zT4v1katZI_nD0ldJvxxTs/400x0/filters:quality(85)/4/b/s/phpvposb4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La case du siècle — Au nom des enfants perdus
+francetv://029ba4a0-95f4-4684-9386-f544fde97ac4
 #EXTINF:-1 tvg-id="francetv-c31c28ec-b6e0-4000-88cf-90816c23576a" tvg-logo="https://medias.france.tv/uoVgGfb-qRAh3IjINbyYMUHS1Ec/400x0/filters:quality(85)/f/v/i/phpsj0ivf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Des hommes d'influence
 francetv://c31c28ec-b6e0-4000-88cf-90816c23576a
 #EXTINF:-1 tvg-id="francetv-ce9622d0-0927-4fb8-9468-3f5feded62c7" tvg-logo="https://medias.france.tv/YdmXpB_VQhWdwbN-BMaAN6Y0_kY/400x0/filters:quality(85)/p/i/t/phpoagtip.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Aux arts et cætera — Catherine Leroy, une Française dans la guerre du Vietnam
@@ -627,16 +631,18 @@ francetv://ca618f3b-cd20-4e82-975d-a9e602c48240
 francetv://program/france-5_c-dans-l-air
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C à vous
 francetv://program/france-5_c-a-vous
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-ce-soir" tvg-logo="https://medias.france.tv/FrZm91Y32fBFJIawfflX_OI4yxc/400x0/filters:quality(85)/0/s/c/phpdkdcs0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C ce soir
-francetv://program/france-5_c-ce-soir
-#EXTINF:-1 tvg-id="francetv-prog-france-5_c-pas-si-loin" tvg-logo="https://medias.france.tv/MQZyBAqZM6JgEDvkFGeL2WAsASo/400x0/filters:quality(85)/y/f/y/phpyqzyfy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C pas si loin
-francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-politique" tvg-logo="https://medias.france.tv/Ue9BBaQ5wlCwffog-NIZ6b6s0zA/400x0/filters:quality(85)/m/r/3/phpjy03rm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C politique
 francetv://program/france-5_c-politique
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-pas-si-loin" tvg-logo="https://medias.france.tv/MQZyBAqZM6JgEDvkFGeL2WAsASo/400x0/filters:quality(85)/y/f/y/phpyqzyfy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C pas si loin
+francetv://program/france-5_c-pas-si-loin
+#EXTINF:-1 tvg-id="francetv-prog-france-5_c-ce-soir" tvg-logo="https://medias.france.tv/FrZm91Y32fBFJIawfflX_OI4yxc/400x0/filters:quality(85)/0/s/c/phpdkdcs0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C ce soir
+francetv://program/france-5_c-ce-soir
 #EXTINF:-1 tvg-id="francetv-prog-france-5_l-oeil-et-la-main" tvg-logo="https://medias.france.tv/39juu1aV8JGXUNnYKEg88QoKc8M/400x0/filters:quality(85)/d/e/x/phpmulxed.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",L'œil et la main
 francetv://program/france-5_l-oeil-et-la-main
 #EXTINF:-1 tvg-id="francetv-prog-france-5_a-vous-de-voir" tvg-logo="https://medias.france.tv/uZKEGAwoZqkLs0y4ufau3LYB6Pg/400x0/filters:quality(85)/o/n/b/phpfk7bno.png" tvg-country="FR" tvg-type="series" group-title="Replay France 5",A vous de voir
 francetv://program/france-5_a-vous-de-voir
+#EXTINF:-1 tvg-id="francetv-prog-france-5_la-fabrique-du-mensonge" tvg-logo="https://medias.france.tv/UW0Wmm3odEK68vbVZysbPLbcGy0/400x0/filters:quality(85)/c/v/a/phpoafavc.png" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La fabrique du mensonge
+francetv://program/france-5_la-fabrique-du-mensonge
 #EXTINF:-1 tvg-id="francetv-prog-france-5_l-invite-de-c-dans-l-air" tvg-logo="https://medias.france.tv/soeI1vwsSaynB3CpAGFl_O_RlYk/400x0/filters:quality(85)/r/q/c/phpeoacqr.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",C dans l'air l'invité
 francetv://program/france-5_l-invite-de-c-dans-l-air
 #EXTINF:-1 tvg-id="francetv-prog-france-5_mecaniques-du-journalisme" tvg-logo="https://medias.france.tv/Q2S73vlUleTMhibWI4lEj5Kvcbk/400x0/filters:quality(85)/k/o/e/phplngeok.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Mécaniques du journalisme
@@ -645,8 +651,6 @@ francetv://program/france-5_mecaniques-du-journalisme
 francetv://program/france-5_sur-le-front
 #EXTINF:-1 tvg-id="francetv-prog-france-5_le-monde-en-face" tvg-logo="https://medias.france.tv/cpWWHMMLSImeU1O5txwyVnUFSfw/400x0/filters:quality(85)/f/f/r/phpoe4rff.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde en face
 francetv://program/france-5_le-monde-en-face
-#EXTINF:-1 tvg-id="francetv-prog-france-5_la-fabrique-du-mensonge" tvg-logo="https://medias.france.tv/UW0Wmm3odEK68vbVZysbPLbcGy0/400x0/filters:quality(85)/c/v/a/phpoafavc.png" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La fabrique du mensonge
-francetv://program/france-5_la-fabrique-du-mensonge
 #EXTINF:-1 tvg-id="francetv-prog-france-5_la-grande-librairie" tvg-logo="https://medias.france.tv/Lq3QSTcTRTSebQpZaDdTs7nUPBo/400x0/filters:quality(85)/t/z/z/phptwuzzt.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie
 francetv://program/france-5_la-grande-librairie
 #EXTINF:-1 tvg-id="francetv-7f780118-7804-4f25-b059-d8d34364d720" tvg-logo="https://medias.france.tv/ox-rzj98ParCb8dwjybEV-XYaOw/400x0/filters:quality(85)/a/r/f/php15xfra.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Primary Colors
@@ -721,10 +725,6 @@ francetv://6cca70e5-3267-4b63-96ad-f784bf2f62d0
 francetv://fe9e3c0b-0dee-4b80-91a7-616a32a7b646
 #EXTINF:-1 tvg-id="francetv-f6da4aa9-5ddf-426c-941d-9a07bec4aedc" tvg-logo="https://medias.france.tv/4nNWR0Lk64FJgRcFG-TazYrzvvU/400x0/filters:quality(85)/e/a/q/phpeu1qae.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La case du siècle — Premiers résistants, seuls contre tous !
 francetv://f6da4aa9-5ddf-426c-941d-9a07bec4aedc
-#EXTINF:-1 tvg-id="francetv-689a50d3-a3ed-4539-9521-80cb7eb0c933" tvg-logo="https://medias.france.tv/9R6kSlbh2bEFDC7uoIBGAf9W2ks/400x0/filters:quality(85)/f/n/q/phpshrqnf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Science grand format — Le grand puzzle de Pompéi
-francetv://689a50d3-a3ed-4539-9521-80cb7eb0c933
-#EXTINF:-1 tvg-id="francetv-6a57a65a-c8a7-4a63-9fca-3cc13632e22c" tvg-logo="https://medias.france.tv/jPYih1y_vIyf9FBtOmMJSpg-NL4/400x0/filters:quality(85)/k/m/o/phpxaeomk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Le monde en face — ICE, la chasse à l'homme
-francetv://6a57a65a-c8a7-4a63-9fca-3cc13632e22c
 #EXTINF:-1 tvg-id="francetv-9ce77ca8-6974-4b8f-b8f1-c167cb8678ab" tvg-logo="https://medias.france.tv/6-OnjDP8vIdyJrgpW6DGJGkzYFA/400x0/filters:quality(85)/k/x/a/php0q9axk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La case du siècle — On les appelle samouraïs
 francetv://9ce77ca8-6974-4b8f-b8f1-c167cb8678ab
 #EXTINF:-1 tvg-id="francetv-prog-france-5_aux-origines-des-terrorismes" tvg-logo="https://medias.france.tv/2vHBPAPYyaLA2OU0pa2iFXDQMEw/400x0/filters:quality(85)/x/w/8/phpckm8wx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Aux origines des terrorismes
