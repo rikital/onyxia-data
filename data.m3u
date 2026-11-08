@@ -7606,7 +7606,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="Nouveautés FR - Nouveautés",Africanews English (720p)
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews English (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews German (720p)
@@ -7614,7 +7614,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Hungarian (720p)
-https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Hungarian
 https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Italian (720p)
@@ -7624,7 +7624,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Spanish (720p)
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="Nouveautés FR - Nouveautés",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="Nouveautés FR - Nouveautés",France 24 Arabic (1080p)
@@ -7761,7 +7761,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France TV backup - Autres",Africanews English (720p) [kilirushi]
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France TV backup - Autres",Euronews Russian (576p) [kilirushi]
@@ -8089,6 +8089,12 @@ http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.fr@SD" group-title="Documentaire - Documentaires",Investigation Discovery (France)
 http://192.99.186.30/stream/81/index.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="France TV backup - Autres",Euronews Hungarian (720p) [kilirushi]
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" group-title="France TV backup - Autres",Euronews Spanish (720p) [kilirushi]
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
@@ -8197,6 +8203,14 @@ oxax://fap-tv-lesbian
 oxax://fap-tv-bbw
 #EXTINF:-1 tvg-logo="" group-title="Zone 18@ - Zone 18@",FAP TV Trans
 oxax://fap-tv-trans
+#EXTINF:360 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/c67edefa-f689-4be2-aca8-69c35f0b5726/6/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",Erotic girl yummy
+https://mp4-cdn77.xvideos-cdn.com/2c6c9f8c-9d9f-470c-95a3-ca633b4ae20e/6/mp4_sd.mp4?secure=EJKFESkupOlBNjFfUUfTmw==,1794114169
+#EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/14b01fff-2029-4393-af9e-8bdc3d886810/6/xv_7_t.jpg" group-title="Zone 18@ - Zone 18@",How Sami Soup Handles Anal Overflow - Exclusive Interview
+https://mp4-cdn77.xvideos-cdn.com/14b01fff-2029-4393-af9e-8bdc3d886810/6/mp4_sd.mp4?secure=qDDUrUIpIVi7DUp4ozh3mw==,1794114188
+#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/xv_20_t.jpg" group-title="Zone 18@ - Zone 18@",TIDYING UP MY BACKYARD
+https://mp4-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/mp4_sd.mp4?secure=TlGh_6HPt8kA2zknRRWRlg==,1794114217
+#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
+https://mp4-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/mp4_sd.mp4?secure=gy5qahXM8RUcI5jcAlLpxg==,1794114225
 #EXTINF:300 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/dcb354cb-4322-40da-bdbb-3e61c7499a36/6/xv_5_t.jpg" group-title="Zone 18@ - Zone 18@",Her pussy is too tight for my dick. Tried to worked it out
 https://mp4-cdn77.xvideos-cdn.com/dcb354cb-4322-40da-bdbb-3e61c7499a36/6/mp4_sd.mp4?secure=QxUSPGHuKTQGKxW_c_PO1A==,1794112201
 #EXTINF:660 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/e0a62c01-7dfa-48ff-95b7-dbaaf035edf6/6/xv_8_t.jpg" group-title="Zone 18@ - Zone 18@",Step Mom's Meds Make Her Horny - Brianna Beach - Alex Adams
@@ -9257,8 +9271,6 @@ https://mp4-cdn77.xvideos-cdn.com/1c2e00da-5bc2-475d-9eef-58311a445e55/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/87e2c6a2-9f19-4d08-aaac-d10466ce065e/6/mp4_sd.mp4?secure=bySP7EvwMXueLLEZKqW_pg==,1794112279
 #EXTINF:720 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/ffa3086e-3262-474b-a769-8525bab936bf/6/xv_14_t.jpg" group-title="Zone 18@ - Zone 18@",Curly-haired girl with a crazy ass who's crazy about sex.
 https://mp4-cdn77.xvideos-cdn.com/ffa3086e-3262-474b-a769-8525bab936bf/6/mp4_sd.mp4?secure=eDOIFvLm4LzY7o1Nyu6hFw==,1794112280
-#EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/14b01fff-2029-4393-af9e-8bdc3d886810/6/xv_7_t.jpg" group-title="Zone 18@ - Zone 18@",How Sami Soup Handles Anal Overflow - Exclusive Interview
-https://mp4-cdn77.xvideos-cdn.com/14b01fff-2029-4393-af9e-8bdc3d886810/6/mp4_sd.mp4?secure=wZ9ibEZxEg1iCfOMdatKiA==,1794112279
 #EXTINF:360 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/e87af418-7118-47a7-89e5-bb4081a23e3f/6/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",The best night of homemade sex friends without a condom
 https://mp4-cdn77.xvideos-cdn.com/c927e0f3-52a2-4155-82ea-4a6ade253be4/6/mp4_sd.mp4?secure=7hPJf9rmQp58EYh-uojD0g==,1794112279
 #EXTINF:780 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/e87af418-7118-47a7-89e5-bb4081a23e3f/6/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",My horny stepsister asks me to fuck her hard and give her my semen in her juicy pussy in exchange for not telling our stepparents. Tamil
@@ -9637,8 +9649,6 @@ https://mp4-cdn77.xvideos-cdn.com/6af33032-5b06-4169-ad82-2d4c9543ab52/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/a4482e64-774b-47d0-9415-f579c3304d47/6/mp4_sd.mp4?secure=FnxDCNxRPd5qxRaUZdBs9Q==,1794112305
 #EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/2044994c-5819-46fe-af30-e9102cdf05cc/6/xv_2_t.jpg" group-title="Zone 18@ - Zone 18@",EVIL ANGEL - Sex Therapist Convinces Couple Into Anal Gaping Threeway
 https://mp4-cdn77.xvideos-cdn.com/2044994c-5819-46fe-af30-e9102cdf05cc/6/mp4_sd.mp4?secure=qdg6RlyqYUEQhc3vPCKc6w==,1794112305
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/xv_20_t.jpg" group-title="Zone 18@ - Zone 18@",TIDYING UP MY BACKYARD
-https://mp4-cdn77.xvideos-cdn.com/b957b78c-45fc-4d5b-a985-9ee86b920668/6/mp4_sd.mp4?secure=Y_SD0qpjkKS60phjYihk2g==,1794112305
 #EXTINF:240 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/e8b5abbd-f0a7-4c08-b8e9-0025ad66a465/6/xv_30_t.jpg" group-title="Zone 18@ - Zone 18@",He Kisses Me and Squeezes My Tits While I Finger My Girl's Pussy
 https://mp4-cdn77.xvideos-cdn.com/e8b5abbd-f0a7-4c08-b8e9-0025ad66a465/6/mp4_sd.mp4?secure=8vSJC2rabrymMEcifMkrlA==,1794112306
 #EXTINF:780 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/02954e21-b5a3-4209-8402-357ed83c3363/6/xv_14_t.jpg" group-title="Zone 18@ - Zone 18@",Finally my new stepdaughter and I were left alone at home
@@ -9767,8 +9777,6 @@ https://mp4-cdn77.xvideos-cdn.com/3e8ebd58-8bda-49c5-b5c0-eccd36a9a7cb/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/5bdf23bb-6804-426e-87ee-62ac07d8fc6c/6/mp4_sd.mp4?secure=y5KZpHBwbDMiZsiR5AX9aA==,1794112319
 #EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/d2fe85f8-6703-4e02-8b46-c2c6db65f043/6/xv_3_t.jpg" group-title="Zone 18@ - Zone 18@",Wild 3some WIth Stepmom & BF
 https://mp4-cdn77.xvideos-cdn.com/d2fe85f8-6703-4e02-8b46-c2c6db65f043/6/mp4_sd.mp4?secure=LpvzlanwTTnOPFUkI0j6SQ==,1794112319
-#EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/xv_24_t.jpg" group-title="Zone 18@ - Zone 18@",I fucked this delicious, slutty married woman in front of her cuckolded husband. The big-dicked personal trainer is going to give the slutty married woman a workout and then fuck her.
-https://mp4-cdn77.xvideos-cdn.com/0720177c-da63-448d-81da-de10db716c7b/6/mp4_sd.mp4?secure=sEDAWSPTosbGjuB4GBHSwA==,1794112319
 #EXTINF:900 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/b881934d-c3a8-4117-91a8-0d274eccff1c/6/xv_4_t.jpg" group-title="Zone 18@ - Zone 18@","Yeah that's right, I tried sticking my foot up her ass" - Female Fake Taxi
 https://mp4-cdn77.xvideos-cdn.com/b881934d-c3a8-4117-91a8-0d274eccff1c/6/mp4_sd.mp4?secure=TGDkr7Bj94n-WZfA2nTurQ==,1794112319
 #EXTINF:720 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/c3b89553-7e57-44ce-ad91-366df9f5d7a0/6/xv_4_t.jpg" group-title="Zone 18@ - Zone 18@",BIMBO SLUT GETS HANDLED BY THE CREW
@@ -9807,8 +9815,6 @@ https://mp4-cdn77.xvideos-cdn.com/e871f510-ef55-4078-b7b5-7982ca142083/6/mp4_sd.
 https://mp4-cdn77.xvideos-cdn.com/3e90f5f7-31da-455a-91c6-d33c2b315823/6/mp4_sd.mp4?secure=RgMY1kLsmJaNzlwLeABacw==,1794112322
 #EXTINF:600 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/afa21854-73a0-4e35-b044-0fa8045b87b8/6/xv_5_t.jpg" group-title="Zone 18@ - Zone 18@",Cheating wife! She sucks her stepson's cock while talking to her husband! Oral creampie!
 https://mp4-cdn77.xvideos-cdn.com/afa21854-73a0-4e35-b044-0fa8045b87b8/6/mp4_sd.mp4?secure=VIzrTcICGJ0ECHQQU_OSSw==,1794112322
-#EXTINF:1200 tvg-logo="https://thumb-cdn77.xvideos-cdn.com/4d7967f4-1479-423e-b7f9-f6a0b1409adc/6/xv_1_t.jpg" group-title="Zone 18@ - Zone 18@",Everyone who wanted to fucked me really good RED2
-https://mp4-cdn77.xvideos-cdn.com/4d7967f4-1479-423e-b7f9-f6a0b1409adc/6/mp4_sd.mp4?secure=oJc9jGUFEc36ucEWlHk2Ig==,1794112322
 # --- dossier: Zone 18@ ---
 #EXTINF:0 group-title="Zone 18@ - Zone 18@",MyCamTV Teen Girls
 https://live.mycamtv.com/teen.m3u8
