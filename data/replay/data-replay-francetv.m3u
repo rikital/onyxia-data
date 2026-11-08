@@ -827,6 +827,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-8e7e3072-ef32-46de-8ea0-586523ce3194" tvg-logo="https://medias.france.tv/POkmH1xeeFbgtrD9JEUPhBG2y9Y/400x0/filters:quality(85)/1/1/5/214ab1d8d7f9453ea8e3bff284f81511.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer du dimanche 8 novembre 2026
+francetv://8e7e3072-ef32-46de-8ea0-586523ce3194
 #EXTINF:-1 tvg-id="francetv-a6fb2907-e407-44c4-bc46-172aeb932164" tvg-logo="https://medias.france.tv/kShekHtvv7KqCcvg4fRQolCK6wg/400x0/filters:quality(85)/6/f/e/e0371ef1670a4730bafc2d573b1dfef6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin
 francetv://a6fb2907-e407-44c4-bc46-172aeb932164
 #EXTINF:-1 tvg-id="francetv-3d383182-98ea-47b5-bd2a-c6d835057af9" tvg-logo="https://medias.france.tv/0HxOZzuvYWH7KzBrvDVFSHq650U/400x0/filters:quality(85)/9/d/8/92c2ae148a824ae7a842f296ed0278d9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du dimanche 8 novembre 2026
@@ -865,8 +867,6 @@ francetv://c7bed771-cb7c-47f1-9a09-97aa875d5344
 francetv://70716b33-189a-4aac-93ba-9ae004dfbee2
 #EXTINF:-1 tvg-id="francetv-ce0a3adb-d0f6-436e-82d9-cc12d7f8d863" tvg-logo="https://medias.france.tv/O3Ncqpcn7t7e66brt6tln8WTYKo/400x0/filters:quality(85)/6/6/1/5ad40b832d04491f837853850d35e166.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Trump : quand l'Amérique dit stop
 francetv://ce0a3adb-d0f6-436e-82d9-cc12d7f8d863
-#EXTINF:-1 tvg-id="francetv-46153ac1-9cd9-4028-9ad6-f47d550c864c" tvg-logo="https://medias.france.tv/ANlJoFA_BW13IXGcitkwqEJgX_c/400x0/filters:quality(85)/f/1/0/82ceec659d534b038ac63af81930a01f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A suivre avec Claire-Elisabeth Beaufort — Émission du vendredi 6 novembre 2026
-francetv://46153ac1-9cd9-4028-9ad6-f47d550c864c
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2751,8 +2751,8 @@ francetv://68805c2c-c8ff-48b9-8f51-28feb71825a9
 francetv://3495cc9a-0855-42dc-a3de-4d52f4cfc586
 #EXTINF:-1 tvg-id="francetv-2f99ce08-806f-4df4-b6d2-288f4c06ae21" tvg-logo="https://medias.france.tv/Ic5umvKJ6GBP3MFAJYwcu39WyLI/400x0/filters:quality(85)/8/5/8/75c70a8069774fcda0d890e2f1db87241875b22674adff2d3391effa4bcf8858.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Family Business
 francetv://2f99ce08-806f-4df4-b6d2-288f4c06ae21
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
+#EXTINF:-1 tvg-id="francetv-ce024692-e59b-42f1-b162-cd7bf546d99d" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Shaun le mouton — Shaun le film
+francetv://ce024692-e59b-42f1-b162-cd7bf546d99d
 #EXTINF:-1 tvg-id="francetv-66bfdcef-e14d-4cb0-8199-ca4f0a1c1524" tvg-logo="https://medias.france.tv/XYc0aS6_y5m5ntujIsL66cqYZ_8/400x0/filters:quality(85)/t/x/v/phpwpdvxt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Compétition officielle
 francetv://66bfdcef-e14d-4cb0-8199-ca4f0a1c1524
 #EXTINF:-1 tvg-id="francetv-53081b29-77a5-4a18-af04-bb262c581e2e" tvg-logo="https://medias.france.tv/NF8QtKyrrRwCdj-FbO0yOfSIgx0/400x0/filters:quality(85)/9/x/v/phpidkvx9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",The Host
@@ -2839,8 +2839,8 @@ francetv://dc4c4c61-031b-4b22-9a58-b4d52b77140b
 francetv://a6da3e8c-abc9-485e-bc0b-2cc95c7626f2
 #EXTINF:-1 tvg-id="francetv-a21ebdf7-feae-43d8-8508-9131f0793350" tvg-logo="https://medias.france.tv/zKTjBvb739IXeeL242wbvVXQFP8/400x0/filters:quality(85)/o/s/k/phpzl8kso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Shaun le mouton, le film : la ferme contre-attaque
 francetv://a21ebdf7-feae-43d8-8508-9131f0793350
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
+#EXTINF:-1 tvg-id="francetv-ce024692-e59b-42f1-b162-cd7bf546d99d" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Shaun le mouton — Shaun le film
+francetv://ce024692-e59b-42f1-b162-cd7bf546d99d
 #EXTINF:-1 tvg-id="francetv-d2594d60-b734-4ac8-98c3-3527aba6e8e1" tvg-logo="https://medias.france.tv/nHCHAPuF4R2tlCEWAK2_sWaBtn8/400x0/filters:quality(85)/1/3/3/4e2b2c81bb644fa88820e5c772d0e331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Tout en haut du monde
 francetv://d2594d60-b734-4ac8-98c3-3527aba6e8e1
 #EXTINF:-1 tvg-id="francetv-9124820f-a61c-44e7-a99e-5a60e59453df" tvg-logo="https://medias.france.tv/bbop0KsOUiOY1SmE_CCqXVamVDg/400x0/filters:quality(85)/l/2/g/phpumng2l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",L'Extraordinaire voyage de Marona
@@ -3099,8 +3099,8 @@ francetv://645e577c-da05-45ec-b6de-e48d4156fb4a
 francetv://2ed8505c-8dd2-4cbb-a486-6313c66fb844
 #EXTINF:-1 tvg-id="francetv-00f6481b-ced1-4b13-95b7-96fd2485c875" tvg-logo="https://medias.france.tv/imEs5I2cUAeoAzrLCwkIi5G7T0Q/400x0/filters:quality(85)/d/8/6/fc5a9560e8944df29e93e5f17354d68d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Cœur sur ces films",Les amants de Brasmort
 francetv://00f6481b-ced1-4b13-95b7-96fd2485c875
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
+#EXTINF:-1 tvg-id="francetv-ce024692-e59b-42f1-b162-cd7bf546d99d" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",Shaun le mouton — Shaun le film
+francetv://ce024692-e59b-42f1-b162-cd7bf546d99d
 #EXTINF:-1 tvg-id="francetv-9124820f-a61c-44e7-a99e-5a60e59453df" tvg-logo="https://medias.france.tv/bbop0KsOUiOY1SmE_CCqXVamVDg/400x0/filters:quality(85)/l/2/g/phpumng2l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",L'Extraordinaire voyage de Marona
 francetv://9124820f-a61c-44e7-a99e-5a60e59453df
 #EXTINF:-1 tvg-id="francetv-726c6f15-ac0a-466a-8fa5-d1590d1b318f" tvg-logo="https://medias.france.tv/zuY9aE93nvYqhZhVGmGi4RHZdZA/400x0/filters:quality(85)/4/0/3/3585d780337846d1ab8fe4b6bc1ad304.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films hauts en couleur",Ma famille afghane
@@ -5475,8 +5475,8 @@ francetv://program/series-et-fictions_contes-d-oc
 francetv://5bef2a6f-d180-437c-b156-acbc8a11b259
 #EXTINF:-1 tvg-id="francetv-a21ebdf7-feae-43d8-8508-9131f0793350" tvg-logo="https://medias.france.tv/zKTjBvb739IXeeL242wbvVXQFP8/400x0/filters:quality(85)/o/s/k/phpzl8kso.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton, le film : la ferme contre-attaque
 francetv://a21ebdf7-feae-43d8-8508-9131f0793350
-#EXTINF:-1 tvg-id="francetv-39acb0bf-8af8-43ef-bf40-1215e91693da" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton — Shaun le film
-francetv://39acb0bf-8af8-43ef-bf40-1215e91693da
+#EXTINF:-1 tvg-id="francetv-ce024692-e59b-42f1-b162-cd7bf546d99d" tvg-logo="https://medias.france.tv/9mB_2lMbzoPWPAOv36x1ucPhVf4/400x0/filters:quality(85)/j/a/5/phpzba5aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Shaun le mouton — Shaun le film
+francetv://ce024692-e59b-42f1-b162-cd7bf546d99d
 #EXTINF:-1 tvg-id="francetv-d2594d60-b734-4ac8-98c3-3527aba6e8e1" tvg-logo="https://medias.france.tv/nHCHAPuF4R2tlCEWAK2_sWaBtn8/400x0/filters:quality(85)/1/3/3/4e2b2c81bb644fa88820e5c772d0e331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Tout en haut du monde
 francetv://d2594d60-b734-4ac8-98c3-3527aba6e8e1
 #EXTINF:-1 tvg-id="francetv-0489a7ef-9560-46dd-918c-d97f7657827e" tvg-logo="https://medias.france.tv/UcEbG4lBI1uqPAwOvI-w2Wa9BX0/400x0/filters:quality(85)/6/8/b/phpmieb86.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Les malheurs de Sophie
