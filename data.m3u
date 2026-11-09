@@ -8138,11 +8138,15 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
-https://freem3u.xyz/api/live/play.m3u8?vid=96
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (720p) [kilirushi]
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
+https://freem3u.xyz/api/live/play.m3u8?vid=96
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
