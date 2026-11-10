@@ -845,8 +845,12 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-7b23c94e-dd0a-11f1-8666-957ddefc544d" tvg-logo="https://medias.france.tv/Abzlv53S_cNRkdnGQYMB_OACrjw/400x0/filters:quality(85)/3/c/f/5ef200466e6940369a310b17a4753fc3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 10/11/2026 Le fil info 14H
+francetv://7b23c94e-dd0a-11f1-8666-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-d8759512-dcf3-11f1-96b5-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/7-9Idl3lzm7UqoGS7S8wXzxbuJA/400x0/filters:quality(85)/5/f/6/a89db8b670334d60b3a2fa635a3fb6f5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 10/11/2026 Le fil info 11H
 francetv://d8759512-dcf3-11f1-96b5-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-62049fed-442f-422d-8916-2cb175c4a029" tvg-logo="https://medias.france.tv/jjzGN23WdqNSt529vewIOQ2GzMM/400x0/filters:quality(85)/6/9/6/8ed4159f3c224c31810b09ba1f614696.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du mardi 10 novembre 2026
+francetv://62049fed-442f-422d-8916-2cb175c4a029
 #EXTINF:-1 tvg-id="francetv-f097aa85-b27c-4630-8573-326c00223457" tvg-logo="https://medias.france.tv/ZiuHxnle4PFu-DugmonQiS8rGu4/400x0/filters:quality(85)/4/d/5/9079bd8219844caeb558b05953aee5d4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du mardi 10 novembre 2026
 francetv://f097aa85-b27c-4630-8573-326c00223457
 #EXTINF:-1 tvg-id="francetv-5cad01c4-99e5-4b3e-9257-1c6c55d0319f" tvg-logo="https://medias.france.tv/o3d7PIjpbEnyhyrEq7pZiOkzDd0/400x0/filters:quality(85)/f/2/e/49dd108a873746588a97a15aefc37e2f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mardi 10 novembre 2026
@@ -881,10 +885,6 @@ francetv://10823da8-dc3a-11f1-8662-957ddefc544d
 francetv://dfb48924-52c3-4ff1-9164-c1c91d19ac03
 #EXTINF:-1 tvg-id="francetv-16d9b17e-82cd-4c80-ac0c-f97c51c39957" tvg-logo="https://medias.france.tv/cM9Bmb2aynpS5beHnr93R8yalaM/400x0/filters:quality(85)/8/2/b/97059309657344fe9dacb5add4c44b28.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du lundi 9 novembre 2026
 francetv://16d9b17e-82cd-4c80-ac0c-f97c51c39957
-#EXTINF:-1 tvg-id="francetv-178f04e1-e7b6-49f1-ade7-c0ab2025ef63" tvg-logo="https://medias.france.tv/Um-oY30m2qSTTIHcvL9vtAe7Bi4/400x0/filters:quality(85)/8/5/0/674373f07e9044acb072f0873c05c058.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
-francetv://178f04e1-e7b6-49f1-ade7-c0ab2025ef63
-#EXTINF:-1 tvg-id="francetv-660f0f2b-fee6-4463-8198-38277d75341c" tvg-logo="https://medias.france.tv/KZafPYhOLCRwWZiGLZ2leH8ofzQ/400x0/filters:quality(85)/7/e/0/ae2c0861c61147a290fab655527b60e7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du lundi 9 novembre 2026
-francetv://660f0f2b-fee6-4463-8198-38277d75341c
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -1151,9 +1151,11 @@ francetv://054c95d6-dbaa-11f1-96af-6dcd43e8ddfd
 francetv://298710fa-dadf-11f1-96af-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-cd28b39a-dade-11f1-865d-957ddefc544d" tvg-logo="https://medias.france.tv/b30FRqFO6aD6-oLzBH_OGyFrcX4/400x0/filters:quality(85)/6/e/5/f55ac35ce8f54cfe87ca44de96eac5e6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Équipe de France : Pablo Pagis, la surprise du chef
 francetv://cd28b39a-dade-11f1-865d-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-eac67fb8-93b8-4738-b1a6-eb9282f61471" tvg-logo="https://medias.france.tv/esjFhExBF1sc_NTsP09xv-88jL4/400x0/filters:quality(85)/8/r/r/phpd5yrr8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Jour 12 - Après-midi
+francetv://eac67fb8-93b8-4738-b1a6-eb9282f61471
 #EXTINF:-1 tvg-id="francetv-8acddca6-dd08-11f1-96b8-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/f-wzjwwjnSwyPHPVK2zL5uZLsqY/400x0/filters:quality(85)/0/9/1/1cd98601b1b54b0d96c4a85e14b29190.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Handball de plage (F) : le résumé d'Uruguay vs France
 francetv://8acddca6-dd08-11f1-96b8-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-bb962c84-dcfa-11f1-afa8-57a09c50f7ce" tvg-logo="https://medias.france.tv/m8uZtGDP9fbOixSXTxqGeEiND9A/400x0/filters:quality(85)/0/4/0/ced18f429ef24b85b272d0edfb9f5040.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Tir à l'arc : le résumé de France vs Slovénie
+#EXTINF:-1 tvg-id="francetv-bb962c84-dcfa-11f1-afa8-57a09c50f7ce" tvg-logo="https://medias.france.tv/HvtuAfH4HaFv-MrQIzgJi2x8Pdc/400x0/filters:quality(85)/d/v/p/phptdbpvd.png" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Tir à l'arc : le résumé de France vs Slovénie
 francetv://bb962c84-dcfa-11f1-afa8-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-ffd9f07c-dc39-11f1-8662-957ddefc544d" tvg-logo="https://medias.france.tv/-HLGDgwvkhNGG2F0qU1oXsAtU2E/400x0/filters:quality(85)/8/h/h/phpxxthh8.png" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Handball de plage (F) : le résumé de France vs Sénégal
 francetv://ffd9f07c-dc39-11f1-8662-957ddefc544d
@@ -2485,6 +2487,8 @@ francetv://29d30286-e48a-4792-93d7-f6a3d474e8f4
 francetv://2527c4b2-e280-4312-af5e-1b14cab93e14
 #EXTINF:-1 tvg-id="francetv-1bcafb5f-4119-44b4-a307-57a40448b2d1" tvg-logo="https://medias.france.tv/zpOA9DqP7IEh90CkNd_p5TPoZHU/400x0/filters:quality(85)/7/3/a/2236d384a2f54bdc8a9d0c4f951b4a37.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Au cœur du monde animal",Chili, les messagers invisibles du désert d'Atacama
 francetv://1bcafb5f-4119-44b4-a307-57a40448b2d1
+#EXTINF:-1 tvg-id="francetv-prog-france-2_13-novembre-le-choix-de-sonia" tvg-logo="https://medias.france.tv/vIAUh6YwmMXuK4eAv-Lbj091OIM/400x0/filters:quality(85)/s/n/h/phprkihns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",13 novembre, le choix de Sonia
+francetv://program/france-2_13-novembre-le-choix-de-sonia
 #EXTINF:-1 tvg-id="francetv-a685cc9c-1f05-43b5-b21a-d69674a3c957" tvg-logo="https://medias.france.tv/Zaj4vJTVG3-HrUpCdOhIz-doDsY/400x0/filters:quality(85)/6/9/0/9dce9b1736cb4bbd86b55007e7de3096.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",Infrarouge — Noirs en France
 francetv://a685cc9c-1f05-43b5-b21a-d69674a3c957
 #EXTINF:-1 tvg-id="francetv-029ba4a0-95f4-4684-9386-f544fde97ac4" tvg-logo="https://medias.france.tv/K2zj4zT4v1katZI_nD0ldJvxxTs/400x0/filters:quality(85)/4/b/s/phpvposb4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Une fenêtre sur le monde et la société",La case du siècle — Au nom des enfants perdus
@@ -2955,8 +2959,6 @@ francetv://6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78
 francetv://f786a73b-c90c-4660-8080-0f0bf2b9864e
 #EXTINF:-1 tvg-id="francetv-c966ba34-8798-4cfb-b690-a675c48a3201" tvg-logo="https://medias.france.tv/jaCYZB2I02zqkBi5Mvu_0zqD7Ps/400x0/filters:quality(85)/9/2/f/7a5bfb98478046009066be0eac8e6f29.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Le tigre qui s’invita pour le thé — Le tigre qui s'invita pour le thé
 francetv://c966ba34-8798-4cfb-b690-a675c48a3201
-#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Organisation super insolite — Le film
-francetv://83fdbcd9-4d2c-42d7-87a6-f223abc193b0
 #EXTINF:-1 tvg-id="francetv-e60432e2-57ce-48de-9a72-3d305ad907f4" tvg-logo="https://medias.france.tv/XKroTRdCKIh8deowQV1bRXmpiL8/400x0/filters:quality(85)/h/z/9/phpk5h9zh.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Drôles d'oiseaux
 francetv://e60432e2-57ce-48de-9a72-3d305ad907f4
 #EXTINF:-1 tvg-id="francetv-4a572594-69a7-4864-8e98-64f16a0bcd4d" tvg-logo="https://medias.france.tv/-FPwOlUFvglzbWeBhfQjp_MyqQQ/400x0/filters:quality(85)/r/w/q/phpaflqwr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Akissi
@@ -4647,7 +4649,7 @@ francetv://fa511422-194c-43ad-954f-86e44e51d515
 francetv://ec45bdca-184f-40b6-a98b-0fd7bbd8d415
 #EXTINF:-1 tvg-id="francetv-8acddca6-dd08-11f1-96b8-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/f-wzjwwjnSwyPHPVK2zL5uZLsqY/400x0/filters:quality(85)/0/9/1/1cd98601b1b54b0d96c4a85e14b29190.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Handball de plage (F) : le résumé d'Uruguay vs France
 francetv://8acddca6-dd08-11f1-96b8-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-bb962c84-dcfa-11f1-afa8-57a09c50f7ce" tvg-logo="https://medias.france.tv/m8uZtGDP9fbOixSXTxqGeEiND9A/400x0/filters:quality(85)/0/4/0/ced18f429ef24b85b272d0edfb9f5040.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Tir à l'arc : le résumé de France vs Slovénie
+#EXTINF:-1 tvg-id="francetv-bb962c84-dcfa-11f1-afa8-57a09c50f7ce" tvg-logo="https://medias.france.tv/HvtuAfH4HaFv-MrQIzgJi2x8Pdc/400x0/filters:quality(85)/d/v/p/phptdbpvd.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Tir à l'arc : le résumé de France vs Slovénie
 francetv://bb962c84-dcfa-11f1-afa8-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-ffd9f07c-dc39-11f1-8662-957ddefc544d" tvg-logo="https://medias.france.tv/-HLGDgwvkhNGG2F0qU1oXsAtU2E/400x0/filters:quality(85)/8/h/h/phpxxthh8.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Nos résumés",Handball de plage (F) : le résumé de France vs Sénégal
 francetv://ffd9f07c-dc39-11f1-8662-957ddefc544d
@@ -4831,10 +4833,10 @@ francetv://program/france-3_le-jeu-des-1000-euros
 francetv://program/france-2_l-anneau
 #EXTINF:-1 tvg-id="francetv-305d285a-a4bf-498d-a30a-992b5a79805d" tvg-logo="https://medias.france.tv/T4dS14JMYUrBc7tzkg_DpSv060s/400x0/filters:quality(85)/g/u/l/phpittlug.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",20h30 le dimanche — Invité : Jean Reno
 francetv://305d285a-a4bf-498d-a30a-992b5a79805d
-#EXTINF:-1 tvg-id="francetv-2f965729-3020-4256-bd93-8fe5415f3fcd" tvg-logo="https://medias.france.tv/BchNrqONjbhAi-2gx3fdILduoiQ/400x0/filters:quality(85)/b/c/9/875eaf377cfa4573ab24c56fb453c9cb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Safe Zone, par Faustine Bollaert — Faustine reçoit Juliette Katz
-francetv://2f965729-3020-4256-bd93-8fe5415f3fcd
-#EXTINF:-1 tvg-id="francetv-e680e558-0332-4a57-957a-a5dfd69b8ddd" tvg-logo="https://medias.france.tv/7-C9xoY-Lgu1_sx5TCyCeWpwJK0/400x0/filters:quality(85)/s/p/b/php1o9bps.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les rencontres du Papotin — Kad Merad
-francetv://e680e558-0332-4a57-957a-a5dfd69b8ddd
+#EXTINF:-1 tvg-id="francetv-99cb7daa-5c95-4f90-afd1-0cc7fbf84020" tvg-logo="https://medias.france.tv/QoKCp5_qsUZbWiup8W0hIfOiG-Y/400x0/filters:quality(85)/z/k/t/phpajjtkz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les rencontres du Papotin — Fanny Ardant
+francetv://99cb7daa-5c95-4f90-afd1-0cc7fbf84020
+#EXTINF:-1 tvg-id="francetv-456df735-8370-4bf8-a118-4c526a4e220e" tvg-logo="https://medias.france.tv/BOg5mA2K-6NmdRnUph6kJJIng7I/400x0/filters:quality(85)/7/f/5/b016e16a6bda46c28849575d7dec55f7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Safe Zone, par Faustine Bollaert — Faustine reçoit Mamadou Dembélé (The Impact Story)
+francetv://456df735-8370-4bf8-a118-4c526a4e220e
 #EXTINF:-1 tvg-id="francetv-prog-slash_midi-minuit" tvg-logo="https://medias.france.tv/xVV7wCx7-kmfv4djSeRJxO-0m3M/400x0/filters:quality(85)/p/b/x/phpatnxbp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Midi Minuit
 francetv://program/slash_midi-minuit
 #EXTINF:-1 tvg-id="francetv-f42c2387-47c9-488e-8efc-390a00d95f63" tvg-logo="https://medias.france.tv/9gI-te97Kr9nyFKZY7jG0tcNmk8/400x0/filters:quality(85)/d/y/n/phputnnyd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Abdoul fait son cinéma — JoeyStarr  se livre comme jamais
@@ -4845,14 +4847,16 @@ francetv://program/spectacles-et-culture_abdoul-fait-son-cinema
 francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-rencontres-du-papotin" tvg-logo="https://medias.france.tv/f0n78nCs71hhYYpLI1BrFxjs93c/400x0/filters:quality(85)/3/n/k/phpjtukn3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Les rencontres du Papotin
 francetv://program/france-2_les-rencontres-du-papotin
-#EXTINF:-1 tvg-id="francetv-prog-slash_derush" tvg-logo="https://medias.france.tv/QTDmJdQ4t3LKO2mQmTnCco44xzs/400x0/filters:quality(85)/8/c/q/phph9pqc8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Dérush
-francetv://program/slash_derush
+#EXTINF:-1 tvg-id="francetv-prog-slash_ta-pire-journee" tvg-logo="https://medias.france.tv/SGMuTTwcsyE34FUJFVUAeq93GKc/400x0/filters:quality(85)/h/f/p/phpoqhpfh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Ta pire journée ?!
+francetv://program/slash_ta-pire-journee
 #EXTINF:-1 tvg-id="francetv-prog-slash_safe-zone-par-faustine-bollaert" tvg-logo="https://medias.france.tv/vHMQWpxaAsbjlWBZ_lP7bnlRTdA/400x0/filters:quality(85)/1/4/y/phppsay41.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Safe Zone, par Faustine Bollaert
 francetv://program/slash_safe-zone-par-faustine-bollaert
 #EXTINF:-1 tvg-id="francetv-prog-france-2_20h30-le-dimanche" tvg-logo="https://medias.france.tv/8ajy5HAUwEHCjME9iQXW49Uwjd0/400x0/filters:quality(85)/7/m/v/php0r7vm7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",20h30 le dimanche
 francetv://program/france-2_20h30-le-dimanche
 #EXTINF:-1 tvg-id="francetv-prog-slash_face-a-fred" tvg-logo="https://medias.france.tv/j9UPXjVXSh5rTvHB0WaIrhyRXVU/400x0/filters:quality(85)/t/x/w/phppeqwxt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Face à Fred
 francetv://program/slash_face-a-fred
+#EXTINF:-1 tvg-id="francetv-prog-slash_derush" tvg-logo="https://medias.france.tv/QTDmJdQ4t3LKO2mQmTnCco44xzs/400x0/filters:quality(85)/8/c/q/phph9pqc8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",Dérush
+francetv://program/slash_derush
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_la-grande-galerie-francophone" tvg-logo="https://medias.france.tv/58yvGo7wx6yDFWpVhuIscVLt8S4/400x0/filters:quality(85)/5/3/0/c999124b2bab4718a306e0c6caf4f370337a45772b49648cb08ebb0e2a668035.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",La grande galerie francophone
 francetv://program/tv5-monde_la-grande-galerie-francophone
 #EXTINF:-1 tvg-id="francetv-prog-slash_feat" tvg-logo="https://medias.france.tv/Edq7jBBlHKj1UXJhSK_WgQbUnvg/400x0/filters:quality(85)/x/x/y/phpsmfyxx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - On peut tout se dire ?",feat.
@@ -5559,8 +5563,6 @@ francetv://0489a7ef-9560-46dd-918c-d97f7657827e
 francetv://6337d4dd-5e27-45eb-bac6-d0b0b4f5dd78
 #EXTINF:-1 tvg-id="francetv-4fd86005-364f-480f-9e43-a91444ea3424" tvg-logo="https://medias.france.tv/35veS9nBZNLUh0zj_rC4y0FtNhM/400x0/filters:quality(85)/8/f/9/6d4bc4730a5445bf8d7dfa2983e729f8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Wallace et Gromit : Rasé de près
 francetv://4fd86005-364f-480f-9e43-a91444ea3424
-#EXTINF:-1 tvg-id="francetv-83fdbcd9-4d2c-42d7-87a6-f223abc193b0" tvg-logo="https://medias.france.tv/772aFJ3HjDuX_Qlzva8gg6sHk_g/400x0/filters:quality(85)/s/n/z/php4qjzns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Organisation super insolite — Le film
-francetv://83fdbcd9-4d2c-42d7-87a6-f223abc193b0
 #EXTINF:-1 tvg-id="francetv-8edec4a9-0bb2-4251-8f8c-532c681bcea9" tvg-logo="https://medias.france.tv/I2McAHtDL-q-SK9UOL2BwCCixg4/400x0/filters:quality(85)/1/n/b/phpdbsbn1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",La rentrée des classes
 francetv://8edec4a9-0bb2-4251-8f8c-532c681bcea9
 #EXTINF:-1 tvg-id="francetv-2063e76e-84cb-404b-8fcb-b560517760dc" tvg-logo="https://medias.france.tv/KSE3P0kJQFkjcKk3ElCvIxYUBL0/400x0/filters:quality(85)/u/m/b/phpytqbmu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Films",Les astres immobiles
