@@ -8177,6 +8177,28 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France2.fr@SD" group-title="France TV backup - Autres",France 2 (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/France_2/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr@SD" group-title="France TV backup - Autres",France 4 (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/France_4/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr@SD" group-title="France TV backup - Autres",France 5 (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/France_5/index.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD" group-title="France TV backup - Autres",Franceinfo (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/franceinfo:/index.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@SD" group-title="France TV backup - Autres",LCI (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/LCI/index.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr@HD" group-title="France TV backup - Autres",NOVO19 (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/NOVO19/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" group-title="France TV backup - Autres",TF1 Series Films (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+#EXTINF:-1 tvg-id="TFX.fr@SD" group-title="France TV backup - Autres",TFX (1080p) [iptv-org-fr]
+http://149.62.177.107:9999/TFX/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 [kilirushi]
+http://149.62.177.107:9999/TF1/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD [kilirushi]
+http://149.62.177.107:9999/TMC/index.m3u8
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
