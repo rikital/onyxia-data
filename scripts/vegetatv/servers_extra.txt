@@ -24,7 +24,8 @@
 # 2026-09-13 - panels extraits des flux Bowd (balayage des 2000 chaines FR de leur API,
 #   champ streams[].direct.url). Bowd accumule ces comptes et bascule dessus selon la
 #   charge : on ingere les memes. Nombre de chaines vu chez Bowd en commentaire.
-blkntv.com:2095 dragan dragan                   # 103
+# 200 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire200.invalid/get.php?username=retire&password=retire&type=m3u
 
 # Deja presents dans la liste Vegeta (52 et 26), inutile de les redoubler :
 #   july.misekran.xyz:8080 (= Vegeta 52)  /  8923828.maxnow.cx (= Vegeta 26)
@@ -43,9 +44,12 @@ tv.live-python.com:80 mY1DeXWx axJ7dqF   # conn 4/4 exp 02/12/2026, 09:40:00
 www.cameramaison.date:80 Mehdi_ch 10032026   # conn 1/2 exp 10/03/2027, 00:00:00
 
 # 2026-09-27 - scanner Vegeta TV, fichier Telegram '🇫🇷 P_m3u_13 (1).txt' (comptes marques Activo).
-80.82.64.16:8080 danielvaz2 gjfg5HsvxkXh   # conn 0/3 exp 25/04/2027, 11:12:00
-80.82.64.16:8080 house-iptv b6P5s87QDE3321   # conn 34/100 exp N/D
-80.82.64.16:8080 WN3LnWq6nG53 tBcnUjvVBSBe   # conn 63/100 exp N/D
+# 206 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire206.invalid/get.php?username=retire&password=retire&type=m3u
+# 207 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire207.invalid/get.php?username=retire&password=retire&type=m3u
+# 208 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire208.invalid/get.php?username=retire&password=retire&type=m3u
 bimoy.cc:80 XJL88R34 MPNCLQMK   # conn 2/3 exp 27/03/2027, 21:21:40
 dsdda.com:80 XJL88R34 MPNCLQMK   # conn 1/3 exp 27/03/2027, 21:21:40
 fawfi.com:80 XJL88R34 MPNCLQMK   # conn 1/3 exp 27/03/2027, 21:21:40
@@ -59,6 +63,8 @@ viptv4k.info:8089 8589847614306 9041607812097   # conn 2/2 exp 17/08/2027, 19:00
 # 2026-09-27 - scanner Vegeta TV, fichier Telegram '🌍 P_m3u_11.txt' (comptes marques Activo).
 
 # 2026-09-27 - scanner Vegeta TV, fichier Telegram '🌍 P_m3u_13 (1).txt' (comptes marques Activo).
-albatrala.com:8080 Chinezu_Rom uxEnZhYkJ6AAA   # conn 1/3 exp 29/03/2027, 12:23:04
-audi-rs.cfd:80 10-10-20 bqaTRa1Budyqind   # conn 5/150 exp 17/10/2026, 05:08:00
+# 218 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire218.invalid/get.php?username=retire&password=retire&type=m3u
+# 219 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
+http://retire219.invalid/get.php?username=retire&password=retire&type=m3u
 tvim.live:80 TuriCikes asMR2jBTCLNQ   # conn 1/2 exp 10/12/2026, 20:23:00
