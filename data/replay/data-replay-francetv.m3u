@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-a065c66c-9ba1-4bfc-b534-306a3c4204b4" tvg-logo="https://medias.france.tv/hop6CxgQVgO7dDWBBXLJXH3Un2k/400x0/filters:quality(85)/5/c/1/89e82b49932f4c12aa825fb9ed0411c5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial — Émission du jeudi 12 novembre 2026
+francetv://a065c66c-9ba1-4bfc-b534-306a3c4204b4
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_series-drame_les-disparus-des-argonnes" tvg-logo="https://medias.france.tv/OxnTOqA6arPHcYmXBqClhaCoWO0/400x0/filters:quality(85)/r/7/n/phpepqn7r.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les disparus des Argonnes
 francetv://program/series-et-fictions_series-drame_les-disparus-des-argonnes
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde
@@ -219,8 +221,8 @@ francetv://9715a97d-ef8f-4cb9-9239-32f3c7ce7218
 francetv://91519dd8-2117-4dd2-8a0e-5dd6f8f93811
 #EXTINF:-1 tvg-id="francetv-ed39e515-40b6-4052-b2ba-f6a0c67953b2" tvg-logo="https://medias.france.tv/ld1S9khYaVO0Qus0zvaoazmkhXQ/400x0/filters:quality(85)/l/8/i/phpwyxi8l.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 11 novembre 2026
 francetv://ed39e515-40b6-4052-b2ba-f6a0c67953b2
-#EXTINF:-1 tvg-id="francetv-dd76bd24-a2d8-4b5f-b327-9aa242070325" tvg-logo="https://medias.france.tv/5yGHx-cAHNA4o6Mf4QtQ3FMG5t4/400x0/filters:quality(85)/x/y/i/phpubqiyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 12 novembre 2026
-francetv://dd76bd24-a2d8-4b5f-b327-9aa242070325
+#EXTINF:-1 tvg-id="francetv-c5b96344-6648-4fc5-b078-2e828b8f007d" tvg-logo="https://medias.france.tv/5yGHx-cAHNA4o6Mf4QtQ3FMG5t4/400x0/filters:quality(85)/x/y/i/phpubqiyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 12 novembre 2026
+francetv://c5b96344-6648-4fc5-b078-2e828b8f007d
 #EXTINF:-1 tvg-id="francetv-29ab57fc-d856-42fc-b5ce-019be7bc9fb6" tvg-logo="https://medias.france.tv/y-GsWB4hoVjRj37BEbCYL0_hurA/400x0/filters:quality(85)/i/1/d/php0jkd1i.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du vendredi 13 novembre 2026
 francetv://29ab57fc-d856-42fc-b5ce-019be7bc9fb6
 #EXTINF:-1 tvg-id="francetv-bb325c80-18fc-4e96-a980-2dabb0bf9675" tvg-logo="https://medias.france.tv/GnaRQUfV3C6ZZrqHib--hyuIb3o/400x0/filters:quality(85)/m/b/i/php7gjibm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Lame de fond
@@ -367,6 +369,8 @@ francetv://program/france-3_samedi-d-en-rire
 francetv://program/france-3_vivement-dimanche
 #EXTINF:-1 tvg-id="francetv-prog-france-3_duels-en-familles-le-match-des-regions" tvg-logo="https://medias.france.tv/aS-FpSeAlmyqF4hZWY4EMnCYizc/400x0/filters:quality(85)/y/j/k/phplvwkjy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Duels en familles
 francetv://program/france-3_duels-en-familles-le-match-des-regions
+#EXTINF:-1 tvg-id="francetv-ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd" tvg-logo="https://medias.france.tv/CMMlC5PLMDDWNMFe-GgXb5HsGFc/400x0/filters:quality(85)/s/l/d/phpx4zdls.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",La science des rêves
+francetv://ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd
 #EXTINF:-1 tvg-id="francetv-7b735567-cee0-4c8e-ac39-b0472d9814f9" tvg-logo="https://medias.france.tv/T3K8-slYDIwsiwRCfKOoc5swUBM/400x0/filters:quality(85)/y/b/k/phpjzikby.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Good Bye Lenin !
 francetv://7b735567-cee0-4c8e-ac39-b0472d9814f9
 #EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Réparer les vivants
@@ -1451,8 +1455,8 @@ francetv://9715a97d-ef8f-4cb9-9239-32f3c7ce7218
 francetv://91519dd8-2117-4dd2-8a0e-5dd6f8f93811
 #EXTINF:-1 tvg-id="francetv-ed39e515-40b6-4052-b2ba-f6a0c67953b2" tvg-logo="https://medias.france.tv/ld1S9khYaVO0Qus0zvaoazmkhXQ/400x0/filters:quality(85)/l/8/i/phpwyxi8l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 11 novembre 2026
 francetv://ed39e515-40b6-4052-b2ba-f6a0c67953b2
-#EXTINF:-1 tvg-id="francetv-dd76bd24-a2d8-4b5f-b327-9aa242070325" tvg-logo="https://medias.france.tv/5yGHx-cAHNA4o6Mf4QtQ3FMG5t4/400x0/filters:quality(85)/x/y/i/phpubqiyx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 12 novembre 2026
-francetv://dd76bd24-a2d8-4b5f-b327-9aa242070325
+#EXTINF:-1 tvg-id="francetv-c5b96344-6648-4fc5-b078-2e828b8f007d" tvg-logo="https://medias.france.tv/5yGHx-cAHNA4o6Mf4QtQ3FMG5t4/400x0/filters:quality(85)/x/y/i/phpubqiyx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 12 novembre 2026
+francetv://c5b96344-6648-4fc5-b078-2e828b8f007d
 #EXTINF:-1 tvg-id="francetv-29ab57fc-d856-42fc-b5ce-019be7bc9fb6" tvg-logo="https://medias.france.tv/y-GsWB4hoVjRj37BEbCYL0_hurA/400x0/filters:quality(85)/i/1/d/php0jkd1i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 13 novembre 2026
 francetv://29ab57fc-d856-42fc-b5ce-019be7bc9fb6
 #EXTINF:-1 tvg-id="francetv-4ea4c3c1-f571-4b10-816f-e262c789a5e2" tvg-logo="https://medias.france.tv/PU05VGadSbQzGbnqV3vXZwKYB-g/400x0/filters:quality(85)/3/5/e/39a337ab4e6248a9b90b5351fead5e53.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Commissaire Dupin — Le trésor d'Ys
@@ -3797,6 +3801,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/SlvWLJrESdVgrowgzMoOGQdrP8M/400x0/filters:quality(85)/x/n/e/phpogsenx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
+#EXTINF:-1 tvg-id="francetv-a065c66c-9ba1-4bfc-b534-306a3c4204b4" tvg-logo="https://medias.france.tv/hop6CxgQVgO7dDWBBXLJXH3Un2k/400x0/filters:quality(85)/5/c/1/89e82b49932f4c12aa825fb9ed0411c5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Envoyé spécial — Émission du jeudi 12 novembre 2026
+francetv://a065c66c-9ba1-4bfc-b534-306a3c4204b4
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/sOg9_oe8FMhR1JiqjE-wcTgYxGc/400x0/filters:quality(85)/s/x/r/phpkv0rxs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
 #EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
