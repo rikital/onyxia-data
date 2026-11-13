@@ -851,6 +851,8 @@ francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 francetv://07240417-4994-4398-af6b-660126b1fa66
 #EXTINF:-1 tvg-id="francetv-b5b579e2-df65-11f1-afb5-57a09c50f7ce" tvg-logo="https://medias.france.tv/pv-2jJPY2UZFj7dMzQHoyO_Zgbs/400x0/filters:quality(85)/a/a/3/c21c53a7603849ce970790ef4dd753aa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 13/11/2026 Le fil info 14H
 francetv://b5b579e2-df65-11f1-afb5-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-b8df2f5f-ff2b-4d22-af34-201f9b113854" tvg-logo="https://medias.france.tv/A8bV7gLhbfrhVXyLLrfn4PXdrxo/400x0/filters:quality(85)/a/b/3/f8dc5cd43fb246a9b2eb0bef1bd3e3ba.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi du vendredi 13 novembre 2026
+francetv://b8df2f5f-ff2b-4d22-af34-201f9b113854
 #EXTINF:-1 tvg-id="francetv-6909b734-df65-11f1-88d8-19616fa871f9" tvg-logo="https://medias.france.tv/zrzcdztCXpHroe7Q_C8gp6FxRpA/400x0/filters:quality(85)/0/6/a/311fe190c403440a821f9bbec64b8a60.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 13/11/2026 Le fil info 11H
 francetv://6909b734-df65-11f1-88d8-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-d5c0a869-4b08-49a8-b2d8-acf59994ae07" tvg-logo="https://medias.france.tv/Eqp2EjfC9_0oeGJhinCBPbm6kpA/400x0/filters:quality(85)/b/0/b/d361f0ba894546aa96ffbcd154940b0b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du vendredi 13 novembre 2026
@@ -887,8 +889,6 @@ francetv://bc3400af-250f-40cb-8975-ef69aa8723e3
 francetv://33afac92-de9d-11f1-88d7-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-3e6c3a10-5ac7-48a1-835a-c0beb8315bce" tvg-logo="https://medias.france.tv/fc3khdTsXVIN7-r6fgpiEaw6xxI/400x0/filters:quality(85)/9/6/3/31808ec77dc54215bdeff459eda06369.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Le fil info
 francetv://3e6c3a10-5ac7-48a1-835a-c0beb8315bce
-#EXTINF:-1 tvg-id="francetv-82e227be-f506-4cfe-8c5b-48cf362243f4" tvg-logo="https://medias.france.tv/9TVAf5FPRqpfpBakYwGyQahnukM/400x0/filters:quality(85)/6/d/c/5cde145ca2c34311999a03b16a7eecd6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Débrief — Interview Eric Zemmour
-francetv://82e227be-f506-4cfe-8c5b-48cf362243f4
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -4823,26 +4823,22 @@ francetv://program/france-3_championnats-de-france-de-bmx
 francetv://program/france-3_occitanie_route-d-occitanie
 #EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",100 % logique : la réponse est sous vos yeux
 francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
-#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Un dimanche à la campagne
-francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Quelle époque !
 francetv://program/france-2_quelle-epoque
 #EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",N'oubliez pas les paroles
 francetv://program/france-2_n-oubliez-pas-les-paroles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Un dimanche à la campagne
+francetv://program/france-2_un-dimanche-a-la-campagne
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La boîte à secrets
 francetv://program/france-3_la-boite-a-secrets
 #EXTINF:-1 tvg-id="francetv-09cb984e-5ebd-425b-a68b-5c3546bc2615" tvg-logo="https://medias.france.tv/DYKPKybE6mIEWIyJMTd9ze3Igws/400x0/filters:quality(85)/0/b/e/d095c7489701404d93407e59701e0eb0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Beau geste — Catherine Frot
 francetv://09cb984e-5ebd-425b-a68b-5c3546bc2615
-#EXTINF:-1 tvg-id="francetv-62f0216d-a314-4c9b-91ba-dd5553122eae" tvg-logo="https://medias.france.tv/Mt5WcU-Cs-QPDsdzDiMCi5GBm4I/400x0/filters:quality(85)/p/o/r/php98qrop.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Échappées belles — Week-end à Lille
-francetv://62f0216d-a314-4c9b-91ba-dd5553122eae
 #EXTINF:-1 tvg-id="francetv-78ea3201-c4e4-4fc6-bd69-29ae81410203" tvg-logo="https://medias.france.tv/kRue5AQ6v5sKTLD3vKbBCMkD6jg/400x0/filters:quality(85)/u/o/u/phpmpfuou.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La grande galerie francophone — Sophie Marceau / Hervé Di Rosa
 francetv://78ea3201-c4e4-4fc6-bd69-29ae81410203
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_mot-de-passe" tvg-logo="https://medias.france.tv/2g-sk5V-CrN3U2Lv67Z0zpKNK-4/400x0/filters:quality(85)/t/3/9/phpsma93t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Mot de passe
 francetv://program/jeux-et-divertissements_mot-de-passe
 #EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Macadam Circus
 francetv://937df373-39ec-4f57-8ddc-67cff8364100
-#EXTINF:-1 tvg-id="francetv-e4f7ef6e-c134-45a1-b001-f41555a51c88" tvg-logo="https://medias.france.tv/nC-OLVqJvg5dl3YJZxzNvEj7yAE/400x0/filters:quality(85)/c/c/d/phpd12dcc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Bel & bien — L'énergie de l'automne sur notre bien-être !
-francetv://e4f7ef6e-c134-45a1-b001-f41555a51c88
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Les as du jardin
 francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Vies de famille
@@ -4975,7 +4971,7 @@ francetv://program/tv5-monde_pilotes-de-brousse
 francetv://program/france-5_echappees-belles
 #EXTINF:-1 tvg-id="francetv-prog-france-5_les-100-lieux-qu-il-faut-voir" tvg-logo="https://medias.france.tv/rR-SDhzb8dyvpAccHVyaQGogWDU/400x0/filters:quality(85)/d/6/5/php5j456d.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Les 100 lieux qu'il faut voir
 francetv://program/france-5_les-100-lieux-qu-il-faut-voir
-#EXTINF:-1 tvg-id="francetv-prog-arte_invitation-au-voyage" tvg-logo="https://medias.france.tv/kf__czgcUDONuHK0iM_-UiuEl8A/400x0/filters:quality(85)/e/8/a/433996e3cf0b445981bf1d9452bfba8e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Invitation au voyage
+#EXTINF:-1 tvg-id="francetv-prog-arte_invitation-au-voyage" tvg-logo="https://medias.france.tv/vXh72ASMeWD8JQnkCRvDJNMtYP0/400x0/filters:quality(85)/4/d/9/c649ed6b07df46ffb2388ce87d0989d4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Invitation au voyage
 francetv://program/arte_invitation-au-voyage
 #EXTINF:-1 tvg-id="francetv-prog-france-5_thalassa-aventures-extremes" tvg-logo="https://medias.france.tv/OqZkEFFAdXC9iTOG8830VeGvDug/400x0/filters:quality(85)/x/6/k/phpfd7k6x.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Voyages et aventures",Thalassa, aventures extrêmes
 francetv://program/france-5_thalassa-aventures-extremes
