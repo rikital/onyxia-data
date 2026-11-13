@@ -849,6 +849,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-6909b734-df65-11f1-88d8-19616fa871f9" tvg-logo="https://medias.france.tv/zrzcdztCXpHroe7Q_C8gp6FxRpA/400x0/filters:quality(85)/0/6/a/311fe190c403440a821f9bbec64b8a60.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 13/11/2026 Le fil info 11H
+francetv://6909b734-df65-11f1-88d8-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-b5d70998-518b-46d3-94fd-dcb741166b25" tvg-logo="https://medias.france.tv/4wgP5S6jp73D7uoywGTlhRGNTtE/400x0/filters:quality(85)/9/c/c/684b62233e5c40adbf7156ee7854dcc9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end
 francetv://b5d70998-518b-46d3-94fd-dcb741166b25
 #EXTINF:-1 tvg-id="francetv-1dd9b847-1a29-470c-816c-c3c475282b91" tvg-logo="https://medias.france.tv/1ExYP9HXE8P0aw1hDlZ-vA2iPbg/400x0/filters:quality(85)/1/e/6/75931e6099b84a7f9d374213335fe6e1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
@@ -887,8 +889,6 @@ francetv://5b2edafd-5291-4ca2-92d4-ef4602702327
 francetv://9c2a8b63-a051-4a75-ad80-74c9b777cc34
 #EXTINF:-1 tvg-id="francetv-72e9561f-f944-4fa8-b83e-648e05b466e7" tvg-logo="https://medias.france.tv/2ZLLjk3FSNQ5Jc2JaOyuqnAfoJA/400x0/filters:quality(85)/4/3/f/0d4c0d7abdb24c7bb4afce355196ef34.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du jeudi 12 novembre 2026
 francetv://72e9561f-f944-4fa8-b83e-648e05b466e7
-#EXTINF:-1 tvg-id="francetv-2f4d33d0-6e4c-4250-abea-b824ade2f7ff" tvg-logo="https://medias.france.tv/h1bl6nCC3lgyIhlu8WQ7LDxzktE/400x0/filters:quality(85)/c/4/1/863e47cfd43d437c9c9fbed7d435114c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Débrief — Interview Fabien Roussel
-francetv://2f4d33d0-6e4c-4250-abea-b824ade2f7ff
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -2855,12 +2855,12 @@ francetv://program/france-2_13h15-le-dimanche
 francetv://ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd
 #EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Novembre
 francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
+#EXTINF:-1 tvg-id="francetv-34e2ffa9-cce5-4230-af53-43f2c694b5c9" tvg-logo="https://medias.france.tv/FqbGOP4lDDax_2632Wxh4pT1x1Y/400x0/filters:quality(85)/s/y/p/phpg7upys.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",The Apprentice
+francetv://34e2ffa9-cce5-4230-af53-43f2c694b5c9
 #EXTINF:-1 tvg-id="francetv-606c83c9-f0ab-433f-9c14-7dbb48c8dfab" tvg-logo="https://medias.france.tv/5l8snE7f_IyDO4POy-QdXdtFYmQ/400x0/filters:quality(85)/9/8/d/71a7bb2db2ce4b35af90445665172d89.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",La petite vadrouille
 francetv://606c83c9-f0ab-433f-9c14-7dbb48c8dfab
 #EXTINF:-1 tvg-id="francetv-7b735567-cee0-4c8e-ac39-b0472d9814f9" tvg-logo="https://medias.france.tv/T3K8-slYDIwsiwRCfKOoc5swUBM/400x0/filters:quality(85)/y/b/k/phpjzikby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Good Bye Lenin !
 francetv://7b735567-cee0-4c8e-ac39-b0472d9814f9
-#EXTINF:-1 tvg-id="francetv-34e2ffa9-cce5-4230-af53-43f2c694b5c9" tvg-logo="https://medias.france.tv/FqbGOP4lDDax_2632Wxh4pT1x1Y/400x0/filters:quality(85)/s/y/p/phpg7upys.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",The Apprentice
-francetv://34e2ffa9-cce5-4230-af53-43f2c694b5c9
 #EXTINF:-1 tvg-id="francetv-67e127e1-879d-45e4-840a-051790f7feb7" tvg-logo="https://medias.france.tv/GCCtSzS8Zuvr2y9bcll_cKIPn8I/400x0/filters:quality(85)/2/e/3/eab871fb3e0b41c69a6017f416d263e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Revoir Paris
 francetv://67e127e1-879d-45e4-840a-051790f7feb7
 #EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Réparer les vivants
@@ -2921,39 +2921,39 @@ francetv://a5d06853-cc25-432c-a285-f7c81501105d
 francetv://22eb30ee-831c-4ae6-b02e-040621dc1b78
 #EXTINF:-1 tvg-id="francetv-b12cff89-45a3-4297-af64-4454594a104f" tvg-logo="https://medias.france.tv/OecKwCNWi15C1NDhPzxlmobE3Is/400x0/filters:quality(85)/j/f/e/phpte2efj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Énorme
 francetv://b12cff89-45a3-4297-af64-4454594a104f
-#EXTINF:-1 tvg-id="francetv-56bf8aed-bbbd-49e8-a6cc-03a441d36191" tvg-logo="https://medias.france.tv/yZhwuPy4MWwb2Eq260Pmuz8nQRo/400x0/filters:quality(85)/a/4/2/24a8cf8a3a8a45f4ae83acdd6623f24a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",La Prière
+#EXTINF:-1 tvg-id="francetv-56bf8aed-bbbd-49e8-a6cc-03a441d36191" tvg-logo="https://medias.france.tv/yZhwuPy4MWwb2Eq260Pmuz8nQRo/400x0/filters:quality(85)/a/4/2/24a8cf8a3a8a45f4ae83acdd6623f24a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",La Prière
 francetv://56bf8aed-bbbd-49e8-a6cc-03a441d36191
-#EXTINF:-1 tvg-id="francetv-67e127e1-879d-45e4-840a-051790f7feb7" tvg-logo="https://medias.france.tv/GCCtSzS8Zuvr2y9bcll_cKIPn8I/400x0/filters:quality(85)/2/e/3/eab871fb3e0b41c69a6017f416d263e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Revoir Paris
+#EXTINF:-1 tvg-id="francetv-67e127e1-879d-45e4-840a-051790f7feb7" tvg-logo="https://medias.france.tv/GCCtSzS8Zuvr2y9bcll_cKIPn8I/400x0/filters:quality(85)/2/e/3/eab871fb3e0b41c69a6017f416d263e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Revoir Paris
 francetv://67e127e1-879d-45e4-840a-051790f7feb7
-#EXTINF:-1 tvg-id="francetv-cf34d1a8-e9a0-45ae-8097-f0a4912a34d8" tvg-logo="https://medias.france.tv/dCHqWpxJ58ve4Hv4Sbzufut0Us8/400x0/filters:quality(85)/8/y/w/phpxmfwy8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",La vraie famille
+#EXTINF:-1 tvg-id="francetv-cf34d1a8-e9a0-45ae-8097-f0a4912a34d8" tvg-logo="https://medias.france.tv/dCHqWpxJ58ve4Hv4Sbzufut0Us8/400x0/filters:quality(85)/8/y/w/phpxmfwy8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",La vraie famille
 francetv://cf34d1a8-e9a0-45ae-8097-f0a4912a34d8
-#EXTINF:-1 tvg-id="francetv-d31c8a87-a823-41a8-9f51-118751f11a14" tvg-logo="https://medias.france.tv/KXPIQGhxZPnImKhsjhiTpbD3Nrg/400x0/filters:quality(85)/4/d/e/21d1447e36c64bd8b265d6ef93f26ed4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Diamond Island
+#EXTINF:-1 tvg-id="francetv-d31c8a87-a823-41a8-9f51-118751f11a14" tvg-logo="https://medias.france.tv/KXPIQGhxZPnImKhsjhiTpbD3Nrg/400x0/filters:quality(85)/4/d/e/21d1447e36c64bd8b265d6ef93f26ed4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Diamond Island
 francetv://d31c8a87-a823-41a8-9f51-118751f11a14
-#EXTINF:-1 tvg-id="francetv-c31c28ec-b6e0-4000-88cf-90816c23576a" tvg-logo="https://medias.france.tv/uoVgGfb-qRAh3IjINbyYMUHS1Ec/400x0/filters:quality(85)/f/v/i/phpsj0ivf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Des hommes d'influence
+#EXTINF:-1 tvg-id="francetv-c31c28ec-b6e0-4000-88cf-90816c23576a" tvg-logo="https://medias.france.tv/uoVgGfb-qRAh3IjINbyYMUHS1Ec/400x0/filters:quality(85)/f/v/i/phpsj0ivf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Des hommes d'influence
 francetv://c31c28ec-b6e0-4000-88cf-90816c23576a
-#EXTINF:-1 tvg-id="francetv-e13e7a87-8477-4b54-9e01-78534122a432" tvg-logo="https://medias.france.tv/DfosJr0KMhOgKwG82UeEP4xbigY/400x0/filters:quality(85)/3/0/e/045fd8a5670046188f5b29ffcc4f6e03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Un conte de Noël
+#EXTINF:-1 tvg-id="francetv-e13e7a87-8477-4b54-9e01-78534122a432" tvg-logo="https://medias.france.tv/DfosJr0KMhOgKwG82UeEP4xbigY/400x0/filters:quality(85)/3/0/e/045fd8a5670046188f5b29ffcc4f6e03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Un conte de Noël
 francetv://e13e7a87-8477-4b54-9e01-78534122a432
-#EXTINF:-1 tvg-id="francetv-b6934f71-8290-45c0-aedb-227aeeb4e740" tvg-logo="https://medias.france.tv/UoVhXyvOmm9YA_prmJ8VOeNqtCw/400x0/filters:quality(85)/k/6/1/phpokv16k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Retour à Séoul
+#EXTINF:-1 tvg-id="francetv-b6934f71-8290-45c0-aedb-227aeeb4e740" tvg-logo="https://medias.france.tv/UoVhXyvOmm9YA_prmJ8VOeNqtCw/400x0/filters:quality(85)/k/6/1/phpokv16k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Retour à Séoul
 francetv://b6934f71-8290-45c0-aedb-227aeeb4e740
-#EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Réparer les vivants
+#EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Réparer les vivants
 francetv://e0a9d8f6-fcbb-4b29-86de-8a87d387b67a
-#EXTINF:-1 tvg-id="francetv-7f780118-7804-4f25-b059-d8d34364d720" tvg-logo="https://medias.france.tv/ox-rzj98ParCb8dwjybEV-XYaOw/400x0/filters:quality(85)/a/r/f/php15xfra.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Primary Colors
+#EXTINF:-1 tvg-id="francetv-7f780118-7804-4f25-b059-d8d34364d720" tvg-logo="https://medias.france.tv/ox-rzj98ParCb8dwjybEV-XYaOw/400x0/filters:quality(85)/a/r/f/php15xfra.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Primary Colors
 francetv://7f780118-7804-4f25-b059-d8d34364d720
-#EXTINF:-1 tvg-id="francetv-466cf2d9-8abf-48bb-9eec-a8b55f1aefd7" tvg-logo="https://medias.france.tv/Kk2zSyQPplLdeHhUs0mLVOBgzfo/400x0/filters:quality(85)/b/0/3/94ea5e30748e496fa1913c873ea7e30b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Deux
+#EXTINF:-1 tvg-id="francetv-466cf2d9-8abf-48bb-9eec-a8b55f1aefd7" tvg-logo="https://medias.france.tv/Kk2zSyQPplLdeHhUs0mLVOBgzfo/400x0/filters:quality(85)/b/0/3/94ea5e30748e496fa1913c873ea7e30b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Deux
 francetv://466cf2d9-8abf-48bb-9eec-a8b55f1aefd7
-#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Misery
+#EXTINF:-1 tvg-id="francetv-29b77474-5c26-45b8-8a06-087535d6c8a6" tvg-logo="https://medias.france.tv/jMiHtDHoO0LZb589yQgbFjVpD3Q/400x0/filters:quality(85)/2/8/7/484d550db80d433285fcaff20b86c782.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Misery
 francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
-#EXTINF:-1 tvg-id="francetv-5a585ee5-8854-443d-a4c4-3d6617483280" tvg-logo="https://medias.france.tv/WktKsKn8IgLPeY4MDYnnD4sCf1Y/400x0/filters:quality(85)/z/l/3/phphh73lz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Le Hussard sur le toit
+#EXTINF:-1 tvg-id="francetv-5a585ee5-8854-443d-a4c4-3d6617483280" tvg-logo="https://medias.france.tv/WktKsKn8IgLPeY4MDYnnD4sCf1Y/400x0/filters:quality(85)/z/l/3/phphh73lz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Le Hussard sur le toit
 francetv://5a585ee5-8854-443d-a4c4-3d6617483280
-#EXTINF:-1 tvg-id="francetv-8ce9bcb7-38b5-49f0-b411-75994520f806" tvg-logo="https://medias.france.tv/cngh6rs_tr1SN2lpiSmVQfnWqdk/400x0/filters:quality(85)/8/2/a/e0a43a4145bc44838e27f10e8016aa28.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Le vieux fusil
+#EXTINF:-1 tvg-id="francetv-8ce9bcb7-38b5-49f0-b411-75994520f806" tvg-logo="https://medias.france.tv/cngh6rs_tr1SN2lpiSmVQfnWqdk/400x0/filters:quality(85)/8/2/a/e0a43a4145bc44838e27f10e8016aa28.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Le vieux fusil
 francetv://8ce9bcb7-38b5-49f0-b411-75994520f806
-#EXTINF:-1 tvg-id="francetv-5341f5e3-3b41-426d-b898-4feb42452d02" tvg-logo="https://medias.france.tv/SNxmOrBH43634TwLI7BZIKW0uzc/400x0/filters:quality(85)/e/2/d/phpwytd2e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Le chat
+#EXTINF:-1 tvg-id="francetv-5341f5e3-3b41-426d-b898-4feb42452d02" tvg-logo="https://medias.france.tv/SNxmOrBH43634TwLI7BZIKW0uzc/400x0/filters:quality(85)/e/2/d/phpwytd2e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Le chat
 francetv://5341f5e3-3b41-426d-b898-4feb42452d02
-#EXTINF:-1 tvg-id="francetv-394f960e-b68d-48d7-be19-993c976c0e50" tvg-logo="https://medias.france.tv/sjQxgYB1DsQUtfmUsFuvinmZxYI/400x0/filters:quality(85)/1/a/c/571e44a108904e768365eed631042ca1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Grâce à dieu
+#EXTINF:-1 tvg-id="francetv-394f960e-b68d-48d7-be19-993c976c0e50" tvg-logo="https://medias.france.tv/sjQxgYB1DsQUtfmUsFuvinmZxYI/400x0/filters:quality(85)/1/a/c/571e44a108904e768365eed631042ca1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Grâce à dieu
 francetv://394f960e-b68d-48d7-be19-993c976c0e50
-#EXTINF:-1 tvg-id="francetv-dc4c4c61-031b-4b22-9a58-b4d52b77140b" tvg-logo="https://medias.france.tv/bfhDj9J-BN9VTrevgvMvtdEP5Tk/400x0/filters:quality(85)/e/3/0/4dc03e96c9e641948bb74b017f3b803e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Bambi
+#EXTINF:-1 tvg-id="francetv-dc4c4c61-031b-4b22-9a58-b4d52b77140b" tvg-logo="https://medias.france.tv/bfhDj9J-BN9VTrevgvMvtdEP5Tk/400x0/filters:quality(85)/e/3/0/4dc03e96c9e641948bb74b017f3b803e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Bambi
 francetv://dc4c4c61-031b-4b22-9a58-b4d52b77140b
-#EXTINF:-1 tvg-id="francetv-a6da3e8c-abc9-485e-bc0b-2cc95c7626f2" tvg-logo="https://medias.france.tv/swHWjql3KlnnLio1IEKP5WgxakQ/400x0/filters:quality(85)/9/2/2/175a1d5b3ac846f694986c03edc0c229.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films qui ont tout raflé",Eldorado
+#EXTINF:-1 tvg-id="francetv-a6da3e8c-abc9-485e-bc0b-2cc95c7626f2" tvg-logo="https://medias.france.tv/swHWjql3KlnnLio1IEKP5WgxakQ/400x0/filters:quality(85)/9/2/2/175a1d5b3ac846f694986c03edc0c229.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Eldorado
 francetv://a6da3e8c-abc9-485e-bc0b-2cc95c7626f2
 #EXTINF:-1 tvg-id="francetv-66beec49-322a-4842-8202-8dce686a5789" tvg-logo="https://medias.france.tv/euw08CKyMfXchmr8FkbScB2chpQ/400x0/filters:quality(85)/x/v/e/phpwh2evx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films pour toute la famille",Kina & Yuk : renards de la banquise
 francetv://66beec49-322a-4842-8202-8dce686a5789
