@@ -26,6 +26,16 @@ MAX_STREAMS   = int(os.environ.get("VEGETA_MAX_STREAMS", "4"))   # par chaine
 EXTRA_PATH    = os.environ.get("VEGETA_EXTRA",
                 os.path.join(os.path.dirname(os.path.abspath(__file__)), "servers_extra.txt"))
 EXTRA_BASE_IDX = 200   # serverIdx 200, 201, ... : jamais en collision avec les "pos" Vegeta (2 listes fusionnees, jusqu'a ~104)
+# 2026-11-13 : SOURCE ADDITIONNELLE — serveurs de VegetaTV 11.5 via son backend bootstrap.php
+#   (HTTP en clair, pas de cle ni de HMAC ; seule protection : un header de version). S'AJOUTE
+#   aux deux sources existantes, on ne dedoublonne QUE les entrees nouvelles : rien de ce qui
+#   marche n'est retire. Le robot fait de simples GET -> pas de cookie vgt_vid garde, pas de
+#   maille WebRTC. Au passage 11.6, le header de version sera refuse -> ALERTE (cf. fetch).
+BOOT_URL = os.environ.get("VEGETA_BOOT_URL", "http://vegetatvoficial.duckdns.org/bootstrap.php")
+BOOT_VERSION_CODE = os.environ.get("VEGETA_VERSION_CODE", "25")  # VegetaTV 11.5 ; relire dans l'APK au passage 11.6
+BOOT_BASE_IDX = 300   # serverIdx 300+ : jamais en collision avec Vegeta (~104) ni extras (200+)
+BOOT_HEADERS = {"X-Vegeta-Version-Code": BOOT_VERSION_CODE,
+                "X-Vegeta-Servers-Direct": "1", "Accept": "application/json"}  # User-Agent ajoute a l'appel (UA defini plus bas)
 # 2026-09-13 quinquies (user « il ne devrait pas y avoir de limite, le reste suit apres ») :
 #   second registre SANS plafond. Il n'est PAS ecrit dans le depot (l'historique git garderait
 #   chaque version : le depot pesait deja 315 Mo pour 44 Mo de fichiers) mais publie comme
@@ -360,6 +370,93 @@ def ecrire(chemin, registry, plafond, etiquette):
         json.dump(payload, fh, ensure_ascii=False, separators=(",", ":"))
     return len(canaux), total, os.path.getsize(chemin)
 
+_RE_XT = re.compile(
+    r"(https?://[^/]+)/get\.php\?.*?username=([^&\s]+).*?password=([^&\s]+)", re.I)
+
+def _xt_depuis_url(url):
+    """(host, user, pass) BRUTS depuis une URL get.php, ou None. Identifiants gardes TELS QUELS
+       (certains panels renvoient %40, d'autres des @ bruts) : l'URL est reutilisee verbatim,
+       donc elle round-trip dans les deux cas (meme logique que load_extra_servers)."""
+    m = _RE_XT.match(url or "")
+    return (m.group(1), m.group(2), m.group(3)) if m else None
+
+def _base_serveur(url):
+    """Cle de dedoublonnage d'un serveur : host + identifiants (ou l'URL a defaut)."""
+    xt = _xt_depuis_url(url)
+    if xt:
+        host, user, pw = xt
+        return "%s|%s|%s" % (host.rstrip("/").lower(), user, pw)
+    return (url or "").strip().lower()
+
+def _parse_liste_bootstrap(texte, base_idx=BOOT_BASE_IDX):
+    """Liste brute de bootstrap.php?servers=1 -> entrees serveur (meme forme que les extras).
+       Une URL get.php par ligne, suivie d'un espace puis d'un drapeau emoji : on coupe sur
+       l'espace. Fonction PURE (testable sans reseau)."""
+    out = []
+    for raw in (texte or "").split("\n"):
+        url = raw.split(" ", 1)[0].strip()
+        if not url.lower().startswith("http"):
+            continue
+        out.append({"pos": base_idx + len(out), "url": url, "xt": _xt_depuis_url(url),
+                    "isFr": True, "rank": 3, "ping": 0, "source": "bootstrap"})
+    return out
+
+def _fusionner_nouveaux(existants, ajouts):
+    """Rend la sous-liste d'`ajouts` dont le serveur n'est ni dans `existants` ni deja vu dans
+       `ajouts` (dedoublonnage sur host+identifiants). N'ENLEVE jamais d'`existants`."""
+    deja = {_base_serveur(s["url"]) for s in existants}
+    out, vus = [], set()
+    for a in ajouts:
+        cle = _base_serveur(a["url"])
+        if cle in deja or cle in vus:
+            continue
+        vus.add(cle)
+        out.append(a)
+    return out
+
+def fetch_vegeta_bootstrap():
+    """Source ADDITIONNELLE : serveurs de VegetaTV 11.5 via bootstrap.php. S'ajoute aux deux
+       sources existantes ; echec => [] (jamais fatal). Au passage 11.6, le header de version
+       sera refuse -> ALERTE explicite dans le journal (pas d'echec muet)."""
+    en_tetes = dict(BOOT_HEADERS, **{"User-Agent": UA})
+    try:
+        meta = requests.get(BOOT_URL, params={"v": int(time.time() * 1000)},
+                            headers=en_tetes, timeout=API_TIMEOUT)
+    except Exception as e:
+        print("[bootstrap] meta KO: %s -> source 11.5 ignoree" % e, file=sys.stderr)
+        return []
+    if meta.status_code == 426:
+        print("[bootstrap] ALERTE version refusee (HTTP 426 upgrade_required) : le code %s n'est "
+              "plus accepte. Relire le nouveau versionCode dans l'APK com.vegetatv.app et ajuster "
+              "VEGETA_VERSION_CODE. Source 11.5 ignoree ce run." % BOOT_VERSION_CODE, file=sys.stderr)
+        return []
+    try:
+        meta.raise_for_status()
+        j = meta.json() or {}
+    except Exception as e:
+        print("[bootstrap] meta illisible: %s -> source 11.5 ignoree" % e, file=sys.stderr)
+        return []
+    try:
+        minv = int(j.get("minimum_version_code") or 0)
+    except Exception:
+        minv = 0
+    if minv and int(BOOT_VERSION_CODE) < minv:
+        print("[bootstrap] ALERTE: versionCode %s < minimum %s (dernier publie: %s / %s). VegetaTV "
+              "a ete mis a jour -> relire le nouveau code dans l'APK et ajuster VEGETA_VERSION_CODE. "
+              "Source 11.5 ignoree ce run." % (BOOT_VERSION_CODE, minv,
+              j.get("latest_version_code"), j.get("latest_version_name")), file=sys.stderr)
+        return []
+    try:
+        r = requests.get(BOOT_URL, params={"servers": 1}, headers=en_tetes, timeout=M3U_TIMEOUT)
+        r.raise_for_status()
+    except Exception as e:
+        print("[bootstrap] liste KO: %s -> source 11.5 ignoree" % e, file=sys.stderr)
+        return []
+    out = _parse_liste_bootstrap(r.text)
+    print("[bootstrap] VegetaTV 11.5 : %d serveur(s) (servers_version=%s)"
+          % (len(out), j.get("servers_version")), file=sys.stderr)
+    return out
+
 def main():
     try:
         servers = fetch_servers()
@@ -371,6 +468,19 @@ def main():
     extra = load_extra_servers()
     print("%d serveur(s) extra (servers_extra.txt)" % len(extra), file=sys.stderr)
     servers = servers + extra
+    # 2026-11-13 : 3e source (VegetaTV 11.5, bootstrap.php), PUREMENT EN PLUS. On n'ajoute que
+    #   les serveurs ABSENTS des deux sources precedentes : rien de ce qui marche n'est retire
+    #   ni reordonne. Echec de la source => on continue sans elle.
+    try:
+        boot = fetch_vegeta_bootstrap()
+    except Exception as e:
+        print("bootstrap KO (%s) -> on continue sans la source 11.5" % e, file=sys.stderr)
+        boot = []
+    if boot:
+        neufs = _fusionner_nouveaux(servers, boot)
+        print("bootstrap 11.5 : %d serveur(s) recus, %d nouveau(x) ajoute(s)"
+              % (len(boot), len(neufs)), file=sys.stderr)
+        servers = servers + neufs
     print("%d serveurs a scanner (FR=%d, global=%d, etranger=%d, extra=%d)" % (
         len(servers),
         sum(1 for s in servers if s["rank"] == 0),
