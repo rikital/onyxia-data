@@ -31,6 +31,8 @@ tf1live://L_FAST_v2l-ad-les-familles-nombreuses-16617904
 tf1live://L_FAST_v2l-ad-les-mysteres-de-lamour-99639599
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-les-restos-du-coeur-59894021" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Les Restos Du Coeur
 tf1live://L_FAST_v2l-ad-les-restos-du-coeur-59894021
+#EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-lolywood-16739451" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Lolywood
+tf1live://L_FAST_v2l-ad-lolywood-16739451
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-mamans-and-celebres-08240458" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Mamans & Celebres
 tf1live://L_FAST_v2l-ad-mamans-and-celebres-08240458
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-mighty-express-44092248" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Mighty Express
@@ -2743,6 +2745,8 @@ tf1plus://tf1/tintin-et-le-mystere-de-la-toison-dor
 tf1plus://tf1/tintin-et-les-oranges-bleues
 #EXTINF:-1 tvg-id="tf1plus-tf1-the-kings-daughter-des-films-pour-toute-la-famille" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-32fac9-79fec5-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Des films pour toute la famille",The Kings Daughter
 tf1plus://tf1/the-kings-daughter
+#EXTINF:-1 tvg-id="tf1plus-tfx-lidee-detre-avec-toi-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-33886b-ac3ea2-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Romance",Lidee Detre Avec Toi
+tf1plus://tfx/lidee-detre-avec-toi
 #EXTINF:-1 tvg-id="tf1plus-tmc-twilight-chapitre-5-revelation-2eme-partie-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-e3a573-2d91bf-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Romance",Twilight Chapitre 5 Revelation 2eme Partie
 tf1plus://tmc/twilight-chapitre-5-revelation-2eme-partie
 #EXTINF:-1 tvg-id="tf1plus-tmc-twilight-chapitre-4-revelation-1ere-partie-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-a060ed-0a7b60-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Romance",Twilight Chapitre 4 Revelation 1ere Partie
@@ -2777,12 +2781,12 @@ tf1plus://tf1/amants-super-heroiques
 tf1plus://tf1/tombe-sur-la-tete
 #EXTINF:-1 tvg-id="tf1plus-tf1-for-love-or-money-romance" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-315292-4250f8-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Romance",For Love Or Money
 tf1plus://tf1/for-love-or-money
-#EXTINF:-1 tvg-id="tf1plus-tf1-mauvaises-frequentations-romance" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-mauvaises-7b606a-16a5eb-234f2a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Romance",Mauvaises Frequentations
-tf1plus://tf1/mauvaises-frequentations
 #EXTINF:-1 tvg-id="tf1plus-tmc-supercondriaque-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-supercondriaque-768753-05c56d-66c2c1-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Supercondriaque
 tf1plus://tmc/supercondriaque
 #EXTINF:-1 tvg-id="tf1plus-tf1-saltburn-comédies" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-650bc9-702d1c-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Saltburn
 tf1plus://tf1/saltburn
+#EXTINF:-1 tvg-id="tf1plus-tf1-mauvaises-frequentations-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-mauvaises-7b606a-16a5eb-234f2a-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Mauvaises Frequentations
+tf1plus://tf1/mauvaises-frequentations
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-merveilleux-jardin-secret-de-bella-brown-comédies" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-12c380-50d927-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Le Merveilleux Jardin Secret de Bella Brown
 tf1plus://tf1/le-merveilleux-jardin-secret-de-bella-brown
 #EXTINF:-1 tvg-id="tf1plus-tf1-tell-it-like-a-woman-comédies" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-ok-2a5b69-f984e7-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Comédies",Tell It Like A Woman
