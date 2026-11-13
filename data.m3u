@@ -8313,6 +8313,19 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/la-qu
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 
+# === Nouveautes ParaTV (auto-ajoute) ===
+#EXTINF:-1 tvg-chno="87" dm-id="k64zVShLj4PRZiwkvu8" tvg-logo="https://s2.dmcdn.net/u/5LK8J1gzsN_Ub7eRO/60x60" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",87. L'Équipe live  8 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-8-dm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="88" dm-id="k74EyvLy3uQyBoMAes6" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gzsN_Ub7eRO/60x60" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",88. L'Équipe live 9 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-9-dm.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-chno="89" dm-id="k3mGiXL66WnA4RMAfNc" tvg-logo="https://s1.dmcdn.net/u/5LK8J1gzsN_Ub7eRO/60x60" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",89. L'Équipe live 10 [dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/lequipe/l-equipe-live-10-dm.m3u8
+
+#FRANCE.TV (42)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
 #EXTINF:-1 tvg-logo="https://adult-tv-channels.click/assets/images/brazzers-tv-logo.png" group-title="Zone 18@ - Zone 18@",Brazzers TV Online
