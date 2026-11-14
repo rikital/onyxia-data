@@ -8673,10 +8673,10 @@ tf1plus://tf1/jai-menti
 tf1plus://tf1/sullivans-crossing
 #EXTINF:-1 tvg-id="tf1plus-tf1-mensonges-10-pépites-à-découvrir" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-mensonges-b38373-da1762-82eff8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - 10 pépites à découvrir",Mensonges
 tf1plus://tf1/mensonges
-#EXTINF:-1 tvg-id="tf1plus-tf1-series-films-noces-rouges-10-pépites-à-découvrir" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-565103-ef7b38-0@1x.avif" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Séries - 10 pépites à découvrir",Noces Rouges
-tf1plus://tf1-series-films/noces-rouges
 #EXTINF:-1 tvg-id="tf1plus-tf1-meurtres-a-nordholm-10-pépites-à-découvrir" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-meurtres-a-nordholm-76b95d-7168ac-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - 10 pépites à découvrir",Meurtres A Nordholm
 tf1plus://tf1/meurtres-a-nordholm
+#EXTINF:-1 tvg-id="tf1plus-tf1-famille-daccueil-10-pépites-à-découvrir" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-famille-daccueil-fb9a78-251ded-67e48f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - 10 pépites à découvrir",Famille Daccueil
+tf1plus://tf1/famille-daccueil
 #EXTINF:-1 tvg-id="tf1plus-tf1-elsbeth-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-elsbeth-saison-03-8c5d80-53fa7b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Elsbeth
 tf1plus://tf1/elsbeth
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-freres-scott-séries-u.s" tvg-logo="https://photos.tf1.fr/217/289/flux-les-freres-scott-saison-7-56188f-374ef0-801080-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries U.S",Les Freres Scott
@@ -8723,8 +8723,6 @@ tf1plus://tf1/la-cible
 tf1plus://tf1/plus-belle-la-vie-pblv
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-mysteres-de-l-amour-séries-françaises" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-9ef33b-7853ef-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries françaises",Les Mysteres de L Amour
 tf1plus://tmc/les-mysteres-de-l-amour
-#EXTINF:-1 tvg-id="tf1plus-tf1-famille-daccueil-séries-françaises" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-famille-daccueil-fb9a78-251ded-67e48f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries françaises",Famille Daccueil
-tf1plus://tf1/famille-daccueil
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-comtesse-de-monte-cristo-séries-françaises" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-casting-01-jpg-4f94b0-6240f6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries françaises",La Comtesse de Monte Cristo
 tf1plus://tf1/la-comtesse-de-monte-cristo
 #EXTINF:-1 tvg-id="tf1plus-tf1-lheritiere-télénovelas" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-1ec511-346279-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Télénovelas",Lheritiere
@@ -9091,8 +9089,6 @@ tf1plus://tf1/intervention
 tf1plus://tf1/docteur-sylvestre
 #EXTINF:-1 tvg-id="tf1plus-tf1-fabien-cosma-séries-médicales" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-fabien-cosma-a4badb-9d462a-708310-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries médicales",Fabien Cosma
 tf1plus://tf1/fabien-cosma
-#EXTINF:-1 tvg-id="tf1plus-tf1-doctor-john-séries-médicales" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-9e3fde-eef4b8-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries médicales",Doctor John
-tf1plus://tf1/doctor-john
 #EXTINF:-1 tvg-id="tf1plus-tf1-lhopital-séries-médicales" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-888744-c2cbfb-be9b0e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries médicales",Lhopital
 tf1plus://tf1/lhopital
 #EXTINF:-1 tvg-id="tf1plus-tf1-nos-chers-voisins-comédies" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-nos-chers-voisins-75d947-923a0d-8fe093-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Comédies",Nos Chers Voisins
@@ -9133,8 +9129,6 @@ tf1plus://tf1/le-maitre-du-zodiaque
 tf1plus://tf1/step-up-high-water
 #EXTINF:-1 tvg-id="tf1plus-tf1-foudre-jeunes-adultes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-31e7d1-d83a47-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Jeunes adultes",Foudre
 tf1plus://tf1/foudre
-#EXTINF:-1 tvg-id="tf1plus-tf1-coeur-ocean-jeunes-adultes" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-f00281-0952fc-e3ef98-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Jeunes adultes",Coeur Ocean
-tf1plus://tf1/coeur-ocean
 #EXTINF:-1 tvg-id="tf1plus-tf1-chante-jeunes-adultes" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2-3556a2-672207-ff30bc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Jeunes adultes",Chante
 tf1plus://tf1/chante
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-legende-des-trois-clefs-jeunes-adultes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-830a8b-581c2f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Jeunes adultes",La Legende des Trois Clefs
@@ -9373,6 +9367,8 @@ tf1plus://tmc/lady-gaga-a-star-is-born
 tf1plus://tmc/patrick-swayze
 #EXTINF:-1 tvg-id="tf1plus-tmc-romy-schneider-cinéma" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-7759ab-17fc30-332244-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Cinéma",Romy Schneider
 tf1plus://tmc/romy-schneider
+#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-depardieu-cinéma" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a00ea9-071d0d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Cinéma",21h Medias les Scandales Depardieu
+tf1plus://tmc/21h-medias-les-scandales-depardieu
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-de-madonna-musique" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-21h-medias-les-scandales-de-madonna-jpg-f92406-809175-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Musique",21h Medias les Scandales de Madonna
 tf1plus://tmc/21h-medias-les-scandales-de-madonna
 #EXTINF:-1 tvg-id="tf1plus-tmc-celine-dion-musique" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-2-celine-dion-une-voix-un-destin-8f0e74-419cee-7cb9ed-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Musique",Celine Dion
@@ -9459,8 +9455,6 @@ tf1plus://tmc/cest-pour-demain
 tf1plus://tmc/marches-de-noel-et-grands-magasins-dans-les-preparatifs-du-plus-gros-business-de-lannee
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-mensonges-de-tchernobyl-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/poster-card-12504f-c00634-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias les Mensonges de Tchernobyl
 tf1plus://tmc/21h-medias-les-mensonges-de-tchernobyl
-#EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-les-scandales-depardieu-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-a00ea9-071d0d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias les Scandales Depardieu
-tf1plus://tmc/21h-medias-les-scandales-depardieu
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-janvier-2015-lhorreur-en-france-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-92d989-6fc4e0-072d10-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Janvier 2015 Lhorreur En France
 tf1plus://tmc/21h-medias-janvier-2015-lhorreur-en-france
 #EXTINF:-1 tvg-id="tf1plus-tmc-21h-medias-qui-peut-arreter-elon-musk-21h-médias-de-julien-bellver" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_21h-medias-qui-peut-arreter-elon-musk-833103-10ab10-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 21h Médias de Julien Bellver",21h Medias Qui Peut Arreter Elon Musk
@@ -11021,6 +11015,8 @@ tf1plus://tf1/nrj-music-awards
 tf1plus://tf1/les-familles-nombreuses-la-vie-en-xxl
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-sera-le-plus-nul-top-10" tvg-logo="https://photos.tf1.fr/217/289/vignette-immersive-camille-e457e5-07301b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Qui Sera le Plus Nul
 tf1plus://tf1/qui-sera-le-plus-nul
+#EXTINF:-1 tvg-id="tf1plus-tmc-finalslam-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-the-finalslam-clean-jpg-bce107-1eefbb-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Finalslam
+tf1plus://tmc/finalslam
 #EXTINF:-1 tvg-id="tf1plus-tf1-bienvenue-chez-nous-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-2646cd-533a43-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Bienvenue Chez Nous
 tf1plus://tf1/bienvenue-chez-nous
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-la-malediction-de-lile-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-5-5b9f18-b653c5-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",La Bataille la Malediction de Lile
@@ -11041,8 +11037,6 @@ tf1plus://lci/aura
 tf1plus://tf1/une-famille-en-or
 #EXTINF:-1 tvg-id="tf1plus-tf1-50-mn-inside-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-50-inside-isabelle-ithurburu-3ce1f0-e0d938-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",50 Mn Inside
 tf1plus://tf1/50-mn-inside
-#EXTINF:-1 tvg-id="tf1plus-tf1-le-grand-concours-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-3a4549-b18370-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sélection de la semaine",Le Grand Concours
-tf1plus://tf1/le-grand-concours
 #EXTINF:-1 tvg-id="tf1plus-tf1-4-mariages-pour-une-lune-de-miel-love-&-drama" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-4-mariages-2024-640512-4fc119-8c70f3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Love & Drama",4 Mariages Pour une Lune de Miel
 tf1plus://tf1/4-mariages-pour-une-lune-de-miel
 #EXTINF:-1 tvg-id="tf1plus-tf1-ma-mere-ton-pere-love-&-drama" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-4e4212-7a3275-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Love & Drama",Ma Mere Ton Pere
@@ -11053,8 +11047,24 @@ tf1plus://tfx/excape-island-coinces-avec-nos-exs
 tf1plus://tfx/time-to-love
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-couples-love-&-drama" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-la-bataille-des-couples-la-finale-bf2d29-d01c6d-c5b9f4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Love & Drama",La Bataille des Couples
 tf1plus://tfx/la-bataille-des-couples
-#EXTINF:-1 tvg-id="tf1plus-tf1-secret-story-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-secret-story-2024-69eb6a-ca616f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Secret Story
+#EXTINF:-1 tvg-id="tf1plus-tf1-tout-est-permis-avec-arthur-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-vtep-2024-c9dc4e-b8575a-621a91-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Tout Est Permis Avec Arthur
+tf1plus://tf1/tout-est-permis-avec-arthur
+#EXTINF:-1 tvg-id="tf1plus-tfx-tattoo-cover-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-tattoo-cover-saison-09-f44cb5-82eebc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Tattoo Cover
+tf1plus://tfx/tattoo-cover
+#EXTINF:-1 tvg-id="tf1plus-tfx-cleaners-les-experts-du-menage-821-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cleaners-2025-2d2314-92d156-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Cleaners les Experts du Menage 821
+tf1plus://tfx/cleaners-les-experts-du-menage-821
+#EXTINF:-1 tvg-id="tf1plus-tf1-secret-story-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-secret-story-2024-69eb6a-ca616f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Secret Story
 tf1plus://tf1/secret-story
+#EXTINF:-1 tvg-id="tf1plus-tfx-incroyables-mariages-gitans-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-c05df6-a2ff83-772e2e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Incroyables Mariages Gitans
+tf1plus://tfx/incroyables-mariages-gitans
+#EXTINF:-1 tvg-id="tf1plus-tf1-detox-ta-maison-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bced3f-43a619-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Detox Ta Maison
+tf1plus://tf1/detox-ta-maison
+#EXTINF:-1 tvg-id="tf1plus-tfx-les-vacances-des-anges-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-e2d10f-a40d3f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Les Vacances des Anges
+tf1plus://tfx/les-vacances-des-anges
+#EXTINF:-1 tvg-id="tf1plus-tf1-baby-boom-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait_baby-aa47c6-7022da-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Baby Boom
+tf1plus://tf1/baby-boom
+#EXTINF:-1 tvg-id="tf1plus-tfx-les-anges-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/image-playlist-portrait_s5-cfc091-a0835e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Les Anges
+tf1plus://tfx/les-anges
 #EXTINF:-1 tvg-id="tf1plus-tfx-que-sont-ils-devenus-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-148aaa-329d00-7bbb1a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Que Sont Ils Devenus
 tf1plus://tfx/que-sont-ils-devenus
 #EXTINF:-1 tvg-id="tf1plus-tf1-million-dollar-weekend-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-million-dollar-weekend-saison-1-c22d63-cfed66-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Million Dollar Weekend
@@ -11063,10 +11073,6 @@ tf1plus://tf1/million-dollar-weekend
 tf1plus://tfx/mamans-et-celebres-fetent-noel
 #EXTINF:-1 tvg-id="tf1plus-tfx-mamans-et-celebres-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2f6401-8b9c4e-14399c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Mamans et Celebres
 tf1plus://tfx/mamans-et-celebres
-#EXTINF:-1 tvg-id="tf1plus-tfx-les-vacances-des-anges-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-e2d10f-a40d3f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Les Vacances des Anges
-tf1plus://tfx/les-vacances-des-anges
-#EXTINF:-1 tvg-id="tf1plus-tfx-les-anges-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/new_program-card-portrait-1-8c5dbb-2962e2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Les Anges
-tf1plus://tfx/les-anges
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-20-ans-de-la-telerealite-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-20-ans-de-tv-realite-07d475-f3bfaf-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",Les 20 Ans de la Telerealite
 tf1plus://tmc/les-20-ans-de-la-telerealite
 #EXTINF:-1 tvg-id="tf1plus-tfx-la-bataille-des-clans-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-86e80d-0eb714-214a89-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",La Bataille des Clans
@@ -11075,18 +11081,6 @@ tf1plus://tfx/la-bataille-des-clans
 tf1plus://tfx/jlc-family-lincroyable-ete-de-jazz-et-laurent
 #EXTINF:-1 tvg-id="tf1plus-tf1-house-of-ho-100%-téléréalité" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-4d208c-e52344-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - 100% Téléréalité",House Of Ho
 tf1plus://tf1/house-of-ho
-#EXTINF:-1 tvg-id="tf1plus-tf1-tout-est-permis-avec-arthur-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-vtep-2024-c9dc4e-b8575a-621a91-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Tout Est Permis Avec Arthur
-tf1plus://tf1/tout-est-permis-avec-arthur
-#EXTINF:-1 tvg-id="tf1plus-tfx-tattoo-cover-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-tattoo-cover-saison-09-f44cb5-82eebc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Tattoo Cover
-tf1plus://tfx/tattoo-cover
-#EXTINF:-1 tvg-id="tf1plus-tfx-cleaners-les-experts-du-menage-821-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cleaners-2025-2d2314-92d156-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Cleaners les Experts du Menage 821
-tf1plus://tfx/cleaners-les-experts-du-menage-821
-#EXTINF:-1 tvg-id="tf1plus-tfx-incroyables-mariages-gitans-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-c05df6-a2ff83-772e2e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Incroyables Mariages Gitans
-tf1plus://tfx/incroyables-mariages-gitans
-#EXTINF:-1 tvg-id="tf1plus-tf1-detox-ta-maison-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-bced3f-43a619-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Detox Ta Maison
-tf1plus://tf1/detox-ta-maison
-#EXTINF:-1 tvg-id="tf1plus-tf1-baby-boom-a-regarder-sans-s'arrêter" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait_baby-aa47c6-7022da-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - A regarder sans s'arrêter",Baby Boom
-tf1plus://tf1/baby-boom
 #EXTINF:-1 tvg-id="tf1plus-tf1-stars-a-domicile-si-vous-aimez-la-star-academy..." tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-star-a-dom-pierre-53da8a-e9d3de-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Si vous aimez la Star Academy...",Stars A Domicile
 tf1plus://tf1/stars-a-domicile
 #EXTINF:-1 tvg-id="tf1plus-tfx-pierre-garnier-le-concert-evenement-si-vous-aimez-la-star-academy..." tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-b034a1-742651-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Si vous aimez la Star Academy...",Pierre Garnier le Concert Evenement
@@ -11099,6 +11093,8 @@ tf1plus://tf1/star-academy-le-concert-evenement
 tf1plus://tf1/danse-avec-les-stars
 #EXTINF:-1 tvg-id="tf1plus-tmc-le-grand-vrac-si-vous-aimez-la-star-academy..." tvg-logo="https://photos.tf1.fr/217/289/marguerite-1789037494-4556d2-1b648c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Si vous aimez la Star Academy...",Le Grand Vrac
 tf1plus://tmc/le-grand-vrac
+#EXTINF:-1 tvg-id="tf1plus-tf1-le-grand-concours-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-3a4549-b18370-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Le Grand Concours
+tf1plus://tf1/le-grand-concours
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-dernier-cercle-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-4f8bad-f27e5b-76a7b6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Le Dernier Cercle
 tf1plus://tf1/le-dernier-cercle
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-grand-quiz-culture-pop" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-2-e1b723-378861-a64a5e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture pop",Le Grand Quiz
