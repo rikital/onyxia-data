@@ -19797,6 +19797,8 @@ m6play://gulli/21382
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-20bdbf97-4c8b-4e27-9f7f-3acfade39921" tvg-logo="https://medias.france.tv/jV8P4AFbjKCweQubKXE6Yd0kfp4/400x0/filters:quality(85)/t/2/z/phprisz2t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'oubliez pas les paroles — Émission du samedi 14 novembre 2026
+francetv://20bdbf97-4c8b-4e27-9f7f-3acfade39921
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-d705c429-c1bc-4945-9c25-f93e5ee4a4a9" tvg-logo="https://medias.france.tv/n9Kg1KLkUJgtKUxjNPcmdLAORtU/400x0/filters:quality(85)/v/m/a/php2rsamv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le plus beau pays du monde opus 4 — Le plus beau pays du monde, Opus 4
@@ -20175,6 +20177,8 @@ francetv://program/france-3_vivement-dimanche
 francetv://program/france-3_duels-en-familles-le-match-des-regions
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Captives
+francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd" tvg-logo="https://medias.france.tv/CMMlC5PLMDDWNMFe-GgXb5HsGFc/400x0/filters:quality(85)/s/l/d/phpx4zdls.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",La science des rêves
 francetv://ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd
 #EXTINF:-1 tvg-id="francetv-d498d007-f353-474f-8461-3de8e650a553" tvg-logo="https://medias.france.tv/vmif5Bud7Vgu509lFxudeVGD6tI/400x0/filters:quality(85)/z/r/e/phpvgserz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Vincent Niclo et le Choeur symphonique : Bel Canto Tour
@@ -22633,6 +22637,8 @@ francetv://program/france-2_laissez-vous-guider
 francetv://program/france-2_13h15-le-samedi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_13h15-le-dimanche" tvg-logo="https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Nos émissions",13h15, le dimanche
 francetv://program/france-2_13h15-le-dimanche
+#EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Captives
+francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd" tvg-logo="https://medias.france.tv/CMMlC5PLMDDWNMFe-GgXb5HsGFc/400x0/filters:quality(85)/s/l/d/phpx4zdls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",La science des rêves
 francetv://ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd
 #EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Novembre
@@ -22665,6 +22671,8 @@ francetv://39fa38fc-f890-4d8b-9d9c-29f998afedd0
 francetv://7d837b1b-6fba-448d-a51b-221070ae8860
 #EXTINF:-1 tvg-id="francetv-68805c2c-c8ff-48b9-8f51-28feb71825a9" tvg-logo="https://medias.france.tv/JUMSgjkgQfOUbulv2B8iCiHm51c/400x0/filters:quality(85)/j/h/x/phpcxexhj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Nosferatu
 francetv://68805c2c-c8ff-48b9-8f51-28feb71825a9
+#EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Captives
+francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd" tvg-logo="https://medias.france.tv/CMMlC5PLMDDWNMFe-GgXb5HsGFc/400x0/filters:quality(85)/s/l/d/phpx4zdls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",La science des rêves
 francetv://ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd
 #EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Novembre
@@ -22743,6 +22751,8 @@ francetv://cf34d1a8-e9a0-45ae-8097-f0a4912a34d8
 francetv://d31c8a87-a823-41a8-9f51-118751f11a14
 #EXTINF:-1 tvg-id="francetv-e13e7a87-8477-4b54-9e01-78534122a432" tvg-logo="https://medias.france.tv/DfosJr0KMhOgKwG82UeEP4xbigY/400x0/filters:quality(85)/3/0/e/045fd8a5670046188f5b29ffcc4f6e03.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Un conte de Noël
 francetv://e13e7a87-8477-4b54-9e01-78534122a432
+#EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Captives
+francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-b6934f71-8290-45c0-aedb-227aeeb4e740" tvg-logo="https://medias.france.tv/UoVhXyvOmm9YA_prmJ8VOeNqtCw/400x0/filters:quality(85)/k/6/1/phpokv16k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Retour à Séoul
 francetv://b6934f71-8290-45c0-aedb-227aeeb4e740
 #EXTINF:-1 tvg-id="francetv-e0a9d8f6-fcbb-4b29-86de-8a87d387b67a" tvg-logo="https://medias.france.tv/dxCfmxVV301Rhm5ZxyYGGfSZc3s/400x0/filters:quality(85)/q/k/3/phpk4l3kq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Des films couronnés de succès",Réparer les vivants
@@ -23669,8 +23679,8 @@ francetv://program/public-senat_sens-public
 francetv://program/arte_28-minutes
 #EXTINF:-1 tvg-id="francetv-prog-arte_le-dessous-des-images" tvg-logo="https://medias.france.tv/URWpGoiqD6BxtifiE4_FiFGpeD4/400x0/filters:quality(85)/b/a/f/phpvvufab.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Décryptage et débat",Le dessous des images
 francetv://program/arte_le-dessous-des-images
-#EXTINF:-1 tvg-id="francetv-f1ef655f-9ef6-4b05-b015-1bbf535ac1f2" tvg-logo="https://medias.france.tv/ay6kcSBAYiTBGzrWxN2Y7YkAJyI/400x0/filters:quality(85)/p/z/i/phprnoizp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — France, Allemagne : les ombres du passé
-francetv://f1ef655f-9ef6-4b05-b015-1bbf535ac1f2
+#EXTINF:-1 tvg-id="francetv-f250d26f-ce44-44b0-87eb-bf85cd51c1b6" tvg-logo="https://medias.france.tv/ay6kcSBAYiTBGzrWxN2Y7YkAJyI/400x0/filters:quality(85)/p/z/i/phprnoizp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — France, Allemagne : les ombres du passé
+francetv://f250d26f-ce44-44b0-87eb-bf85cd51c1b6
 #EXTINF:-1 tvg-id="francetv-e4ef2983-5bc3-49b6-a3b1-8effdce2ba92" tvg-logo="https://medias.france.tv/MeYWMTywLXTOwXWLz041BIjzi7U/400x0/filters:quality(85)/3/f/a/45464053689a4966832cea479deeeaf3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Le dessous des cartes — Spécial Etats baltes : Estonie
 francetv://e4ef2983-5bc3-49b6-a3b1-8effdce2ba92
 #EXTINF:-1 tvg-id="francetv-f8584d56-36d7-4dec-af05-05bcdc379c98" tvg-logo="https://medias.france.tv/z7kVBwM9sTUuBl1RVXZz9HJQpzk/400x0/filters:quality(85)/9/3/7/phpxnj739.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — Danemark, le pays où il fait bon travailler ?
