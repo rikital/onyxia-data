@@ -843,6 +843,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-50a5c4a2-c647-4ff8-9a15-edfba9c15043" tvg-logo="https://medias.france.tv/ThfAJKZMROa5N6rxJDAlhOwIdms/400x0/filters:quality(85)/d/7/8/1f134b6fe80947d8b1cef25ca203e87d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du samedi 14 novembre 2026
+francetv://50a5c4a2-c647-4ff8-9a15-edfba9c15043
 #EXTINF:-1 tvg-id="francetv-ec689911-93b0-46b4-810d-bb74a1be94ca" tvg-logo="https://medias.france.tv/yAlu5W1PPK7DnnYYTnOnDpQadxY/400x0/filters:quality(85)/5/7/8/b2950d760f48479b8b7a4e5c92d90875.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du samedi 14 novembre 2026
 francetv://ec689911-93b0-46b4-810d-bb74a1be94ca
 #EXTINF:-1 tvg-id="francetv-2c3ed3a6-e042-11f1-96c1-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/-ewdJ2jf_GGZGmkj3c9ReOkv0Ls/400x0/filters:quality(85)/e/6/6/224a3de9935c46c78afbcf7110b6366e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 14/11/2026 - Le fil info après-midi
@@ -881,8 +883,6 @@ francetv://8996fde6-ae21-4b81-811a-1671eb914620
 francetv://e224d1cd-c9a6-48b8-8e22-3f6ad17d6f3b
 #EXTINF:-1 tvg-id="francetv-e8ba8967-860e-497a-a1c9-3f861ccaa0d7" tvg-logo="https://medias.france.tv/gpcKZVwPhzR-DEsljMlQLLa7AVk/400x0/filters:quality(85)/2/c/1/75cb7536986e404fb59ce4c98434a1c2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",JT en LSF - 13/11/2026 - Le fil info après-midi
 francetv://e8ba8967-860e-497a-a1c9-3f861ccaa0d7
-#EXTINF:-1 tvg-id="francetv-b5b579e2-df65-11f1-afb5-57a09c50f7ce" tvg-logo="https://medias.france.tv/pv-2jJPY2UZFj7dMzQHoyO_Zgbs/400x0/filters:quality(85)/a/a/3/c21c53a7603849ce970790ef4dd753aa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 13/11/2026 Le fil info 14H
-francetv://b5b579e2-df65-11f1-afb5-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -3871,8 +3871,8 @@ francetv://program/public-senat_sens-public
 francetv://program/arte_28-minutes
 #EXTINF:-1 tvg-id="francetv-prog-arte_le-dessous-des-images" tvg-logo="https://medias.france.tv/URWpGoiqD6BxtifiE4_FiFGpeD4/400x0/filters:quality(85)/b/a/f/phpvvufab.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Décryptage et débat",Le dessous des images
 francetv://program/arte_le-dessous-des-images
-#EXTINF:-1 tvg-id="francetv-f250d26f-ce44-44b0-87eb-bf85cd51c1b6" tvg-logo="https://medias.france.tv/ay6kcSBAYiTBGzrWxN2Y7YkAJyI/400x0/filters:quality(85)/p/z/i/phprnoizp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — France, Allemagne : les ombres du passé
-francetv://f250d26f-ce44-44b0-87eb-bf85cd51c1b6
+#EXTINF:-1 tvg-id="francetv-f1ef655f-9ef6-4b05-b015-1bbf535ac1f2" tvg-logo="https://medias.france.tv/ay6kcSBAYiTBGzrWxN2Y7YkAJyI/400x0/filters:quality(85)/p/z/i/phprnoizp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — France, Allemagne : les ombres du passé
+francetv://f1ef655f-9ef6-4b05-b015-1bbf535ac1f2
 #EXTINF:-1 tvg-id="francetv-e4ef2983-5bc3-49b6-a3b1-8effdce2ba92" tvg-logo="https://medias.france.tv/MeYWMTywLXTOwXWLz041BIjzi7U/400x0/filters:quality(85)/3/f/a/45464053689a4966832cea479deeeaf3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Le dessous des cartes — Spécial Etats baltes : Estonie
 francetv://e4ef2983-5bc3-49b6-a3b1-8effdce2ba92
 #EXTINF:-1 tvg-id="francetv-f8584d56-36d7-4dec-af05-05bcdc379c98" tvg-logo="https://medias.france.tv/z7kVBwM9sTUuBl1RVXZz9HJQpzk/400x0/filters:quality(85)/9/3/7/phpxnj739.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - En Europe",Nous, les Européens — Danemark, le pays où il fait bon travailler ?
