@@ -8394,7 +8394,7 @@ http://41.205.93.154/BOOMERANG/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",France 24 (1080p) [bugsfreeweb]
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France TV backup - Autres",Africanews English (720p) [kilirushi]
