@@ -8665,10 +8665,10 @@ tf1plus://tf1/nurses
 tf1plus://tf1/quai-numero-7
 #EXTINF:-1 tvg-id="tf1plus-tf1-royal-scandal-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-7e9d97-146f15-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Royal Scandal
 tf1plus://tf1/royal-scandal
-#EXTINF:-1 tvg-id="tf1plus-tfx-sisbro-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-sisbro-910f53-300606-423c65-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Sisbro
-tf1plus://tfx/sisbro
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-feux-de-l-amour-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d0af9e-eeb3a3-eb3bc6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Les Feux de L Amour
 tf1plus://tf1/les-feux-de-l-amour
+#EXTINF:-1 tvg-id="tf1plus-tfx-sisbro-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-sisbro-910f53-300606-423c65-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Sisbro
+tf1plus://tfx/sisbro
 #EXTINF:-1 tvg-id="tf1plus-tf1-demain-nous-appartient-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-383bbe-2d5eb0-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Demain Nous Appartient
 tf1plus://tf1/demain-nous-appartient
 #EXTINF:-1 tvg-id="tf1plus-tf1-ici-tout-commence-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_itc-2026-6f5fc3-3ada76-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Ici Tout Commence
@@ -12469,6 +12469,8 @@ tf1plus://tf1/hunt-club
 tf1plus://tf1/hunting-hitler
 #EXTINF:-1 tvg-id="tf1plus-tf1-ice-sharks-requins-des-glaces-smx" tvg-logo="https://photos.tf1.fr/1200/720/ice-sharks-510026-452e81-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Ice Sharks : Requins des glaces
 tf1plus://tf1/ice-sharks-requins-des-glaces
+#EXTINF:-1 tvg-id="tf1plus-tf1-il-etait-deux-fois-noel-smx" tvg-logo="https://photos.tf1.fr/1200/720/il-etait-deux-fois-noel-a80461-ddb0e6-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Il était deux fois Noël
+tf1plus://tf1/il-etait-deux-fois-noel
 #EXTINF:-1 tvg-id="tf1plus-tf1-il-etait-une-fois-a-castlebury-smx" tvg-logo="https://photos.tf1.fr/1200/720/il-etait-une-fois-a-castlebury-ffcd9e-0605f3-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Il était une fois à Castlebury...
 tf1plus://tf1/il-etait-une-fois-a-castlebury
 #EXTINF:-1 tvg-id="tf1plus-tf1-il-etait-une-fois-a-monaco-smx" tvg-logo="https://photos.tf1.fr/1200/720/il-etait-une-fois-a-monaco-partie-2-f99539-9e2f6c-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Il était une fois à Monaco
