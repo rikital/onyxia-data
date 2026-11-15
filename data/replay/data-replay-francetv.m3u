@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="francetv-20bdbf97-4c8b-4e27-9f7f-3acfade39921" tvg-logo="https://medias.france.tv/jV8P4AFbjKCweQubKXE6Yd0kfp4/400x0/filters:quality(85)/t/2/z/phprisz2t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'oubliez pas les paroles — Émission du samedi 14 novembre 2026
-francetv://20bdbf97-4c8b-4e27-9f7f-3acfade39921
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
+#EXTINF:-1 tvg-id="francetv-918c3b5c-d6f4-48fa-a625-3243690b7f80" tvg-logo="https://medias.france.tv/w8Ua6sTE9Pc1YLKDCVlCkIJDxjI/400x0/filters:quality(85)/2/s/d/phpssvds2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne — Émission du dimanche 15 novembre 2026
+francetv://918c3b5c-d6f4-48fa-a625-3243690b7f80
+#EXTINF:-1 tvg-id="francetv-20bdbf97-4c8b-4e27-9f7f-3acfade39921" tvg-logo="https://medias.france.tv/jV8P4AFbjKCweQubKXE6Yd0kfp4/400x0/filters:quality(85)/t/2/z/phprisz2t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'oubliez pas les paroles — Émission du samedi 14 novembre 2026
+francetv://20bdbf97-4c8b-4e27-9f7f-3acfade39921
 #EXTINF:-1 tvg-id="francetv-d705c429-c1bc-4945-9c25-f93e5ee4a4a9" tvg-logo="https://medias.france.tv/n9Kg1KLkUJgtKUxjNPcmdLAORtU/400x0/filters:quality(85)/v/m/a/php2rsamv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le plus beau pays du monde opus 4 — Le plus beau pays du monde, Opus 4
 francetv://d705c429-c1bc-4945-9c25-f93e5ee4a4a9
 #EXTINF:-1 tvg-id="francetv-ffb92e30-cea3-4800-b122-00e32000545a" tvg-logo="https://medias.france.tv/V7WkM6R3pF8KwhU47B-xh9wrANs/400x0/filters:quality(85)/7/3/7/9410c9e6cda748599b1993fd9fcbd737.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Quelle époque ! — Émission du samedi 14 novembre 2026
@@ -19,8 +21,6 @@ francetv://a065c66c-9ba1-4bfc-b534-306a3c4204b4
 francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
 #EXTINF:-1 tvg-id="francetv-prog-france-2_l-art-du-crime" tvg-logo="https://medias.france.tv/OVYKZvA5nvVVHuXKti_AkZeAWTE/400x0/filters:quality(85)/a/q/u/phpy1uuqa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",L'art du crime
 francetv://program/france-2_l-art-du-crime
-#EXTINF:-1 tvg-id="francetv-prog-france-2_simon-coleman" tvg-logo="https://medias.france.tv/yw8V_qxuYJxvf-Vpj4bXEUqANmA/400x0/filters:quality(85)/f/1/v/phpnvxv1f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Simon Coleman
-francetv://program/france-2_simon-coleman
 #EXTINF:-1 tvg-id="francetv-d155e1f1-be54-4ff4-b483-05794be6accc" tvg-logo="https://medias.france.tv/ACnRZ0UAxwQwum6UzWW_jxnQ8MM/400x0/filters:quality(85)/9/5/a/255fa2acb1da4be79a39dc483e452a59.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — L'Everest des mers
 francetv://d155e1f1-be54-4ff4-b483-05794be6accc
 #EXTINF:-1 tvg-id="francetv-cc380b8d-39df-4b7c-a93b-146169588e4a" tvg-logo="https://medias.france.tv/QZO4tH-4iAuDB9QNoyIN-MbYD6g/400x0/filters:quality(85)/c/0/7/b3c083c647864490ac6f704fabeac70c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — A pleine vitesse
@@ -41,6 +41,8 @@ francetv://3befdb64-81ae-4ff5-86d3-da05fca21fd8
 francetv://f7f1fe85-5dfb-4edd-bae1-069f78962904
 #EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/_8DrqF8rsQqq5xsodWRdgEHii8E/400x0/filters:quality(85)/e/1/t/phpic6t1e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Sœurs
 francetv://program/france-2_soeurs
+#EXTINF:-1 tvg-id="francetv-prog-france-2_simon-coleman" tvg-logo="https://medias.france.tv/yw8V_qxuYJxvf-Vpj4bXEUqANmA/400x0/filters:quality(85)/f/1/v/phpnvxv1f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Simon Coleman
+francetv://program/france-2_simon-coleman
 #EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/uG1pGJa2dHhnjDwbHxz9kVCmHgU/400x0/filters:quality(85)/v/z/1/phpmfs1zv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le Rouge et le Noir
 francetv://program/france-2_le-rouge-et-le-noir
 #EXTINF:-1 tvg-id="francetv-prog-france-2_la-mere-et-l-assassin" tvg-logo="https://medias.france.tv/AprRPikHSywCNRdTU4EpEf36rPY/400x0/filters:quality(85)/u/v/z/phptvqzvu.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La mère et l'assassin
@@ -3379,22 +3381,20 @@ francetv://ac6d1292-aabc-11f1-8519-957ddefc544d
 francetv://80ae7580-8c24-11f1-9512-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-c478740e-2839-11f1-835a-957ddefc544d" tvg-logo="https://medias.france.tv/2fP1wGstPaXhtCxLcQS-4je2jVs/400x0/filters:quality(85)/9/6/9/7e27f61b04594007aa89c17b1fd05969.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Découvrir un film","L'avenir" : Son mari lui fait une annonce difficile
 francetv://c478740e-2839-11f1-835a-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-bf1f115e-a25b-49d8-8bb8-ca47c05b0d78" tvg-logo="https://medias.france.tv/oRhI2SqU_5wPOxW99dIeOYoUuu8/400x0/filters:quality(85)/4/e/f/961c2fa26a36464bb4d902ef5ba98fe4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Envoyé spécial — Déserts médicaux : les renforts suffiront-ils ?
-francetv://bf1f115e-a25b-49d8-8bb8-ca47c05b0d78
-#EXTINF:-1 tvg-id="francetv-prog-france-2_13-novembre-le-choix-de-sonia" tvg-logo="https://medias.france.tv/vIAUh6YwmMXuK4eAv-Lbj091OIM/400x0/filters:quality(85)/s/n/h/phprkihns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",13 novembre, le choix de Sonia
-francetv://program/france-2_13-novembre-le-choix-de-sonia
-#EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
-francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
-francetv://program/documentaires_documentaires-societe_vies-de-famille
-#EXTINF:-1 tvg-id="francetv-0ff1a65b-27e8-4a73-a997-4d5398d651ca" tvg-logo="https://medias.france.tv/Tg-L5qtCY4JvzJoiEu79sNKlzxs/400x0/filters:quality(85)/b/6/d/f808fcd0ff894d9d8dd5e70bd52d9d6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Féminin Sacré : enquête sur des dérives sectaires - Le documentaire
-francetv://0ff1a65b-27e8-4a73-a997-4d5398d651ca
-#EXTINF:-1 tvg-id="francetv-780c5ade-7b02-421b-bfe9-7caf8e16e548" tvg-logo="https://medias.france.tv/P_455S5CeAhAHlKbm06NqKUK6dY/400x0/filters:quality(85)/3/g/n/phpaa7ng3.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France en vrai - Grand Est — Quel métier j'vais faire ?
-francetv://780c5ade-7b02-421b-bfe9-7caf8e16e548
-#EXTINF:-1 tvg-id="francetv-3c37472e-ddb5-4d70-a4a8-5d36ae20d641" tvg-logo="https://medias.france.tv/ENy5Senmw5qV2Q2pJLiiS_RkJeo/400x0/filters:quality(85)/i/2/1/phpzjm12i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Débat — Parents, enfants, professeurs : agir face au harcèlement
-francetv://3c37472e-ddb5-4d70-a4a8-5d36ae20d641
 #EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
 francetv://program/france-2_ca-commence-aujourd-hui
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
+francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-bf1f115e-a25b-49d8-8bb8-ca47c05b0d78" tvg-logo="https://medias.france.tv/oRhI2SqU_5wPOxW99dIeOYoUuu8/400x0/filters:quality(85)/4/e/f/961c2fa26a36464bb4d902ef5ba98fe4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Envoyé spécial — Déserts médicaux : les renforts suffiront-ils ?
+francetv://bf1f115e-a25b-49d8-8bb8-ca47c05b0d78
+#EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
+francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
+#EXTINF:-1 tvg-id="francetv-0ff1a65b-27e8-4a73-a997-4d5398d651ca" tvg-logo="https://medias.france.tv/Tg-L5qtCY4JvzJoiEu79sNKlzxs/400x0/filters:quality(85)/b/6/d/f808fcd0ff894d9d8dd5e70bd52d9d6b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Féminin Sacré : enquête sur des dérives sectaires - Le documentaire
+francetv://0ff1a65b-27e8-4a73-a997-4d5398d651ca
+#EXTINF:-1 tvg-id="francetv-prog-france-2_13-novembre-le-choix-de-sonia" tvg-logo="https://medias.france.tv/vIAUh6YwmMXuK4eAv-Lbj091OIM/400x0/filters:quality(85)/s/n/h/phprkihns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",13 novembre, le choix de Sonia
+francetv://program/france-2_13-novembre-le-choix-de-sonia
+#EXTINF:-1 tvg-id="francetv-780c5ade-7b02-421b-bfe9-7caf8e16e548" tvg-logo="https://medias.france.tv/P_455S5CeAhAHlKbm06NqKUK6dY/400x0/filters:quality(85)/3/g/n/phpaa7ng3.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La France en vrai - Grand Est — Quel métier j'vais faire ?
+francetv://780c5ade-7b02-421b-bfe9-7caf8e16e548
 #EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Enquête de santé — Migraine : la fin du casse-tête ?
 francetv://951b8c01-1f7a-4789-9973-7cced32f066b
 #EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
@@ -3407,24 +3407,6 @@ francetv://a0f4eba6-f59f-4741-89de-a618c84de1be
 francetv://9255271b-34e7-45c2-b1df-f1c41196b09b
 #EXTINF:-1 tvg-id="francetv-1b761d0b-d613-46fe-86ef-a8976a6a0a4d" tvg-logo="https://medias.france.tv/6wUmP6hm3Xnp-t6lDWOHyMjU7Yg/400x0/filters:quality(85)/a/u/u/phpeskuua.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le luxe, un pouvoir français
 francetv://1b761d0b-d613-46fe-86ef-a8976a6a0a4d
-#EXTINF:-1 tvg-id="francetv-prog-france-2_13-novembre-le-choix-de-sonia" tvg-logo="https://medias.france.tv/vIAUh6YwmMXuK4eAv-Lbj091OIM/400x0/filters:quality(85)/s/n/h/phprkihns.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",13 novembre, le choix de Sonia
-francetv://program/france-2_13-novembre-le-choix-de-sonia
-#EXTINF:-1 tvg-id="francetv-prog-france-2_des-vivants" tvg-logo="https://medias.france.tv/vDVGYE6QzV_KzYndMY0ut7CxGCo/400x0/filters:quality(85)/o/x/b/phpdotbxo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",Des vivants
-francetv://program/france-2_des-vivants
-#EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",Novembre
-francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
-#EXTINF:-1 tvg-id="francetv-424d2ce2-66b3-4264-83f0-3bca0ba8461f" tvg-logo="https://medias.france.tv/GCCtSzS8Zuvr2y9bcll_cKIPn8I/400x0/filters:quality(85)/2/e/3/eab871fb3e0b41c69a6017f416d263e2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",Revoir Paris
-francetv://424d2ce2-66b3-4264-83f0-3bca0ba8461f
-#EXTINF:-1 tvg-id="francetv-9157526c-cba2-4362-9042-e19293b5f3a5" tvg-logo="https://medias.france.tv/ImbAsi7JtH61mc-6mGP-poonLCw/400x0/filters:quality(85)/d/f/l/phpa2clfd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",Infrarouge — 13 novembre, nos vies en éclats
-francetv://9157526c-cba2-4362-9042-e19293b5f3a5
-#EXTINF:-1 tvg-id="francetv-898b302b-2f69-43f0-8a5b-fd86e7c1d2b3" tvg-logo="https://medias.france.tv/wwACt4IjZsZML_eeuN8TWXvdgVw/400x0/filters:quality(85)/5/1/f/6c8d954db32d4ac595c9fabb060d6f15.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",Vendredi noir
-francetv://898b302b-2f69-43f0-8a5b-fd86e7c1d2b3
-#EXTINF:-1 tvg-id="francetv-d81b05ed-db3a-440e-ba4b-1dd4b1038abb" tvg-logo="https://medias.france.tv/drYgXK2gS4xNnIAig-qPMw7VoTE/400x0/filters:quality(85)/f/0/b/e3c30b44cba64bbab0ac4e429c896454f3eef556f3135521228c3da5ad371b0f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",L'INA éclaire l'actu — 13 novembre 2015 : quatre journalistes racontent
-francetv://d81b05ed-db3a-440e-ba4b-1dd4b1038abb
-#EXTINF:-1 tvg-id="francetv-03b6af3c-44e9-4c0e-b83d-6252bddc044e" tvg-logo="https://medias.france.tv/NSQwLGRBgXfyB9x1G2k6IsnUnBg/400x0/filters:quality(85)/a/8/1/93f2a3f99fcb4728bb19f27e57504aaf2c963efef511827d7575323135f1f18a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",INA, Le Doc’ — 13 novembre 2015 : la nuit en enfer de la BAC
-francetv://03b6af3c-44e9-4c0e-b83d-6252bddc044e
-#EXTINF:-1 tvg-id="francetv-a781c1e5-9b61-4a50-b40c-4c59cd64a0cc" tvg-logo="https://medias.france.tv/3D5DLHzMO7wKT644jBwePGoXpGM/400x0/filters:quality(85)/e/f/c/80b94fe6764b4fc6886cee1a047fe8d0e005f3f54dd4bf5703858e7d3e1e1cfe.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - 13 novembre : 11 ans après, se souvenir",L'INA éclaire l'actu — Le 13 novembre 2015 à travers les archives
-francetv://a781c1e5-9b61-4a50-b40c-4c59cd64a0cc
 #EXTINF:-1 tvg-id="francetv-0f76639f-2c42-44d4-b9b6-f9ac2c98555f" tvg-logo="https://medias.france.tv/xhA_kD2vqeWcYeCcCl04Ds8yS-I/400x0/filters:quality(85)/7/1/9/7de7bb1962d045488cacab9a3a12e917.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Prendre soin de soi",Toloman — Bien comprendre le diabète pour mieux le combattre
 francetv://0f76639f-2c42-44d4-b9b6-f9ac2c98555f
 #EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Prendre soin de soi",Enquête de santé — Migraine : la fin du casse-tête ?
@@ -3499,6 +3481,12 @@ francetv://959ef39e-94a2-11f1-9516-6dcd43e8ddfd
 francetv://b3a4bb1a-821e-4353-bc02-47463d473ea5
 #EXTINF:-1 tvg-id="francetv-846513c8-4237-11f1-adfa-57a09c50f7ce" tvg-logo="https://medias.france.tv/K5RPqopT2_MatNnontWsgKpvJ_8/400x0/filters:quality(85)/b/2/5/b3e9cdc3a6f041689c565affc102252b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Prendre soin de soi",Bel & bien — Avant tout - Manger de saison, c'est bon pour la santé !
 francetv://846513c8-4237-11f1-adfa-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-prog-france-2_beau-geste" tvg-logo="https://medias.france.tv/Cmq3-dHKTdj4Q6bPF2qKoG4Dmy4/400x0/filters:quality(85)/q/x/x/phpobaxxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Beau geste
+francetv://program/france-2_beau-geste
+#EXTINF:-1 tvg-id="francetv-prog-societe_la-maison-des-maternelles" tvg-logo="https://medias.france.tv/Fnu7VNzO5F6gI6YUmg88bQPgojg/400x0/filters:quality(85)/s/w/h/phpbtthws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",La maison des Maternelles
+francetv://program/societe_la-maison-des-maternelles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Ça commence aujourd'hui
+francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-bf1f115e-a25b-49d8-8bb8-ca47c05b0d78" tvg-logo="https://medias.france.tv/oRhI2SqU_5wPOxW99dIeOYoUuu8/400x0/filters:quality(85)/4/e/f/961c2fa26a36464bb4d902ef5ba98fe4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Envoyé spécial — Déserts médicaux : les renforts suffiront-ils ?
 francetv://bf1f115e-a25b-49d8-8bb8-ca47c05b0d78
 #EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
@@ -3567,12 +3555,6 @@ francetv://abe8a649-a087-4feb-ae6f-15522f31f2e1
 francetv://40b410d0-562f-4178-8f60-5a6a696b5ba2
 #EXTINF:-1 tvg-id="francetv-740b01e0-2f80-4815-8a3b-40e6a96d9e79" tvg-logo="https://medias.france.tv/5l26SETiGCubJKs38Bj3H-SpFhU/400x0/filters:quality(85)/i/m/0/phpsvb0mi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Des investigations qui nous éclairent",Sur le front — Que se passe-t-il dans nos champs ?
 francetv://740b01e0-2f80-4815-8a3b-40e6a96d9e79
-#EXTINF:-1 tvg-id="francetv-prog-france-2_beau-geste" tvg-logo="https://medias.france.tv/Cmq3-dHKTdj4Q6bPF2qKoG4Dmy4/400x0/filters:quality(85)/q/x/x/phpobaxxq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Beau geste
-francetv://program/france-2_beau-geste
-#EXTINF:-1 tvg-id="francetv-prog-societe_la-maison-des-maternelles" tvg-logo="https://medias.france.tv/Fnu7VNzO5F6gI6YUmg88bQPgojg/400x0/filters:quality(85)/s/w/h/phpbtthws.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",La maison des Maternelles
-francetv://program/societe_la-maison-des-maternelles
-#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : les podcasts",Ça commence aujourd'hui
-francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-c7471f59-f1c4-4a73-9184-8ef2ce96d6d8" tvg-logo="https://medias.france.tv/BYgd4YGctsiILVNoMemC7-Zxr1Q/400x0/filters:quality(85)/q/o/p/phpgaepoq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : toute l'offre mieux",Mieux
 francetv://c7471f59-f1c4-4a73-9184-8ef2ce96d6d8
 #EXTINF:-1 tvg-id="francetv-prog-mieux_mieux-ou-bien" tvg-logo="https://medias.france.tv/C1vJX0_87fZrLwyLvEaIRaqJlZ0/400x0/filters:quality(85)/d/8/3/c6c4da4dd2a14a81b7fcaa9bf4bea38d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Nouveau : toute l'offre mieux",Mieux, ou bien ?
@@ -5329,12 +5311,14 @@ francetv://e73c1b6e-10a9-11f1-858c-19616fa871f9
 francetv://fb9c098a-0040-11f1-936c-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-3c1fecea-0020-11f1-ac9e-57a09c50f7ce" tvg-logo="https://medias.france.tv/6M0shn1JXimWJVeo7H30qO4K7rM/400x0/filters:quality(85)/1/a/a/cc6dd2ad9f7d4156bd2f13c4ca613aa1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Anecdotes et confidences",Les rencontres du Papotin — Pourquoi Orelsan aime le rap ?
 francetv://3c1fecea-0020-11f1-ac9e-57a09c50f7ce
+#EXTINF:-1 tvg-id="francetv-prog-france-4_mission-info" tvg-logo="https://medias.france.tv/g50CYL4raEOl1sVlBGV8eGOkb9I/400x0/filters:quality(85)/5/m/y/phpcasym5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Mission info
+francetv://program/france-4_mission-info
+#EXTINF:-1 tvg-id="francetv-prog-france-4_wylde-pak" tvg-logo="https://medias.france.tv/GAv_cYEXZ7uTb2_vtj55ZBfxW5g/400x0/filters:quality(85)/n/q/a/phphqhaqn.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Wylde Pak
+francetv://program/france-4_wylde-pak
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_tinka" tvg-logo="https://medias.france.tv/M4eixw-p4LhyLbR70eDyKcER-iQ/400x0/filters:quality(85)/k/b/d/phpdpzdbk.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Tinka
 francetv://program/enfants_six-huit-ans_tinka
 #EXTINF:-1 tvg-id="francetv-prog-enfants_neuf-douze-ans_askip-le-college-se-la-raconte" tvg-logo="https://medias.france.tv/kv-3rtpPjYhCTGqX0gZ32xW0Yuw/400x0/filters:quality(85)/c/r/k/phpluskrc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",ASKIP
 francetv://program/enfants_neuf-douze-ans_askip-le-college-se-la-raconte
-#EXTINF:-1 tvg-id="francetv-prog-france-4_wylde-pak" tvg-logo="https://medias.france.tv/GAv_cYEXZ7uTb2_vtj55ZBfxW5g/400x0/filters:quality(85)/n/q/a/phphqhaqn.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Wylde Pak
-francetv://program/france-4_wylde-pak
 #EXTINF:-1 tvg-id="francetv-prog-france-4_wallace-et-gromit" tvg-logo="https://medias.france.tv/48Xn7GkRSCnxYyV_HeZ8dPOFK-0/400x0/filters:quality(85)/3/d/u/phppicud3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Wallace et Gromit
 francetv://program/france-4_wallace-et-gromit
 #EXTINF:-1 tvg-id="francetv-prog-enfants_six-huit-ans_les-tutos-d-okoo-koo" tvg-logo="https://medias.france.tv/UrnP3OB5o8-7Jwj-vKMI0tHDlbw/400x0/filters:quality(85)/q/k/n/phpdfnnkq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Enfants - Sélection",Les tutos d'Okoo-koo
