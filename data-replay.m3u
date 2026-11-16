@@ -19861,6 +19861,8 @@ francetv://program/france-3_face-a-face
 francetv://program/france-3_meurtres-a
 #EXTINF:-1 tvg-id="francetv-08a52bde-07f3-4a58-b426-f6f82ce6eec4" tvg-logo="https://medias.france.tv/bSR89kDyThKluF5jf22N6IkRBXc/400x0/filters:quality(85)/4/5/f/phpv6wf54.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La fleur au fusil
 francetv://08a52bde-07f3-4a58-b426-f6f82ce6eec4
+#EXTINF:-1 tvg-id="francetv-prog-france-3_auvergne-rhone-alpes_des-voix-dans-nos-tetes" tvg-logo="https://medias.france.tv/s2cKXC2uXdJCKszt7p4lJe8pCpg/400x0/filters:quality(85)/z/o/n/phpgxbnoz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Des voix dans nos têtes
+francetv://program/france-3_auvergne-rhone-alpes_des-voix-dans-nos-tetes
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_cap-sur-l-elysee-la-serie-documentaire-sur-l-election-presidentielle" tvg-logo="https://medias.france.tv/PPhyMD-ftLmRuf7RXKnFAYH2oLM/400x0/filters:quality(85)/5/l/9/phpwnm9l5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Cap sur l’Élysée
 francetv://program/documentaires_documentaires-societe_cap-sur-l-elysee-la-serie-documentaire-sur-l-election-presidentielle
 #EXTINF:-1 tvg-id="francetv-10540ab7-0331-44fa-943c-8691d4d7705f" tvg-logo="https://medias.france.tv/o7YD3n-2X7JFVkeZo-k_HmkRYe0/400x0/filters:quality(85)/n/t/t/phpj1vttn.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Opération Hao
@@ -21065,27 +21067,33 @@ francetv://b06949d9-283c-446c-bff3-e5c246c7f361
 francetv://c39037c1-9d44-4eb9-9bdd-478837fab8cb
 #EXTINF:-1 tvg-id="francetv-5885db4d-befa-440e-9c74-cdaaa0b52f07" tvg-logo="https://medias.france.tv/RsxU8-DIUNkichlVfPpjUnlz_Fo/400x0/filters:quality(85)/i/w/v/php6dvvwi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Heureusement qu'on s'a
 francetv://5885db4d-befa-440e-9c74-cdaaa0b52f07
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/lnr0YQA2gwHUE2xxk90JKmd615U/400x0/filters:quality(85)/k/w/b/php6inbwk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",'Oro
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/lnr0YQA2gwHUE2xxk90JKmd615U/400x0/filters:quality(85)/k/w/b/php6inbwk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",'Oro
 francetv://program/la1ere_oro
-#EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_saint-pierre" tvg-logo="https://medias.france.tv/WZcXp2xtUMdrPuJiQBJZMsWAW70/400x0/filters:quality(85)/g/c/u/php9vhucg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Saint-Pierre
-francetv://program/series-et-fictions_saint-pierre
-#EXTINF:-1 tvg-id="francetv-85910e86-93b5-43fb-bf00-b8ce5c8a8c54" tvg-logo="https://medias.france.tv/wBtB4KXSxq-ey4XsgjKUGWEBUb0/400x0/filters:quality(85)/3/1/f/7820b8ccbdeb489288a9865f9a2a5f13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Keo’Ho
+#EXTINF:-1 tvg-id="francetv-85910e86-93b5-43fb-bf00-b8ce5c8a8c54" tvg-logo="https://medias.france.tv/wBtB4KXSxq-ey4XsgjKUGWEBUb0/400x0/filters:quality(85)/3/1/f/7820b8ccbdeb489288a9865f9a2a5f13.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Keo’Ho
 francetv://85910e86-93b5-43fb-bf00-b8ce5c8a8c54
-#EXTINF:-1 tvg-id="francetv-prog-france-3_opj" tvg-logo="https://medias.france.tv/7GNgDEI5rVD8GhMqC3biPuhN6bk/400x0/filters:quality(85)/i/5/s/phpqcxs5i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",OPJ
+#EXTINF:-1 tvg-id="francetv-prog-france-3_opj" tvg-logo="https://medias.france.tv/7GNgDEI5rVD8GhMqC3biPuhN6bk/400x0/filters:quality(85)/i/5/s/phpqcxs5i.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",OPJ
 francetv://program/france-3_opj
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_saint-pierre-et-miquelon_marimar-et-les-coeurs-brises" tvg-logo="https://medias.france.tv/t9VjhfJtxLiInrq39Zy7yDf8VEc/400x0/filters:quality(85)/3/r/m/phpxjtmr3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Marimar et les coeurs brisés
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_saint-pierre-et-miquelon_marimar-et-les-coeurs-brises" tvg-logo="https://medias.france.tv/t9VjhfJtxLiInrq39Zy7yDf8VEc/400x0/filters:quality(85)/3/r/m/phpxjtmr3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Marimar et les coeurs brisés
 francetv://program/la1ere_saint-pierre-et-miquelon_marimar-et-les-coeurs-brises
-#EXTINF:-1 tvg-id="francetv-prog-france-2_tropiques-criminels" tvg-logo="https://medias.france.tv/4g0Me954G6Iu0Qodr8oy7VkYBGM/400x0/filters:quality(85)/9/q/q/phpns0qq9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Tropiques criminels
+#EXTINF:-1 tvg-id="francetv-a126b94a-8200-4819-814b-c619b14d0d72" tvg-logo="https://medias.france.tv/3y9YXROWMEFulvXMgP7zIRc3u3w/400x0/filters:quality(85)/l/a/m/phpd2emal.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Meurtres à... — Meurtres à Tahiti
+francetv://a126b94a-8200-4819-814b-c619b14d0d72
+#EXTINF:-1 tvg-id="francetv-1d5d8d5d-2f28-4ed4-8673-31884c30966c" tvg-logo="https://medias.france.tv/xmJytkiJXRlS3NdH48j2mJaclW4/400x0/filters:quality(85)/g/p/u/phpc0wupg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Meurtres à... — Meurtres en Martinique
+francetv://1d5d8d5d-2f28-4ed4-8673-31884c30966c
+#EXTINF:-1 tvg-id="francetv-adf16481-2855-4825-b278-8e5f572f8061" tvg-logo="https://medias.france.tv/DH-n49TfW2kWXoIJ7xTRSrYyVdQ/400x0/filters:quality(85)/w/k/m/phpxntmkw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Meurtres à Marie-Galante
+francetv://adf16481-2855-4825-b278-8e5f572f8061
+#EXTINF:-1 tvg-id="francetv-7253822e-d9f5-4704-a2cc-97f2f6a42192" tvg-logo="https://medias.france.tv/fwDD8AUUO3VER6vD6p3nbUv6b30/400x0/filters:quality(85)/b/d/8/phphbh8db.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Meurtres à... — Meurtres en Guadeloupe
+francetv://7253822e-d9f5-4704-a2cc-97f2f6a42192
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tropiques-criminels" tvg-logo="https://medias.france.tv/4g0Me954G6Iu0Qodr8oy7VkYBGM/400x0/filters:quality(85)/9/q/q/phpns0qq9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Tropiques criminels
 francetv://program/france-2_tropiques-criminels
-#EXTINF:-1 tvg-id="francetv-prog-france-2_meurtres-au-paradis" tvg-logo="https://medias.france.tv/GItaDA2aDffxZCHAFW2s4h8on-s/400x0/filters:quality(85)/5/r/5/phpmjc5r5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Meurtres au paradis
+#EXTINF:-1 tvg-id="francetv-prog-france-2_meurtres-au-paradis" tvg-logo="https://medias.france.tv/GItaDA2aDffxZCHAFW2s4h8on-s/400x0/filters:quality(85)/5/r/5/phpmjc5r5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Meurtres au paradis
 francetv://program/france-2_meurtres-au-paradis
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_en-boucle" tvg-logo="https://medias.france.tv/tfUSXrU_YYOm6jVl48J5oykxGNE/400x0/filters:quality(85)/s/j/9/phpljr9js.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",En boucle
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_en-boucle" tvg-logo="https://medias.france.tv/tfUSXrU_YYOm6jVl48J5oykxGNE/400x0/filters:quality(85)/s/j/9/phpljr9js.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",En boucle
 francetv://program/la1ere_en-boucle
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_jusqu-au-bout-du-reve" tvg-logo="https://medias.france.tv/cnibwpdq3kKkQ6262tFFTvFwy3g/400x0/filters:quality(85)/k/z/7/phpzuu7zk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Jusqu'au bout du rêve
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_jusqu-au-bout-du-reve" tvg-logo="https://medias.france.tv/cnibwpdq3kKkQ6262tFFTvFwy3g/400x0/filters:quality(85)/k/z/7/phpzuu7zk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Jusqu'au bout du rêve
 francetv://program/la1ere_jusqu-au-bout-du-reve
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_manmzel-new-york" tvg-logo="https://medias.france.tv/G_7X8jIa41bClv_JhQiRvP9hzIw/400x0/filters:quality(85)/2/l/f/phpt5ifl2.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",Manmzel New York
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_manmzel-new-york" tvg-logo="https://medias.france.tv/G_7X8jIa41bClv_JhQiRvP9hzIw/400x0/filters:quality(85)/2/l/f/phpt5ifl2.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",Manmzel New York
 francetv://program/la1ere_manmzel-new-york
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_cut" tvg-logo="https://medias.france.tv/UVaBQAKGuWwxku_NK3vRkDeJZbg/400x0/filters:quality(85)/l/z/h/phphlmhzl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Au cœur des Outre-mer",CUT
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_cut" tvg-logo="https://medias.france.tv/UVaBQAKGuWwxku_NK3vRkDeJZbg/400x0/filters:quality(85)/l/z/h/phphlmhzl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Terres de séries",CUT
 francetv://program/la1ere_cut
 #EXTINF:-1 tvg-id="francetv-7e3d129e-9c17-4d49-a25e-5e913ba91e35" tvg-logo="https://medias.france.tv/W05n912wCAxfOfmSzQHYQfeHqAs/400x0/filters:quality(85)/3/a/8/php7gs8a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Les séries d'Arte",Arte
 francetv://7e3d129e-9c17-4d49-a25e-5e913ba91e35
@@ -22485,6 +22493,8 @@ francetv://d0b00861-a9bf-4819-af49-da79cbac377a
 francetv://81fd3ca4-fe37-4a59-ba4a-33a802d4c135
 #EXTINF:-1 tvg-id="francetv-e992b450-bd12-4c5f-be25-e481fb7d1bef" tvg-logo="https://medias.france.tv/1twzsuSCjeUvCijTqCgSLTrI86Q/400x0/filters:quality(85)/z/c/m/phpwelmcz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Novembre
 francetv://e992b450-bd12-4c5f-be25-e481fb7d1bef
+#EXTINF:-1 tvg-id="francetv-566f8d8c-89e0-43ed-baad-d1e646ee7066" tvg-logo="https://medias.france.tv/fhQXKATypVoPa7rlX5l_jN5cb68/400x0/filters:quality(85)/5/1/4/f2bbd5d1e8224539820052208990c415.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",La bride sur le cou
+francetv://566f8d8c-89e0-43ed-baad-d1e646ee7066
 #EXTINF:-1 tvg-id="francetv-4261f71e-a512-45e3-af8e-ae45f976f7c9" tvg-logo="https://medias.france.tv/9C7hfAiwXuoYH4Gx-sV5wttk4FM/400x0/filters:quality(85)/6/b/9/17b324d45e5344128a0e2e25bafa09b6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Margot va au mariage
 francetv://4261f71e-a512-45e3-af8e-ae45f976f7c9
 #EXTINF:-1 tvg-id="francetv-39fa38fc-f890-4d8b-9d9c-29f998afedd0" tvg-logo="https://medias.france.tv/efeBO3YNHNVFA8GMF2xi1URnjw8/400x0/filters:quality(85)/b/d/f/44e8c07e56904f8694454d5d62d54fdb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Casting 5 étoiles",Sibyl
