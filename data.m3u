@@ -8450,7 +8450,7 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="France TV backup - Autres",France 3 Cote d'Azur (1080p) [iptv-org-fr]
