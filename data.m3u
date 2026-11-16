@@ -8245,7 +8245,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="France TV backup - Autres",France 3 Cote d'Azur (1080p) [iptv-org-fr]
-http://89.187.185.76:8080/France3/index.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-3-cote-d-azur.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
@@ -8451,6 +8451,10 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="France TV backup - Autres",France 3 Cote d'Azur (1080p) [iptv-org-fr]
+http://89.187.185.76:8080/France3/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
