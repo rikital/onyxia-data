@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="francetv-c9ca47de-2d1b-429e-8076-7084268b0730" tvg-logo="https://medias.france.tv/OHUDCeW0YIY_nXY6_4QK1tCCYgI/400x0/filters:quality(85)/y/u/x/phphejxuy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La traversée de Paris
 francetv://c9ca47de-2d1b-429e-8076-7084268b0730
+#EXTINF:-1 tvg-id="francetv-5598c9f9-0e51-4c95-9e85-4ed68fd68d15" tvg-logo="https://medias.france.tv/5ffBdzZt3QaiyNNodhBe1Qx0BWY/400x0/filters:quality(85)/t/3/g/php6vmg3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Disparition inquiétante — Peur sur le campus
+francetv://5598c9f9-0e51-4c95-9e85-4ed68fd68d15
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-918c3b5c-d6f4-48fa-a625-3243690b7f80" tvg-logo="https://medias.france.tv/w8Ua6sTE9Pc1YLKDCVlCkIJDxjI/400x0/filters:quality(85)/2/s/d/phpssvds2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne — Émission du dimanche 15 novembre 2026
@@ -171,6 +173,8 @@ francetv://program/france-2_les-enfants-de-la-tele
 francetv://program/france-3_les-enquetes-de-vera
 #EXTINF:-1 tvg-id="francetv-c0f87c7a-20d9-4025-9792-a0b5ef5aecb2" tvg-logo="https://medias.france.tv/F7ZMQwtpjCdyBkRrXMH_cRHuhAc/400x0/filters:quality(85)/f/m/i/php8uuimf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à... — Meurtres dans les Vosges
 francetv://c0f87c7a-20d9-4025-9792-a0b5ef5aecb2
+#EXTINF:-1 tvg-id="francetv-044315e6-84ca-4ecd-b426-5878c26a2fa1" tvg-logo="https://medias.france.tv/B3lx3Qwpr8xlZFUFqQYvdeRFjGA/400x0/filters:quality(85)/9/9/2/8dcd5636c0ab44f5a8778084bda19299.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Vous n'aurez plus nos morts - La restitution des restes humains coloniaux
+francetv://044315e6-84ca-4ecd-b426-5878c26a2fa1
 #EXTINF:-1 tvg-id="francetv-6d1d396b-c582-4e92-b25a-c870096c3312" tvg-logo="https://medias.france.tv/LcPQbq3l1xIhN4fKjtJOv4qUK-k/400x0/filters:quality(85)/x/p/6/phphgl6px.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Des Racines et Des Ailes — Mon île aux Antilles
 francetv://6d1d396b-c582-4e92-b25a-c870096c3312
 #EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La boîte à secrets
@@ -3951,8 +3955,6 @@ francetv://1204f7ca-7742-46ce-9f46-84aaf57a4384
 francetv://6c770f80-5406-494c-9bb3-23e707db5124
 #EXTINF:-1 tvg-id="francetv-239098ae-4f13-4c00-bab8-1bf5364f42ec" tvg-logo="https://medias.france.tv/CZX-I-OlIcbAt32mOblk21zfqnY/400x0/filters:quality(85)/g/b/q/phpd48qbg.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - S'informer pour les plus jeunes",Mission info — Pourquoi la Chine confie-t-elle des pandas à la France ?
 francetv://239098ae-4f13-4c00-bab8-1bf5364f42ec
-#EXTINF:-1 tvg-id="francetv-56c9fd9f-cd1b-4b17-adce-d71392d1ced6" tvg-logo="https://medias.france.tv/X8V04siGr0tArBDvbEcSNgLul5E/400x0/filters:quality(85)/w/q/a/phpg3waqw.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - S'informer pour les plus jeunes",Mission info — Pourquoi la déforestation est-elle un danger pour la planète ?
-francetv://56c9fd9f-cd1b-4b17-adce-d71392d1ced6
 #EXTINF:-1 tvg-id="francetv-prog-arte_arte-journal-junior" tvg-logo="https://medias.france.tv/PiukbTdjADqFIK6Mm6uR8jT6tNI/400x0/filters:quality(85)/a/9/7/18b812cf80f747209c4a62183c59e629cbc7e005ea8634aba777e5f99332b79a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - S'informer pour les plus jeunes",ARTE Journal Junior
 francetv://program/arte_arte-journal-junior
 #EXTINF:-1 tvg-id="francetv-prog-info_decod-actu" tvg-logo="https://medias.france.tv/v_eFWGrLUU61zqi2fyfA-ODdhfM/400x0/filters:quality(85)/p/q/w/phpackwqp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - S'informer pour les plus jeunes",Décod'actu
