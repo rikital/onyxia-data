@@ -49,12 +49,14 @@ tf1live://L_FAST_v2l-ad-sous-le-soleil-18693784
 tf1live://L_FAST_v2l-ad-star-academy-70671668
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-super-nanny-14977255" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Super Nanny
 tf1live://L_FAST_v2l-ad-super-nanny-14977255
+#EXTINF:-1 tvg-id="tf1plus-tf1-la-comtesse-de-monte-cristo-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-la-comtesse-de-monte-cristo-jpg-cd286d-a57015-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",La Comtesse de Monte Cristo
+tf1plus://tf1/la-comtesse-de-monte-cristo
+#EXTINF:-1 tvg-id="tf1plus-tf1-esprits-criminels-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-0acbc8-038ee2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Esprits Criminels
+tf1plus://tf1/esprits-criminels
 #EXTINF:-1 tvg-id="tf1plus-tf1-cats-eyes-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-cats-eyes-s2-keyart-jpg-4d2260-015864-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Cats Eyes
 tf1plus://tf1/cats-eyes
 #EXTINF:-1 tvg-id="tf1plus-tf1-dr-death-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-3957a6-27a5b3-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Dr Death
 tf1plus://tf1/dr-death
-#EXTINF:-1 tvg-id="tf1plus-tf1-esprits-criminels-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-0acbc8-038ee2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Esprits Criminels
-tf1plus://tf1/esprits-criminels
 #EXTINF:-1 tvg-id="tf1plus-tf1-lete-36-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-7a8377-b75b30-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Lete 36
 tf1plus://tf1/lete-36
 #EXTINF:-1 tvg-id="tf1plus-tf1-tracker-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-df4093-adb438-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Tracker
@@ -65,12 +67,8 @@ tf1plus://tf1/poker-face
 tf1plus://tf1/beverly-hills-90210
 #EXTINF:-1 tvg-id="tf1plus-tf1-new-york-unite-speciale-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-04aa55-eee648-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",New York Unite Speciale
 tf1plus://tf1/new-york-unite-speciale
-#EXTINF:-1 tvg-id="tf1plus-tf1-intracables-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-a8dff2-a283e4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Intracables
-tf1plus://tf1/intracables
 #EXTINF:-1 tvg-id="tf1plus-tf1-hpi-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-hpi-s5-0e8976-7aa15e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Top 10",Hpi
 tf1plus://tf1/hpi
-#EXTINF:-1 tvg-id="tf1plus-tf1-la-comtesse-de-monte-cristo-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-la-comtesse-de-monte-cristo-jpg-cd286d-a57015-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",La Comtesse de Monte Cristo
-tf1plus://tf1/la-comtesse-de-monte-cristo
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-chemin-de-la-verite-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-ca7b11-85c491-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Le Chemin de la Verite
 tf1plus://tf1/le-chemin-de-la-verite
 #EXTINF:-1 tvg-id="tf1plus-tf1-mozart-in-the-jungle-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1_mozart-in-the-jungle_v2-2e2011-e96655-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Mozart In The Jungle
@@ -87,6 +85,8 @@ tf1plus://tf1/true-crime-dans-les-griffes-dune-mythomane
 tf1plus://tf1/vise-le-coeur
 #EXTINF:-1 tvg-id="tf1plus-tf1-ghosts-fantomes-en-heritage-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-211e22-499807-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Ghosts Fantomes En Heritage
 tf1plus://tf1/ghosts-fantomes-en-heritage
+#EXTINF:-1 tvg-id="tf1plus-tf1-intracables-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-a8dff2-a283e4-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Intracables
+tf1plus://tf1/intracables
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-miserables-nouveautés-tf1+" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-fd239f-f97416-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Nouveautés TF1+",Les Miserables
 tf1plus://tf1/les-miserables
 #EXTINF:-1 tvg-id="tf1plus-tf1-un-homme-dhonneur-sélection-de-la-semaine" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-un-homme-dhonneur-0424fb-c9dd7d-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Sélection de la semaine",Un Homme Dhonneur
@@ -871,6 +871,8 @@ tf1plus://tmc/les-20-ans-de-la-telerealite
 tf1plus://tfx/pop-le-magazine-des-pratiques-culturelles-des-15-35-ans
 #EXTINF:-1 tvg-id="tf1plus-tf1-la-face-cachee-de-lhomme-en-noir-culture" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-21c3f0-0b3613-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture",La Face Cachee de Lhomme En Noir
 tf1plus://tf1/la-face-cachee-de-lhomme-en-noir
+#EXTINF:-1 tvg-id="tf1plus-tmc-mon-coluche-a-moi-michel-colucci-par-michel-denisot-culture" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-39ddcf-b01664-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Culture",Mon Coluche A Moi Michel Colucci Par Michel Denisot
+tf1plus://tmc/mon-coluche-a-moi-michel-colucci-par-michel-denisot
 #EXTINF:-1 tvg-id="tf1plus-tmc-corps-sans-complexe-comment-je-me-suis-liberee-sans-tabou" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-corps-sans-complexe-88ee73-bd790d-721155-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sans tabou",Corps Sans Complexe Comment Je Me Suis Liberee
 tf1plus://tmc/corps-sans-complexe-comment-je-me-suis-liberee
 #EXTINF:-1 tvg-id="tf1plus-tmc-lamour-a-plusieurs-sans-tabou" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-lamour-a-plusieurs-d3811c-ce6b65-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Sans tabou",Lamour A Plusieurs
@@ -6433,8 +6435,6 @@ tf1plus://tmc/martin-weill-tous-complotistes
 tf1plus://tmc/martin-weill-victimes-de-la-mode-quels-sont-leurs-nouveaux-codes
 #EXTINF:-1 tvg-id="tf1plus-tmc-maxime-gasteuil-retour-aux-sources-smx" tvg-logo="https://photos.tf1.fr/1200/720/maxime-gasteuil-retour-aux-sources-89ce65-ec040a-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Maxime Gasteuil : retour aux sources
 tf1plus://tmc/maxime-gasteuil-retour-aux-sources
-#EXTINF:-1 tvg-id="tf1plus-tmc-mon-coluche-a-moi-michel-colucci-par-michel-denisot-smx" tvg-logo="https://photos.tf1.fr/1200/720/mon-coluche-a-moi-partie-1-de7d42-079b2c-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Mon Coluche à moi - Michel Colucci par Michel Denisot
-tf1plus://tmc/mon-coluche-a-moi-michel-colucci-par-michel-denisot
 #EXTINF:-1 tvg-id="tf1plus-tmc-monacoscope-smx" tvg-logo="https://photos.tf1.fr/1200/720/monacoscope-du-15-novembre-2026-8343c8-b3204b-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Monacoscope
 tf1plus://tmc/monacoscope
 #EXTINF:-1 tvg-id="tf1plus-tmc-noel-avec-lambassadeur-smx" tvg-logo="https://photos.tf1.fr/1200/720/noel-avec-lambassadeur-78ddf8-bdf038-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Noël avec l'ambassadeur
