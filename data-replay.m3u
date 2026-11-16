@@ -31,6 +31,8 @@ bfmlive://rmc_mecanic
 bfmlive://rmc_wow
 #EXTINF:-1 tvg-id="bfmlive-rmc_alerte_secours" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" tvg-country="FR" group-title="Live BFM Play",RMC Alerte Secours Direct
 bfmlive://rmc_alerte_secours
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021163335954" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021163335954_9C860Fb/posters/4fa05168a3ce3c81839a890ba11886e3/4fa05168a3ce3c81839a890ba11886e3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Les Grandes Gueules - Jordan Bardella face aux GG !
+bfmplay://NEUF_BFMTV_BFM1021163335954
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151244357" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021151244357_9C860Fb/posters/085f1c5013d958b105d62ae5a983049c/085f1c5013d958b105d62ae5a983049c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",Face à face - Olivier Faure face à Apolline de Malherbe
 bfmplay://NEUF_BFMTV_BFM1021151244357
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMTV_BFM1021151202875" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021151202875_9C860Fb/posters/4bbf914ca6a6764a8f3572f1e783c548/4bbf914ca6a6764a8f3572f1e783c548.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM TV - A la une",100% Mabrouk - Invités : Robert Ménard et Michel Drucker
@@ -1621,8 +1623,8 @@ bfmplay://NEUF_RMCDEC_RMC1010264380527
 bfmplay://NEUF_RMCDEC_RMC1010264386527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1010264392527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1010264392527_9C860Fb/posters/0299dfedcb0a506ca830c2cb4a85ca90/0299dfedcb0a506ca830c2cb4a85ca90.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Tous les programmes",Dans les secrets des films "Le Seigneur des anneaux" - La fin d'une épopée
 bfmplay://NEUF_RMCDEC_RMC1010264392527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC989702375527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/989702368527_9C860Fb/posters/ebb89dac959fd935af2d1b5b366b8e82/ebb89dac959fd935af2d1b5b366b8e82.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Tous les programmes",Le Bigdil
-bfmplay://NEUF_RMCDEC_RMC989702375527
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC1020924394184" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/989702368527_9C860Fb/posters/ebb89dac959fd935af2d1b5b366b8e82/ebb89dac959fd935af2d1b5b366b8e82.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Tous les programmes",Le Bigdil
+bfmplay://NEUF_RMCDEC_RMC1020924394184
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC964535343527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/964535343527_9C860Fb/posters/3137d2c8b64c1ed9b61a41e90a4eccb9/3137d2c8b64c1ed9b61a41e90a4eccb9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Tous les programmes",J'irai dormir en Amérique - Episode 1
 bfmplay://NEUF_RMCDEC_RMC964535343527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMC964535362527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/964535362527_9C860Fb/posters/fc51ec6af8086e4f433eb0da6ce14ebf/fc51ec6af8086e4f433eb0da6ce14ebf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Story - Tous les programmes",J'irai dormir en Amérique - Episode 2
@@ -4485,8 +4487,44 @@ bfmplay://NEUF_RMCDEC_RMCP1020932310044
 bfmplay://NEUF_RMCDEC_RMCP968921616527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP556383287527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/564794537527_9C860Fb/posters/cf4a7e2147e4568cb6981a5122dd30e2/cf4a7e2147e4568cb6981a5122dd30e2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Pêche XXL
 bfmplay://NEUF_RMCDEC_RMCP556383287527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970302" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021085706292_9C860Fb/posters/0617a87f46aa1e832b167f00659adae4/0617a87f46aa1e832b167f00659adae4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970302" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970302_9C860Fb/posters/f9138885611cf10a4a38ddfeb742bee7/f9138885611cf10a4a38ddfeb742bee7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Fourmi balle de fusil et piranhas
 bfmplay://NEUF_RMCDEC_RMCP1020905970302
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970329" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970329_9C860Fb/posters/4332469592e80516ecf7d9cc91362c47/4332469592e80516ecf7d9cc91362c47.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Guêpes et mygales
+bfmplay://NEUF_RMCDEC_RMCP1020905970329
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970336" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970336_9C860Fb/posters/6aebaffd6a3128b2ac5b0cd45283a6b4/6aebaffd6a3128b2ac5b0cd45283a6b4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Scorpions et poisson lion
+bfmplay://NEUF_RMCDEC_RMCP1020905970336
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970343" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970343_9C860Fb/posters/99131710820b1dff1194d8e079e59c3e/99131710820b1dff1194d8e079e59c3e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Varan du Nil et fourmi de velours
+bfmplay://NEUF_RMCDEC_RMCP1020905970343
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970350" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970350_9C860Fb/posters/30e36f5c34ae5b9072fd46234b916c6d/30e36f5c34ae5b9072fd46234b916c6d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Staphylin et oursin rouge
+bfmplay://NEUF_RMCDEC_RMCP1020905970350
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970357" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970357_9C860Fb/posters/db5de135f922d02ba66b137af8dfe82b/db5de135f922d02ba66b137af8dfe82b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Mille-pattes géant et python
+bfmplay://NEUF_RMCDEC_RMCP1020905970357
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970364" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970364_9C860Fb/posters/c30b9b063c0531defa48d0a6d9bc634d/c30b9b063c0531defa48d0a6d9bc634d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Fourmis moissonneuses
+bfmplay://NEUF_RMCDEC_RMCP1020905970364
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970371" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970371_9C860Fb/posters/6aebaffd6a3128b2ac5b0cd45283a6b4/6aebaffd6a3128b2ac5b0cd45283a6b4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Poisson scorpion
+bfmplay://NEUF_RMCDEC_RMCP1020905970371
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905970378" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905970378_9C860Fb/posters/21171a7267b5b4c6f15b2a4db4655e81/21171a7267b5b4c6f15b2a4db4655e81.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Derrière les morsures
+bfmplay://NEUF_RMCDEC_RMCP1020905970378
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973636" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973636_9C860Fb/posters/98c0621414a7ea8a41fabc7e6e898cad/98c0621414a7ea8a41fabc7e6e898cad.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Scorpions mortels
+bfmplay://NEUF_RMCDEC_RMCP1020905973636
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973643" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973643_9C860Fb/posters/f1444356506b356060bdad03a7d1d0ff/f1444356506b356060bdad03a7d1d0ff.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Mygales et arachnophobie
+bfmplay://NEUF_RMCDEC_RMCP1020905973643
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973660" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973660_9C860Fb/posters/e7b69ab23daa5d565e38cd263cee21cc/e7b69ab23daa5d565e38cd263cee21cc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Lézards venimeux
+bfmplay://NEUF_RMCDEC_RMCP1020905973660
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973667" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973667_9C860Fb/posters/94d05c7ce8aa91a642da4635e617e958/94d05c7ce8aa91a642da4635e617e958.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - L'échelle de la douleur
+bfmplay://NEUF_RMCDEC_RMCP1020905973667
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973674" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973674_9C860Fb/posters/c733f0cb302f620d81d134d1b6f7b3d2/c733f0cb302f620d81d134d1b6f7b3d2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Mille-pattes américains
+bfmplay://NEUF_RMCDEC_RMCP1020905973674
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973681" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973681_9C860Fb/posters/89b3d7d19b88bbff2620586fa860bad8/89b3d7d19b88bbff2620586fa860bad8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Punaise assassine et araignée veuve brune
+bfmplay://NEUF_RMCDEC_RMCP1020905973681
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973688" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973688_9C860Fb/posters/ffff110573af70fb4f35b92167f3e757/ffff110573af70fb4f35b92167f3e757.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Cauchemar en aquarium
+bfmplay://NEUF_RMCDEC_RMCP1020905973688
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973695" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973695_9C860Fb/posters/24c352a16d189c43bb1c50121dd3674c/24c352a16d189c43bb1c50121dd3674c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Anguille électrique
+bfmplay://NEUF_RMCDEC_RMCP1020905973695
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020905973702" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020905973702_9C860Fb/posters/c6bc9f99077a4661f718b84ec70b889b/c6bc9f99077a4661f718b84ec70b889b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Bataille de requins
+bfmplay://NEUF_RMCDEC_RMCP1020905973702
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1020909898319" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020909898319_9C860Fb/posters/5d6ed7a9fb22a6532ae8879a4af34556/5d6ed7a9fb22a6532ae8879a4af34556.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Morsures et piqûres : le grand test - Les venins les plus mortels
+bfmplay://NEUF_RMCDEC_RMCP1020909898319
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1001993447527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1001993447527_9C860Fb/posters/8bf2a85d8550dba05717d38495605df9/8bf2a85d8550dba05717d38495605df9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Chercheurs d'opale - Des conditions extrêmes
 bfmplay://NEUF_RMCDEC_RMCP1001993447527
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMCDEC_RMCP1001998377527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1001998377527_9C860Fb/posters/04e7625fb57270ef961519637fde49fd/04e7625fb57270ef961519637fde49fd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Découverte - Aventure",Chercheurs d'opale - Un projet risqué
@@ -5023,10 +5061,10 @@ bfmplay://NEUF_BFMBUSINESS_BUM60000000001262
 bfmplay://NEUF_BFMBUSINESS_BUM60000000001251
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM60000000001241" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/60000000001241_9C860Fb/posters/1bc9eea51e0399f80f983beb135514a4/1bc9eea51e0399f80f983beb135514a4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",TECH & CO, la quotidienne - IA souveraine : OVHcloud défie Mistral AI
 bfmplay://NEUF_BFMBUSINESS_BUM60000000001241
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000082" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000082_9C860Fb/posters/d6804c42dc7f120adfb2dfc8e3957d80/d6804c42dc7f120adfb2dfc8e3957d80.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",De quoi j'me mail ? - Nostalgeek : l'iPod a 25 ans, on vous raconte son histoire
-bfmplay://NEUF_BFMBUSINESS_BUM70000000000082
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000081" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000081_9C860Fb/posters/ec3ccbbf92b58a0d541131930e8671df/ec3ccbbf92b58a0d541131930e8671df.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",De quoi j'me mail ? - Bientôt des smartphones avec une semaine d'autonomie ?
 bfmplay://NEUF_BFMBUSINESS_BUM70000000000081
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000082" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000082_9C860Fb/posters/d6804c42dc7f120adfb2dfc8e3957d80/d6804c42dc7f120adfb2dfc8e3957d80.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",De quoi j'me mail ? - Nostalgeek : l'iPod a 25 ans, on vous raconte son histoire
+bfmplay://NEUF_BFMBUSINESS_BUM70000000000082
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000076" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000076_9C860Fb/posters/af89b950274dfbc376f30638c123ef17/af89b950274dfbc376f30638c123ef17.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",De quoi j'me mail ? - On a testé l’iPhone Duo : Apple a-t-il réussi le pari du pliant ?
 bfmplay://NEUF_BFMBUSINESS_BUM70000000000076
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000077" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000077_9C860Fb/posters/5aca93097c04d9d77609d3ae2ae78fd9/5aca93097c04d9d77609d3ae2ae78fd9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Actu business",De quoi j'me mail ? - On vous fait découvrir les « PC agentiques »
@@ -5107,16 +5145,14 @@ bfmplay://NEUF_BFMBUSINESS_BUM70000000000051
 bfmplay://NEUF_BFMBUSINESS_BUM70000000000050
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM70000000000040" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000040A_9C860Fb/posters/3142de14b20d319a56029bd161723d6c/3142de14b20d319a56029bd161723d6c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Reportages et longs formats - "Comme dans le football" : c'est quoi un caster esport ?
 bfmplay://NEUF_BFMBUSINESS_BUM70000000000040
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM1021063232136" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063232136_9C860Fb/posters/6d3ac6af661999c3c40da86ad1e0c6d1/6d3ac6af661999c3c40da86ad1e0c6d1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Kivu - Episode 1
-bfmplay://NEUF_BFMBUSINESS_BUM1021063232136
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM1021063232144" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063232144_9C860Fb/posters/03bd2e8385022cd7267da3ed06e92447/03bd2e8385022cd7267da3ed06e92447.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Kivu - Episode 2
-bfmplay://NEUF_BFMBUSINESS_BUM1021063232144
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM1021063232152" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063232152_9C860Fb/posters/37d860325b3c17d49f4ca01a3076beb4/37d860325b3c17d49f4ca01a3076beb4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Kivu - Episode 3
-bfmplay://NEUF_BFMBUSINESS_BUM1021063232152
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM1021150678079" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021150678079_9C860Fb/posters/2d98aeeff2103b9297261f0b01a648d8/2d98aeeff2103b9297261f0b01a648d8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Charles Villa avec les sauveteurs volontaires en Ukraine - Episode 1
+bfmplay://NEUF_BFMBUSINESS_BUM1021150678079
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BFMBUSINESS_BUM1021150678087" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021150678087_9C860Fb/posters/38246210fc1982c68c6fdae17573131f/38246210fc1982c68c6fdae17573131f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay BFM Business - Vous aimerez aussi",Charles Villa avec les sauveteurs volontaires en Ukraine - Episode 2
+bfmplay://NEUF_BFMBUSINESS_BUM1021150678087
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF693978000527" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/18395_9C860Fb/posters/dba29855b9081336f8bd77f5297d013a/dba29855b9081336f8bd77f5297d013a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - Top tendances",Faites entrer l'accusé
 bfmplay://NEUF_RMC_LIFE_RIF693978000527
-#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021024951865" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021024967190_9C860Fb/posters/70edc81c0ea0053fe941ec2f8043752d/70edc81c0ea0053fe941ec2f8043752d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - Top tendances",Urgences
-bfmplay://NEUF_RMC_LIFE_RIF1021024951865
+#EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1021024951858" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021024967190_9C860Fb/posters/70edc81c0ea0053fe941ec2f8043752d/70edc81c0ea0053fe941ec2f8043752d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - Top tendances",Urgences
+bfmplay://NEUF_RMC_LIFE_RIF1021024951858
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020941414065" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020941414065_9C860Fb/posters/1a3cf309e2224d00eae640d2025d9994/1a3cf309e2224d00eae640d2025d9994.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - Top tendances",Castle - Tout un symbole
 bfmplay://NEUF_RMC_LIFE_RIF1020941414065
 #EXTINF:-1 tvg-id="bfmplay-NEUF_RMC_LIFE_RIF1020941414054" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1020941414054_9C860Fb/posters/0b9cd139677b6947dbfbdbf5ee333125/0b9cd139677b6947dbfbdbf5ee333125.jpg" tvg-country="FR" tvg-type="series" group-title="Replay RMC Life - Top tendances",Castle - L'avenir nous le dira
@@ -6923,10 +6959,10 @@ bfmplay://NEUF_01TV_TCO70000000000090
 bfmplay://NEUF_01TV_TCO70000000000085
 #EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000086" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000086_9C860Fb/posters/20e1b3ab808818cf06ad96bc5f0991a8/20e1b3ab808818cf06ad96bc5f0991a8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - Tablette, nouvelles enceintes Echo : l'offensive Alexa+ d'Amazon
 bfmplay://NEUF_01TV_TCO70000000000086
-#EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000082" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000082_9C860Fb/posters/d6804c42dc7f120adfb2dfc8e3957d80/d6804c42dc7f120adfb2dfc8e3957d80.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - Nostalgeek : l'iPod a 25 ans, on vous raconte son histoire
-bfmplay://NEUF_01TV_TCO70000000000082
 #EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000081" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000081_9C860Fb/posters/ec3ccbbf92b58a0d541131930e8671df/ec3ccbbf92b58a0d541131930e8671df.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - Bientôt des smartphones avec une semaine d'autonomie ?
 bfmplay://NEUF_01TV_TCO70000000000081
+#EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000082" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000082_9C860Fb/posters/d6804c42dc7f120adfb2dfc8e3957d80/d6804c42dc7f120adfb2dfc8e3957d80.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - Nostalgeek : l'iPod a 25 ans, on vous raconte son histoire
+bfmplay://NEUF_01TV_TCO70000000000082
 #EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000076" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000076_9C860Fb/posters/af89b950274dfbc376f30638c123ef17/af89b950274dfbc376f30638c123ef17.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - On a testé l’iPhone Duo : Apple a-t-il réussi le pari du pliant ?
 bfmplay://NEUF_01TV_TCO70000000000076
 #EXTINF:-1 tvg-id="bfmplay-NEUF_01TV_TCO70000000000077" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/70000000000077_9C860Fb/posters/5aca93097c04d9d77609d3ae2ae78fd9/5aca93097c04d9d77609d3ae2ae78fd9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Tech & Co - Tous les programmes",De quoi j'me mail ? - On vous fait découvrir les « PC agentiques »
@@ -7773,6 +7809,8 @@ bfmplay://NEUF_BRUT_BRT1021056714098
 bfmplay://NEUF_BRUT_BRT1021056713930
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056714010" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056714010_9C860Fb/posters/69094e28ff7714880c16c1c5665f552a/69094e28ff7714880c16c1c5665f552a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Tous les programmes",Les Docs Nature - Quand un hôtel à 3000 euros la nuit crée la controverse
 bfmplay://NEUF_BRUT_BRT1021056714010
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021167158029" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021167158029_9C860Fb/posters/0dbc7b1735e1ef1ea86661e1544d9f72/0dbc7b1735e1ef1ea86661e1544d9f72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Adoptée à 15 mois au Vietnam, cette photo était la seule trace de sa famille biologique
+bfmplay://NEUF_BRUT_BRT1021167158029
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021156312375" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021156312375_9C860Fb/posters/9ca583bc26a72dac4d419d666991b2bf/9ca583bc26a72dac4d419d666991b2bf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Menacé par Daesh, réfugié, UFC : l'incroyable histoire de Michael Aljarouj
 bfmplay://NEUF_BRUT_BRT1021156312375
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021156316360" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021156316360_9C860Fb/posters/a8bc35eaa1fff705677579244c66849d/a8bc35eaa1fff705677579244c66849d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Immersion dans l'usine la plus polluante de France
@@ -7911,6 +7949,20 @@ bfmplay://NEUF_BRUT_BRT1021056452120
 bfmplay://NEUF_BRUT_BRT1021056451920
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451760" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451760_9C860Fb/posters/dda6e10ce66c8dbff733cb4039da5a21/dda6e10ce66c8dbff733cb4039da5a21.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",L'affaire Otto Warmbier : L'étudiant américain prisonnier de la Corée du Nord
 bfmplay://NEUF_BRUT_BRT1021056451760
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056452032" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056452032_9C860Fb/posters/1cce9156be4744eb02e68a20f217ed92/1cce9156be4744eb02e68a20f217ed92.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Le destin tragique de Christophe Dominici, le joueur qui a fait rêver des millions de français
+bfmplay://NEUF_BRUT_BRT1021056452032
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451944" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451944_9C860Fb/posters/a58d96130b4b3cc91fab12eb4adbd9c7/a58d96130b4b3cc91fab12eb4adbd9c7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Musk, Rockefeller, Gates... Mais qui est le plus riche de l'histoire de l'humanité ?
+bfmplay://NEUF_BRUT_BRT1021056451944
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056452064" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056452064_9C860Fb/posters/a2ad487bdfc9b1571fab88a60b5567a7/a2ad487bdfc9b1571fab88a60b5567a7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Le destin tragique de Victoria, journaliste Ukrainienne morte en détention en Russie
+bfmplay://NEUF_BRUT_BRT1021056452064
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451984" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451984_9C860Fb/posters/94b84a4c94093e956a2bded774180cd4/94b84a4c94093e956a2bded774180cd4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Philippines : Quand la guerre des clans dégénère en menace de mort
+bfmplay://NEUF_BRUT_BRT1021056451984
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056452088" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056452088_9C860Fb/posters/6eb72342b9f40f09fb8365d3d4e3ea99/6eb72342b9f40f09fb8365d3d4e3ea99.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La Chine à l'assaut de Taïwan
+bfmplay://NEUF_BRUT_BRT1021056452088
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451888" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451888_9C860Fb/posters/343b3d4b741f38d1b7b1edf8b746d183/343b3d4b741f38d1b7b1edf8b746d183.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Les plus grandes évasions de l'histoire carcérale française
+bfmplay://NEUF_BRUT_BRT1021056451888
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021128576988" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021128576988_9C860Fb/posters/970c53f31a0d3e2aec14076f5786c317/970c53f31a0d3e2aec14076f5786c317.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Manuel Noriega : le dictateur panaméen au service de la CIA
+bfmplay://NEUF_BRUT_BRT1021128576988
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021127077967" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021127077967_9C860Fb/posters/bfb83b1ecdc74c8370623cd4df1ee0c1/bfb83b1ecdc74c8370623cd4df1ee0c1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",On a suivi Naza sous pression avant son Bercy
 bfmplay://NEUF_BRUT_BRT1021127077967
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056723135" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056723135_9C860Fb/posters/1846f8a6e201ddd77505b7ded2bbb88d/1846f8a6e201ddd77505b7ded2bbb88d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Comment le chat est devenu domestique ?
@@ -7943,16 +7995,8 @@ bfmplay://NEUF_BRUT_BRT1021047728574
 bfmplay://NEUF_BRUT_BRT1021056694526
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047880554" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047880554_9C860Fb/posters/8e51b5d2a8035309b22666ed844c5908/8e51b5d2a8035309b22666ed844c5908.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Un duel vs Mbappé, le moment le plus stressant pour lui, son rapport aux médias… Usain Bolt raconte
 bfmplay://NEUF_BRUT_BRT1021047880554
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056452064" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056452064_9C860Fb/posters/a2ad487bdfc9b1571fab88a60b5567a7/a2ad487bdfc9b1571fab88a60b5567a7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Le destin tragique de Victoria, journaliste Ukrainienne morte en détention en Russie
-bfmplay://NEUF_BRUT_BRT1021056452064
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451984" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451984_9C860Fb/posters/94b84a4c94093e956a2bded774180cd4/94b84a4c94093e956a2bded774180cd4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Philippines : Quand la guerre des clans dégénère en menace de mort
-bfmplay://NEUF_BRUT_BRT1021056451984
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056452088" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056452088_9C860Fb/posters/6eb72342b9f40f09fb8365d3d4e3ea99/6eb72342b9f40f09fb8365d3d4e3ea99.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La Chine à l'assaut de Taïwan
-bfmplay://NEUF_BRUT_BRT1021056452088
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451888" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451888_9C860Fb/posters/343b3d4b741f38d1b7b1edf8b746d183/343b3d4b741f38d1b7b1edf8b746d183.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Les plus grandes évasions de l'histoire carcérale française
-bfmplay://NEUF_BRUT_BRT1021056451888
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021128576988" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021128576988_9C860Fb/posters/970c53f31a0d3e2aec14076f5786c317/970c53f31a0d3e2aec14076f5786c317.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Manuel Noriega : le dictateur panaméen au service de la CIA
-bfmplay://NEUF_BRUT_BRT1021128576988
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021128576191" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021128576191_9C860Fb/posters/49dad3abf3e6d232dd5be0fa272ddf0c/49dad3abf3e6d232dd5be0fa272ddf0c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",J'ai rencontré des passeurs de cocaïne en Guyane
+bfmplay://NEUF_BRUT_BRT1021128576191
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694630" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694630_9C860Fb/posters/8e96531b21f5b49c99ed6d1995ead382/8e96531b21f5b49c99ed6d1995ead382.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Que deviennent ces nombreuses stations de ski fermées ?
 bfmplay://NEUF_BRUT_BRT1021056694630
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694606" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694606_9C860Fb/posters/8e53ecae666c4a2f3c885cf2e62a5415/8e53ecae666c4a2f3c885cf2e62a5415.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Comment se défendre face aux astéroïdes ?
@@ -7997,12 +8041,6 @@ bfmplay://NEUF_BRUT_BRT1021056694750
 bfmplay://NEUF_BRUT_BRT1021047728592
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048104760" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048104760_9C860Fb/posters/4209494bbcc22de3d01987f4443c95a9/4209494bbcc22de3d01987f4443c95a9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",J'ai testé le régime extrême de Salim
 bfmplay://NEUF_BRUT_BRT1021048104760
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021069642946" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021069642946_9C860Fb/posters/c42e3ed14cac81e4647be64dcdd995b8/c42e3ed14cac81e4647be64dcdd995b8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Depuis 15 mois, il marche avec ses animaux à travers la France
-bfmplay://NEUF_BRUT_BRT1021069642946
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048386749" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048386749_9C860Fb/posters/07e449563e62d2188093e3b95ae12468/07e449563e62d2188093e3b95ae12468.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",J'ai suivi l'explorateur Laurent Ballesta, photographe sous-marin, pour sa mission au bout du monde
-bfmplay://NEUF_BRUT_BRT1021048386749
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048304349" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048304349_9C860Fb/posters/4647de4502aee23fb57dc3c41bcd5fad/4647de4502aee23fb57dc3c41bcd5fad.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Ils ont décidé de s'auto-interdire de pêcher pour préserver les poissons de la Méditerranée
-bfmplay://NEUF_BRUT_BRT1021048304349
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047728566" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047728566_9C860Fb/posters/1a0aa2e8fc54f540c6f6b2804e666b6e/1a0aa2e8fc54f540c6f6b2804e666b6e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Mayeul, ex-soldat français, a survécu à une embuscade des talibans en Afghanistan. Il raconte tout.
 bfmplay://NEUF_BRUT_BRT1021047728566
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056723199" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056723199_9C860Fb/posters/785f516066615cbf50eefc1cc748a0cf/785f516066615cbf50eefc1cc748a0cf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",J'ai classé les 7 espèces les plus dangereuses pour nous
@@ -8055,38 +8093,34 @@ bfmplay://NEUF_BRUT_BRT1021047101560
 bfmplay://NEUF_BRUT_BRT1021056723143
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047101536" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047101536_9C860Fb/posters/658ba0ad29753a29386936e8e4deb12e/658ba0ad29753a29386936e8e4deb12e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La Peste noire, la maladie qui a décimé l’Europe
 bfmplay://NEUF_BRUT_BRT1021047101536
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694582" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694582_9C860Fb/posters/6722bb0d1e9a2c25afc78ecd12314216/6722bb0d1e9a2c25afc78ecd12314216.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Que restera-t-il de cette île unique au monde ?
-bfmplay://NEUF_BRUT_BRT1021056694582
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021063152339" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063152339_9C860Fb/posters/d4447875dd939f397a6ab9279f4b378e/d4447875dd939f397a6ab9279f4b378e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Californie : ma vie dans 3m²
-bfmplay://NEUF_BRUT_BRT1021063152339
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694774" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694774_9C860Fb/posters/db1ade4c220c47c1269ee023f43fa909/db1ade4c220c47c1269ee023f43fa909.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Que se cache-t-il dans ces endroits fermés au public ?
-bfmplay://NEUF_BRUT_BRT1021056694774
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694518" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694518_9C860Fb/posters/1e2cc652b8889432d7cee256be62d206/1e2cc652b8889432d7cee256be62d206.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Jusqu’où ira sa progression ?
-bfmplay://NEUF_BRUT_BRT1021056694518
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021146487582" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021146487582_9C860Fb/posters/96a08d673a4395e3bf0a8a4b94317d2d/96a08d673a4395e3bf0a8a4b94317d2d.png" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Ces experts répondent à vos questions (canicules, clim, rôle de la France...)
-bfmplay://NEUF_BRUT_BRT1021146487582
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694598" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694598_9C860Fb/posters/1afd43edabcf26069aa08566cb1ff017/1afd43edabcf26069aa08566cb1ff017.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La mystérieuse "maladie des pêcheurs"
-bfmplay://NEUF_BRUT_BRT1021056694598
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021063135198" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063135198_9C860Fb/posters/042a2fb99e932f8bc14b86347af41409/042a2fb99e932f8bc14b86347af41409.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Au nom de ma fille
-bfmplay://NEUF_BRUT_BRT1021063135198
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056723159" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056723159_9C860Fb/posters/397574ded9d0da4517c227479bc475d2/397574ded9d0da4517c227479bc475d2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pourquoi ce pays est en guerre contre les chevaux
-bfmplay://NEUF_BRUT_BRT1021056723159
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021069657002" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021069657002_9C860Fb/posters/55515418ac84071ca67510a85bb7e305/55515418ac84071ca67510a85bb7e305.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Urgences psy : en immersion avec des ados
-bfmplay://NEUF_BRUT_BRT1021069657002
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048220279" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048220279_9C860Fb/posters/39dd871eab03a5a065f41a728268642c/39dd871eab03a5a065f41a728268642c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",On a sué dans le simulateur de réchauffement climatique mobile avec François Gemenne
-bfmplay://NEUF_BRUT_BRT1021048220279
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072656153" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072656153_9C860Fb/posters/ce92d0305cd0fbe0862cc963bef2de5b/ce92d0305cd0fbe0862cc963bef2de5b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Gilles Lellouche répond à Augustin Trapenard
-bfmplay://NEUF_BRUT_BRT1021072656153
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072662200" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072662200_9C860Fb/posters/529e9428fbecdd1cb7f865f7f0faa274/529e9428fbecdd1cb7f865f7f0faa274.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pierre Niney répond à Augustin Trapenard
-bfmplay://NEUF_BRUT_BRT1021072662200
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021062717786" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021062717786_9C860Fb/posters/bcb62bfb1972fd0728cd22f3b7d1a9ed/bcb62bfb1972fd0728cd22f3b7d1a9ed.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",L'affaire Lydie Drame
-bfmplay://NEUF_BRUT_BRT1021062717786
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021132637007" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021132637007_9C860Fb/posters/fbca8107fe122ac5b06058bb5e8d9bb5/fbca8107fe122ac5b06058bb5e8d9bb5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Virginie Efira raconte les secrets de l’incroyable tournage du film "Soudain" de Ryusuke Hamaguchi
-bfmplay://NEUF_BRUT_BRT1021132637007
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360333" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360333_9C860Fb/posters/26885eeefdd8fa762ec1da76a458838e/26885eeefdd8fa762ec1da76a458838e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La fabrique du cinéma avec Richard Linklater
-bfmplay://NEUF_BRUT_BRT1021079360333
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360263" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360263_9C860Fb/posters/005372fc3594e4aee7e5264d04fa44e0/005372fc3594e4aee7e5264d04fa44e0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pio Marmaï : ses secrets d'acteur et son envie de réaliser un film d'horreur
-bfmplay://NEUF_BRUT_BRT1021079360263
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047728600" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047728600_9C860Fb/posters/cd54ab56953793a9a3291ab10be2c06b/cd54ab56953793a9a3291ab10be2c06b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Prison libyenne, traversée de la Méditerranée et Festival de Cannes : le destin d'Abou Sangare
+bfmplay://NEUF_BRUT_BRT1021047728600
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047728550" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047728550_9C860Fb/posters/f4f83e11e79570511948462f26eea6a0/f4f83e11e79570511948462f26eea6a0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Bonne sœur, elle redécouvre la vie à 60 ans
+bfmplay://NEUF_BRUT_BRT1021047728550
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021062712442" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021062712442_9C860Fb/posters/f7b77c71977c71de431e863b8254086d/f7b77c71977c71de431e863b8254086d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Baiser salé
+bfmplay://NEUF_BRUT_BRT1021062712442
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111855811" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111855811_9C860Fb/posters/bf037b8af9a02411e26beccc4dbdddfa/bf037b8af9a02411e26beccc4dbdddfa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Raphaël Quenard m'a amenée chez lui et RIEN ne se passe comme prévu.
+bfmplay://NEUF_BRUT_BRT1021111855811
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694710" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694710_9C860Fb/posters/535eac5668f437a9cb2de08ea2d40a92/535eac5668f437a9cb2de08ea2d40a92.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Le convoi français ultra-extrême au bout du monde
+bfmplay://NEUF_BRUT_BRT1021056694710
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694718" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694718_9C860Fb/posters/4cddf0c5aa3b537c0e23f5ea041bfd01/4cddf0c5aa3b537c0e23f5ea041bfd01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Où en est-on de la gigantesque station de ski Trojena en Arabie saoudite ?
+bfmplay://NEUF_BRUT_BRT1021056694718
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111834701" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111834701_9C860Fb/posters/3d0d56d3e1e17af24cfeb98fd9314f01/3d0d56d3e1e17af24cfeb98fd9314f01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Et si l’effet Tchernobyl n'existait pas ?
+bfmplay://NEUF_BRUT_BRT1021111834701
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047598336" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047598336_9C860Fb/posters/b36544e4e5b4b54057def642aa037dd4/b36544e4e5b4b54057def642aa037dd4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Vie privée, succès et angoisses : dans la tête de Michou
+bfmplay://NEUF_BRUT_BRT1021047598336
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694678" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694678_9C860Fb/posters/37b5a614e9aa3b2981c29b59b1bc0bfc/37b5a614e9aa3b2981c29b59b1bc0bfc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Peut-on stopper ces “gouffres” immenses et destructeurs ?
+bfmplay://NEUF_BRUT_BRT1021056694678
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072660625" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072660625_9C860Fb/posters/3c2a9efb9777cbec662df5f45e24a64e/3c2a9efb9777cbec662df5f45e24a64e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Virginie Efira discute avec Augustin Trapenard
+bfmplay://NEUF_BRUT_BRT1021072660625
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360249" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360249_9C860Fb/posters/e4295532347a28e01c6e7ca8aab38942/e4295532347a28e01c6e7ca8aab38942.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Anamaria Vartolomei : comment on joue la comédie avec un enfant de 4 ans
+bfmplay://NEUF_BRUT_BRT1021079360249
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360347" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360347_9C860Fb/posters/790afe50fa5801b397f2ba463012d826/790afe50fa5801b397f2ba463012d826.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés","Les Nuls", "Mission Cléopâtre", "RRRrrr !!!"… l'interview culte d'Alain Chabat à Cannes 2025
+bfmplay://NEUF_BRUT_BRT1021079360347
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111834733" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111834733_9C860Fb/posters/596f228aafeb0ffe6f913363b4ab0fdc/596f228aafeb0ffe6f913363b4ab0fdc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Ces deux français tentent de traverser l’Antarctique… en kit-ski !
+bfmplay://NEUF_BRUT_BRT1021111834733
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047101520" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047101520_9C860Fb/posters/feaa15ebe1ba69f3b9e2f7b806e8e28d/feaa15ebe1ba69f3b9e2f7b806e8e28d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Barbe Noire, la vraie histoire du pirate légendaire
+bfmplay://NEUF_BRUT_BRT1021047101520
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072656169" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072656169_9C860Fb/posters/b0dd37bc063e3ca94d53acc3e708424e/b0dd37bc063e3ca94d53acc3e708424e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",François Damiens répond à Augustin Trapenard
 bfmplay://NEUF_BRUT_BRT1021072656169
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072664202" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072664202_9C860Fb/posters/18b6b0031fad89e9b35f2550ab477255/18b6b0031fad89e9b35f2550ab477255.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Tahar Rahim discute avec Augustin Trapenard
@@ -8119,6 +8153,34 @@ bfmplay://NEUF_BRUT_BRT1021072656121
 bfmplay://NEUF_BRUT_BRT1021112161533
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079128719" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079128719_9C860Fb/posters/c04c17235b4a869706c6d87a9b9d56d7/c04c17235b4a869706c6d87a9b9d56d7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Jodie Foster x Augustin Trapenard : son premier rôle en français
 bfmplay://NEUF_BRUT_BRT1021079128719
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694774" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694774_9C860Fb/posters/db1ade4c220c47c1269ee023f43fa909/db1ade4c220c47c1269ee023f43fa909.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Que se cache-t-il dans ces endroits fermés au public ?
+bfmplay://NEUF_BRUT_BRT1021056694774
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694518" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694518_9C860Fb/posters/1e2cc652b8889432d7cee256be62d206/1e2cc652b8889432d7cee256be62d206.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Jusqu’où ira sa progression ?
+bfmplay://NEUF_BRUT_BRT1021056694518
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021146487582" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021146487582_9C860Fb/posters/96a08d673a4395e3bf0a8a4b94317d2d/96a08d673a4395e3bf0a8a4b94317d2d.png" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Ces experts répondent à vos questions (canicules, clim, rôle de la France...)
+bfmplay://NEUF_BRUT_BRT1021146487582
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694598" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694598_9C860Fb/posters/1afd43edabcf26069aa08566cb1ff017/1afd43edabcf26069aa08566cb1ff017.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La mystérieuse "maladie des pêcheurs"
+bfmplay://NEUF_BRUT_BRT1021056694598
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021063135198" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021063135198_9C860Fb/posters/042a2fb99e932f8bc14b86347af41409/042a2fb99e932f8bc14b86347af41409.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Au nom de ma fille
+bfmplay://NEUF_BRUT_BRT1021063135198
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056723159" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056723159_9C860Fb/posters/397574ded9d0da4517c227479bc475d2/397574ded9d0da4517c227479bc475d2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pourquoi ce pays est en guerre contre les chevaux
+bfmplay://NEUF_BRUT_BRT1021056723159
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021069657002" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021069657002_9C860Fb/posters/55515418ac84071ca67510a85bb7e305/55515418ac84071ca67510a85bb7e305.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Urgences psy : en immersion avec des ados
+bfmplay://NEUF_BRUT_BRT1021069657002
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048220279" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048220279_9C860Fb/posters/39dd871eab03a5a065f41a728268642c/39dd871eab03a5a065f41a728268642c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",On a sué dans le simulateur de réchauffement climatique mobile avec François Gemenne
+bfmplay://NEUF_BRUT_BRT1021048220279
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072656153" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072656153_9C860Fb/posters/ce92d0305cd0fbe0862cc963bef2de5b/ce92d0305cd0fbe0862cc963bef2de5b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Gilles Lellouche répond à Augustin Trapenard
+bfmplay://NEUF_BRUT_BRT1021072656153
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072662200" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072662200_9C860Fb/posters/529e9428fbecdd1cb7f865f7f0faa274/529e9428fbecdd1cb7f865f7f0faa274.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pierre Niney répond à Augustin Trapenard
+bfmplay://NEUF_BRUT_BRT1021072662200
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021062717786" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021062717786_9C860Fb/posters/bcb62bfb1972fd0728cd22f3b7d1a9ed/bcb62bfb1972fd0728cd22f3b7d1a9ed.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",L'affaire Lydie Drame
+bfmplay://NEUF_BRUT_BRT1021062717786
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021132637007" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021132637007_9C860Fb/posters/fbca8107fe122ac5b06058bb5e8d9bb5/fbca8107fe122ac5b06058bb5e8d9bb5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Virginie Efira raconte les secrets de l’incroyable tournage du film "Soudain" de Ryusuke Hamaguchi
+bfmplay://NEUF_BRUT_BRT1021132637007
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360333" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360333_9C860Fb/posters/26885eeefdd8fa762ec1da76a458838e/26885eeefdd8fa762ec1da76a458838e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",La fabrique du cinéma avec Richard Linklater
+bfmplay://NEUF_BRUT_BRT1021079360333
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360263" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360263_9C860Fb/posters/005372fc3594e4aee7e5264d04fa44e0/005372fc3594e4aee7e5264d04fa44e0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Pio Marmaï : ses secrets d'acteur et son envie de réaliser un film d'horreur
+bfmplay://NEUF_BRUT_BRT1021079360263
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360277" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360277_9C860Fb/posters/e3a214e74526d69b3b31b6f479d1f88a/e3a214e74526d69b3b31b6f479d1f88a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Bac Nord, Novembre, Chien 51… les secrets de Cédric Jimenez
 bfmplay://NEUF_BRUT_BRT1021079360277
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021130974480" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021130974480_9C860Fb/posters/24874d02b993dcd786ceb1c20d010f5a/24874d02b993dcd786ceb1c20d010f5a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Eloge de Marion Cotillard par Guillaume Canet
@@ -8197,34 +8259,12 @@ bfmplay://NEUF_BRUT_BRT1021072656161
 bfmplay://NEUF_BRUT_BRT1021056694646
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694638" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694638_9C860Fb/posters/0fba01dd0cef892b9977d836cdcdde7d/0fba01dd0cef892b9977d836cdcdde7d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Manipuler la météo : même la France le fait
 bfmplay://NEUF_BRUT_BRT1021056694638
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694710" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694710_9C860Fb/posters/535eac5668f437a9cb2de08ea2d40a92/535eac5668f437a9cb2de08ea2d40a92.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Le convoi français ultra-extrême au bout du monde
-bfmplay://NEUF_BRUT_BRT1021056694710
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694718" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694718_9C860Fb/posters/4cddf0c5aa3b537c0e23f5ea041bfd01/4cddf0c5aa3b537c0e23f5ea041bfd01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Où en est-on de la gigantesque station de ski Trojena en Arabie saoudite ?
-bfmplay://NEUF_BRUT_BRT1021056694718
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111834701" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111834701_9C860Fb/posters/3d0d56d3e1e17af24cfeb98fd9314f01/3d0d56d3e1e17af24cfeb98fd9314f01.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Et si l’effet Tchernobyl n'existait pas ?
-bfmplay://NEUF_BRUT_BRT1021111834701
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047598336" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047598336_9C860Fb/posters/b36544e4e5b4b54057def642aa037dd4/b36544e4e5b4b54057def642aa037dd4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Vie privée, succès et angoisses : dans la tête de Michou
-bfmplay://NEUF_BRUT_BRT1021047598336
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694678" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694678_9C860Fb/posters/37b5a614e9aa3b2981c29b59b1bc0bfc/37b5a614e9aa3b2981c29b59b1bc0bfc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Peut-on stopper ces “gouffres” immenses et destructeurs ?
-bfmplay://NEUF_BRUT_BRT1021056694678
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021072660625" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021072660625_9C860Fb/posters/3c2a9efb9777cbec662df5f45e24a64e/3c2a9efb9777cbec662df5f45e24a64e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Virginie Efira discute avec Augustin Trapenard
-bfmplay://NEUF_BRUT_BRT1021072660625
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360249" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360249_9C860Fb/posters/e4295532347a28e01c6e7ca8aab38942/e4295532347a28e01c6e7ca8aab38942.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Anamaria Vartolomei : comment on joue la comédie avec un enfant de 4 ans
-bfmplay://NEUF_BRUT_BRT1021079360249
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079360347" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079360347_9C860Fb/posters/790afe50fa5801b397f2ba463012d826/790afe50fa5801b397f2ba463012d826.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés","Les Nuls", "Mission Cléopâtre", "RRRrrr !!!"… l'interview culte d'Alain Chabat à Cannes 2025
-bfmplay://NEUF_BRUT_BRT1021079360347
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111834733" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111834733_9C860Fb/posters/596f228aafeb0ffe6f913363b4ab0fdc/596f228aafeb0ffe6f913363b4ab0fdc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Ces deux français tentent de traverser l’Antarctique… en kit-ski !
-bfmplay://NEUF_BRUT_BRT1021111834733
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047101520" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047101520_9C860Fb/posters/feaa15ebe1ba69f3b9e2f7b806e8e28d/feaa15ebe1ba69f3b9e2f7b806e8e28d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Barbe Noire, la vraie histoire du pirate légendaire
-bfmplay://NEUF_BRUT_BRT1021047101520
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111844646" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111844646_9C860Fb/posters/353e6e9eb7e311f0552999dcb8bd9135/353e6e9eb7e311f0552999dcb8bd9135.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Comment faire parler un tueur : les secrets d’une "profileuse"
 bfmplay://NEUF_BRUT_BRT1021111844646
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056451712" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056451712_9C860Fb/posters/dab716ac56989f64e2426c62df1c26d8/dab716ac56989f64e2426c62df1c26d8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Nouveautés",Eric Halphen raconte son combat contre la corruption politique
 bfmplay://NEUF_BRUT_BRT1021056451712
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021048142821" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021048142821_9C860Fb/posters/abf18c7682cf33121f4fa00d12fb602f/abf18c7682cf33121f4fa00d12fb602f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - People",Sur Zone - On a ramené Jérôme Commandeur dans son ancien lycée
 bfmplay://NEUF_BRUT_BRT1021048142821
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021111855811" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021111855811_9C860Fb/posters/bf037b8af9a02411e26beccc4dbdddfa/bf037b8af9a02411e26beccc4dbdddfa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - People",Sur Zone - Raphaël Quenard m'a amenée chez lui et RIEN ne se passe comme prévu.
-bfmplay://NEUF_BRUT_BRT1021111855811
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021128577552" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021128577552_9C860Fb/posters/b7bc7667d87058be63b5bdd8060e1279/b7bc7667d87058be63b5bdd8060e1279.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - People",Sur Zone - J'ai fini en boite avec Bilal Hassani et tous ses potes
 bfmplay://NEUF_BRUT_BRT1021128577552
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021165925964" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021165925964_9C860Fb/posters/d6afb7db755c910fe740f9a9c4409d1b/d6afb7db755c910fe740f9a9c4409d1b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Environnement",Lucas explique - Ne plus se ruiner pour nos voitures, c’est possible ?
@@ -8235,6 +8275,8 @@ bfmplay://NEUF_BRUT_BRT1021163022776
 bfmplay://NEUF_BRUT_BRT1021157227934
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694734" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694734_9C860Fb/posters/760da16fba3d3259b8a2deba2ede99a9/760da16fba3d3259b8a2deba2ede99a9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Environnement",Lucas explique - Quand l'armée envoie les animaux en première ligne
 bfmplay://NEUF_BRUT_BRT1021056694734
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694582" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694582_9C860Fb/posters/6722bb0d1e9a2c25afc78ecd12314216/6722bb0d1e9a2c25afc78ecd12314216.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Environnement",Lucas explique - Que restera-t-il de cette île unique au monde ?
+bfmplay://NEUF_BRUT_BRT1021056694582
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694694" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694694_9C860Fb/posters/b32748ce1e2b644dd9a65dab9a3dd6a3/b32748ce1e2b644dd9a65dab9a3dd6a3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Environnement",Lucas explique - Pourquoi cette méga route française est-elle toujours inachevée ?
 bfmplay://NEUF_BRUT_BRT1021056694694
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021056694510" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021056694510_9C860Fb/posters/ae4289908785e45c50367b2a69c39dee/ae4289908785e45c50367b2a69c39dee.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Environnement",Lucas explique - IA : pourquoi l'arrivée de ces immenses centres de données en France divise autant ?
@@ -8249,12 +8291,12 @@ bfmplay://NEUF_BRUT_BRT1021111834717
 bfmplay://NEUF_BRUT_BRT1021056723151
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021062722014" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021062722014_9C860Fb/posters/fc9267305d1bbcdc9b9b04a587b0ed5f/fc9267305d1bbcdc9b9b04a587b0ed5f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Crime",Cartels - Episode 2
 bfmplay://NEUF_BRUT_BRT1021062722014
+#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047598344" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047598344_9C860Fb/posters/08198ea9a9812d6436c9b3b590a74ff5/08198ea9a9812d6436c9b3b590a74ff5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Cinéma",Dans la tête de - Ses angoisses, la pression, son nouveau rôle de père : dans la tête d'Orelsan
+bfmplay://NEUF_BRUT_BRT1021047598344
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021079128733" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021079128733_9C860Fb/posters/c142e5ca07ee42b14026cfb14c947f30/c142e5ca07ee42b14026cfb14c947f30.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Cinéma",Cannes - L'intelligence artificielle va t-elle nous absorber ? Rencontre avec le réalisateur Yann Gozlan
 bfmplay://NEUF_BRUT_BRT1021079128733
 #EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021130974456" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021130974456_9C860Fb/posters/28180daa6dc3c2848ca235e9058bcb1c/28180daa6dc3c2848ca235e9058bcb1c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Cinéma",Cannes - Vincent Cassel balance ses vérités (La Haine, Black Swan, Histoires parallèles…)
 bfmplay://NEUF_BRUT_BRT1021130974456
-#EXTINF:-1 tvg-id="bfmplay-NEUF_BRUT_BRT1021047598344" tvg-logo="https://io-fsly.cdn.rmcplus.fr/imagescaler002/rmcbfm/production/assets/1021047598344_9C860Fb/posters/08198ea9a9812d6436c9b3b590a74ff5/08198ea9a9812d6436c9b3b590a74ff5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Brut - Cinéma",Dans la tête de - Ses angoisses, la pression, son nouveau rôle de père : dans la tête d'Orelsan
-bfmplay://NEUF_BRUT_BRT1021047598344
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-alice-nevers-78424271" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Alice Nevers
 tf1live://L_FAST_v2l-ad-alice-nevers-78424271
 #EXTINF:-1 tvg-id="tf1live-L_FAST_v2l-ad-baby-boom-88288927" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png" tvg-country="FR" group-title="Live TF1+",Baby Boom
