@@ -237,6 +237,8 @@ tf1plus://tf1/nurses
 tf1plus://tf1/quai-numero-7
 #EXTINF:-1 tvg-id="tf1plus-tf1-royal-scandal-séries-étrangères" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-3-7e9d97-146f15-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Séries étrangères",Royal Scandal
 tf1plus://tf1/royal-scandal
+#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
+tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-feux-de-l-amour-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-d0af9e-eeb3a3-eb3bc6-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Les Feux de L Amour
 tf1plus://tf1/les-feux-de-l-amour
 #EXTINF:-1 tvg-id="tf1plus-tfx-sisbro-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-sisbro-910f53-300606-423c65-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Sisbro
@@ -247,8 +249,6 @@ tf1plus://tf1/demain-nous-appartient
 tf1plus://tf1/ici-tout-commence
 #EXTINF:-1 tvg-id="tf1plus-tf1-plus-belle-la-vie-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-png-1a22bd-07a926-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Plus Belle la Vie
 tf1plus://tf1/plus-belle-la-vie
-#EXTINF:-1 tvg-id="tf1plus-tf1-amour-gloire-et-beaute-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait_amour-gloire-et-beaute-18a136-acda8e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Amour Gloire et Beaute
-tf1plus://tf1/amour-gloire-et-beaute
 #EXTINF:-1 tvg-id="tf1plus-tf1-le-remplacant-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-2b90cf-f7a85f-aadbb5-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Le Remplacant
 tf1plus://tf1/le-remplacant
 #EXTINF:-1 tvg-id="tf1plus-tf1-qui-a-tue-le-petit-emile-vos-programmes-en-avant-première-et-sans-pub" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-1-89fb0d-f110de-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Vos programmes en avant-première et sans pub",Qui A Tue le Petit Emile
@@ -2125,6 +2125,10 @@ tf1plus://tf1/rise-le-secret-des-mangroves-de-madagascar
 tf1plus://tf1/en-roues-libres
 #EXTINF:-1 tvg-id="tf1plus-lci-francois-xavier-menage-inspirants-top-10" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-2-30b580-eab0fc-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Francois Xavier Menage Inspirants
 tf1plus://lci/francois-xavier-menage-inspirants
+#EXTINF:-1 tvg-id="tf1plus-tf1-handi-gang-changer-de-regard" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-64da8f-fd85b2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Changer de regard",Handi Gang
+tf1plus://tf1/handi-gang
+#EXTINF:-1 tvg-id="tf1plus-tf1-lycee-toulouse-lautrec-changer-de-regard" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-506cca-738d67-b9254b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Changer de regard",Lycee Toulouse Lautrec
+tf1plus://tf1/lycee-toulouse-lautrec
 #EXTINF:-1 tvg-id="tf1plus-tmc-cest-pour-demain-à-chacun-son-impact-positif" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-af4cd7-640121-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - À chacun son impact positif",Cest Pour Demain
 tf1plus://tmc/cest-pour-demain
 #EXTINF:-1 tvg-id="tf1plus-tmc-terres-durgence-à-chacun-son-impact-positif" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-6ec793-77539f-cce80a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - À chacun son impact positif",Terres Durgence
@@ -2215,14 +2219,10 @@ tf1plus://tf1/les-enfoires-restos-du-coeur
 tf1plus://lci/la-grande-immersion
 #EXTINF:-1 tvg-id="tf1plus-tf1-touchees-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-b5946d-f24431-a0a082-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Touchees
 tf1plus://tf1/touchees
-#EXTINF:-1 tvg-id="tf1plus-tf1-handi-gang-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-64da8f-fd85b2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Handi Gang
-tf1plus://tf1/handi-gang
 #EXTINF:-1 tvg-id="tf1plus-tf1-play4life-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-play4life_v2-afc79c-125268-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Play4life
 tf1plus://tf1/play4life
 #EXTINF:-1 tvg-id="tf1plus-tf1-tu-vivras-ma-fille-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-tu-vivras-ma-fille-fe8768-a30d7e-c8a03a-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Tu Vivras Ma Fille
 tf1plus://tf1/tu-vivras-ma-fille
-#EXTINF:-1 tvg-id="tf1plus-tf1-lycee-toulouse-lautrec-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/flux-program-card-portrait-1-png-506cca-738d67-b9254b-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Lycee Toulouse Lautrec
-tf1plus://tf1/lycee-toulouse-lautrec
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-randonneuses-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-les-randonneuses-2-e7452c-f9bffd-aea77c-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Les Randonneuses
 tf1plus://tf1/les-randonneuses
 #EXTINF:-1 tvg-id="tf1plus-tf1-pourquoi-je-vis-pour-tous" tvg-logo="https://photos.tf1.fr/217/289/flux-vignette-portrait-849825-69eab1-5f9780-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Pour tous",Pourquoi Je Vis
@@ -2277,6 +2277,8 @@ tf1plus://tf1/les-schtroumpfs
 tf1plus://tf1/kallys-mashup-la-voix-de-la-pop-835
 #EXTINF:-1 tvg-id="tf1plus-tf1-robin-des-bois-top-10" tvg-logo="https://photos.tf1.fr/217/289/vignette-portrait-robin-des-bois-saison-3-91a019-7f0ebd-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Top 10",Robin des Bois
 tf1plus://tf1/robin-des-bois
+#EXTINF:-1 tvg-id="tf1plus-tf1-dora-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dora-f2abdd-e860a2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Dora
+tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-louca-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-478edb-c16718-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Louca
 tf1plus://tf1/louca
 #EXTINF:-1 tvg-id="tf1plus-tf1-les-chapardeurs-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-676f19-9ca631-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Les Chapardeurs
@@ -2291,8 +2293,6 @@ tf1plus://tf1/winx-club-la-magie-est-de-retour
 tf1plus://tf1/migali
 #EXTINF:-1 tvg-id="tf1plus-tf1-hello-kitty-super-style-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-e12d33-5f8e32-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Hello Kitty Super Style
 tf1plus://tf1/hello-kitty-super-style
-#EXTINF:-1 tvg-id="tf1plus-tf1-dora-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-dora-f2abdd-e860a2-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Dora
-tf1plus://tf1/dora
 #EXTINF:-1 tvg-id="tf1plus-tf1-ralph-et-les-dinosaures-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-jpg-960773-56b37f-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Ralph et les Dinosaures
 tf1plus://tf1/ralph-et-les-dinosaures
 #EXTINF:-1 tvg-id="tf1plus-tf1-witch-detectives-nouveaux-épisodes" tvg-logo="https://photos.tf1.fr/217/289/program-card-portrait-1-637a39-4f368e-0@1x.avif" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Nouveaux épisodes",Witch Detectives
