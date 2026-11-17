@@ -19139,6 +19139,8 @@ m6play://gulli/21382
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-9509c47c-1e23-4a03-893d-6d62fddbee47" tvg-logo="https://medias.france.tv/bc8r8K32wY9J_dje6eXdL3aUoUo/400x0/filters:quality(85)/1/h/f/php3itfh1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Nous la France
+francetv://9509c47c-1e23-4a03-893d-6d62fddbee47
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-c9ca47de-2d1b-429e-8076-7084268b0730" tvg-logo="https://medias.france.tv/OHUDCeW0YIY_nXY6_4QK1tCCYgI/400x0/filters:quality(85)/y/u/x/phphejxuy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La traversée de Paris
@@ -19365,10 +19367,10 @@ francetv://program/france-3_outremer-l-info
 francetv://program/france-3_outremer-story
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/JiZEYyX78I1QlbE9OFU7E4hkfTE/400x0/filters:quality(85)/7/j/b/phpspcbj7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
-#EXTINF:-1 tvg-id="francetv-96386036-da87-4939-a49f-3d943b2ccfbd" tvg-logo="https://medias.france.tv/6oPFwhPbcznAMe6LS7deZfRoouQ/400x0/filters:quality(85)/o/n/s/phpld8sno.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 16 novembre 2026
-francetv://96386036-da87-4939-a49f-3d943b2ccfbd
-#EXTINF:-1 tvg-id="francetv-c5b0e098-7ed5-4fc7-83e1-5b0420b2c4c1" tvg-logo="https://medias.france.tv/KI-8byNp5KWfXjHTnZwLhE68oP8/400x0/filters:quality(85)/b/x/x/php4lzxxb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 17 novembre 2026
-francetv://c5b0e098-7ed5-4fc7-83e1-5b0420b2c4c1
+#EXTINF:-1 tvg-id="francetv-b170ec5e-07e5-42fd-af96-42e2490d4d15" tvg-logo="https://medias.france.tv/6oPFwhPbcznAMe6LS7deZfRoouQ/400x0/filters:quality(85)/o/n/s/phpld8sno.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du lundi 16 novembre 2026
+francetv://b170ec5e-07e5-42fd-af96-42e2490d4d15
+#EXTINF:-1 tvg-id="francetv-6b9a051a-3635-4b67-af21-95fb73bd5e2f" tvg-logo="https://medias.france.tv/KI-8byNp5KWfXjHTnZwLhE68oP8/400x0/filters:quality(85)/b/x/x/php4lzxxb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mardi 17 novembre 2026
+francetv://6b9a051a-3635-4b67-af21-95fb73bd5e2f
 #EXTINF:-1 tvg-id="francetv-1ce30cf2-25f1-4130-8a68-d29ee583e698" tvg-logo="https://medias.france.tv/5KiqYc1BPIFxTK-fGTxGGTja-xY/400x0/filters:quality(85)/v/w/3/phpit53wv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du mercredi 18 novembre 2026
 francetv://1ce30cf2-25f1-4130-8a68-d29ee583e698
 #EXTINF:-1 tvg-id="francetv-097e0eae-2a9f-42e1-97a4-3af248a0340b" tvg-logo="https://medias.france.tv/D-iBfeXOQ1NpBbrMJdyrL4MI3ME/400x0/filters:quality(85)/q/j/g/php3u3gjq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Un si grand soleil — Épisode du jeudi 19 novembre 2026
@@ -19529,6 +19531,8 @@ francetv://program/france-3_duels-en-familles-le-match-des-regions
 francetv://0d9dcd58-e964-47f5-a89b-bcfe725ca476
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/-4YgYlwx7cOBBVRAinmthZVnP94/400x533/filters:quality(85)/f/c/j/php6gvjcf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
+#EXTINF:-1 tvg-id="francetv-276f1b73-8f8b-4f62-b2f2-4f8bc2683821" tvg-logo="https://medias.france.tv/MwshNndtoWOFI8m70X8DR2Nw-Vk/1600x1200/filters:quality(85)/d/o/x/phpagfxod.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Une saison blanche et sèche
+francetv://276f1b73-8f8b-4f62-b2f2-4f8bc2683821
 #EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Captives
 francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-ef133f6e-57b5-4ea6-8ed7-ddf1045c74dd" tvg-logo="https://medias.france.tv/CMMlC5PLMDDWNMFe-GgXb5HsGFc/400x0/filters:quality(85)/s/l/d/phpx4zdls.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",La science des rêves
@@ -19627,7 +19631,7 @@ francetv://program/france-4_les-as-de-la-jungle-a-la-rescousse
 francetv://program/france-4_c-est-toujours-pas-sorcier
 #EXTINF:-1 tvg-id="francetv-bc7bac5a-7950-4838-95ff-92c1994bdbbc" tvg-logo="https://medias.france.tv/E2-zz-Lq7yyJLOyAuSrleZQt6nk/400x0/filters:quality(85)/m/2/k/phpodvk2m.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Tip Top
 francetv://bc7bac5a-7950-4838-95ff-92c1994bdbbc
-#EXTINF:-1 tvg-id="francetv-ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b" tvg-logo="https://medias.france.tv/ubzIc7R0cWeuE9_CpKO-GKOfTlc/400x0/filters:quality(85)/w/f/i/phpkirifw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Chez nous
+#EXTINF:-1 tvg-id="francetv-ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b" tvg-logo="https://medias.france.tv/hzWZtHm_4CjY09zt6FS-pmHKE6Y/400x533/filters:quality(85)/h/i/o/phplieoih.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Chez nous
 francetv://ad8bf3e4-736b-4d94-aeb8-b641a5c7a73b
 #EXTINF:-1 tvg-id="francetv-aff69234-147a-4b1b-9603-cb4811c06a68" tvg-logo="https://medias.france.tv/2G7OyVovl6cjOtnyBzQnknzfbKA/400x0/filters:quality(85)/b/a/5/f60c23278bcf43d6aa501ca7718875ab.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",L'ordre des médecins
 francetv://aff69234-147a-4b1b-9603-cb4811c06a68
@@ -19637,7 +19641,7 @@ francetv://7d837b1b-6fba-448d-a51b-221070ae8860
 francetv://29b77474-5c26-45b8-8a06-087535d6c8a6
 #EXTINF:-1 tvg-id="francetv-4424d2bf-3d6b-42c9-8e33-7ec32474bd2c" tvg-logo="https://medias.france.tv/xCoTMjt5EIhL1ImQac3eWY3uJIw/400x0/filters:quality(85)/4/a/b/52fb18dd36954870a37652cf7aba7ba4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",The Usual suspects
 francetv://4424d2bf-3d6b-42c9-8e33-7ec32474bd2c
-#EXTINF:-1 tvg-id="francetv-ef21e1fd-e553-4f15-a515-466d6ee6e7a8" tvg-logo="https://medias.france.tv/1X1yZLMAsTn2fDElM3_G_2pOe9E/400x0/filters:quality(85)/r/a/o/phpjxwoar.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Home
+#EXTINF:-1 tvg-id="francetv-ef21e1fd-e553-4f15-a515-466d6ee6e7a8" tvg-logo="https://medias.france.tv/GSSCMkLM0IAhQK3KVoF9vm07yA8/1600x1200/filters:quality(85)/q/j/m/phpjvvmjq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Home
 francetv://ef21e1fd-e553-4f15-a515-466d6ee6e7a8
 #EXTINF:-1 tvg-id="francetv-08797852-c095-4d5f-802f-8e5a8377a693" tvg-logo="https://medias.france.tv/UZSTX78H0yQal7A1nCy1uySUHMM/400x0/filters:quality(85)/8/o/d/phpkzvdo8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Les Marchands d'étoiles
 francetv://08797852-c095-4d5f-802f-8e5a8377a693
@@ -20593,10 +20597,10 @@ francetv://program/france-3_les-enquetes-de-vera
 francetv://225758a4-9b61-4d3f-ad7a-60243de52345
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/JiZEYyX78I1QlbE9OFU7E4hkfTE/400x0/filters:quality(85)/7/j/b/phpspcbj7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
-#EXTINF:-1 tvg-id="francetv-96386036-da87-4939-a49f-3d943b2ccfbd" tvg-logo="https://medias.france.tv/6oPFwhPbcznAMe6LS7deZfRoouQ/400x0/filters:quality(85)/o/n/s/phpld8sno.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 16 novembre 2026
-francetv://96386036-da87-4939-a49f-3d943b2ccfbd
-#EXTINF:-1 tvg-id="francetv-c5b0e098-7ed5-4fc7-83e1-5b0420b2c4c1" tvg-logo="https://medias.france.tv/KI-8byNp5KWfXjHTnZwLhE68oP8/400x0/filters:quality(85)/b/x/x/php4lzxxb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 17 novembre 2026
-francetv://c5b0e098-7ed5-4fc7-83e1-5b0420b2c4c1
+#EXTINF:-1 tvg-id="francetv-b170ec5e-07e5-42fd-af96-42e2490d4d15" tvg-logo="https://medias.france.tv/6oPFwhPbcznAMe6LS7deZfRoouQ/400x0/filters:quality(85)/o/n/s/phpld8sno.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 16 novembre 2026
+francetv://b170ec5e-07e5-42fd-af96-42e2490d4d15
+#EXTINF:-1 tvg-id="francetv-6b9a051a-3635-4b67-af21-95fb73bd5e2f" tvg-logo="https://medias.france.tv/KI-8byNp5KWfXjHTnZwLhE68oP8/400x0/filters:quality(85)/b/x/x/php4lzxxb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mardi 17 novembre 2026
+francetv://6b9a051a-3635-4b67-af21-95fb73bd5e2f
 #EXTINF:-1 tvg-id="francetv-1ce30cf2-25f1-4130-8a68-d29ee583e698" tvg-logo="https://medias.france.tv/5KiqYc1BPIFxTK-fGTxGGTja-xY/400x0/filters:quality(85)/v/w/3/phpit53wv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du mercredi 18 novembre 2026
 francetv://1ce30cf2-25f1-4130-8a68-d29ee583e698
 #EXTINF:-1 tvg-id="francetv-097e0eae-2a9f-42e1-97a4-3af248a0340b" tvg-logo="https://medias.france.tv/D-iBfeXOQ1NpBbrMJdyrL4MI3ME/400x0/filters:quality(85)/q/j/g/php3u3gjq.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du jeudi 19 novembre 2026
@@ -21387,8 +21391,8 @@ francetv://5c8d2ecf-48b1-477a-8a8e-c02b8d14e375
 francetv://program/documentaires_documentaires-societe_narcorama-il-etait-une-fois-marseille
 #EXTINF:-1 tvg-id="francetv-292eef7b-b6f8-426a-bf73-c85aa1f7a3ca" tvg-logo="https://medias.france.tv/SuItkJZBuDax1GGM1GV7Q-b66aI/400x0/filters:quality(85)/h/2/y/phpt6dy2h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Échappées belles — Bordelais, un certain art de vivre
 francetv://292eef7b-b6f8-426a-bf73-c85aa1f7a3ca
-#EXTINF:-1 tvg-id="francetv-9c50c8f0-7c4f-47fd-8548-3723af3f0cbb" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Intelligence artificielle : L'ultime invention humaine ?
-francetv://9c50c8f0-7c4f-47fd-8548-3723af3f0cbb
+#EXTINF:-1 tvg-id="francetv-3c9ce731-627b-4051-8d60-36e28e3a3976" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Intelligence artificielle : L'ultime invention humaine ?
+francetv://3c9ce731-627b-4051-8d60-36e28e3a3976
 #EXTINF:-1 tvg-id="francetv-prog-france-3_verdun-300-jours-300-nuits" tvg-logo="https://medias.france.tv/Btz_XeS3ToPl1M6bnwT3PPp3FtU/400x533/filters:quality(85)/7/w/g/phptdvgw7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Verdun : 300 jours, 300 nuits
 francetv://program/france-3_verdun-300-jours-300-nuits
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/Lm-Pss-5QetmpPMm2HHddoT8FBE/1600x1200/filters:quality(85)/j/b/u/phpdrzubj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Notre sélection",Vendée Globe, Seuls autour du monde
@@ -21401,8 +21405,8 @@ francetv://2c0f2a17-a5e1-47b6-9dcc-46c40db48716
 francetv://f4a92de1-6cff-4297-a87c-119c3b35e88c
 #EXTINF:-1 tvg-id="francetv-cb7683b2-e1a0-439c-b1d4-79f24af3b42d" tvg-logo="https://medias.france.tv/ynfBahpkwCAqCjlvTTv_D5DbtIk/400x0/filters:quality(85)/b/8/a/0bdade9eebf842519891604bf5c0ba8b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",13h15, le dimanche — Fractures sociales
 francetv://cb7683b2-e1a0-439c-b1d4-79f24af3b42d
-#EXTINF:-1 tvg-id="francetv-9c50c8f0-7c4f-47fd-8548-3723af3f0cbb" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",Intelligence artificielle : L'ultime invention humaine ?
-francetv://9c50c8f0-7c4f-47fd-8548-3723af3f0cbb
+#EXTINF:-1 tvg-id="francetv-3c9ce731-627b-4051-8d60-36e28e3a3976" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",Intelligence artificielle : L'ultime invention humaine ?
+francetv://3c9ce731-627b-4051-8d60-36e28e3a3976
 #EXTINF:-1 tvg-id="francetv-d705c429-c1bc-4945-9c25-f93e5ee4a4a9" tvg-logo="https://medias.france.tv/n9Kg1KLkUJgtKUxjNPcmdLAORtU/400x0/filters:quality(85)/v/m/a/php2rsamv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",Le plus beau pays du monde opus 4 — Le plus beau pays du monde, Opus 4
 francetv://d705c429-c1bc-4945-9c25-f93e5ee4a4a9
 #EXTINF:-1 tvg-id="francetv-c01c723d-4e56-4b49-8d04-af91bce71a1f" tvg-logo="https://medias.france.tv/hbx5sIelD4aykJGqTA0GuqdGMzw/400x0/filters:quality(85)/0/b/e/912d16684cab4b9b821c9cc6c87f3eb0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",France-Cambodge, si loin, si proche
@@ -21437,6 +21441,8 @@ francetv://50916937-481a-4632-aad8-d484df6486a9
 francetv://63171038-44f7-4033-89c9-d3387c497a03
 #EXTINF:-1 tvg-id="francetv-2124a96d-c420-439f-80cc-f8d5e72b265a" tvg-logo="https://medias.france.tv/1Tu6cEIHf1w4t_3HKIb_SMeHkWk/400x0/filters:quality(85)/k/j/q/phpqroqjk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Les nouveautés à ne pas manquer",Lâche ton tel
 francetv://2124a96d-c420-439f-80cc-f8d5e72b265a
+#EXTINF:-1 tvg-id="francetv-9509c47c-1e23-4a03-893d-6d62fddbee47" tvg-logo="https://medias.france.tv/bc8r8K32wY9J_dje6eXdL3aUoUo/400x0/filters:quality(85)/1/h/f/php3itfh1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Lutte contre le racisme et l’antisémitisme",Nous la France
+francetv://9509c47c-1e23-4a03-893d-6d62fddbee47
 #EXTINF:-1 tvg-id="francetv-cff60055-5a19-43f4-9731-9a965abe6ddf" tvg-logo="https://medias.france.tv/3DMNnlyk_KXLV5ssdAQNq_hSY7Y/400x0/filters:quality(85)/n/1/s/phprzhs1n.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Lutte contre le racisme et l’antisémitisme",Mission info — Comment peut-on lutter contre le racisme ?
 francetv://cff60055-5a19-43f4-9731-9a965abe6ddf
 #EXTINF:-1 tvg-id="francetv-prog-arte_la-haine-blanche" tvg-logo="https://medias.france.tv/DW6nG3Zl69PMI7MTBqNFIcHKbCw/400x0/filters:quality(85)/m/z/q/phphzlqzm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Lutte contre le racisme et l’antisémitisme",La haine blanche
@@ -22349,6 +22355,8 @@ francetv://2e93817f-f58d-4c52-8187-5e1483659fd3
 francetv://d6389f2e-b4de-4520-918e-31ccc79784ab
 #EXTINF:-1 tvg-id="francetv-a28581e1-a8a4-4fef-8b9a-ed99d3447a6f" tvg-logo="https://medias.france.tv/Ewtv9EjgKYZvIVnaWjvMdPlhkes/400x533/filters:quality(85)/k/u/7/phpw9y7uk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Le cinéma du réel",25 nuances de doc — 20 jours à Marioupol
 francetv://a28581e1-a8a4-4fef-8b9a-ed99d3447a6f
+#EXTINF:-1 tvg-id="francetv-276f1b73-8f8b-4f62-b2f2-4f8bc2683821" tvg-logo="https://medias.france.tv/MwshNndtoWOFI8m70X8DR2Nw-Vk/1600x1200/filters:quality(85)/d/o/x/phpagfxod.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Une saison blanche et sèche
+francetv://276f1b73-8f8b-4f62-b2f2-4f8bc2683821
 #EXTINF:-1 tvg-id="francetv-c9ca47de-2d1b-429e-8076-7084268b0730" tvg-logo="https://medias.france.tv/OHUDCeW0YIY_nXY6_4QK1tCCYgI/400x0/filters:quality(85)/y/u/x/phphejxuy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",La traversée de Paris
 francetv://c9ca47de-2d1b-429e-8076-7084268b0730
 #EXTINF:-1 tvg-id="francetv-b3b3a43b-b65b-46d6-883f-d598c45566db" tvg-logo="https://medias.france.tv/gREM2W7djoYYu_sv3r_bm5K_c0Y/400x0/filters:quality(85)/f/v/w/phpgzdwvf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Classiques du cinéma",Cinéma de minuit — Sept jours en mai
@@ -22785,6 +22793,8 @@ francetv://program/france-5_c-ce-soir
 francetv://program/france-5_c-pas-si-loin
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meteo-a-la-carte" tvg-logo="https://medias.france.tv/i1QlbIGa7cIb0f4xdMOsdbmT6NQ/400x533/filters:quality(85)/r/l/x/phpvirxlr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Magazines",Météo à la carte
 francetv://program/france-3_meteo-a-la-carte
+#EXTINF:-1 tvg-id="francetv-9509c47c-1e23-4a03-893d-6d62fddbee47" tvg-logo="https://medias.france.tv/bc8r8K32wY9J_dje6eXdL3aUoUo/400x0/filters:quality(85)/1/h/f/php3itfh1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Nous la France
+francetv://9509c47c-1e23-4a03-893d-6d62fddbee47
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/LpJoZETH2n9dY6CY6yVoKmrf200/400x533/filters:quality(85)/a/o/b/phpny9boa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
 #EXTINF:-1 tvg-id="francetv-cb7683b2-e1a0-439c-b1d4-79f24af3b42d" tvg-logo="https://medias.france.tv/ynfBahpkwCAqCjlvTTv_D5DbtIk/400x0/filters:quality(85)/b/8/a/0bdade9eebf842519891604bf5c0ba8b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",13h15, le dimanche — Fractures sociales
