@@ -57,7 +57,7 @@ tf1plus://lci/18h-yves-calvi
 tf1plus://lci/20h-haddad
 #EXTINF:-1 tvg-id="tf1plus-lci-20h-rochebin-smx" tvg-logo="https://photos.tf1.fr/1200/720/20h-rochebin-du-mardi-10-novembre-2026-04818c-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",20H Rochebin
 tf1plus://lci/20h-rochebin
-#EXTINF:-1 tvg-id="tf1plus-lci-24h-pujadas-l-info-en-questions-smx" tvg-logo="https://photos.tf1.fr/1200/720/24h-du-lundi-9-novembre-2026-696f00-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",24H Pujadas
+#EXTINF:-1 tvg-id="tf1plus-lci-24h-pujadas-l-info-en-questions-smx" tvg-logo="https://photos.tf1.fr/1200/720/24h-du-lundi-9-novembre-2026-696f00-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",24H Pujadas
 tf1plus://lci/24h-pujadas-l-info-en-questions
 #EXTINF:-1 tvg-id="tf1plus-lci-abda-a-montargis-smx" tvg-logo="https://photos.tf1.fr/1200/720/abda-a-montargis-se-soigner-en-france-mission-impossible-cdbcba-a4651b-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Abda à Montargis
 tf1plus://lci/abda-a-montargis
@@ -5609,6 +5609,8 @@ tf1plus://tfx/la-folie-des-passions
 tf1plus://tfx/la-villa-des-coeurs-brises
 #EXTINF:-1 tvg-id="tf1plus-tfx-le-grand-betisier-smx" tvg-logo="https://photos.tf1.fr/1200/720/2107410_vignettereplaybigbetisier-263d6b-27c507-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Le BIG Bêtisier
 tf1plus://tfx/le-grand-betisier
+#EXTINF:-1 tvg-id="tf1plus-tfx-le-hobbit-un-voyage-inattendu-smx" tvg-logo="https://photos.tf1.fr/1200/720/le-hobbit-un-voyage-inattendu-e70549-94e24c-0@1x.jpg" tvg-country="FR" tvg-type="movie" group-title="Replay TF1+ Films - Catalogue",Le Hobbit : Un voyage inattendu
+tf1plus://tfx/le-hobbit-un-voyage-inattendu
 #EXTINF:-1 tvg-id="tf1plus-tfx-les-anges-smx" tvg-logo="https://photos.tf1.fr/1200/720/2118514_lesanges26_ep08_nicolojustine-2f91ef-c971ae-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Les Anges
 tf1plus://tfx/les-anges
 #EXTINF:-1 tvg-id="tf1plus-tfx-les-filles-d-a-cote-smx" tvg-logo="https://photos.tf1.fr/1200/720/les-filles-da-cote-s08-e12-adeline-9d5ab1-a28f9f-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Séries - Catalogue",Les Filles d'à côté
@@ -5875,6 +5877,8 @@ tf1plus://tmc/les-kardashian
 tf1plus://tmc/les-mysteres-de-l-amour
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-reportages-de-martin-weill-kebab-canon-francais-quinoa-la-cuisine-identitaire-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-on-fait-quoi-si-tout-seffondre-p2-9934da-a83ba3-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Les reportages de Martin Weill - Kebab, canon français, quinoa... la cuisine identitaire
 tf1plus://tmc/les-reportages-de-martin-weill-kebab-canon-francais-quinoa-la-cuisine-identitaire
+#EXTINF:-1 tvg-id="tf1plus-tmc-les-reportages-de-martin-weill-les-nouveaux-aristos-smx" tvg-logo="https://photos.tf1.fr/1200/720/partie-1-ecba51-a55fe9-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Les reportages de Martin Weill - Les nouveaux aristos
+tf1plus://tmc/les-reportages-de-martin-weill-les-nouveaux-aristos
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-reportages-de-martin-weill-liban-une-jeunesse-sous-les-bombes-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-liban-p1-a6a9d5-fd19dd-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Les reportages de Martin Weill - Liban, une jeunesse sous les bombes
 tf1plus://tmc/les-reportages-de-martin-weill-liban-une-jeunesse-sous-les-bombes
 #EXTINF:-1 tvg-id="tf1plus-tmc-les-reportages-de-martin-weill-on-fait-quoi-si-cest-la-guerre-smx" tvg-logo="https://photos.tf1.fr/1200/720/program-card-landscape-on-fait-quoi-si-cest-la-guerre-p2-3b1b16-26e9b4-0@1x.jpg" tvg-country="FR" tvg-type="series" group-title="Replay TF1+ Émissions - Catalogue",Les reportages de Martin Weill - On fait quoi si c'est la guerre ?
