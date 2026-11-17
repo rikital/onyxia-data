@@ -8209,7 +8209,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/UYnczoC2KYx/sm385q5JaLUif5ni.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/zO6IMunOxRy/N1BV3CB21XQJG4K.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
 #EXTINF:-1 tvg-chno="125" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",125. LA QUOTIDIENNE DE LA ROUTE DU RHUM J.09 : SUIVEZ L'ÉMISSION [1080p-france.tv]
@@ -8426,7 +8426,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
-https://freem3u.xyz/api/live/play.m3u8?vid=96
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
@@ -8544,9 +8544,15 @@ https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",France 24 (1080p) [bugsfreeweb]
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="France TV backup - Autres",Euronews Russian (576p) [kilirushi]
-http://tmptv.sunduk.tv/CH31/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
+https://freem3u.xyz/api/live/play.m3u8?vid=96
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
