@@ -68,3 +68,21 @@ http://retire218.invalid/get.php?username=retire&password=retire&type=m3u
 # 219 : compte retiré le 2026-11-12 (aucune chaîne depuis plus de 10 jours)
 http://retire219.invalid/get.php?username=retire&password=retire&type=m3u
 tvim.live:80 TuriCikes asMR2jBTCLNQ   # conn 1/2 exp 10/12/2026, 20:23:00
+
+
+# 2026-11-17 - comptes extraits de l'appli EasyPlay (panneau StarIPTV / XUI.one
+#   85.137.55.250). Créés à la demande via easyapi.sh (POST /live-tv/api/v1/acquire,
+#   x-installation-token + x-device-id aléatoire), max_connections = 2 chacun,
+#   exp_date null. Un compte par ligne. Vérifiés auth:1 avant ajout.
+85.137.55.250:80 epd_6974f47d14ca9aea539f90c6d5929578 44b0d25c75e50a0220008987bc0356348640406bc81a9b37
+85.137.55.250:80 epd_bda7c960fa9cc7ae7eb28a811761100e 4c1a48c4a93d97491782c508f101ae10d1819b543b541640
+85.137.55.250:80 epd_c689f29ca43d2fbbc729f9a67e2702bb 2293346814aa3ddc2a181717f154b7c544cc1dd48211aa1b
+85.137.55.250:80 epd_78635b81da0b9f99be2b5a1c6ca6c5cd c7c187b287b80e6193f57ba11d64b22dc50843a4f06e8539
+85.137.55.250:80 epd_b1dd4bc748d5ecc1962d0eec86ab0034 0bf708641251dca031a78fbabd33f23d548c3952f4522694
+85.137.55.250:80 epd_531d731041a33743f8bdbecad2f67f28 69a0cc6d34df39dee9804327c8866906ec2f410f4e547efb
+85.137.55.250:80 epd_3a15b62c4dc8730abf0ebf7c469cc1f2 2ff6e94ee76180ef56daccb1f745a5c417b6628a19d15cb4
+85.137.55.250:80 epd_0eea60e94608c814bef3821995d22f89 50e7226008f80097a2334e67a27e2a633a0ff473d3734d29
+85.137.55.250:80 epd_22b12d1713b8176687da1e79e3834c11 b7238d366a68fe2204f896cd7779fcdc246030cdffe5f5aa
+85.137.55.250:80 epd_adde5695959baa319050e7367b911c85 29cc4531798f70f239e3daaf70272e20b44471b088e11e30
+85.137.55.250:80 epd_c0fafa0d50d7e465912d94c1badf357e df93408eaa3dcb154aa44bc21c72d6878a40a10eac3fc09c
+85.137.55.250:80 epd_a1ae1543a36e97fb09670e2263b35c8a 425eb6953fa4bdf08c095dcf8baad3e919ea3d305a3a997b
