@@ -1408,7 +1408,7 @@ https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Musique - Musique",M6 Music
 https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 #EXTINF:-1 tvg-id="Melody.fr@SD" tvg-logo="https://i.imgur.com/9GVyQ6x.png" group-title="Musique - Musique",Melody (288p)
-https://live.creacast.com/telemelody/smil:telemelody-yjvCxE7x.smil/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-logo="https://i.imgur.com/auNdGeW.png" group-title="Musique - Musique",Mezzo (576p)
 http://92.180.26.103/stream/62/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Musique - Musique",Mezzo Live
@@ -1457,7 +1457,7 @@ https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Lifestyle - Lifestyle",Motorvision.tv (French)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Lifestyle - Lifestyle",MyZen TV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimaux.us@France" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="Lifestyle - Lifestyle",Pluto TV Animaux
 https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCuisine.us@France" tvg-logo="https://i.imgur.com/OuAi5ef.png" group-title="Lifestyle - Lifestyle",Pluto TV Cuisine
@@ -2641,7 +2641,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="RTL9.lu@SD" group-title="Divertissement - Divertissement",RTL9 (720p)
-http://145.239.5.177/308/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="PressTVFrench.ir@SD" group-title="Info - Info",Press TV French (1080p)
@@ -4866,7 +4866,7 @@ http://41.205.77.102/KTO/index.m3u8
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="Teva.fr@SD" group-title="Nouveautés FR - Nouveautés",Teva (720p)
-http://145.239.5.177/356/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
@@ -5425,7 +5425,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr@SD" group-title="France TV backup - Autres",Paris Premiere (1080p) [iptv-org-fr]
-http://193.254.245.162/PARIS-PREMIERE/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="LeMondeen24h.cd@SD" group-title="Info - Info",Le Monde en 24h
@@ -5501,7 +5501,7 @@ http://99.27.51.147:8080/M6/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="RTL9.lu@SD" group-title="France TV backup - Autres",RTL9 (1080p) [iptv-org-fr]
-http://145.239.5.177/308/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="M6.fr@HD" group-title="France TV backup - Autres",M6 (1080p) [iptv-org-fr]
@@ -5980,17 +5980,17 @@ https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u
 #EXTINF:-1 tvg-id="CapTerre.es@FR" group-title="France TV backup - Autres",Cap Terre (1080p) [iptv-org-fr]
 https://jmp2.uk/stvp-FRBC3900004DS
 #EXTINF:-1 tvg-id="M6Music.fr@SD" group-title="France TV backup - Autres",M6 Music (720p) [iptv-org-fr]
-http://145.239.5.177/320/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr@SD" group-title="France TV backup - Autres",RMC Life (1080p) [iptv-org-fr]
 http://145.239.5.177/333/index.m3u8
 #EXTINF:-1 tvg-id="Teva.fr@SD" group-title="France TV backup - Autres",Teva (1080p) [iptv-org-fr]
-http://145.239.5.177/356/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TFX.fr@SD" group-title="France TV backup - Autres",TFX (720p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0VXOameY1Hr5/59aTVvZGrGT1LDea.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="AB1.fr@SD" group-title="Divertissement - Divertissement",AB1 (720p)
-http://145.239.5.177/332/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Info ===
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="Info - Info",CGTN French (1080p)
@@ -5998,9 +5998,9 @@ https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-r
 
 # === Ajouts FR multi-sources : Nouveautés FR ===
 #EXTINF:-1 tvg-id="SerieClub.fr@SD" group-title="Nouveautés FR - Nouveautés",Serie Club (720p)
-http://145.239.5.177/355/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr@SD" group-title="Nouveautés FR - Nouveautés",TV Breizh (1080p)
-http://145.239.5.177/318/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Sport ===
 #EXTINF:-1 tvg-id="LCI.fr@HD" group-title="France TV backup - Autres",LCI HD (1080p) [iptv-org-fr]
@@ -7010,7 +7010,7 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-s
 
 # === Ajouts FR multi-sources : Généralistes ===
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" group-title="Généralistes - 100% Français",TV5Monde France Belgium Switzerland Monaco
-http://5.78.65.164/TV5Monde/index.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
 
 # === Ajouts FR multi-sources : Jeunesse ===
 #EXTINF:-1 group-title="Jeunesse - Jeunesse",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids - Jeunesse",Gulli
@@ -8209,7 +8209,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TrF1EWLOAoxS/gyEOdIpgywrSKG8.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/0Tpo7wEMwqGE/nh9d630qS5KJ3B6f.m3u8
 
 # === Nouveautes ParaTV (auto-ajoute) ===
 #EXTINF:-1 tvg-chno="125" tvg-country="FR" group-title="Nouveautes ParaTV - Nouveautés",125. LA QUOTIDIENNE DE LA ROUTE DU RHUM J.09 : SUIVEZ L'ÉMISSION [1080p-france.tv]
@@ -8462,7 +8462,69 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="Automotolachaine.fr@SD" group-title="France TV backup - Autres",Automoto la chaine (720p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr@SD" group-title="France TV backup - Autres",C Star (720p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr@HD" group-title="France TV backup - Autres",Comedy Central (France) HD (720p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr@CotedAzur" group-title="France TV backup - Autres",France 3 Cote d'Azur (720p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@SD" group-title="France TV backup - Autres",TF1 [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@SD" group-title="France TV backup - Autres",TMC (1080p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD" group-title="France TV backup - Autres",W9 (1080p) [iptv-org-fr]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch@SD" group-title="France TV backup - Autres",RTS 1 (Switzerland) (720p) [iptv-org-fra]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Animation ===
+#EXTINF:-1 tvg-id="Mangas.fr@SD" group-title="Animation - Jeunesse",Mangas (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Auto ===
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" group-title="Auto - Autres",Motorvision+ (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Cinéma ===
+#EXTINF:-1 tvg-id="Action.fr@SD" group-title="Cinéma - Films",Action (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Documentaire ===
+#EXTINF:-1 tvg-id="HistoireTV.fr@SD" group-title="Documentaire - Documentaires",Histoire TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Education ===
+#EXTINF:-1 tvg-id="Animaux.fr@SD" group-title="Education - Autres",Animaux (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Généralistes ===
+#EXTINF:-1 tvg-id="EspoirTV.cd@SD" group-title="Généralistes - 100% Français",Espoir TV (720p)
+https://stream.berosat.live/hls/espoir-tv-stream/espoir-tv-stream.m3u8
+
+# === Ajouts FR multi-sources : Nouveautés FR ===
+#EXTINF:-1 tvg-id="ToutelHistoire.fr@SD" group-title="Nouveautés FR - Nouveautés",Toute l'Histoire (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr@SD" group-title="Nouveautés FR - Nouveautés",Ushuaia TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="VaticanMedia.va@SD" group-title="Nouveautés FR - Nouveautés",Vatican Media (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Outdoor ===
+#EXTINF:-1 tvg-id="ChassePeche.fr@SD" group-title="Outdoor - Autres",Chasse & Peche (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Science ===
+#EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" group-title="Science - Autres",Science & Vie TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+
+# === Ajouts FR multi-sources : Séries ===
+#EXTINF:-1 tvg-id="CrimeDistrict.fr@SD" group-title="Séries - Séries",Crime District (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
