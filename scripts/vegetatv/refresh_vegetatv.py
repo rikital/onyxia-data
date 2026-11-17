@@ -266,6 +266,12 @@ def load_extra_servers():
             ln = ln.strip()
             if not ln or ln.startswith("#"):
                 continue
+            # 2026-11-17 : marqueur de priorite. Une ligne prefixee de "!" remonte son compte
+            #   au rang 1 (juste derriere les serveurs FR de marque) au lieu du rang 3 (dernier).
+            #   Permet de prioriser un panel extra fiable sans rien changer dans l'app.
+            prio = ln.startswith("!")
+            if prio:
+                ln = ln[1:].strip()
             xt = None   # (host, user, pass) pour le repli player_api
             if ln.startswith("http"):
                 url = ln
@@ -281,7 +287,7 @@ def load_extra_servers():
                 xt = (host.rstrip("/"), parts[1], parts[2])
                 url = "%s/get.php?username=%s&password=%s&type=m3u_plus&output=m3u8" % xt
             out.append({"pos": EXTRA_BASE_IDX + len(out), "url": url, "xt": xt,
-                        "isFr": True, "rank": 3, "ping": 0})
+                        "isFr": True, "rank": 1 if prio else 3, "ping": 0})
     return out
 
 def m3u_from_player_api(xt):
