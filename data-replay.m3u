@@ -19905,10 +19905,12 @@ francetv://program/franceinfo_l-invite-politique
 francetv://program/franceinfo_vrai-ou-faux-l-emission
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_la-matinale-franceinfo" tvg-logo="https://medias.france.tv/Uv9cSK_hkyX_Tq6nVMSnKosF7Kw/400x0/filters:quality(85)/z/s/m/php8oymsz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo
 francetv://program/franceinfo_la-matinale-franceinfo
-#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info" tvg-logo="https://medias.france.tv/0jV42ZCCrncVBfBwUQk3iNqIVeE/400x0/filters:quality(85)/a/y/e/phpxgzeya.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil
-francetv://program/franceinfo_le-fil-info
+#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info-matin" tvg-logo="https://medias.france.tv/nmMsQp7FYGd8kNjOjRCfIdv8TTo/400x0/filters:quality(85)/q/a/a/phpi14aaq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin
+francetv://program/franceinfo_le-fil-info-matin
 #EXTINF:-1 tvg-id="francetv-prog-info_jt_jt-en-lsf" tvg-logo="https://medias.france.tv/KPOuzQ-L_867UALidFHN75Nt-2M/400x0/filters:quality(85)/7/w/q/phpxusqw7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF
 francetv://program/info_jt_jt-en-lsf
+#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info-apres-midi" tvg-logo="https://medias.france.tv/RGXvHxSiEeEzG-_JiAhgoBbYXtQ/400x0/filters:quality(85)/j/n/y/phpaieynj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi
+francetv://program/franceinfo_le-fil-info-apres-midi
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-scan-info" tvg-logo="https://medias.france.tv/hZ78rotqATWLEOSXggmjAQH3UUM/400x0/filters:quality(85)/z/q/x/php4zdxqz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info
 francetv://program/franceinfo_le-scan-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_avant-le-20h" tvg-logo="https://medias.france.tv/bgtSOSSoioGkPEZ_E0jFkWCKdUI/400x0/filters:quality(85)/q/d/3/php80w3dq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h
