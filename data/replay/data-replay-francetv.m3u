@@ -833,7 +833,7 @@ francetv://program/franceinfo_l-invite-politique
 francetv://program/franceinfo_vrai-ou-faux-l-emission
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_la-matinale-franceinfo" tvg-logo="https://medias.france.tv/Uv9cSK_hkyX_Tq6nVMSnKosF7Kw/400x0/filters:quality(85)/z/s/m/php8oymsz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La Matinale Franceinfo
 francetv://program/franceinfo_la-matinale-franceinfo
-#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info" tvg-logo="https://medias.france.tv/0jV42ZCCrncVBfBwUQk3iNqIVeE/400x0/filters:quality(85)/a/y/e/phpxgzeya.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info
+#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info" tvg-logo="https://medias.france.tv/0jV42ZCCrncVBfBwUQk3iNqIVeE/400x0/filters:quality(85)/a/y/e/phpxgzeya.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil
 francetv://program/franceinfo_le-fil-info
 #EXTINF:-1 tvg-id="francetv-prog-info_jt_jt-en-lsf" tvg-logo="https://medias.france.tv/KPOuzQ-L_867UALidFHN75Nt-2M/400x0/filters:quality(85)/7/w/q/phpxusqw7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF
 francetv://program/info_jt_jt-en-lsf
@@ -2819,6 +2819,8 @@ francetv://program/france-2_laissez-vous-guider
 francetv://program/france-2_13h15-le-samedi
 #EXTINF:-1 tvg-id="francetv-prog-france-2_13h15-le-dimanche" tvg-logo="https://medias.france.tv/A9P1TKG4JIPcLc6kgVkj4NiuTkw/400x0/filters:quality(85)/7/x/l/phpfyflx7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Nos émissions",13h15, le dimanche
 francetv://program/france-2_13h15-le-dimanche
+#EXTINF:-1 tvg-id="francetv-4fdd0f88-ded3-4adc-98e8-65d8c95872dc" tvg-logo="https://medias.france.tv/F0EpnUwv2ODNMId4VSDslTlWXoo/400x0/filters:quality(85)/7/2/5/bed9f0932da04bf3bf1c001290e06527.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Beau geste — Leïla Bekhti
+francetv://4fdd0f88-ded3-4adc-98e8-65d8c95872dc
 #EXTINF:-1 tvg-id="francetv-a83b28f0-402a-4d8b-a25d-131a6a28c8e1" tvg-logo="https://medias.france.tv/XNFKabPRnvXaAaJq4peXXMkEGtM/400x0/filters:quality(85)/3/b/z/phpoyhzb3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Captives
 francetv://a83b28f0-402a-4d8b-a25d-131a6a28c8e1
 #EXTINF:-1 tvg-id="francetv-73b11647-0773-41eb-820a-49fa2faccf67" tvg-logo="https://medias.france.tv/ci5rSKvfRGs-Ff0pXGeIaUcP_2g/400x0/filters:quality(85)/c/9/b/bf58f84bd8974b249dadeb4d8f7e3b9c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - La sélection cinéma",Le roman de Jim
@@ -3987,7 +3989,7 @@ francetv://08ef8e40-d1f4-4fc8-b6c6-a9ce242b4476
 francetv://536671d0-0213-4808-9242-e4b36e2aa392
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_la-matinale-franceinfo" tvg-logo="https://medias.france.tv/Uv9cSK_hkyX_Tq6nVMSnKosF7Kw/400x0/filters:quality(85)/z/s/m/php8oymsz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - L'info en continu",La Matinale Franceinfo
 francetv://program/franceinfo_la-matinale-franceinfo
-#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info" tvg-logo="https://medias.france.tv/0jV42ZCCrncVBfBwUQk3iNqIVeE/400x0/filters:quality(85)/a/y/e/phpxgzeya.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - L'info en continu",Le fil info
+#EXTINF:-1 tvg-id="francetv-prog-franceinfo_le-fil-info" tvg-logo="https://medias.france.tv/0jV42ZCCrncVBfBwUQk3iNqIVeE/400x0/filters:quality(85)/a/y/e/phpxgzeya.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - L'info en continu",Le fil
 francetv://program/franceinfo_le-fil-info
 #EXTINF:-1 tvg-id="francetv-prog-france-24_dans-la-presse" tvg-logo="https://medias.france.tv/TTJfrlQi0H1BaupbZ1jgpQ5J7vM/400x0/filters:quality(85)/d/9/8/69e6b3b3e4ad4ff383fd5a0bd9a5845811ee25a4ad870dc66a06d24003a6989d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - L'info en continu",Dans la presse
 francetv://program/france-24_dans-la-presse
