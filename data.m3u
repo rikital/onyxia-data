@@ -2721,7 +2721,7 @@ https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="BblackClassik.fr" group-title="France TV backup - Autres",Bblack! Classik (1080p) [kilirushi]
-http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+https://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht@SD" group-title="France TV backup - Autres",Haiti News Channel (1080p) [iptv-org-fra]
@@ -8540,7 +8540,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France TV backup - Autres",Africanews English (720p) [kilirushi]
-https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 group-title="France TV backup - Autres",France 24 (1080p) [bugsfreeweb]
@@ -8575,6 +8575,12 @@ http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" group-title="France TV backup - Autres",Africanews English (720p) [kilirushi]
+https://mumbai-edge.smartplaytv.in/AfricaNews/index.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
