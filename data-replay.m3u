@@ -19209,6 +19209,8 @@ m6play://gulli/21382
 m6play://m6replay/10015
 #EXTINF:-1 tvg-id="m6plus-9651" tvg-logo="https://images.6play.fr/v1/images/4261241/raw" tvg-country="FR" tvg-type="series" group-title="Thématique M6+ - Podcasts",Lheure du Crime
 m6play://m6replay/9651
+#EXTINF:-1 tvg-id="francetv-7ca10466-89fb-46c8-9acb-a05b1e9fd728" tvg-logo="https://medias.france.tv/qutzejBRSimjk6Mh0UGxpc3wAuY/400x0/filters:quality(85)/0/e/b/fc193315daf84c4a932f1f852e118be0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Noir comme neige — Chute libre
+francetv://7ca10466-89fb-46c8-9acb-a05b1e9fd728
 #EXTINF:-1 tvg-id="francetv-dbcd2326-c690-4c85-96b1-14d60da2adaf" tvg-logo="https://medias.france.tv/U9kpaqb_X8zhQCWj_nWLISOwosc/400x0/filters:quality(85)/m/0/t/phphtlt0m.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Signalements
 francetv://dbcd2326-c690-4c85-96b1-14d60da2adaf
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
@@ -19825,7 +19827,7 @@ francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festiva
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival" tvg-logo="https://medias.france.tv/BVoLGIPZImlbwb4PpeajseBJCtg/400x0/filters:quality(85)/2/7/x/phpkmqx72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Golden Coast Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival
-#EXTINF:-1 tvg-id="francetv-3d50f4cc-5730-4752-838c-e1bfa21df955" tvg-logo="https://medias.france.tv/5Fl91diY9wSq3DA1VaKreRoiPXg/400x0/filters:quality(85)/7/9/o/phpbxho97.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — Emission du mercredi 18 novembre 2026
+#EXTINF:-1 tvg-id="francetv-3d50f4cc-5730-4752-838c-e1bfa21df955" tvg-logo="https://medias.france.tv/5Fl91diY9wSq3DA1VaKreRoiPXg/400x0/filters:quality(85)/7/9/o/phpbxho97.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — Élisabeth Badinter, Céline Malraux, Erik Orsenna, Camille Pascal, Hemley Boum
 francetv://3d50f4cc-5730-4752-838c-e1bfa21df955
 #EXTINF:-1 tvg-id="francetv-8b342920-cd61-49d6-ae55-3d471e41eb0b" tvg-logo="https://medias.france.tv/mIcF4rQYaNQq0pbO325ubltq278/1600x1200/filters:quality(85)/l/w/z/phpa16zwl.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Les trésors enfouis du royaume de Shu
 francetv://8b342920-cd61-49d6-ae55-3d471e41eb0b
@@ -20061,8 +20063,16 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-90194075-1859-4f9f-89fa-49fb0bf817d8" tvg-logo="https://medias.france.tv/Z9JzpVTJQebX139MWnlTToddMqg/400x0/filters:quality(85)/6/3/3/189af6830c304a038f70b71ec7870336.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 19 novembre 2026
+francetv://90194075-1859-4f9f-89fa-49fb0bf817d8
 #EXTINF:-1 tvg-id="francetv-d7d7f84c-4ca3-49bb-a5cd-7cafde9e722d" tvg-logo="https://medias.france.tv/QSxiBUMJezWKsfVNhmGxsBcQusM/400x0/filters:quality(85)/b/0/0/1e285cc750fe4da581a346190be6800b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://d7d7f84c-4ca3-49bb-a5cd-7cafde9e722d
+#EXTINF:-1 tvg-id="francetv-93616e2a-2f6b-401f-a567-7f2c5feeb9c2" tvg-logo="https://medias.france.tv/kej9WQSxtxJ62DdzbzR6NxWDWpY/400x0/filters:quality(85)/b/f/5/78897239135b431186edd6a50e9af5fb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 19 novembre 2026
+francetv://93616e2a-2f6b-401f-a567-7f2c5feeb9c2
+#EXTINF:-1 tvg-id="francetv-b1eb3cd1-5b6e-4dc1-aa06-792bd222710f" tvg-logo="https://medias.france.tv/QTaU4vdeDHvvl82pDXSRZFP5jdA/400x0/filters:quality(85)/d/1/5/b607aaa0c8394a5da7d07e078a7e751d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
+francetv://b1eb3cd1-5b6e-4dc1-aa06-792bd222710f
+#EXTINF:-1 tvg-id="francetv-a5f37c79-69bd-41d3-bea0-a4758bb31e52" tvg-logo="https://medias.france.tv/74O7m_4fdwZSkVc381DCGS2ZQDA/400x0/filters:quality(85)/e/2/4/2c0926443df64eb8bcac413dfb9c342e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du mercredi 18 novembre 2026
+francetv://a5f37c79-69bd-41d3-bea0-a4758bb31e52
 #EXTINF:-1 tvg-id="francetv-7492b694-6f82-4d77-bdc2-ff4e51655648" tvg-logo="https://medias.france.tv/oXQ9P2fjrFoYyOdC8ph7-8Js3PY/400x0/filters:quality(85)/d/6/c/a1ae65bdce194ae490690212924f5c6d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du mercredi 18 novembre 2026
 francetv://7492b694-6f82-4d77-bdc2-ff4e51655648
 #EXTINF:-1 tvg-id="francetv-de366c7f-cc0c-4011-b2d0-bb4783b7698b" tvg-logo="https://medias.france.tv/i3y1AxtA59UFEYGqFm51sjmZqRk/400x0/filters:quality(85)/a/0/5/6ed0fa3567584fb6bffeffe866f4e50a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du mercredi 18 novembre 2026
@@ -20093,14 +20103,6 @@ francetv://8231306c-7a52-4d29-a213-7c74af2d85ba
 francetv://d6af8993-5c97-4ce3-b2a3-c6c2874ed804
 #EXTINF:-1 tvg-id="francetv-a39ff017-2ae5-46b9-957f-7fbe8d8bb733" tvg-logo="https://medias.france.tv/ZArIN5QKvxhBeSWUa2vi2ZMSb6Y/400x0/filters:quality(85)/c/3/0/feab8910a0fe4cf0876c16d2ce27603c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du mardi 17 novembre 2026
 francetv://a39ff017-2ae5-46b9-957f-7fbe8d8bb733
-#EXTINF:-1 tvg-id="francetv-a465c199-998a-4692-b67a-1e005163ac6f" tvg-logo="https://medias.france.tv/vV9xQ6Y4XhUttGXG_KvPMKfo5z0/400x0/filters:quality(85)/f/e/8/f55dd0ce084043918c4a61bb3cc7f8ef.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du mardi 17 novembre 2026
-francetv://a465c199-998a-4692-b67a-1e005163ac6f
-#EXTINF:-1 tvg-id="francetv-a67d1d54-e2b7-11f1-8684-957ddefc544d" tvg-logo="https://medias.france.tv/S8IIM605dcqb5ZjFGaxAAtHxdyE/400x0/filters:quality(85)/e/5/e/970d031c51e84bf2900d5b35ee1b4e5e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 17/11/2026 - Le fil info après-midi
-francetv://a67d1d54-e2b7-11f1-8684-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-c75d81c8-e2b5-11f1-8684-957ddefc544d" tvg-logo="https://medias.france.tv/cgZsVTrLkACfZ5OedhJdE0Bajvk/400x0/filters:quality(85)/b/3/c/d98f5b5f80b045518b8402a4007eac3b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 17/11/2026 - Le fil info matin
-francetv://c75d81c8-e2b5-11f1-8684-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-cbb918df-8492-4fb0-834e-41ab28768671" tvg-logo="https://medias.france.tv/4Oxd-jt4FiskOUSncSZ--BNTLr8/400x0/filters:quality(85)/d/5/5/f0597c7cfaf841eda0f30884e1c0d55d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du mardi 17 novembre 2026
-francetv://cbb918df-8492-4fb0-834e-41ab28768671
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
