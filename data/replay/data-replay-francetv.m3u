@@ -853,6 +853,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-11d22426-e409-11f1-88ed-19616fa871f9" tvg-logo="https://medias.france.tv/moHGRFP01VrPqqY4ForApOOoy2E/400x0/filters:quality(85)/2/e/9/583e1c3bfafa42748597c263a9e4f9e2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 19/11/2026 Le fil info 11H
+francetv://11d22426-e409-11f1-88ed-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-90194075-1859-4f9f-89fa-49fb0bf817d8" tvg-logo="https://medias.france.tv/Z9JzpVTJQebX139MWnlTToddMqg/400x0/filters:quality(85)/6/3/3/189af6830c304a038f70b71ec7870336.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 19 novembre 2026
 francetv://90194075-1859-4f9f-89fa-49fb0bf817d8
 #EXTINF:-1 tvg-id="francetv-d7d7f84c-4ca3-49bb-a5cd-7cafde9e722d" tvg-logo="https://medias.france.tv/QSxiBUMJezWKsfVNhmGxsBcQusM/400x0/filters:quality(85)/b/0/0/1e285cc750fe4da581a346190be6800b.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
@@ -891,8 +893,6 @@ francetv://2c616e19-2bf9-43dc-8a14-546aaae2eeb4
 francetv://8231306c-7a52-4d29-a213-7c74af2d85ba
 #EXTINF:-1 tvg-id="francetv-d6af8993-5c97-4ce3-b2a3-c6c2874ed804" tvg-logo="https://medias.france.tv/Ojs_zbvfShWlRXcmno0gRVhN8zw/400x0/filters:quality(85)/e/1/3/57abf77e3e314a4a83370baa507fe31e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du mardi 17 novembre 2026
 francetv://d6af8993-5c97-4ce3-b2a3-c6c2874ed804
-#EXTINF:-1 tvg-id="francetv-a39ff017-2ae5-46b9-957f-7fbe8d8bb733" tvg-logo="https://medias.france.tv/ZArIN5QKvxhBeSWUa2vi2ZMSb6Y/400x0/filters:quality(85)/c/3/0/feab8910a0fe4cf0876c16d2ce27603c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du mardi 17 novembre 2026
-francetv://a39ff017-2ae5-46b9-957f-7fbe8d8bb733
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_11-13-info" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",11/13 info
 francetv://program/franceinfo_11-13-info
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_12-13-info" tvg-logo="https://medias.france.tv/4suFsoieqrYYtVBAey55NsXR7aM/400x0/filters:quality(85)/j/k/e/phpwjhekj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",12/13 info
@@ -4031,29 +4031,31 @@ francetv://program/franceinfo_le-23h
 francetv://program/societe_leon-xiv-le-pape-en-france
 #EXTINF:-1 tvg-id="francetv-8fc00448-3fd1-4382-9ae8-4b145fc50085" tvg-logo="https://medias.france.tv/T8W1NHBjKo3ra6izJibOGDe5J0w/400x0/filters:quality(85)/w/n/n/phpm4qnnw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Place au spectacle — Sale race
 francetv://8fc00448-3fd1-4382-9ae8-4b145fc50085
-#EXTINF:-1 tvg-id="francetv-d498d007-f353-474f-8461-3de8e650a553" tvg-logo="https://medias.france.tv/vmif5Bud7Vgu509lFxudeVGD6tI/400x0/filters:quality(85)/z/r/e/phpvgserz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Vincent Niclo et le Choeur symphonique : Bel Canto Tour
+#EXTINF:-1 tvg-id="francetv-757f5f8a-868a-4762-974f-ebfe8ceef632" tvg-logo="https://medias.france.tv/DD5mlN1pLcdrpqqHcV5rc8j2y08/1600x1200/filters:quality(85)/4/t/m/phptnmmt4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",CallmeLudo à La Cigale
+francetv://757f5f8a-868a-4762-974f-ebfe8ceef632
+#EXTINF:-1 tvg-id="francetv-d498d007-f353-474f-8461-3de8e650a553" tvg-logo="https://medias.france.tv/pMAdr_ZGjw1nbIr99kABV6wD-IY/1600x1200/filters:quality(85)/4/x/e/phplkdex4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Vincent Niclo et le Choeur symphonique : Bel Canto Tour
 francetv://d498d007-f353-474f-8461-3de8e650a553
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_un-musee-une-expo" tvg-logo="https://medias.france.tv/YJveCEtUK5pxj4HHxynomhtl_oc/400x0/filters:quality(85)/6/y/u/phpfkquy6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Un musée, une expo !
 francetv://program/spectacles-et-culture_un-musee-une-expo
-#EXTINF:-1 tvg-id="francetv-bfc10113-e060-43c8-bab9-c9695e55750b" tvg-logo="https://medias.france.tv/8P6AdZcQI-UhZ-iwLp4TfqPjLqg/400x0/filters:quality(85)/g/y/3/php2qw3yg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Angélique Kidjo à la Philharmonie de Paris
+#EXTINF:-1 tvg-id="francetv-bfc10113-e060-43c8-bab9-c9695e55750b" tvg-logo="https://medias.france.tv/gW9R-ELZVygxnvn_TOTxJPDO6a0/400x533/filters:quality(85)/v/k/e/phpfeeekv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Angélique Kidjo à la Philharmonie de Paris
 francetv://bfc10113-e060-43c8-bab9-c9695e55750b
-#EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Macadam Circus
+#EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/AIKYxJzPpTTRo2sMvLSsOq03ewY/400x533/filters:quality(85)/x/z/u/phpypsuzx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Macadam Circus
 francetv://937df373-39ec-4f57-8ddc-67cff8364100
-#EXTINF:-1 tvg-id="francetv-33c1d2e3-9d0b-4e94-accd-1185a963d497" tvg-logo="https://medias.france.tv/CGw-gzK1v2b_18_TUFvbBzITwFo/400x0/filters:quality(85)/c/b/8/phpvkk8bc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bénabar à l'Olympia
+#EXTINF:-1 tvg-id="francetv-33c1d2e3-9d0b-4e94-accd-1185a963d497" tvg-logo="https://medias.france.tv/4hI47UFdb8Qg3dBaNI_7f7DxAQw/1600x1200/filters:quality(85)/l/e/y/phporzyel.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bénabar à l'Olympia
 francetv://33c1d2e3-9d0b-4e94-accd-1185a963d497
-#EXTINF:-1 tvg-id="francetv-b4365ca3-320f-4bb6-9fb3-522284547129" tvg-logo="https://medias.france.tv/WdlKr160wskI5jKfWKZcfJbskVA/400x0/filters:quality(85)/f/y/i/php4q2iyf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Eurovision junior 2026
+#EXTINF:-1 tvg-id="francetv-b4365ca3-320f-4bb6-9fb3-522284547129" tvg-logo="https://medias.france.tv/IkYW---0iItiw02SiOsv9NhaIvg/400x533/filters:quality(85)/j/z/g/phpjtxgzj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Eurovision junior 2026
 francetv://b4365ca3-320f-4bb6-9fb3-522284547129
-#EXTINF:-1 tvg-id="francetv-5e70ebec-36a8-4d35-8e7a-4d3a9dde45dc" tvg-logo="https://medias.france.tv/R4ZvcH-tS3NVMFFl0t9fx1rVNEw/400x0/filters:quality(85)/v/a/2/phpuku2av.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",The Loop
+#EXTINF:-1 tvg-id="francetv-5e70ebec-36a8-4d35-8e7a-4d3a9dde45dc" tvg-logo="https://medias.france.tv/YNcyWx4cKvt8plsARNbzrAbe4Ak/1600x1200/filters:quality(85)/u/g/s/phpoxqsgu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",The Loop
 francetv://5e70ebec-36a8-4d35-8e7a-4d3a9dde45dc
 #EXTINF:-1 tvg-id="francetv-18cab1ee-cdca-4b8b-acb5-eafd7a8a0a09" tvg-logo="https://medias.france.tv/P7Hz6nHLDq1ePX-Wkyiz_FGhaus/400x0/filters:quality(85)/a/9/4/4e93032cf1e9422b92a75e80d77a449a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Basique, le concert — Benjamin Biolay
 francetv://18cab1ee-cdca-4b8b-acb5-eafd7a8a0a09
 #EXTINF:-1 tvg-id="francetv-041c8d10-8be2-4746-b2a9-c7bee0e38da4" tvg-logo="https://medias.france.tv/gUsaF5eEFTYUcqgTw_I_0IapjSE/400x0/filters:quality(85)/e/b/7/4efd4ca5711e4e3d999270f193ac67be.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Fianso
 francetv://041c8d10-8be2-4746-b2a9-c7bee0e38da4
-#EXTINF:-1 tvg-id="francetv-26e28f07-0809-49be-97e2-c787d9289d1c" tvg-logo="https://medias.france.tv/bnde2q_RU4zfvFnnSgm5SAVcyYc/400x0/filters:quality(85)/j/k/q/phpfagqkj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Diane Segard - Parades
+#EXTINF:-1 tvg-id="francetv-26e28f07-0809-49be-97e2-c787d9289d1c" tvg-logo="https://medias.france.tv/z15LjVzs5dFjDEsurKDMwj8Miog/1600x1200/filters:quality(85)/2/g/e/phpegkeg2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Diane Segard - Parades
 francetv://26e28f07-0809-49be-97e2-c787d9289d1c
-#EXTINF:-1 tvg-id="francetv-08797852-c095-4d5f-802f-8e5a8377a693" tvg-logo="https://medias.france.tv/UZSTX78H0yQal7A1nCy1uySUHMM/400x0/filters:quality(85)/8/o/d/phpkzvdo8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Les Marchands d'étoiles
+#EXTINF:-1 tvg-id="francetv-08797852-c095-4d5f-802f-8e5a8377a693" tvg-logo="https://medias.france.tv/rXvIxQ-MFVmnmHHMNmfh_IwSCFE/400x533/filters:quality(85)/7/a/k/phployka7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Les Marchands d'étoiles
 francetv://08797852-c095-4d5f-802f-8e5a8377a693
-#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/SrlHnFIfxiQXx6VLgSZjH7JCekc/400x0/filters:quality(85)/1/a/4/php97i4a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
+#EXTINF:-1 tvg-id="francetv-1bc2689f-b046-4b39-9134-b28a7d54b516" tvg-logo="https://medias.france.tv/GeRGJbP3DJUGQsljiMVIB6F9tao/1600x1200/filters:quality(85)/n/q/a/phpuf5aqn.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Bilal Hassani, bats-toi comme une fille mon fils
 francetv://1bc2689f-b046-4b39-9134-b28a7d54b516
 #EXTINF:-1 tvg-id="francetv-4a0b6b06-f96a-48cb-bf8e-fa2cc7151f5c" tvg-logo="https://medias.france.tv/9mlsizqbNuZclMHQKhlrFPvSPIs/400x0/filters:quality(85)/s/1/b/phpslgb1s.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Notre sélection",Renaud, 50 ans de chansons
 francetv://4a0b6b06-f96a-48cb-bf8e-fa2cc7151f5c
@@ -4199,19 +4201,19 @@ francetv://a25b2d81-7579-4576-addc-d5b3fd037771
 francetv://72e2faf7-a887-450c-b16c-5851b8f88504
 #EXTINF:-1 tvg-id="francetv-1667bfb5-bdd7-4550-b87f-2d4395d6e8ce" tvg-logo="https://medias.france.tv/jo-WfousElQ6YrEGf9j7qngeMtQ/400x0/filters:quality(85)/8/4/c/a7a34fda78f8482d941db9f214b2bc48.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Roberto Fonseca & Vincent Segal
 francetv://1667bfb5-bdd7-4550-b87f-2d4395d6e8ce
-#EXTINF:-1 tvg-id="francetv-32067ccb-ce4e-422a-8241-b6414354b2ac" tvg-logo="https://medias.france.tv/dfjY_H7U4RCx1fiOA-kqlBiimNI/400x0/filters:quality(85)/7/8/9/f65ecb37b2fd4ad38f8dcca1b0d52987.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",100 ans "Trane’s now'
+#EXTINF:-1 tvg-id="francetv-32067ccb-ce4e-422a-8241-b6414354b2ac" tvg-logo="https://medias.france.tv/lZyH4pIJrDjJzIkfdCa61RNKDw4/400x533/filters:quality(85)/0/f/e/33ae2920ee30400982f1be3053a06ef0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",100 ans "Trane’s now'
 francetv://32067ccb-ce4e-422a-8241-b6414354b2ac
-#EXTINF:-1 tvg-id="francetv-192ed454-bcb3-4ed0-a84f-bdb77190b47d" tvg-logo="https://medias.france.tv/6K_FpYMopv0omptOE_kxD7aUI8M/400x0/filters:quality(85)/6/4/9/1ba3cb54b484481fac9e58d414a95946.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Raye : live at Montreux Jazz Festival 2026
+#EXTINF:-1 tvg-id="francetv-192ed454-bcb3-4ed0-a84f-bdb77190b47d" tvg-logo="https://medias.france.tv/S6QD81TcudTXCG0ctnCrJWiLwe8/400x533/filters:quality(85)/8/b/0/edde4221eecf44b19167317cbab240b8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Raye : live at Montreux Jazz Festival 2026
 francetv://192ed454-bcb3-4ed0-a84f-bdb77190b47d
-#EXTINF:-1 tvg-id="francetv-c6a5a0f0-7cf1-47f1-aacf-5c4f1baa3f4b" tvg-logo="https://medias.france.tv/U1PeLy_vcOux21ub-rLdO2v6-Qw/400x0/filters:quality(85)/7/9/2/2539766954ca43e78ccc0b84466f786c6f238ba84f8351da067f9c7acfdc0297.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Festival de jazz de Leverkusen 2025
+#EXTINF:-1 tvg-id="francetv-c6a5a0f0-7cf1-47f1-aacf-5c4f1baa3f4b" tvg-logo="https://medias.france.tv/-pGaGrjtWGVn_MkcpIDXplotNxQ/400x533/filters:quality(85)/6/3/0/8b162b1496bf4681ababd137ca8e6fdad7e1342eebfd52c3131b201b87dbc036.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Festival de jazz de Leverkusen 2025
 francetv://c6a5a0f0-7cf1-47f1-aacf-5c4f1baa3f4b
 #EXTINF:-1 tvg-id="francetv-d0cf69ee-9273-4900-b8a5-c36656e3e789" tvg-logo="https://medias.france.tv/OAfylrqvITIEIyxlt3dbweNdKfo/400x0/filters:quality(85)/d/i/l/phpwk7lid.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Sophye Soliveau - "Initiation" au Bozar de Bruxelles
 francetv://d0cf69ee-9273-4900-b8a5-c36656e3e789
 #EXTINF:-1 tvg-id="francetv-b10ac6b5-61b6-431b-9f02-c2ecd2a91ade" tvg-logo="https://medias.france.tv/mS3CIuG1mCk77qS4wb0C7JjJ3Vk/400x0/filters:quality(85)/7/0/6/9e635f63245c469cbdacfdb105d76607.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Melody Gardot à l'Olympia
 francetv://b10ac6b5-61b6-431b-9f02-c2ecd2a91ade
-#EXTINF:-1 tvg-id="francetv-782e944f-37ff-4763-b4a6-ba7bf62f223f" tvg-logo="https://medias.france.tv/UHOxwpKxyFBmcRJANmvw0CCnM_Y/400x0/filters:quality(85)/f/f/o/php5hsoff.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",#LetsBaRock!
+#EXTINF:-1 tvg-id="francetv-782e944f-37ff-4763-b4a6-ba7bf62f223f" tvg-logo="https://medias.france.tv/Pz924Vf39fmXDMvUi_1cujKAFjw/1600x1200/filters:quality(85)/a/y/3/phpk9y3ya.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",#LetsBaRock!
 francetv://782e944f-37ff-4763-b4a6-ba7bf62f223f
-#EXTINF:-1 tvg-id="francetv-c70c6f8a-25fd-4534-b2c7-11239ef9bf8d" tvg-logo="https://medias.france.tv/4NA_xcRjT3NtCvhw7AUQ84hmBfI/400x0/filters:quality(85)/e/a/f/phpns8fae.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Rejjie Snow en concert à Jazz à la Villette 2025
+#EXTINF:-1 tvg-id="francetv-c70c6f8a-25fd-4534-b2c7-11239ef9bf8d" tvg-logo="https://medias.france.tv/sZ70B7GyD1NMFH6b-v9uRAFA-3A/400x533/filters:quality(85)/2/r/x/phpfdaxr2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Ça jazz pour moi !",Rejjie Snow en concert à Jazz à la Villette 2025
 francetv://c70c6f8a-25fd-4534-b2c7-11239ef9bf8d
 #EXTINF:-1 tvg-id="francetv-0d9dcd58-e964-47f5-a89b-bcfe725ca476" tvg-logo="https://medias.france.tv/k2ihC4htx6g6a9LPWTTJMXAMtbw/1600x1200/filters:quality(85)/p/y/9/phpfuo9yp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Nos documentaires art et culture",GTA, le jeu no limit
 francetv://0d9dcd58-e964-47f5-a89b-bcfe725ca476
@@ -4277,7 +4279,7 @@ francetv://99043b7c-6afc-4d47-90c6-b1271da3982e
 francetv://747c68c9-05b5-4ce9-b717-3eae78136758
 #EXTINF:-1 tvg-id="francetv-5d560b17-5b32-4dde-9d11-01cf0efd8a3d" tvg-logo="https://medias.france.tv/tlnS3GZoSt-15jl0TN_94Bsq78M/400x0/filters:quality(85)/e/e/5/4f0cb68d3d5841408957a143390075ee.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Le 13e Art, Paris
 francetv://5d560b17-5b32-4dde-9d11-01cf0efd8a3d
-#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_bolero-s" tvg-logo="https://medias.france.tv/0MV-QtuAmtY3KawhYtMJKj46oYg/400x0/filters:quality(85)/e/t/t/phpzkftte.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",BOLERO.S
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_bolero-s" tvg-logo="https://medias.france.tv/-vBcGiHkCoaCN-xPe-d21axi6zw/400x533/filters:quality(85)/s/s/o/phpkcvoss.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",BOLERO.S
 francetv://program/spectacles-et-culture_bolero-s
 #EXTINF:-1 tvg-id="francetv-3163d02a-651c-40b5-afd7-102a2a164d80" tvg-logo="https://medias.france.tv/xj8N_ixHFviJgW2uVqAd2keGEkA/400x0/filters:quality(85)/r/o/w/phprl3wor.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",BiblioTEK, écris ton histoire… Par la Compagnie HASPOP - Cirque du Grand Lyon
 francetv://3163d02a-651c-40b5-afd7-102a2a164d80
@@ -4287,11 +4289,11 @@ francetv://78220553-105f-48fd-9f1f-25a6101651aa
 francetv://2ca01645-98e6-4991-a513-5bd2cc0de64b
 #EXTINF:-1 tvg-id="francetv-prog-arte_rebonds" tvg-logo="https://medias.france.tv/mUBSrrPZ3vH3GjC3JjQjricvMF4/400x0/filters:quality(85)/7/5/e/0c866c7e93e14740ac2b9670d5f08e57.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Rebonds
 francetv://program/arte_rebonds
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-art-et-culture_vers-la-grace" tvg-logo="https://medias.france.tv/8ZfD8UZWAdrv2zJ4pmi5myA3SuQ/400x0/filters:quality(85)/n/9/z/php4ozz9n.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Vers la grâce
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-art-et-culture_vers-la-grace" tvg-logo="https://medias.france.tv/lGsSipdbZEWHt6dwxhNpyP0EBoc/400x533/filters:quality(85)/h/s/q/php6sbqsh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Vers la grâce
 francetv://program/documentaires_documentaires-art-et-culture_vers-la-grace
-#EXTINF:-1 tvg-id="francetv-prog-slash_ballroom-danser-pour-exister" tvg-logo="https://medias.france.tv/YpNWvLaqidL0sietH5fLYymHtt0/400x0/filters:quality(85)/k/i/z/phpvzhzik.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Ballroom, danser pour exister
+#EXTINF:-1 tvg-id="francetv-prog-slash_ballroom-danser-pour-exister" tvg-logo="https://medias.france.tv/5vhNrPeSrBuO9WymCiZoguasR5Y/400x533/filters:quality(85)/j/a/2/phpzaq2aj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Ballroom, danser pour exister
 francetv://program/slash_ballroom-danser-pour-exister
-#EXTINF:-1 tvg-id="francetv-prog-france-3_provence-alpes-cote-d-azur_danser-pour-grandir" tvg-logo="https://medias.france.tv/LGiymihSH9O3OTlbwjc_Cd8En9U/400x0/filters:quality(85)/i/k/2/phpaty2ki.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Danser pour grandir
+#EXTINF:-1 tvg-id="francetv-prog-france-3_provence-alpes-cote-d-azur_danser-pour-grandir" tvg-logo="https://medias.france.tv/qYNNI-S5Jw_YGa0lHtUpiPMH6PE/400x533/filters:quality(85)/t/l/z/phpuanzlt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Danser pour grandir
 francetv://program/france-3_provence-alpes-cote-d-azur_danser-pour-grandir
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_theatre-et-danse_cypher" tvg-logo="https://medias.france.tv/E-yCiz62k26bwRpq62wmvri_hZw/400x0/filters:quality(85)/l/7/3/phpqf837l.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Cypher
 francetv://program/spectacles-et-culture_theatre-et-danse_cypher
@@ -4305,27 +4307,27 @@ francetv://61a27e7a-24dd-417f-a87c-a5738b0ac5b8
 francetv://041c8d10-8be2-4746-b2a9-c7bee0e38da4
 #EXTINF:-1 tvg-id="francetv-62e05001-d5d1-4f1c-b709-c5ff30f17a52" tvg-logo="https://medias.france.tv/fPV5T43PgzjuBNBAz8fVWrDG490/400x0/filters:quality(85)/2/2/d/5763b195f9e741d9bf129b2fbc61dd22.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Vald x Vladimir Cauchemar x Todiefor
 francetv://62e05001-d5d1-4f1c-b709-c5ff30f17a52
-#EXTINF:-1 tvg-id="francetv-71fae220-8b1b-4873-bcea-0dc0fb3ab4fd" tvg-logo="https://medias.france.tv/gvrzVJrfJxVjxEIik4gySAHNeB4/400x0/filters:quality(85)/v/3/q/php8ybq3v.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Georgio
+#EXTINF:-1 tvg-id="francetv-71fae220-8b1b-4873-bcea-0dc0fb3ab4fd" tvg-logo="https://medias.france.tv/s-C-HizhYgp--s9VAlq9DsowPhg/400x533/filters:quality(85)/5/m/v/phpi6rvm5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Georgio
 francetv://71fae220-8b1b-4873-bcea-0dc0fb3ab4fd
 #EXTINF:-1 tvg-id="francetv-2f298a2c-ba3b-4a1f-a35b-7270600c1332" tvg-logo="https://medias.france.tv/XpwwFsxEMeGLEgC-0NPtJh4Jpl4/400x0/filters:quality(85)/b/d/b/9b6f769963dd4d008a583e3d715a7bdb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Jolagreen23
 francetv://2f298a2c-ba3b-4a1f-a35b-7270600c1332
 #EXTINF:-1 tvg-id="francetv-fa1f4f6c-f4aa-4bec-9704-16cb9699286c" tvg-logo="https://medias.france.tv/1FLRt5zANlZQRXcO7acPNpNRMfE/400x0/filters:quality(85)/b/b/2/a711a46723724e1f95768acdefb3c2bb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Yardland Festival — Franglish
 francetv://fa1f4f6c-f4aa-4bec-9704-16cb9699286c
-#EXTINF:-1 tvg-id="francetv-293a15c1-4d2f-490e-bef4-7fbe34d17ed2" tvg-logo="https://medias.france.tv/Yczjkhp4jortB5a9zdjuQmPz3v8/400x0/filters:quality(85)/v/w/b/phppz7bwv.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Jul au Stade de France
+#EXTINF:-1 tvg-id="francetv-293a15c1-4d2f-490e-bef4-7fbe34d17ed2" tvg-logo="https://medias.france.tv/9ctRr4tBB-IigxzGdpoaBZwYDEI/1600x1200/filters:quality(85)/r/5/i/php91ci5r.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Jul au Stade de France
 francetv://293a15c1-4d2f-490e-bef4-7fbe34d17ed2
 #EXTINF:-1 tvg-id="francetv-b84f0222-8f87-4cc8-a0c9-8be4b9a07b98" tvg-logo="https://medias.france.tv/yXIWTvy_Pai9Jn2jHVy_MSyoQG4/400x0/filters:quality(85)/3/1/3/66684c736694475b88354497ba5e4313.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",We Love Green — Aupinard
 francetv://b84f0222-8f87-4cc8-a0c9-8be4b9a07b98
-#EXTINF:-1 tvg-id="francetv-88f736f2-e35d-497f-a988-6de83fc0d75f" tvg-logo="https://medias.france.tv/_PYXp-MoS1pwgC-Fb2e2S-4xdW8/400x0/filters:quality(85)/h/2/l/phpmvzl2h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Josman à l'Accor Arena
+#EXTINF:-1 tvg-id="francetv-88f736f2-e35d-497f-a988-6de83fc0d75f" tvg-logo="https://medias.france.tv/WKNDvTHwbadwI8YfqgWE-yvZBvo/400x533/filters:quality(85)/r/1/2/phpeiw21r.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Josman à l'Accor Arena
 francetv://88f736f2-e35d-497f-a988-6de83fc0d75f
 #EXTINF:-1 tvg-id="francetv-3abf2e25-5355-46d2-84e7-453af52b573b" tvg-logo="https://medias.france.tv/YI7AoMz5Kdl-VeZCEWxnaB3wBS4/400x0/filters:quality(85)/s/2/h/php2fbh2s.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Kerchak en live dans Bâtiment B
 francetv://3abf2e25-5355-46d2-84e7-453af52b573b
-#EXTINF:-1 tvg-id="francetv-ce8e3778-87ca-45f7-8e5d-5a94f47ba27e" tvg-logo="https://medias.france.tv/9uNtYaxmmF6bso8ZpwJ4Kf1C0q8/400x0/filters:quality(85)/u/v/k/phptsfkvu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Aya Nakamura au Stade de France
+#EXTINF:-1 tvg-id="francetv-ce8e3778-87ca-45f7-8e5d-5a94f47ba27e" tvg-logo="https://medias.france.tv/-eopMNJribFkNev5UGj16fqeSaE/400x533/filters:quality(85)/g/u/h/phpegthug.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Aya Nakamura au Stade de France
 francetv://ce8e3778-87ca-45f7-8e5d-5a94f47ba27e
 #EXTINF:-1 tvg-id="francetv-d974671e-bc03-477e-a443-c938b434ed2e" tvg-logo="https://medias.france.tv/sucmjx4N8ObRRAmuQV7SL04fPz4/400x0/filters:quality(85)/5/d/a/85a476a863fa4b7f8a72e8d61a8d9ad5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Yardland Festival — RNBOI
 francetv://d974671e-bc03-477e-a443-c938b434ed2e
-#EXTINF:-1 tvg-id="francetv-377a9caf-872c-4048-8545-726a96912374" tvg-logo="https://medias.france.tv/waXEv3eRYbBHWvSetJ_NOfDrpb0/400x0/filters:quality(85)/b/3/a/06c8ba9334594c059c821a5afd428a3b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Theodora : ARTE Dans le Club #40
+#EXTINF:-1 tvg-id="francetv-377a9caf-872c-4048-8545-726a96912374" tvg-logo="https://medias.france.tv/SKpX7nX3VFTFqBmIxQBfRDP9UPc/400x533/filters:quality(85)/1/0/2/58b9ffe2c7fe4258a33d1acf28d83201.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Theodora : ARTE Dans le Club #40
 francetv://377a9caf-872c-4048-8545-726a96912374
-#EXTINF:-1 tvg-id="francetv-a4059029-3b7e-41d1-ba6f-c8a00727dfcd" tvg-logo="https://medias.france.tv/CZQMYloTPXZxfhTqVEWa39Q7tRY/400x0/filters:quality(85)/2/m/i/phpcabim2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Gims à Paris la Défense Arena : le concert événement
+#EXTINF:-1 tvg-id="francetv-a4059029-3b7e-41d1-ba6f-c8a00727dfcd" tvg-logo="https://medias.france.tv/GXBWXTb-aPDX-G9siBxOWEJR3Ak/1600x1200/filters:quality(85)/d/b/n/phpgfpnbd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Gims à Paris la Défense Arena : le concert événement
 francetv://a4059029-3b7e-41d1-ba6f-c8a00727dfcd
 #EXTINF:-1 tvg-id="francetv-5eb4d1fa-4e1a-4142-aa98-2d331114c074" tvg-logo="https://medias.france.tv/qCTZ8iq1runlPkWVkD5OMCbTcfA/400x0/filters:quality(85)/k/t/v/phpzy0vtk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Basique, le concert — Vitaa
 francetv://5eb4d1fa-4e1a-4142-aa98-2d331114c074
@@ -4341,11 +4343,11 @@ francetv://77bbef03-d508-4eb6-ade4-191eac111d79
 francetv://program/arte_arte-concert-festival
 #EXTINF:-1 tvg-id="francetv-101190a5-72d1-4ffe-b7f9-0608d6a140e0" tvg-logo="https://medias.france.tv/QJstaftro9ZBb5wWdgIL7zJ--EA/400x0/filters:quality(85)/6/9/f/d3a20255f3d54f198046d301d41e4f96.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Brahms revisité par David Bobée et Laurence Equilbey
 francetv://101190a5-72d1-4ffe-b7f9-0608d6a140e0
-#EXTINF:-1 tvg-id="francetv-c35e47e0-4875-448b-a1de-4a6e68b486fe" tvg-logo="https://medias.france.tv/YP5GKU0Elry47LuCVrSgLAwKhdU/400x0/filters:quality(85)/1/e/8/2a04fa3efb154aa4afc56de86a2bb8e1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live in London
+#EXTINF:-1 tvg-id="francetv-c35e47e0-4875-448b-a1de-4a6e68b486fe" tvg-logo="https://medias.france.tv/1WShmVCcqq3lXnUkzOjTDvO37pU/400x533/filters:quality(85)/0/5/0/c7ed3097c36249539671fd198b634050.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live in London
 francetv://c35e47e0-4875-448b-a1de-4a6e68b486fe
 #EXTINF:-1 tvg-id="francetv-d9bf4e49-dcf3-416f-a842-a3c2aecb6b99" tvg-logo="https://medias.france.tv/6ZQKPZZ6sl3vw9xdYQW1I86ODqQ/400x0/filters:quality(85)/e/5/4/c5e26e4282c041cc9e5472f1d0a4845e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Ballet de l’Opéra de Paris
 francetv://d9bf4e49-dcf3-416f-a842-a3c2aecb6b99
-#EXTINF:-1 tvg-id="francetv-8ce82563-971f-4b53-ab63-b8bea317c6fd" tvg-logo="https://medias.france.tv/cC3AGfKvCLa5m0V2HlRH8ygWAdY/400x0/filters:quality(85)/f/6/c/77e3f93c96084b00902a29202a43dc6f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Blomstedt dirige Bruckner
+#EXTINF:-1 tvg-id="francetv-8ce82563-971f-4b53-ab63-b8bea317c6fd" tvg-logo="https://medias.france.tv/kAw41ABomlMG5xQ4iMkylxixL3o/400x533/filters:quality(85)/9/a/d/d8e8f944ea80468f9ddb1b495e49bda9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Blomstedt dirige Bruckner
 francetv://8ce82563-971f-4b53-ab63-b8bea317c6fd
 #EXTINF:-1 tvg-id="francetv-c153a1e4-4a7f-4993-ae7b-2004207f5874" tvg-logo="https://medias.france.tv/i98Hk_LcE7NPTMN-GJVppi_NOyE/400x0/filters:quality(85)/2/3/2/d411ab9c79454faa9e8649fe004ea232.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Teatro alla Scala 2026
 francetv://c153a1e4-4a7f-4993-ae7b-2004207f5874
@@ -4353,23 +4355,23 @@ francetv://c153a1e4-4a7f-4993-ae7b-2004207f5874
 francetv://9c79d530-5c88-41dc-a0ee-9e3bc1a533fb
 #EXTINF:-1 tvg-id="francetv-b7f3e0eb-c3db-41f5-9e83-0c4f02e5b58d" tvg-logo="https://medias.france.tv/SQyXCtbuwu0V509S6vNJt6VligA/400x0/filters:quality(85)/5/a/f/692c7163340b4a7e9d9726ecbea14fa5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Les grands moments de la musique — Les musiques de films de John Williams
 francetv://b7f3e0eb-c3db-41f5-9e83-0c4f02e5b58d
-#EXTINF:-1 tvg-id="francetv-e064215b-c7c4-447a-8b83-80ec064f64bd" tvg-logo="https://medias.france.tv/YNErFKv2AoVbCywtUyNSGPx5rTw/400x0/filters:quality(85)/d/9/3/0ecdb30f5ba4423c853b13c5a02fc39d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Catherine Ringer chante les Rita Mitsouko à la Philharmonie de Paris
+#EXTINF:-1 tvg-id="francetv-e064215b-c7c4-447a-8b83-80ec064f64bd" tvg-logo="https://medias.france.tv/CQS906NgYWyJsC8uiUhKJP39kJ4/400x533/filters:quality(85)/b/c/8/4a332f5b91e943959ada3ee3004918cb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Catherine Ringer chante les Rita Mitsouko à la Philharmonie de Paris
 francetv://e064215b-c7c4-447a-8b83-80ec064f64bd
-#EXTINF:-1 tvg-id="francetv-814221fe-3ce1-4088-967a-1988c05494a4" tvg-logo="https://medias.france.tv/r3XQtL81vgIaupZp3cGlk8DMtPU/400x0/filters:quality(85)/3/a/7/1d3deeaebc02463ea9d91b5cd9fad7a3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Supertramp : Hammersmith Odeon, 1975
+#EXTINF:-1 tvg-id="francetv-814221fe-3ce1-4088-967a-1988c05494a4" tvg-logo="https://medias.france.tv/qaWPM3WJPFpjdzmKbTDu4a7rudc/400x533/filters:quality(85)/6/b/8/90f08115ceb445b3ac754d3ae61e78b6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Supertramp : Hammersmith Odeon, 1975
 francetv://814221fe-3ce1-4088-967a-1988c05494a4
-#EXTINF:-1 tvg-id="francetv-ded958a7-e8f9-436f-93d2-8ac816c42058" tvg-logo="https://medias.france.tv/wEzoZf7nckLkqBEuJWY_jEiYF-g/400x0/filters:quality(85)/f/7/7/7b7d3581e01944f98556e1969095677f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Nancy Jazz Pulsation 2026
+#EXTINF:-1 tvg-id="francetv-ded958a7-e8f9-436f-93d2-8ac816c42058" tvg-logo="https://medias.france.tv/HEMnHfAeob1eeak-XhYYvzzNg_Q/400x533/filters:quality(85)/1/4/8/c6d92749747b4ae494713375af636841.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Nancy Jazz Pulsation 2026
 francetv://ded958a7-e8f9-436f-93d2-8ac816c42058
-#EXTINF:-1 tvg-id="francetv-192ed454-bcb3-4ed0-a84f-bdb77190b47d" tvg-logo="https://medias.france.tv/6K_FpYMopv0omptOE_kxD7aUI8M/400x0/filters:quality(85)/6/4/9/1ba3cb54b484481fac9e58d414a95946.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Raye : live at Montreux Jazz Festival 2026
+#EXTINF:-1 tvg-id="francetv-192ed454-bcb3-4ed0-a84f-bdb77190b47d" tvg-logo="https://medias.france.tv/S6QD81TcudTXCG0ctnCrJWiLwe8/400x533/filters:quality(85)/8/b/0/edde4221eecf44b19167317cbab240b8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Raye : live at Montreux Jazz Festival 2026
 francetv://192ed454-bcb3-4ed0-a84f-bdb77190b47d
-#EXTINF:-1 tvg-id="francetv-1f52b7e5-69a2-4148-8545-7c3b7b3515d9" tvg-logo="https://medias.france.tv/UAe2ANKHta9t3jxwJ6Mz3JRy-Q8/400x0/filters:quality(85)/e/6/4/6bcdbc627bda473a809bf40aae16346e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live at Wembley Stadium, 2000
+#EXTINF:-1 tvg-id="francetv-1f52b7e5-69a2-4148-8545-7c3b7b3515d9" tvg-logo="https://medias.france.tv/gYWj_1TCzsplBRY-giMsP26jQUA/400x533/filters:quality(85)/7/3/d/402ab5ca2b114db2b817be4256584d37.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live at Wembley Stadium, 2000
 francetv://1f52b7e5-69a2-4148-8545-7c3b7b3515d9
-#EXTINF:-1 tvg-id="francetv-8714a6bb-fa83-492d-a2b8-97540b481bbd" tvg-logo="https://medias.france.tv/5-L-gJv9I-5myUZ3LMWVQuw1gnA/400x0/filters:quality(85)/e/d/1/9f3d90256c96427392159e045a13b1de.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Bob Dylan : Shadow Kingdom
+#EXTINF:-1 tvg-id="francetv-8714a6bb-fa83-492d-a2b8-97540b481bbd" tvg-logo="https://medias.france.tv/rZQ-9sFzB_fbI1jWiBP9SZdIj5Y/400x533/filters:quality(85)/6/5/0/f7393afb7a8d428f845723515cbd1056.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Bob Dylan : Shadow Kingdom
 francetv://8714a6bb-fa83-492d-a2b8-97540b481bbd
-#EXTINF:-1 tvg-id="francetv-f5e8a1ad-914d-4e8c-881c-adb3905a2a44" tvg-logo="https://medias.france.tv/KPlBa6FffRu-8ViOOHzINb4zbCs/400x0/filters:quality(85)/3/9/d/f36712327ccd403987805ad02daccd93.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Anna Lapwood à la Philharmonie de l'Elbe
+#EXTINF:-1 tvg-id="francetv-f5e8a1ad-914d-4e8c-881c-adb3905a2a44" tvg-logo="https://medias.france.tv/YHDaxg_Q3ox0z9HBdMx2ROgIKiY/400x533/filters:quality(85)/0/b/7/d59369819781473cb7271e72258d17b0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Anna Lapwood à la Philharmonie de l'Elbe
 francetv://f5e8a1ad-914d-4e8c-881c-adb3905a2a44
-#EXTINF:-1 tvg-id="francetv-31a28dcb-44fb-49a9-8563-f008453c68a0" tvg-logo="https://medias.france.tv/uDHBOgWUpN1INvjp8Bf0O_Jh6zE/400x0/filters:quality(85)/2/b/0/ae723127991748f0b51ee9dcf331a0b2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live at the Royal Albert Hall
+#EXTINF:-1 tvg-id="francetv-31a28dcb-44fb-49a9-8563-f008453c68a0" tvg-logo="https://medias.france.tv/0OGu8KmXdGkuX2yrs7cWXNm_KMk/400x533/filters:quality(85)/2/4/4/9d5e44a096a64d97928d0348f8373442.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Live at the Royal Albert Hall
 francetv://31a28dcb-44fb-49a9-8563-f008453c68a0
-#EXTINF:-1 tvg-id="francetv-42134743-cf5a-4b59-8050-7c496a417003" tvg-logo="https://medias.france.tv/XaOeQzQld_uau4Ed74Xw8Mrm4AU/400x0/filters:quality(85)/2/9/c/da4cd5200e36442699c0a421e0ed2c92.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Festival de musique du Rheingau 2025
+#EXTINF:-1 tvg-id="francetv-42134743-cf5a-4b59-8050-7c496a417003" tvg-logo="https://medias.france.tv/cIfxJPAPqXgqn3z9ZPYU9Ws1ltk/400x533/filters:quality(85)/3/f/d/2391093c4c754597a26e17128452bdf3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - À ne pas manquer sur Arte",Festival de musique du Rheingau 2025
 francetv://42134743-cf5a-4b59-8050-7c496a417003
 #EXTINF:-1 tvg-id="francetv-d498d007-f353-474f-8461-3de8e650a553" tvg-logo="https://medias.france.tv/pMAdr_ZGjw1nbIr99kABV6wD-IY/1600x1200/filters:quality(85)/4/x/e/phplkdex4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Opéra et musique classique",Vincent Niclo et le Choeur symphonique : Bel Canto Tour
 francetv://d498d007-f353-474f-8461-3de8e650a553
@@ -4467,6 +4469,8 @@ francetv://program/spectacles-et-culture_emissions-culturelles_les-flammes
 francetv://program/spectacles-et-culture_emissions-culturelles_j-aime-a-dire
 #EXTINF:-1 tvg-id="francetv-71ecb942-e4f2-44be-8cb2-2199c7133ddd" tvg-logo="https://medias.france.tv/H4sunttl87TDl7xHwoOM2APq1zM/400x533/filters:quality(85)/0/6/f/75d0c39615114a6f821fac1c7f861c7b66fb944fabf8d308115d27ff2c1dcf60.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Slash aime",Meryl, bénie - Le documentaire
 francetv://71ecb942-e4f2-44be-8cb2-2199c7133ddd
+#EXTINF:-1 tvg-id="francetv-757f5f8a-868a-4762-974f-ebfe8ceef632" tvg-logo="https://medias.france.tv/3Tzn0px4glLNjtmj7-47Y-EWpdE/400x0/filters:quality(85)/o/3/s/phpwb2s3o.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",CallmeLudo à La Cigale
+francetv://757f5f8a-868a-4762-974f-ebfe8ceef632
 #EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Macadam Circus
 francetv://937df373-39ec-4f57-8ddc-67cff8364100
 #EXTINF:-1 tvg-id="francetv-53063e49-562c-432a-9f03-b0fad6bd1836" tvg-logo="https://medias.france.tv/F7PKqyrkHyqkis4MU8SoJiU8Ep0/400x0/filters:quality(85)/j/w/o/phpwjbowj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Top Comedy Club — Mulhouse
@@ -4489,7 +4493,7 @@ francetv://23ba87eb-1bea-429d-a6e3-5d1b9d23e7c0
 francetv://program/arte_stand-up-la-rage-de-rire
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_comme-a-la-maison" tvg-logo="https://medias.france.tv/PIQMrDMVBE2skKOre0Lu6kP2knQ/400x0/filters:quality(85)/e/7/e/e009ed0560854a5f9f9a9288784d4e7e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Comme à la maison
 francetv://program/tv5-monde_comme-a-la-maison
-#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_top-comedy-club" tvg-logo="https://medias.france.tv/ZlyL1KsTio-i6UqCBoc6Oeyktj0/400x0/filters:quality(85)/a/g/o/php8ueoga.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Top Comedy Club
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_top-comedy-club" tvg-logo="https://medias.france.tv/snYBDWhYYPG44ACTGBG9r6hFmnI/400x533/filters:quality(85)/d/z/1/phpubn1zd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Top Comedy Club
 francetv://program/spectacles-et-culture_top-comedy-club
 #EXTINF:-1 tvg-id="francetv-prog-france-2_generation-paname" tvg-logo="https://medias.france.tv/f232nR0a0xeYdshSrwXLyUeKtIA/400x0/filters:quality(85)/r/k/d/phpaerdkr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Rire académie",Génération Paname
 francetv://program/france-2_generation-paname
@@ -4569,13 +4573,13 @@ francetv://program/tv5-monde_on-va-dire-les-termes
 francetv://program/france-5_la-p-tite-librairie
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_dj-battle-africa" tvg-logo="https://medias.france.tv/kcsuwSeUnz0HqeAyu3Y7Et3wo2k/400x0/filters:quality(85)/6/6/5/208d042bd1fc438c8488967d6c4ab566.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Les émissions culturelles",Dj Battle Africa
 francetv://program/tv5-monde_dj-battle-africa
-#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_jazz-a-vienne" tvg-logo="https://medias.france.tv/9ACzVSLChomZPbdLCyTCG5M8lmA/400x0/filters:quality(85)/7/p/j/phpl66jp7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Jazz à Vienne
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_jazz-a-vienne" tvg-logo="https://medias.france.tv/vTE_91Dweh2zYMwlk38ht4Qt368/400x533/filters:quality(85)/y/7/p/phpvfqp7y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Jazz à Vienne
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_we-love-green" tvg-logo="https://medias.france.tv/WkOebGH6A6_eWNaKeaOC0ME6EaE/400x0/filters:quality(85)/y/l/e/phpugyely.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",We Love Green
 francetv://program/spectacles-et-culture_we-love-green
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_yardland-festival" tvg-logo="https://medias.france.tv/cytQJke-WR8uYaD3wFYFrAw1t10/400x0/filters:quality(85)/t/b/m/phporrmbt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Yardland Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festival
-#EXTINF:-1 tvg-id="francetv-prog-france-4_francofolies-de-la-rochelle" tvg-logo="https://medias.france.tv/deQGCav6Zx5RTtMwluXnV8L-DAs/400x0/filters:quality(85)/4/7/b/phpdd7b74.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Francofolies de La Rochelle
+#EXTINF:-1 tvg-id="francetv-prog-france-4_francofolies-de-la-rochelle" tvg-logo="https://medias.france.tv/vI_tXlQ5yighvZ-GDtinDl4GkZs/400x533/filters:quality(85)/j/s/r/phpoidrsj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Francofolies de La Rochelle
 francetv://program/france-4_francofolies-de-la-rochelle
 #EXTINF:-1 tvg-id="francetv-prog-arte_hellfest" tvg-logo="https://medias.france.tv/6_UvpeOg3fqwAZfKGw0dA_rT8Bk/400x0/filters:quality(85)/0/3/f/cd155254c37148a7a77bf4f1b36acf30.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - L'été des festivals",Hellfest
 francetv://program/arte_hellfest
@@ -4737,17 +4741,17 @@ francetv://1930a2bb-6344-4173-bec3-16a4ff83c18b
 francetv://program/france-3_championnats-de-france-de-bmx
 #EXTINF:-1 tvg-id="francetv-prog-france-3_occitanie_route-d-occitanie" tvg-logo="https://medias.france.tv/XNKUSVX7-PCXh5spPaKx6eoS9Gc/400x0/filters:quality(85)/6/f/n/phph1gnf6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - La tête dans le guidon",La Route d'Occitanie CIC
 francetv://program/france-3_occitanie_route-d-occitanie
-#EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/6kfsb84XLSyNJMoEeq7moOFQ_rA/400x0/filters:quality(85)/h/c/6/php4wq6ch.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",100 % logique : la réponse est sous vos yeux
+#EXTINF:-1 tvg-id="francetv-prog-france-2_100-logique-la-reponse-est-sous-vos-yeux" tvg-logo="https://medias.france.tv/qkke1DF8AgJ7iNfeE4GjjeV-4rY/400x533/filters:quality(85)/l/o/i/phpxoaiol.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",100 % logique : la réponse est sous vos yeux
 francetv://program/france-2_100-logique-la-reponse-est-sous-vos-yeux
 #EXTINF:-1 tvg-id="francetv-prog-france-2_quelle-epoque" tvg-logo="https://medias.france.tv/3K96_4N0gaS8bhbc2NvxfXJKRoI/400x0/filters:quality(85)/g/n/y/phplb6yng.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Quelle époque !
 francetv://program/france-2_quelle-epoque
-#EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/QjwLSUmhjRniCuiuAN4BaOc7vqo/400x0/filters:quality(85)/t/h/s/php0n4sht.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",N'oubliez pas les paroles
+#EXTINF:-1 tvg-id="francetv-prog-france-2_n-oubliez-pas-les-paroles" tvg-logo="https://medias.france.tv/yCW7doHIH_0ze_zY7KTRAmBZfXM/400x533/filters:quality(85)/w/n/a/phprm2anw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",N'oubliez pas les paroles
 francetv://program/france-2_n-oubliez-pas-les-paroles
 #EXTINF:-1 tvg-id="francetv-292eef7b-b6f8-426a-bf73-c85aa1f7a3ca" tvg-logo="https://medias.france.tv/SuItkJZBuDax1GGM1GV7Q-b66aI/400x0/filters:quality(85)/h/2/y/phpt6dy2h.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Échappées belles — Bordelais, un certain art de vivre
 francetv://292eef7b-b6f8-426a-bf73-c85aa1f7a3ca
-#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/ejzGifnUzJF4iZVefAp5xJVeoi8/400x0/filters:quality(85)/1/0/l/phpf5yl01.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Un dimanche à la campagne
+#EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/YAKpzAd3EXKMxQN5awfFx1_q7io/400x533/filters:quality(85)/5/i/u/php12iui5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Un dimanche à la campagne
 francetv://program/france-2_un-dimanche-a-la-campagne
-#EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/3iZ7fkQVlMLohsBFx91u2aNiGHo/400x0/filters:quality(85)/s/l/x/phprhrxls.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La boîte à secrets
+#EXTINF:-1 tvg-id="francetv-prog-france-3_la-boite-a-secrets" tvg-logo="https://medias.france.tv/7eBnFe_quFsqn1OJSmXmzE8pyvM/400x533/filters:quality(85)/s/j/x/php2nlxjs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",La boîte à secrets
 francetv://program/france-3_la-boite-a-secrets
 #EXTINF:-1 tvg-id="francetv-09cb984e-5ebd-425b-a68b-5c3546bc2615" tvg-logo="https://medias.france.tv/DYKPKybE6mIEWIyJMTd9ze3Igws/400x0/filters:quality(85)/0/b/e/d095c7489701404d93407e59701e0eb0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Beau geste — Catherine Frot
 francetv://09cb984e-5ebd-425b-a68b-5c3546bc2615
@@ -4759,19 +4763,19 @@ francetv://program/jeux-et-divertissements_mot-de-passe
 francetv://937df373-39ec-4f57-8ddc-67cff8364100
 #EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_jeux_les-as-du-jardin" tvg-logo="https://medias.france.tv/5jbhQoifnV4JVPFlaLal0AIi0dQ/400x0/filters:quality(85)/y/b/g/php5lkgby.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Les as du jardin
 francetv://program/jeux-et-divertissements_jeux_les-as-du-jardin
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/_rriOup9aUVA9F_Eko_QqNTc6Go/400x0/filters:quality(85)/7/c/p/phprvlpc7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Vies de famille
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/-4YgYlwx7cOBBVRAinmthZVnP94/400x533/filters:quality(85)/f/c/j/php6gvjcf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
-#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc" tvg-logo="https://medias.france.tv/mL06GA_w90ykljybJNsgjP9d4Ao/400x0/filters:quality(85)/l/d/n/phpgh8ndl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Trouve ta coloc'
+#EXTINF:-1 tvg-id="francetv-prog-jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc" tvg-logo="https://medias.france.tv/l7adR4VTVukPxPpm4WfembkO2-Y/400x533/filters:quality(85)/m/a/l/phprv0lam.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Trouve ta coloc'
 francetv://program/jeux-et-divertissements_emissions-de-divertissement_trouve-ta-coloc
-#EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/gJ1wgGIVJLj73GYL-LEPND7DghY/400x0/filters:quality(85)/v/e/d/phpdcgdev.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",The Floor - À la conquête du sol
+#EXTINF:-1 tvg-id="francetv-prog-france-2_the-floor-a-la-conquete-du-sol" tvg-logo="https://medias.france.tv/2qjp6l2DACDMmBVIwTeXyJ-ZVqE/400x533/filters:quality(85)/2/7/p/phpp1gp72.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",The Floor - À la conquête du sol
 francetv://program/france-2_the-floor-a-la-conquete-du-sol
-#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Tout le monde veut prendre sa place
+#EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/ARLkkOPE_nJNQFkoFLZeeYOO7jA/400x533/filters:quality(85)/p/z/m/phpib5mzp.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Tout le monde veut prendre sa place
 francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
-#EXTINF:-1 tvg-id="francetv-prog-france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre" tvg-logo="https://medias.france.tv/MKJ-xiVD9kRMJ81z7v8pxvnCiLo/400x0/filters:quality(85)/l/o/a/phpxg2aol.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Affaire conclue, tout le monde a quelque chose à vendre
+#EXTINF:-1 tvg-id="francetv-prog-france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre" tvg-logo="https://medias.france.tv/FOrQxabOWF3q5MA-h6oFNOeQFt4/400x533/filters:quality(85)/g/0/f/phputjf0g.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Affaire conclue, tout le monde a quelque chose à vendre
 francetv://program/france-2_affaire-conclue-tout-le-monde-a-quelque-chose-a-vendre
 #EXTINF:-1 tvg-id="francetv-prog-france-5_silence-ca-pousse" tvg-logo="https://medias.france.tv/lg07RM2qDwil27DpIUFP3LXCT3Y/400x0/filters:quality(85)/x/u/i/phpyoviux.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Silence, ça pousse !
 francetv://program/france-5_silence-ca-pousse
-#EXTINF:-1 tvg-id="francetv-prog-france-3_slam" tvg-logo="https://medias.france.tv/V9bGi7-gAKueakS45H_wHy3TGSg/400x0/filters:quality(85)/b/f/s/phpmifsfb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Slam
+#EXTINF:-1 tvg-id="francetv-prog-france-3_slam" tvg-logo="https://medias.france.tv/cI4WGjrzZVHCYvHd3ig4pGl8nGw/400x533/filters:quality(85)/3/h/2/php9382h3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Notre sélection",Slam
 francetv://program/france-3_slam
 #EXTINF:-1 tvg-id="francetv-prog-france-2_tout-le-monde-veut-prendre-sa-place" tvg-logo="https://medias.france.tv/3jisOJVdEH8uexv9UnP7dOVlf2o/400x0/filters:quality(85)/z/q/e/phprtbeqz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Que le meilleur gagne !",Tout le monde veut prendre sa place
 francetv://program/france-2_tout-le-monde-veut-prendre-sa-place
@@ -4965,6 +4969,8 @@ francetv://program/tv5-monde_tendance-xxi
 francetv://program/arte_autour-de-la-maison
 #EXTINF:-1 tvg-id="francetv-prog-france-2_bel-et-bien" tvg-logo="https://medias.france.tv/h6PSaZA7HNBHSxNFhxKBxjVMzS4/400x0/filters:quality(85)/i/h/x/phpfjgxhi.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Le plein de bonnes idées",Bel & bien
 francetv://program/france-2_bel-et-bien
+#EXTINF:-1 tvg-id="francetv-757f5f8a-868a-4762-974f-ebfe8ceef632" tvg-logo="https://medias.france.tv/3Tzn0px4glLNjtmj7-47Y-EWpdE/400x0/filters:quality(85)/o/3/s/phpwb2s3o.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",CallmeLudo à La Cigale
+francetv://757f5f8a-868a-4762-974f-ebfe8ceef632
 #EXTINF:-1 tvg-id="francetv-937df373-39ec-4f57-8ddc-67cff8364100" tvg-logo="https://medias.france.tv/exiu4PY0Uz-jOzGc6ZzNO24yuxU/400x0/filters:quality(85)/y/0/n/php4pjn0y.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Macadam Circus
 francetv://937df373-39ec-4f57-8ddc-67cff8364100
 #EXTINF:-1 tvg-id="francetv-53063e49-562c-432a-9f03-b0fad6bd1836" tvg-logo="https://medias.france.tv/F7PKqyrkHyqkis4MU8SoJiU8Ep0/400x0/filters:quality(85)/j/w/o/phpwjbowj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club — Mulhouse
@@ -4987,7 +4993,7 @@ francetv://23ba87eb-1bea-429d-a6e3-5d1b9d23e7c0
 francetv://program/arte_stand-up-la-rage-de-rire
 #EXTINF:-1 tvg-id="francetv-prog-tv5-monde_comme-a-la-maison" tvg-logo="https://medias.france.tv/PIQMrDMVBE2skKOre0Lu6kP2knQ/400x0/filters:quality(85)/e/7/e/e009ed0560854a5f9f9a9288784d4e7e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Comme à la maison
 francetv://program/tv5-monde_comme-a-la-maison
-#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_top-comedy-club" tvg-logo="https://medias.france.tv/ZlyL1KsTio-i6UqCBoc6Oeyktj0/400x0/filters:quality(85)/a/g/o/php8ueoga.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club
+#EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_top-comedy-club" tvg-logo="https://medias.france.tv/snYBDWhYYPG44ACTGBG9r6hFmnI/400x533/filters:quality(85)/d/z/1/phpubn1zd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Top Comedy Club
 francetv://program/spectacles-et-culture_top-comedy-club
 #EXTINF:-1 tvg-id="francetv-prog-france-2_generation-paname" tvg-logo="https://medias.france.tv/f232nR0a0xeYdshSrwXLyUeKtIA/400x0/filters:quality(85)/r/k/d/phpaerdkr.png" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Divertissement - Rires garantis",Génération Paname
 francetv://program/france-2_generation-paname
