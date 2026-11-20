@@ -32,7 +32,7 @@ EXTRA_BASE_IDX = 200   # serverIdx 200, 201, ... : jamais en collision avec les 
 #   marche n'est retire. Le robot fait de simples GET -> pas de cookie vgt_vid garde, pas de
 #   maille WebRTC. Au passage 11.6, le header de version sera refuse -> ALERTE (cf. fetch).
 BOOT_URL = os.environ.get("VEGETA_BOOT_URL", "http://vegetatvoficial.duckdns.org/bootstrap.php")
-BOOT_VERSION_CODE = os.environ.get("VEGETA_VERSION_CODE", "25")  # VegetaTV 11.5 ; relire dans l'APK au passage 11.6
+BOOT_VERSION_CODE = os.environ.get("VEGETA_VERSION_CODE", "999")  # 2026-11-20 : backend en >=, 999 passe (VegetaTV 11.6 = code 26)
 BOOT_BASE_IDX = 300   # serverIdx 300+ : jamais en collision avec Vegeta (~104) ni extras (200+)
 BOOT_HEADERS = {"X-Vegeta-Version-Code": BOOT_VERSION_CODE,
                 "X-Vegeta-Servers-Direct": "1", "Accept": "application/json"}  # User-Agent ajoute a l'appel (UA defini plus bas)
