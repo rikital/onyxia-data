@@ -242,7 +242,9 @@ def ingest_server(srv, registry, lock):
                 if all(s["url"] != line for s in info["streams"]):
                     info["streams"].append({
                         "serverIdx": srv["pos"],
-                        "label": variant_label(cleaned) or ("Server %s" % srv["pos"]),
+                        # 2026-11-20 : comptes prioritaires ("!") nommes "Lumina" pour les reperer dans l'appli.
+                        "label": ((srv["nom"] + " " + (variant_label(cleaned) or "")).strip() if srv.get("nom")
+                                  else (variant_label(cleaned) or ("Server %s" % srv["pos"]))),
                         "url": line,
                         "_rank": srv["rank"],
                     })
@@ -287,7 +289,8 @@ def load_extra_servers():
                 xt = (host.rstrip("/"), parts[1], parts[2])
                 url = "%s/get.php?username=%s&password=%s&type=m3u_plus&output=m3u8" % xt
             out.append({"pos": EXTRA_BASE_IDX + len(out), "url": url, "xt": xt,
-                        "isFr": True, "rank": 1 if prio else 3, "ping": 0})
+                        "isFr": True, "rank": 1 if prio else 3, "ping": 0,
+                        "nom": "Lumina" if prio else None})
     return out
 
 def m3u_from_player_api(xt):
