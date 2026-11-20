@@ -24,6 +24,14 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 API_URL   = "http://iptvdroid.monster/IP11/api.php"
+# 2026-11-20 : OLA TV 42.0 (com.mediahive.newplayer) a deplace son backend sur IP12 avec de
+#   nouveaux noms de commande. On AJOUTE cette source sans retirer IP11 : un serveur IP12 porte
+#   un cid prefixe "12:" qui circule partout (robot + app) pour router vers la bonne URL/commande.
+API_URL_IP12 = "http://iptvdroid.monster/IP12/api.php"
+PREFIXE_IP12 = "12:"
+# (prefixe, url, methode liste serveurs, methode tirage compte)
+SOURCES_OLA = [("",           API_URL,      "newolatvcategory0326", "getToken128910"),
+               (PREFIXE_IP12, API_URL_IP12, "gt_svr",               "gt_svr_mc")]
 AES_KEY   = b"3234567890123453"
 SECRET    = "MRZEREZIS"
 OUT_PATH    = os.environ.get("OLA_OUT", "data/olatv/live-cids.json")
@@ -40,10 +48,10 @@ def build_payload(method_name, extras=None):
     if extras: obj.update(extras)
     return base64.b64encode(json.dumps(obj).encode("utf-8")).decode()
 
-def api_json(method_name, extras=None, tries=4):
+def api_json(method_name, extras=None, tries=4, url=API_URL):
     for attempt in range(1, tries + 1):
         try:
-            r = requests.post(API_URL, data={"data": build_payload(method_name, extras)},
+            r = requests.post(url, data={"data": build_payload(method_name, extras)},
                               headers={"User-Agent": "okhttp/3.12.1"}, timeout=API_TMO)
             if r.status_code != 200:
                 time.sleep(1.5 * attempt); continue
@@ -56,15 +64,20 @@ def api_json(method_name, extras=None, tries=4):
     return None
 
 def get_servers():
-    resp = api_json("newolatvcategory0326")
-    items = resp if isinstance(resp, list) else (resp.get("LIVETV") if isinstance(resp, dict) else None) or []
     out, seen = [], set()
-    for s in items:
-        if isinstance(s, dict):
-            cid = str(s.get("cid", "")).strip()
-            if cid and cid not in seen:
-                seen.add(cid); out.append(cid)
-    print(f"[servers] {len(out)} cids", flush=True)
+    for prefixe, url, methode, _ in SOURCES_OLA:
+        resp = api_json(methode, url=url)
+        items = resp if isinstance(resp, list) else (resp.get("LIVETV") if isinstance(resp, dict) else None) or []
+        n0 = len(out)
+        for s in items:
+            if isinstance(s, dict):
+                cid = str(s.get("cid", "")).strip()
+                if cid:
+                    ext = prefixe + cid
+                    if ext not in seen:
+                        seen.add(ext); out.append(ext)
+        print(f"[servers] {url.rsplit(chr(47), 2)[-2]} : +{len(out) - n0} cids", flush=True)
+    print(f"[servers] total {len(out)} cids", flush=True)
     return out
 
 def _dec1(t1):
@@ -81,7 +94,11 @@ def _dec2(t2):
     except Exception: return None
 
 def get_mac(cid):
-    resp = api_json("getToken128910", {"cid": cid})
+    url, methode, reel = API_URL, "getToken128910", cid
+    for prefixe, u, _, m in SOURCES_OLA:
+        if prefixe and cid.startswith(prefixe):
+            url, methode, reel = u, m, cid[len(prefixe):]; break
+    resp = api_json(methode, {"cid": reel}, url=url)
     if not resp: return None
     tgt = None
     if isinstance(resp, dict):
@@ -151,9 +168,12 @@ def main():
         if os.path.exists(OUT_PATH): return
         sys.exit(1)
     ranked = sorted(counts.keys(), key=lambda c: (-counts[c], len(c), c))
+    ip11 = [c for c in ranked if not c.startswith(PREFIXE_IP12)]
+    ip12 = [c[len(PREFIXE_IP12):] for c in ranked if c.startswith(PREFIXE_IP12)]
     payload = {"generated_at": int(time.time()), "category": "fr-ranked",
                "total": len(cids), "alive": len(ranked),
-               "cids": ranked, "fr_counts": {c: counts[c] for c in ranked}}
+               "cids": ip11, "fr_counts": {c: counts[c] for c in ip11},
+               "cids_ip12": ip12, "fr_counts_ip12": {c: counts[PREFIXE_IP12 + c] for c in ip12}}
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
