@@ -337,7 +337,20 @@ def m3u_from_player_api(xt):
         lines.append("%s/live/%s/%s/%s.m3u8" % (host, user, pw, sid))
     return "\n".join(lines), bool(fr_cats)
 
+# 2026-11-20 : places EN PLUS reservees aux serveurs VegetaTV 11.6 (bootstrap, serverIdx >= 300),
+#   sinon ils n'entraient jamais sur les grandes chaines (4 places prises avant eux). Les 4 places
+#   habituelles ne changent pas : rien de ce qui marche n'est retire.
+PLACES_BOOT = int(os.environ.get("VEGETA_PLACES_BOOT", "2"))
+
 def repartir(streams, plafond):
+    if plafond >= 10 ** 8:
+        return _repartir(streams, plafond)
+    base = [st for st in streams if st["serverIdx"] < BOOT_BASE_IDX]
+    boot = [st for st in streams if st["serverIdx"] >= BOOT_BASE_IDX]
+    out = _repartir(base, plafond)
+    return out + _repartir(boot, max(plafond - len(out), PLACES_BOOT))
+
+def _repartir(streams, plafond):
     """Round-robin par serveur : 1er flux de chaque serveur (FR d'abord, puis global, puis
        etranger, puis extra), puis 2e flux de chacun, etc., jusqu'a `plafond`.
        Ne modifie pas `streams` (les listes internes sont des copies)."""
