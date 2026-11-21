@@ -2595,7 +2595,7 @@ https://canal32-lineaire.b-cdn.net/master.m3u8
 
 # === Ajouts FR multi-sources : Cinéma ===
 #EXTINF:-1 tvg-id="CinePlusClassic.fr@SD" group-title="Cinéma - Films",Cine+ Classic
-http://99.27.51.147/CineClassic/index.m3u8
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr@SD" group-title="Cinéma - Films",Cine+ Frisson (1080p)
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 
@@ -4646,7 +4646,7 @@ http://41.205.77.102/NATGEO-WILD/index.m3u8
 
 # === Ajouts FR multi-sources : Jeunesse ===
 #EXTINF:-1 tvg-id="CanalJ.fr@HD" group-title="Jeunesse - Jeunesse",Canal J HD (720p)
-http://41.205.77.102/CANALJ/index.m3u8
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b
 #EXTINF:-1 tvg-id="TiJi.fr@HD" group-title="Jeunesse - Jeunesse",TiJi HD (720p)
 http://41.205.77.102/TIJI/index.m3u8
 
@@ -8410,7 +8410,7 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ayTQt5CqYoFf/eZmQersHiaNzuKr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/TLk57608WC2/8MocCcxBTxtJARM.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France TV backup - Autres",France 24 Español (1080p) [kilirushi]
@@ -8628,6 +8628,16 @@ http://170.83.16.50/FRANCE_24/index.m3u8
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="France TV backup - Autres",Trace Brazuca (1090p) [iptv-org-fr]
+https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8
+
+# === Ajouts FR multi-sources : Jeunesse ===
+#EXTINF:-1 tvg-id="DisneyChannel.fr@SD" group-title="Jeunesse - Jeunesse",Disney Channel (France)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
