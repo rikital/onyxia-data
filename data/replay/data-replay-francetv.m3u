@@ -855,6 +855,10 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-d0a43686-e59f-11f1-88f4-19616fa871f9" tvg-logo="https://medias.france.tv/ztYrgqwYP8Y1GfI04ejF9NFzzlw/400x0/filters:quality(85)/3/a/7/2dd148e29f16451f99d5573a7dffd7a3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - Le fil info matin - 21/11/2026
+francetv://d0a43686-e59f-11f1-88f4-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-814eab85-2812-4f2f-9a84-62beb5d9b7ae" tvg-logo="https://medias.france.tv/0RbduTYNRJ5dQKhho3ZAHuZpARU/400x0/filters:quality(85)/3/6/0/47bb46ca24a54a24b04f7583ae9a3063.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du samedi 21 novembre 2026
+francetv://814eab85-2812-4f2f-9a84-62beb5d9b7ae
 #EXTINF:-1 tvg-id="francetv-e3e1b4b0-326c-4ecf-b4e5-9eff2ff9f846" tvg-logo="https://medias.france.tv/1PKnC2dVg-TL3r93ezT9If1BoZI/400x0/filters:quality(85)/1/f/e/889284b791eb45e285d6bb9820be6ef1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — La matinale
 francetv://e3e1b4b0-326c-4ecf-b4e5-9eff2ff9f846
 #EXTINF:-1 tvg-id="francetv-cfad1857-c959-41ee-b6f1-4db534b18cae" tvg-logo="https://medias.france.tv/k7RGb-LPse6cgu7zKlgGd4flMZI/400x0/filters:quality(85)/f/1/4/44785dd0633d498f90e0868acaa0b41f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo — Le 7.40
@@ -889,10 +893,6 @@ francetv://92f64a12-332e-4912-acd6-7ef9bbddf07e
 francetv://b4cc66f5-8fad-44c4-a300-d076dc125584
 #EXTINF:-1 tvg-id="francetv-db2d75c4-0f47-40ce-bcf1-68168499990b" tvg-logo="https://medias.france.tv/v8P6qOHYHSwcN4qbCLXD42Sb1ZM/400x0/filters:quality(85)/7/1/2/7766e322fc63474aaebe566c4b9dd217.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — Émission du vendredi 20 novembre 2026
 francetv://db2d75c4-0f47-40ce-bcf1-68168499990b
-#EXTINF:-1 tvg-id="francetv-656b7d64-0f44-4993-8160-c37522e0b3db" tvg-logo="https://medias.france.tv/SdQQOtYDTMeUski0cIoFyQ-IM10/400x0/filters:quality(85)/c/6/f/3bd04695103b4658aa84473a0764cf6c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
-francetv://656b7d64-0f44-4993-8160-c37522e0b3db
-#EXTINF:-1 tvg-id="francetv-9e9a190f-e016-4b03-b30c-d4da2bf4420f" tvg-logo="https://medias.france.tv/VvfDgM6gZOumnqK6t6vNakP-uz0/400x0/filters:quality(85)/c/d/8/ace2d37c8b894f40a96e713dfcf958dc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — Émission du vendredi 20 novembre 2026
-francetv://9e9a190f-e016-4b03-b30c-d4da2bf4420f
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
@@ -3723,6 +3723,8 @@ francetv://program/france-3_meteo-a-la-carte
 francetv://a1e07a75-9ce4-4ae7-9cac-01cb2eb6b282
 #EXTINF:-1 tvg-id="francetv-prog-france-2_journal-20h00" tvg-logo="https://medias.france.tv/LpJoZETH2n9dY6CY6yVoKmrf200/400x533/filters:quality(85)/a/o/b/phpny9boa.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Journal 20h00
 francetv://program/france-2_journal-20h00
+#EXTINF:-1 tvg-id="francetv-a324f7e6-cfd4-4420-832b-c06efc86c0aa" tvg-logo="https://medias.france.tv/PwFWoxpq2f9Qgwfs_8Zud_4Qc0o/400x0/filters:quality(85)/n/0/0/phprxw00n.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Vrai ou faux, l'émission — Émission du samedi 21 novembre 2026
+francetv://a324f7e6-cfd4-4420-832b-c06efc86c0aa
 #EXTINF:-1 tvg-id="francetv-cb7683b2-e1a0-439c-b1d4-79f24af3b42d" tvg-logo="https://medias.france.tv/ynfBahpkwCAqCjlvTTv_D5DbtIk/400x0/filters:quality(85)/b/8/a/0bdade9eebf842519891604bf5c0ba8b.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",13h15, le dimanche — Fractures sociales
 francetv://cb7683b2-e1a0-439c-b1d4-79f24af3b42d
 #EXTINF:-1 tvg-id="francetv-f7dfcc49-0a3d-4783-a017-dfdeb2978251" tvg-logo="https://medias.france.tv/d2se2A2olKkMz_2BVATaFmhXOPk/400x0/filters:quality(85)/t/i/i/phpdvsiit.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Info - Notre sélection",Reporters — Douma, mensonge d'État : enquête sur une attaque chimique en Syrie
