@@ -8410,7 +8410,7 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/9GnVGC5xVDVa/JxQiFZe6RaTUpgr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ZTagiNBeu76T/pR918Ud0mT15qwuX.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France TV backup - Autres",France 24 Español (1080p) [kilirushi]
@@ -8627,7 +8627,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/9GnVGC5xVDVa/JxQiFZe6RaTUpgr.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/ZTagiNBeu76T/pR918Ud0mT15qwuX.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
@@ -8658,6 +8658,10 @@ https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
+
+# === Ajouts FR multi-sources : Info ===
+#EXTINF:-1 tvg-id="BeninWebTV.bj@SD" group-title="Info - Info",Benin Web TV (720p)
+https://stream.beninwebtv.bj/2/live/stream.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
