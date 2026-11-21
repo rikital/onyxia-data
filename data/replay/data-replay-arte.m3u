@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="arte-127947-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XS7BuLPDaLoLvgtSzchwkE/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Revoir Paris — Le lendemain d'une nuit de terreur
-arte://127947-000-A
-#EXTINF:-1 tvg-id="arte-087935-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/pYpTNzH32Bfh9ecoV9GQCj/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Le terreau de la colère — Une famille au bord de la rupture
-arte://087935-000-A
-#EXTINF:-1 tvg-id="arte-092916-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/xAEVtt7bJNf6UwFTy8yuTY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Compartiment n° 6 — La rencontre de deux solitudes
-arte://092916-000-A
-#EXTINF:-1 tvg-id="arte-132050-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QDigmzBbTwDajvbcwH765J/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Studio 54 — Le temple du disco
-arte://132050-000-A
-#EXTINF:-1 tvg-id="arte-095080-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cTR5wfZPNCgMLoDFLD8PYY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Le diable n'existe pas — Infliger la mort : obéir ou se révolter ?
-arte://095080-000-A
 #EXTINF:-1 tvg-id="arte-118152-043-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/aJgmckdiZFk5DQxDRedNQZ/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Conversation avec Walter Salles
 arte://118152-043-A
 #EXTINF:-1 tvg-id="arte-128716-027-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/eu3C6Nhxnt9SbBxMGvfyng/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Conversation avec Virginie Efira
@@ -59,6 +49,8 @@ arte://130432-061-A
 arte://130432-059-A
 #EXTINF:-1 tvg-id="arte-130432-058-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iT78czGGh8DkeomtveAhDM/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les génériques de John Boorman — Blow up
 arte://130432-058-A
+#EXTINF:-1 tvg-id="arte-127947-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/c8CwfxkX6kQpNN2HsMA8rA/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Revoir Paris
+arte://127947-000-A
 #EXTINF:-1 tvg-id="arte-126909-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/KXwx7i5kSfXCiCsTyMtMVY/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Baby, It's Cold Outside
 arte://126909-000-A
 #EXTINF:-1 tvg-id="arte-067728-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/UjJruPKrc5MSZZbXxwH5oT/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Ten Meter Tower — Hopptornet
@@ -73,6 +65,8 @@ arte://114153-000-A
 arte://RC-014095
 #EXTINF:-1 tvg-id="arte-132359-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/uVanvbMQ4Ke8b4QjyjV5Vb/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Noah Baumbach et Emily Mortimer — Les alchimistes du cinéma
 arte://132359-000-A
+#EXTINF:-1 tvg-id="arte-087935-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/BxjdzvFyJabYgDdXc7qWUV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Le terreau de la colère
+arte://087935-000-A
 #EXTINF:-1 tvg-id="arte-072401-090-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/TVyTVnAPFSZSA2EmZJgAuD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Face à l'Histoire - La France occupée — Blow up
 arte://072401-090-A
 #EXTINF:-1 tvg-id="arte-041548-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/uvFNFQu2RmRZdyyYBzA5CP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Pasticcio — Thème 2009 - "Les retrouvailles"
@@ -97,6 +91,8 @@ arte://106236-062-A
 arte://083883-014-A
 #EXTINF:-1 tvg-id="arte-100210-055-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/SZajAWzPdiccZvw8mgQ28U/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Les génériques de François Ozon — Blow up
 arte://100210-055-A
+#EXTINF:-1 tvg-id="arte-092916-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/ztKDSsNeK3btqfsE5oKFUB/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Compartiment n° 6
+arte://092916-000-A
 #EXTINF:-1 tvg-id="arte-093576-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/XRPurYxXbYvTZh8nfAj3uk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",Entretien avec Christian Petzold
 arte://093576-000-A
 #EXTINF:-1 tvg-id="arte-100210-085-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/YJMmjDKxdWWsj6AhvVXsbG/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Cinéma",E.T. l’extra-terrestre en 9 minutes — Blow up
@@ -545,6 +541,8 @@ arte://132779-002-A
 arte://RC-027737
 #EXTINF:-1 tvg-id="arte-120879-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/3pwQtnneAum8hGoSRavBv4/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Bulgarie — Le super prof de physique
 arte://120879-004-A
+#EXTINF:-1 tvg-id="arte-117728-001-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/z79FDLS73wAYweRM9qFnub/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Le Kintoa, roi des cochons basques — Le retour d'une race locale autrefois menacée d’extinction
+arte://117728-001-F
 #EXTINF:-1 tvg-id="arte-130066-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Ag3yvwjj97TEZkPWKAyfwK/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",Gavials du Népal, le défi de la sauvegarde — 360° Reportage
 arte://130066-011-A
 #EXTINF:-1 tvg-id="arte-111654-000-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4dB9RaHjZi8ZXTHnEeady8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Documentaires et reportages",La grue cendrée — Sur les ailes d’une géante
@@ -701,14 +699,12 @@ arte://125533-004-A
 arte://107397-009-A
 #EXTINF:-1 tvg-id="arte-RC-014085" tvg-logo="https://api-cdn.arte.tv/img/v2/image/NG5zaXVD5HnN9du5jD7J9P/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Journal — Le JT de l'actualité internationale
 arte://RC-014085
-#EXTINF:-1 tvg-id="arte-125533-007-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/DfGFucTm6Rg8jUtzY9s7zC/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Européens et Britanniques : quelles retrouvailles ? — Un accord pour renouer les liens
-arte://125533-007-A
-#EXTINF:-1 tvg-id="arte-112907-189-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cDfGmJcxmXUiDtw9CxPYSf/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Violences sexuelles au sein des armées — Un problème systémique ?
-arte://112907-189-A
 #EXTINF:-1 tvg-id="arte-123953-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5FFrfo2LSDMcLmuAP3iXCa/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Solitude — Le mal d’une génération
 arte://123953-000-A
 #EXTINF:-1 tvg-id="arte-126925-153-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EprgtggQEjemU4boSRtVaQ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Otan contre Donbass : le deal impossible ?
 arte://126925-153-A
+#EXTINF:-1 tvg-id="arte-112907-189-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/X25bo4TvUxXxfX5sDTZvCd/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Europe l'Hebdo — Violences sexuelles au sein des armées : un problème systémique ?
+arte://112907-189-A
 #EXTINF:-1 tvg-id="arte-131284-193-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/hhjCFVTPmnqA5q7PHpnaoX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Meta face aux médias : un procès décisif
 arte://131284-193-A
 #EXTINF:-1 tvg-id="arte-121620-159-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/jymiLTCcubWudPqX5WAa2R/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Allemagne : de crise en crise
@@ -723,8 +719,6 @@ arte://131284-198-A
 arte://119961-014-A
 #EXTINF:-1 tvg-id="arte-134326-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/n4kgcPLce6xZVsGD7cqEP7/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Ukraine, les forçats de la guerre — ARTE Reportage
 arte://134326-000-A
-#EXTINF:-1 tvg-id="arte-112907-188-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/aMnf9LwVFFgRmkPwzgguTW/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",Pologne, Hongrie, Serbie : comment rétablir l'Etat de droit ?
-arte://112907-188-A
 #EXTINF:-1 tvg-id="arte-RC-027948" tvg-logo="https://api-cdn.arte.tv/img/v2/image/bTAdarX9ycpGp7HXogkTmk/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",POURQUOI ? — Les clés de l’info
 arte://RC-027948
 #EXTINF:-1 tvg-id="arte-RC-014123" tvg-logo="https://api-cdn.arte.tv/img/v2/image/reJGrzzfFgymw5b96msbzJ/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Info et société",ARTE Reportage — Le magazine du grand reportage
@@ -1323,6 +1317,10 @@ arte://130066-006-F
 arte://101139-010-F
 #EXTINF:-1 tvg-id="arte-101139-011-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/iRLj2jGruN6TvHrnzDKLAV/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",GEO Reportage — Italie, un refuge pour hérissons
 arte://101139-011-F
+#EXTINF:-1 tvg-id="arte-117728-001-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/dqp8gCs2WE9YHvJh2Dj8zg/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Le Kintoa, roi des cochons basques
+arte://117728-001-F
+#EXTINF:-1 tvg-id="arte-130066-007-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/cHeBBwrvrkMK88woLH7cyQ/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Guatemala, les gardiennes des naissances
+arte://130066-007-F
 #EXTINF:-1 tvg-id="arte-111684-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/CnJpgoZkQKzzKZ9BwTAi3g/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Vietnam, des ponts pour sauver les singes
 arte://111684-001-A
 #EXTINF:-1 tvg-id="arte-117728-006-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/p47XvLrfnWgKtBr8cUL8Z3/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Tatiana funambule, des Cévennes au stade de France
@@ -1341,8 +1339,6 @@ arte://086117-011-A
 arte://106265-024-A
 #EXTINF:-1 tvg-id="arte-106265-018-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8YdE7dGdkPRfdPMwcz53X4/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Vatican, en coulisse avec les gardes suisses
 arte://106265-018-A
-#EXTINF:-1 tvg-id="arte-106265-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fhs9w8uS9s6yVTdysinA6C/400x225" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",360° Reportage — Albanie, une vie de berger
-arte://106265-016-A
 #EXTINF:-1 tvg-id="arte-111654-000-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4dB9RaHjZi8ZXTHnEeady8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",La grue cendrée — Sur les ailes d’une géante
 arte://111654-000-F
 #EXTINF:-1 tvg-id="arte-111684-024-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/QFHjYEZUrFfyoN34X82Wsn/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",L'ornithorynque — Vous avez dit bizarre ?
@@ -1359,14 +1355,14 @@ arte://121342-004-A
 arte://113579-000-A
 #EXTINF:-1 tvg-id="arte-111684-015-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/YZEeQaXfZQtyoc62HChNUY/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Terre-Neuve, rester ou partir ? — Un référendum pour décider de l'avenir d'une communauté
 arte://111684-015-F
+#EXTINF:-1 tvg-id="arte-106265-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/FcJSpRmsvZAVvde26gJyeH/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Albanie, une vie de berger — Quel avenir pour les bergers des Balkans ?
+arte://106265-016-A
 #EXTINF:-1 tvg-id="arte-106265-015-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/yEyhHLFrbAHKEgBQ4siunA/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Monténégro, pour l’amour des ânes — Mission de sauvetage pour Darko
 arte://106265-015-A
 #EXTINF:-1 tvg-id="arte-092983-004-K" tvg-logo="https://api-cdn.arte.tv/img/v2/image/P5eXT8Ce2KZA5tQzGyCcaX/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",La Bretagne entre terre et mer — Les traditions du pays Bigouden
 arte://092983-004-K
 #EXTINF:-1 tvg-id="arte-106265-011-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/38gg5LdVEEcymfDTv4cYDN/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Kourou, des bagnes et des fusées — Les îles du Salut au rythme des lacements des fusées
 arte://106265-011-F
-#EXTINF:-1 tvg-id="arte-117728-010-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/YQJDz7GKswKVU5wtnxegdL/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Italie — L’île-prison de Gorgona - 360° Reportage
-arte://117728-010-A
 #EXTINF:-1 tvg-id="arte-112786-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/MTdnuHkbdbsZAzUyuxbrz/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Le fleuve Shannon - Au cœur de l'Irlande — Cap sur l'estuaire des dauphins : un voyage au fil de l'eau en Irlande
 arte://112786-000-A
 #EXTINF:-1 tvg-id="arte-121301-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4482Q3GH7dcB8VusKQLqfP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Voyages et découvertes",Un billet de train pour l‘Estonie — Un voyage à la découverte du plus septentrional des pays baltes
@@ -1555,6 +1551,8 @@ arte://RC-014095
 arte://RC-017300
 #EXTINF:-1 tvg-id="arte-RC-014120" tvg-logo="https://api-cdn.arte.tv/img/v2/image/DSHYmGeuEndTyFHQvMcYgk/400x225?type=TEXT" tvg-country="FR" tvg-type="series" group-title="Arte Émissions",ARTE 360° Reportage — Voyages et rencontres insolites
 arte://RC-014120
+#EXTINF:-1 tvg-id="arte-128051-012-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/7PwHtJqUNx7hD5t68d3hS5/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Du local ou du bio ? — Plus de légumes dans nos assiettes, oui mais lesquels ?
+arte://128051-012-A
 #EXTINF:-1 tvg-id="arte-117728-001-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/eQbrprbgudXkptH4yrgcdg/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Le Kintoa, roi des cochons basques — Le retour d'une race locale autrefois menacée d’extinction
 arte://117728-001-A
 #EXTINF:-1 tvg-id="arte-086117-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/UjGsLDD4YLhRtvgjzGtmc3/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Le tricot en Islande — Aiguilles et laine de moutons : rencontre avec des passionnés de tricot
@@ -1593,8 +1591,8 @@ arte://130514-002-A
 arte://111684-006-A
 #EXTINF:-1 tvg-id="arte-RC-028078" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RgJWffwo42x5Ja4mgFoGDc/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Écolo mon cul ! — Les grands dilemmes écologiques du quotidien
 arte://RC-028078
-#EXTINF:-1 tvg-id="arte-130066-003-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/RBbUV9nhEPJdQN6aMNSgCW/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Canada, les hélicoptères du grand froid — 360° Reportage
-arte://130066-003-F
+#EXTINF:-1 tvg-id="arte-117728-001-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/z79FDLS73wAYweRM9qFnub/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Le Kintoa, roi des cochons basques — Le retour d'une race locale autrefois menacée d’extinction
+arte://117728-001-F
 #EXTINF:-1 tvg-id="arte-130066-011-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/Ag3yvwjj97TEZkPWKAyfwK/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Gavials du Népal, le défi de la sauvegarde — 360° Reportage
 arte://130066-011-A
 #EXTINF:-1 tvg-id="arte-111654-000-F" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4dB9RaHjZi8ZXTHnEeady8/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",La grue cendrée — Sur les ailes d’une géante
@@ -1687,8 +1685,6 @@ arte://127066-000-A
 arte://130222-008-A
 #EXTINF:-1 tvg-id="arte-130501-014-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/eCaNM8W9hgP2uUoVbcBd6h/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte À voir en famille",Grande finale du Prix de Lausanne — Découvrez les lauréat du concours !
 arte://130501-014-A
-#EXTINF:-1 tvg-id="arte-135166-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/TSYLUS2nRu3Q4ArGSwsH4m/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Rick Astley — Icône pop des années 80 aux refrains intemporels
-arte://135166-003-A
 #EXTINF:-1 tvg-id="arte-132691-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fUFB3XGReaypwzBRHQq3CP/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",BERWYN — Une voix marquante du rap UK tout en lyrisme
 arte://132691-003-A
 #EXTINF:-1 tvg-id="arte-135166-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/CSVnyt5SWA2jsunDJwwMTo/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Calum Scott — À la Baloise Session 2026
@@ -1983,6 +1979,8 @@ arte://132691-001-A
 arte://131033-009-A
 #EXTINF:-1 tvg-id="arte-129385-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/EsA4XD25nbzfq8rfEHPv3n/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Tous les concerts",Kraftwerk par Rodolphe Burger et Julien Perraudeau — C'est dans la vallée 2025
 arte://129385-000-A
+#EXTINF:-1 tvg-id="arte-135166-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/fyhyqxjjRpiHC6HdSqkAzF/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Rick Astley — Baloise Session 2026
+arte://135166-003-A
 #EXTINF:-1 tvg-id="arte-134476-006-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/UC6shKperZiqbcrXZCc8va/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Young Gun Silver Fox — Festival de jazz de Leverkusen 2026
 arte://134476-006-A
 #EXTINF:-1 tvg-id="arte-132691-004-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/jubC7rMeeLhcjcnWtYabPD/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Kayla Shyx — Braths Sessions
@@ -2181,8 +2179,6 @@ arte://130497-008-A
 arte://130497-003-A
 #EXTINF:-1 tvg-id="arte-127032-000-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/8tmbBQY9BKXqmVJUpDsuGm/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Hommage à David Bowie — Heroes Never Die
 arte://127032-000-A
-#EXTINF:-1 tvg-id="arte-129388-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5htvEm9fjy446Xu4jC5xEF/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Bob Mould Band — Rolling Stone Beach 2025
-arte://129388-005-A
 #EXTINF:-1 tvg-id="arte-105455-016-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/4EFnZXSwoWQp7oW4Fr8Lca/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",TAPE: Rosalía
 arte://105455-016-A
 #EXTINF:-1 tvg-id="arte-116041-009-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/drEhfBYnn5J9qq9eJykmnV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",TAPE : Dolly Parton
@@ -2249,6 +2245,8 @@ arte://120103-003-A
 arte://128845-001-A
 #EXTINF:-1 tvg-id="arte-128845-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/SKAYoDo5HQYrzXYps7oX6e/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Vera Daisies "Chess Game" — Laser Disc
 arte://128845-002-A
+#EXTINF:-1 tvg-id="arte-129388-005-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/5htvEm9fjy446Xu4jC5xEF/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Bob Mould Band — Rolling Stone Beach 2025
+arte://129388-005-A
 #EXTINF:-1 tvg-id="arte-129034-002-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/bbqPBknmZJPgcVLQ9VJC2k/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",Sofie Royer — Reeperbahn Festival Collide 2025
 arte://129034-002-A
 #EXTINF:-1 tvg-id="arte-091880-003-A" tvg-logo="https://api-cdn.arte.tv/img/v2/image/qUyiVCcAPGLwPuMV4rWLwV/400x225?type=TEXT" tvg-country="FR" tvg-type="movie" group-title="Arte Concert - Pop & Rock",TAPE : Mariah Carey
