@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-22c558a7-8466-4338-b155-4bc5766f693a" tvg-logo="https://medias.france.tv/hASNPbIsTvldm3G1Xwl9O22ybZg/400x0/filters:quality(85)/e/g/s/phpj9xsge.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'avoue jamais
+francetv://22c558a7-8466-4338-b155-4bc5766f693a
 #EXTINF:-1 tvg-id="francetv-23efe40b-f525-40b1-8b8a-9b4e71270a05" tvg-logo="https://medias.france.tv/IcBtYNiajjDHJ-tS42lXAjFbVVg/400x0/filters:quality(85)/e/f/9/9b2b14b83e474ee4a87fb590720649fe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",100 % logique : la réponse est sous vos yeux — Émission du samedi 21 novembre 2026
 francetv://23efe40b-f525-40b1-8b8a-9b4e71270a05
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/M9vjq13B1deC7Gv2svor-JwXg7M/400x533/filters:quality(85)/v/8/j/phpuu6j8v.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
@@ -863,6 +865,8 @@ francetv://c84e9c52-6565-11f1-8728-19616fa871f9
 francetv://fd0a2511-cc76-43fb-8bb9-845f600167e4
 #EXTINF:-1 tvg-id="francetv-07240417-4994-4398-af6b-660126b1fa66" tvg-logo="https://medias.france.tv/_M0f9a8Nw_BR9-4DvaERZL6nVTQ/400x0/filters:quality(85)/c/r/a/phpfl6arc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Grand Format — Hantavirus, la semaine de tous les dangers
 francetv://07240417-4994-4398-af6b-660126b1fa66
+#EXTINF:-1 tvg-id="francetv-693c8874-c246-49a6-bbd3-8e9236adf12d" tvg-logo="https://medias.france.tv/775xr8R5BKkJB4We9cNrkjeLl94/400x0/filters:quality(85)/e/d/2/40d86bdb63c34e9ab118c86988ba72de.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du dimanche 22 novembre 2026
+francetv://693c8874-c246-49a6-bbd3-8e9236adf12d
 #EXTINF:-1 tvg-id="francetv-cf05f437-dae4-4106-8608-3b37072695c1" tvg-logo="https://medias.france.tv/7Q9lYXTkLcv1PiXAnJ4UBn3RoUE/400x0/filters:quality(85)/9/5/d/35973f9f2bb14b539b2c745ffe1ead59.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le grand enjeu — Émission du dimanche 22 novembre 2026
 francetv://cf05f437-dae4-4106-8608-3b37072695c1
 #EXTINF:-1 tvg-id="francetv-6501831c-db44-4ca0-9639-6ccd7f510705" tvg-logo="https://medias.france.tv/6VnwLO3-eG70lQY7Z_yJ00NghX0/400x0/filters:quality(85)/0/4/0/a2a6084cae2d4bbb810e21f79fd7e040.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du dimanche 22 novembre 2026
@@ -901,8 +905,6 @@ francetv://a324f7e6-cfd4-4420-832b-c06efc86c0aa
 francetv://d0a43686-e59f-11f1-88f4-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-4ecf8847-789e-4543-95df-31cf7c1bcc53" tvg-logo="https://medias.france.tv/f8b52DLsnEWm_W0Pky-5H9GCzpw/400x0/filters:quality(85)/8/b/d/399aa3b71cf1418abb515158868dedb8.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Le fil info
 francetv://4ecf8847-789e-4543-95df-31cf7c1bcc53
-#EXTINF:-1 tvg-id="francetv-814eab85-2812-4f2f-9a84-62beb5d9b7ae" tvg-logo="https://medias.france.tv/0RbduTYNRJ5dQKhho3ZAHuZpARU/400x0/filters:quality(85)/3/6/0/47bb46ca24a54a24b04f7583ae9a3063.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du samedi 21 novembre 2026
-francetv://814eab85-2812-4f2f-9a84-62beb5d9b7ae
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
@@ -1141,18 +1143,16 @@ francetv://program/france-4_basique-les-sessions
 francetv://program/spectacles-et-culture_musique-pop-rock-electro_encore
 #EXTINF:-1 tvg-id="francetv-33a20612-120a-4e60-bd96-225146e4cf0c" tvg-logo="https://medias.france.tv/U2iFz3NYcc7vkU8waep1eenbOL4/400x0/filters:quality(85)/y/w/c/php51wcwy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Chaîne sport
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
-#EXTINF:-1 tvg-id="francetv-a35fd4c0-e2b9-11f1-88ec-19616fa871f9" tvg-logo="https://medias.france.tv/oKDDiulf3iXQoN_1Ra9iqzPr-6M/400x0/filters:quality(85)/e/s/d/php3twdse.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football : Philippe Diallo candidat à la présidence de la FIFA
-francetv://a35fd4c0-e2b9-11f1-88ec-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-711aa24e-e6a9-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/31U0_J0B-5u9j7LC3euLUGm6Mdc/400x0/filters:quality(85)/5/5/d/4e96045949434aeea35083589ed34d55.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Basketball : Elise Prodhomme et Lauriane Dolt, les pionnières
+francetv://711aa24e-e6a9-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-bc126b1e-e6aa-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/CA5QvoL6Zpd8RBxaMMDtdJMvDDg/400x0/filters:quality(85)/2/2/7/e2a410587cc94c6682a94e118a817722.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Biathlon : la science du pas de tir
+francetv://bc126b1e-e6aa-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-75b23ce8-e6b0-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/iQng_80ITSZ58bj2jF4BYCf-jA8/400x0/filters:quality(85)/d/1/0/487598c37a1947dfb431b60addb8e01d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand format : Mathis Desloges en première classe
+francetv://75b23ce8-e6b0-11f1-96d7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-7bb12422-e400-11f1-88ed-19616fa871f9" tvg-logo="https://medias.france.tv/s7DHwwHQQXDqfBapSSDS_6rV1mY/400x0/filters:quality(85)/e/d/3/10d1ad26d881455581144d6368c383de.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",La catapulte humaine
 francetv://7bb12422-e400-11f1-88ed-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-4982dcf2-e1d5-11f1-88e4-19616fa871f9" tvg-logo="https://medias.france.tv/38fvvfDrJ49_JevKPXKllzK56m8/400x0/filters:quality(85)/7/0/b/a7a0200a0b1242738f2a186ef1407b07.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Paroles d'Experts : MMA - Salahdine Parnasse, nouvelle star de l'UFC ?
 francetv://4982dcf2-e1d5-11f1-88e4-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-2e37cf7a-e130-11f1-96c7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/Rh0tY4WJj_2p2lFhdeF8CUnQTkg/400x0/filters:quality(85)/9/a/1/0f49cd5c165545079d1ee848d55281a9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Grand format : Pierre-Mickaël Hugues, le rêve américain
-francetv://2e37cf7a-e130-11f1-96c7-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-4fc01970-e12d-11f1-96c7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/j-2X_YvQyGbYiYWS_2UGzxTyzt0/400x0/filters:quality(85)/4/d/1/624634fb0d104764a2d7eb37d2eab1d4.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — JO de Los Angeles 2028 : Lacrosse, l'espoir olympique
-francetv://4fc01970-e12d-11f1-96c7-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-fe6ad166-d775-11f1-864e-957ddefc544d" tvg-logo="https://medias.france.tv/ZsiJPnwIrGr0i1PpZfxjnRU2oMY/400x0/filters:quality(85)/2/d/a/ded52d478c9b4be881eb6e26e5393ad2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Paroles d'experts : XV de France, l'inquiétante hécatombe
-francetv://fe6ad166-d775-11f1-864e-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-100d6588-df8b-11f1-8672-957ddefc544d" tvg-logo="https://medias.france.tv/WfWs3RM-kVA_Z1tt9taWa2f9D-c/400x0/filters:quality(85)/f/c/4/44bebeaa347242b79ced3ba0d3c684cf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Tous les médaillés français
 francetv://100d6588-df8b-11f1-8672-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-5750f06a-d9df-11f1-865a-957ddefc544d" tvg-logo="https://medias.france.tv/_elTkcua_DtJQOdkJMEgeSUN9kI/400x0/filters:quality(85)/j/p/s/php7k1spj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Aurélien Dunand-Pallaz, le projet ultime
@@ -1161,6 +1161,14 @@ francetv://5750f06a-d9df-11f1-865a-957ddefc544d
 francetv://1565d1b4-d856-11f1-96a7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Vendée Globe, Seuls autour du monde
 francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
+#EXTINF:-1 tvg-id="francetv-ad677a20-e6a8-11f1-8690-957ddefc544d" tvg-logo="https://medias.france.tv/Jv8lYqgPJj78z5D1l2X-ONDd0oE/400x0/filters:quality(85)/3/6/0/6aa12870ee3f41969170e00808da3063.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Moto GP : le grand huit de Marc Marquez
+francetv://ad677a20-e6a8-11f1-8690-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-940bca4a-e6ad-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/9P9Py-DZIktkvl-QqC7CCSc7g0c/400x0/filters:quality(85)/2/6/1/3889eebdde19431ba53ceff60cbe3162.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Rugby - Championnat des Nations : XV de France, les jeunes poussent
+francetv://940bca4a-e6ad-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-4c33eee0-e6ae-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/iHAucZfd8yUrhRNDemaBjKGXgjw/400x0/filters:quality(85)/1/3/a/34d4baf067404d929036399bcccbba31.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Rugby : Gaël Dréan, le grand retour
+francetv://4c33eee0-e6ae-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-65a4cac2-e6ac-11f1-afd3-57a09c50f7ce" tvg-logo="https://medias.france.tv/0kppdqU92vN7DGAScf16_BsXxnE/400x0/filters:quality(85)/f/3/6/78c8555903b84800a41ca1ff6062a63f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 — Dossier : comment être un bon parent quand on a un champion à la maison ?
+francetv://65a4cac2-e6ac-11f1-afd3-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-e3f996c4-e5de-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/yU91kYJIq8NxKyoQ27YC2aGna-c/400x0/filters:quality(85)/3/b/e/4e7350672bad4b78a6772643cc453eb3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football - Ligue 1 : début de 11e journée
 francetv://e3f996c4-e5de-11f1-96d7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-68965454-e5de-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/NS9u8rAjcr3P50L9pL-apgi6qT0/400x0/filters:quality(85)/d/d/4/bc8f0e5aa24f4c6bad7945c6892f34dd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Rugby - Championnat des Nations : lourdes défaites pour l'hémisphère Sud
@@ -1177,6 +1185,8 @@ francetv://ca5aee04-e44c-11f1-88ef-19616fa871f9
 francetv://e7de5ee4-e44b-11f1-96d2-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-e5bb393e-e383-11f1-88ec-19616fa871f9" tvg-logo="https://medias.france.tv/6M2n1Dna1Ur9fZfJJDpvxOzZDN8/400x0/filters:quality(85)/1/8/d/be9f6d55785846d5b9cc64168df94d81.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Tennis - Finales ATP : Carlos Alcaraz en boulet de canon
 francetv://e5bb393e-e383-11f1-88ec-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-a35fd4c0-e2b9-11f1-88ec-19616fa871f9" tvg-logo="https://medias.france.tv/oKDDiulf3iXQoN_1Ra9iqzPr-6M/400x0/filters:quality(85)/e/s/d/php3twdse.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Stade 2 la quotidienne — Football : Philippe Diallo candidat à la présidence de la FIFA
+francetv://a35fd4c0-e2b9-11f1-88ec-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-94c2ad90-e690-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/Cg5cYznQmmygV2l1P-R00kejIDc/400x0/filters:quality(85)/f/2/5/5b15add03e654da2a2991a10a45e252f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Journée 9 : le résumé de ESB Villeneuve d'Ascq Lille Métropole vs Flammes Carolo Basket Ardennes
 francetv://94c2ad90-e690-11f1-96d7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-9b9576f8-df50-11f1-96be-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/4KHfOSc2yKMhNQKJmvv5fivJy3I/400x0/filters:quality(85)/6/a/7/9f2125316a5d4bb6a9c0aa7131e647a6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay FranceTV Sport",Handball de plage (F) : le résumé de Sénégal vs France
@@ -3059,6 +3069,8 @@ francetv://341c4b6c-fa54-4da8-938b-09db7c6e1fe0
 francetv://009d8f46-7fa9-4f9c-b30f-17e632479a33
 #EXTINF:-1 tvg-id="francetv-1e5893fb-9394-4332-ad7f-bcf268661b8a" tvg-logo="https://medias.france.tv/4_Qj3Z2ONSkUxSheAvmfohqgq7I/400x0/filters:quality(85)/8/5/f/edb3bba9c28445a79954dc0b55389f58.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Les films d'Arte",Sex Is Comedy
 francetv://1e5893fb-9394-4332-ad7f-bcf268661b8a
+#EXTINF:-1 tvg-id="francetv-22c558a7-8466-4338-b155-4bc5766f693a" tvg-logo="https://medias.france.tv/yCZxz7k2CfhbLU9DrwuvtD3uwA0/400x533/filters:quality(85)/r/b/g/phpmxbgbr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Du cinéma feel good",N'avoue jamais
+francetv://22c558a7-8466-4338-b155-4bc5766f693a
 #EXTINF:-1 tvg-id="francetv-7d837b1b-6fba-448d-a51b-221070ae8860" tvg-logo="https://medias.france.tv/EeFUvmUes_mYf0hpt2N98NEg5f0/400x0/filters:quality(85)/7/a/q/phpg4tqa7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Du cinéma feel good",La prunelle de mes yeux
 francetv://7d837b1b-6fba-448d-a51b-221070ae8860
 #EXTINF:-1 tvg-id="francetv-d4627d38-4786-4c50-b741-261f21fd59d5" tvg-logo="https://medias.france.tv/l7GkF_SPryt3rdZ1UWn4i1XLhVw/400x0/filters:quality(85)/5/6/4/dd8d282423e54f5bbcdf71bdb686d465.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Du cinéma feel good",La belle affaire
@@ -4495,18 +4507,16 @@ francetv://program/france-4_francofolies-de-la-rochelle
 francetv://program/arte_hellfest
 #EXTINF:-1 tvg-id="francetv-33a20612-120a-4e60-bd96-225146e4cf0c" tvg-logo="https://medias.france.tv/U2iFz3NYcc7vkU8waep1eenbOL4/400x0/filters:quality(85)/y/w/c/php51wcwy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Chaîne sport
 francetv://33a20612-120a-4e60-bd96-225146e4cf0c
-#EXTINF:-1 tvg-id="francetv-a35fd4c0-e2b9-11f1-88ec-19616fa871f9" tvg-logo="https://medias.france.tv/oKDDiulf3iXQoN_1Ra9iqzPr-6M/400x0/filters:quality(85)/e/s/d/php3twdse.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 la quotidienne — Football : Philippe Diallo candidat à la présidence de la FIFA
-francetv://a35fd4c0-e2b9-11f1-88ec-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-711aa24e-e6a9-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/31U0_J0B-5u9j7LC3euLUGm6Mdc/400x0/filters:quality(85)/5/5/d/4e96045949434aeea35083589ed34d55.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Basketball : Elise Prodhomme et Lauriane Dolt, les pionnières
+francetv://711aa24e-e6a9-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-bc126b1e-e6aa-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/CA5QvoL6Zpd8RBxaMMDtdJMvDDg/400x0/filters:quality(85)/2/2/7/e2a410587cc94c6682a94e118a817722.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Biathlon : la science du pas de tir
+francetv://bc126b1e-e6aa-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-75b23ce8-e6b0-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/iQng_80ITSZ58bj2jF4BYCf-jA8/400x0/filters:quality(85)/d/1/0/487598c37a1947dfb431b60addb8e01d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Grand format : Mathis Desloges en première classe
+francetv://75b23ce8-e6b0-11f1-96d7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-7bb12422-e400-11f1-88ed-19616fa871f9" tvg-logo="https://medias.france.tv/s7DHwwHQQXDqfBapSSDS_6rV1mY/400x0/filters:quality(85)/e/d/3/10d1ad26d881455581144d6368c383de.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",La catapulte humaine
 francetv://7bb12422-e400-11f1-88ed-19616fa871f9
 #EXTINF:-1 tvg-id="francetv-4982dcf2-e1d5-11f1-88e4-19616fa871f9" tvg-logo="https://medias.france.tv/38fvvfDrJ49_JevKPXKllzK56m8/400x0/filters:quality(85)/7/0/b/a7a0200a0b1242738f2a186ef1407b07.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Paroles d'Experts : MMA - Salahdine Parnasse, nouvelle star de l'UFC ?
 francetv://4982dcf2-e1d5-11f1-88e4-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-2e37cf7a-e130-11f1-96c7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/Rh0tY4WJj_2p2lFhdeF8CUnQTkg/400x0/filters:quality(85)/9/a/1/0f49cd5c165545079d1ee848d55281a9.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — Grand format : Pierre-Mickaël Hugues, le rêve américain
-francetv://2e37cf7a-e130-11f1-96c7-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-4fc01970-e12d-11f1-96c7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/j-2X_YvQyGbYiYWS_2UGzxTyzt0/400x0/filters:quality(85)/4/d/1/624634fb0d104764a2d7eb37d2eab1d4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Stade 2 — JO de Los Angeles 2028 : Lacrosse, l'espoir olympique
-francetv://4fc01970-e12d-11f1-96c7-6dcd43e8ddfd
-#EXTINF:-1 tvg-id="francetv-fe6ad166-d775-11f1-864e-957ddefc544d" tvg-logo="https://medias.france.tv/ZsiJPnwIrGr0i1PpZfxjnRU2oMY/400x0/filters:quality(85)/2/d/a/ded52d478c9b4be881eb6e26e5393ad2.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Paroles d'experts : XV de France, l'inquiétante hécatombe
-francetv://fe6ad166-d775-11f1-864e-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-100d6588-df8b-11f1-8672-957ddefc544d" tvg-logo="https://medias.france.tv/WfWs3RM-kVA_Z1tt9taWa2f9D-c/400x0/filters:quality(85)/f/c/4/44bebeaa347242b79ced3ba0d3c684cf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Tous les médaillés français
 francetv://100d6588-df8b-11f1-8672-957ddefc544d
 #EXTINF:-1 tvg-id="francetv-5750f06a-d9df-11f1-865a-957ddefc544d" tvg-logo="https://medias.france.tv/_elTkcua_DtJQOdkJMEgeSUN9kI/400x0/filters:quality(85)/j/p/s/php7k1spj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Aurélien Dunand-Pallaz, le projet ultime
@@ -4515,6 +4525,14 @@ francetv://5750f06a-d9df-11f1-865a-957ddefc544d
 francetv://1565d1b4-d856-11f1-96a7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - Notre sélection",Vendée Globe, Seuls autour du monde
 francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
+#EXTINF:-1 tvg-id="francetv-ad677a20-e6a8-11f1-8690-957ddefc544d" tvg-logo="https://medias.france.tv/Jv8lYqgPJj78z5D1l2X-ONDd0oE/400x0/filters:quality(85)/3/6/0/6aa12870ee3f41969170e00808da3063.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Moto GP : le grand huit de Marc Marquez
+francetv://ad677a20-e6a8-11f1-8690-957ddefc544d
+#EXTINF:-1 tvg-id="francetv-940bca4a-e6ad-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/9P9Py-DZIktkvl-QqC7CCSc7g0c/400x0/filters:quality(85)/2/6/1/3889eebdde19431ba53ceff60cbe3162.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Rugby - Championnat des Nations : XV de France, les jeunes poussent
+francetv://940bca4a-e6ad-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-4c33eee0-e6ae-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/iHAucZfd8yUrhRNDemaBjKGXgjw/400x0/filters:quality(85)/1/3/a/34d4baf067404d929036399bcccbba31.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Rugby : Gaël Dréan, le grand retour
+francetv://4c33eee0-e6ae-11f1-96d7-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-65a4cac2-e6ac-11f1-afd3-57a09c50f7ce" tvg-logo="https://medias.france.tv/0kppdqU92vN7DGAScf16_BsXxnE/400x0/filters:quality(85)/f/3/6/78c8555903b84800a41ca1ff6062a63f.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 — Dossier : comment être un bon parent quand on a un champion à la maison ?
+francetv://65a4cac2-e6ac-11f1-afd3-57a09c50f7ce
 #EXTINF:-1 tvg-id="francetv-e3f996c4-e5de-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/yU91kYJIq8NxKyoQ27YC2aGna-c/400x0/filters:quality(85)/3/b/e/4e7350672bad4b78a6772643cc453eb3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Football - Ligue 1 : début de 11e journée
 francetv://e3f996c4-e5de-11f1-96d7-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-68965454-e5de-11f1-96d7-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/NS9u8rAjcr3P50L9pL-apgi6qT0/400x0/filters:quality(85)/d/d/4/bc8f0e5aa24f4c6bad7945c6892f34dd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Sport - L'actu de la semaine",Stade 2 la quotidienne — Rugby - Championnat des Nations : lourdes défaites pour l'hémisphère Sud
