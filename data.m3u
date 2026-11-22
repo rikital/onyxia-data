@@ -7614,9 +7614,9 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Hungarian (720p)
-https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Hungarian
-https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Italian (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" group-title="Nouveautés FR - Nouveautés",Euronews Russian (720p)
@@ -8712,6 +8712,10 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="France TV backup - Autres",France 24 English (1080p) [kilirushi]
 https://freem3u.xyz/api/live/play.m3u8?vid=96
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" group-title="France TV backup - Autres",Euronews Hungarian [kilirushi]
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
