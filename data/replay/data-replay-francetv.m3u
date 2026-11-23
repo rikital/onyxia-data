@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="francetv-22c558a7-8466-4338-b155-4bc5766f693a" tvg-logo="https://medias.france.tv/hASNPbIsTvldm3G1Xwl9O22ybZg/400x0/filters:quality(85)/e/g/s/phpj9xsge.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'avoue jamais
 francetv://22c558a7-8466-4338-b155-4bc5766f693a
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/Xw78McF3jB6Lhhm-_fXoXxrmjko/1600x1200/filters:quality(85)/r/p/z/phpi2wzpr.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",'Oro
+francetv://program/la1ere_oro
 #EXTINF:-1 tvg-id="francetv-23efe40b-f525-40b1-8b8a-9b4e71270a05" tvg-logo="https://medias.france.tv/IcBtYNiajjDHJ-tS42lXAjFbVVg/400x0/filters:quality(85)/e/f/9/9b2b14b83e474ee4a87fb590720649fe.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",100 % logique : la réponse est sous vos yeux — Émission du samedi 21 novembre 2026
 francetv://23efe40b-f525-40b1-8b8a-9b4e71270a05
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/M9vjq13B1deC7Gv2svor-JwXg7M/400x533/filters:quality(85)/v/8/j/phpuu6j8v.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
@@ -1429,26 +1431,26 @@ francetv://program/france-3_les-temoins-d-outre-mer
 francetv://program/france-o_passion-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_saint-pierre" tvg-logo="https://medias.france.tv/WZcXp2xtUMdrPuJiQBJZMsWAW70/400x0/filters:quality(85)/g/c/u/php9vhucg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Saint-Pierre
 francetv://program/series-et-fictions_saint-pierre
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/Xw78McF3jB6Lhhm-_fXoXxrmjko/1600x1200/filters:quality(85)/r/p/z/phpi2wzpr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",'Oro
+francetv://program/la1ere_oro
+#EXTINF:-1 tvg-id="francetv-b1450a7e-e05c-4ed2-98d7-881bfa2b47cf" tvg-logo="https://medias.france.tv/4LbOgZ2qxJN61fNW0DlYdzucHBQ/400x0/filters:quality(85)/1/f/d/59a818c5ea5241c4b01f30b4e20b9df1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Disparition inquiétante — Au Nom du Père
+francetv://b1450a7e-e05c-4ed2-98d7-881bfa2b47cf
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-f404b615-45d0-498b-91e0-51cf8782b8cb" tvg-logo="https://medias.france.tv/QfDC4jDtpF1KvkV4KMJXI_xNhrA/400x0/filters:quality(85)/y/s/4/phpzbi4sy.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Meurtres à... — Meurtres à Meaux
 francetv://f404b615-45d0-498b-91e0-51cf8782b8cb
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/Xw78McF3jB6Lhhm-_fXoXxrmjko/1600x1200/filters:quality(85)/r/p/z/phpi2wzpr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",'Oro
-francetv://program/la1ere_oro
 #EXTINF:-1 tvg-id="francetv-7ca10466-89fb-46c8-9acb-a05b1e9fd728" tvg-logo="https://medias.france.tv/qutzejBRSimjk6Mh0UGxpc3wAuY/400x0/filters:quality(85)/0/e/b/fc193315daf84c4a932f1f852e118be0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Noir comme neige — Chute libre
 francetv://7ca10466-89fb-46c8-9acb-a05b1e9fd728
-#EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Alex Hugo
-francetv://program/france-3_alex-hugo
 #EXTINF:-1 tvg-id="francetv-prog-arte_beforeigners" tvg-logo="https://medias.france.tv/b5qdiFlfcSxn-duuRDcf9acdjZo/400x0/filters:quality(85)/e/4/e/1669dbedcafd4093aaf1115aef5cbe4e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Beforeigners
 francetv://program/arte_beforeigners
+#EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Alex Hugo
+francetv://program/france-3_alex-hugo
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_series-drame_les-disparus-des-argonnes" tvg-logo="https://medias.france.tv/OxnTOqA6arPHcYmXBqClhaCoWO0/400x0/filters:quality(85)/r/7/n/phpepqn7r.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les disparus des Argonnes
 francetv://program/series-et-fictions_series-drame_les-disparus-des-argonnes
 #EXTINF:-1 tvg-id="francetv-dbcd2326-c690-4c85-96b1-14d60da2adaf" tvg-logo="https://medias.france.tv/U9kpaqb_X8zhQCWj_nWLISOwosc/400x0/filters:quality(85)/m/0/t/phphtlt0m.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Signalements
 francetv://dbcd2326-c690-4c85-96b1-14d60da2adaf
-#EXTINF:-1 tvg-id="francetv-prog-france-2_le-rouge-et-le-noir" tvg-logo="https://medias.france.tv/mq3LupNbIZ2VyThtuaEa8mLftus/400x533/filters:quality(85)/h/y/x/phprjcxyh.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Le Rouge et le Noir
-francetv://program/france-2_le-rouge-et-le-noir
-#EXTINF:-1 tvg-id="francetv-66000724-c039-4ea1-b456-59e54f7d5f69" tvg-logo="https://medias.france.tv/Bx2y-GYQ04pC7rNYW3vawobAJPk/400x0/filters:quality(85)/c/g/n/phpzugngc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les bois maudits
-francetv://66000724-c039-4ea1-b456-59e54f7d5f69
+#EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/cbSsO3MQhfYQFXveQa5cp_sQo9Y/1600x1200/filters:quality(85)/u/9/l/php1bvl9u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Sœurs
+francetv://program/france-2_soeurs
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/JiZEYyX78I1QlbE9OFU7E4hkfTE/400x0/filters:quality(85)/7/j/b/phpspcbj7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-efcbb69a-3d28-4675-9b18-c18a984641fa" tvg-logo="https://medias.france.tv/EFsumR7rRxIgUfqaCyNWGjBBfYY/400x0/filters:quality(85)/4/h/g/php33bgh4.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 20 novembre 2026
@@ -1463,8 +1465,6 @@ francetv://b197e514-a596-4517-bffd-e5d78b993307
 francetv://0c1a3a36-6b19-4f1f-a596-de40b17d0c1c
 #EXTINF:-1 tvg-id="francetv-64b0f04a-d994-4c7e-9043-d27696a8169f" tvg-logo="https://medias.france.tv/nxCdttqjrX7OSuHGgynsn_rWQ0M/400x0/filters:quality(85)/6/e/e/phpaldee6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 27 novembre 2026
 francetv://64b0f04a-d994-4c7e-9043-d27696a8169f
-#EXTINF:-1 tvg-id="francetv-5598c9f9-0e51-4c95-9e85-4ed68fd68d15" tvg-logo="https://medias.france.tv/5ffBdzZt3QaiyNNodhBe1Qx0BWY/400x0/filters:quality(85)/t/3/g/php6vmg3t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Disparition inquiétante — Peur sur le campus
-francetv://5598c9f9-0e51-4c95-9e85-4ed68fd68d15
 #EXTINF:-1 tvg-id="francetv-prog-arte_les-secrets-de-la-saint-jean" tvg-logo="https://medias.france.tv/EY8BckaTt2qN_Mjzd9BgvXEz40A/400x0/filters:quality(85)/e/0/m/phpyuhm0e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Les secrets de la Saint-Jean
 francetv://program/arte_les-secrets-de-la-saint-jean
 #EXTINF:-1 tvg-id="francetv-df2cf7dd-8121-47b7-9987-6bd164988973" tvg-logo="https://medias.france.tv/ZVUULPqeBrwDzoqNctjzjFd_-kk/400x0/filters:quality(85)/s/h/g/phpp8eghs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",L'art du crime — Le cri du vampire
@@ -1501,6 +1501,10 @@ francetv://b74981a1-3dd2-44f2-ab05-9b60c00c7345
 francetv://program/france-2_diane-de-poitiers
 #EXTINF:-1 tvg-id="francetv-prog-arte_brigade-mobile" tvg-logo="https://medias.france.tv/_MQhWRaBRK_q9agYi-0tICK4Fa4/400x0/filters:quality(85)/e/0/f/ff19866cae1943a095298d3b13ef3ac541b1bff7d15dcae33107d70e4cc79f0e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Brigade Mobile
 francetv://program/arte_brigade-mobile
+#EXTINF:-1 tvg-id="francetv-prog-arte_le-complot-caravaggio" tvg-logo="https://medias.france.tv/IGGVEwUOzBXJDD7mAWC_utZLi_I/400x0/filters:quality(85)/3/z/f/php5a5fz3.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Le complot Caravaggio
+francetv://program/arte_le-complot-caravaggio
+#EXTINF:-1 tvg-id="francetv-b31bf1b2-1d9f-481d-a1b7-ff5c11e1d3d7" tvg-logo="https://medias.france.tv/f-Vk6EHov57m6kVf3pr3Tb9vx1c/400x0/filters:quality(85)/n/1/4/phptri41n.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres à Colmar
+francetv://b31bf1b2-1d9f-481d-a1b7-ff5c11e1d3d7
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Enquêtes en altitude",Alex Hugo
 francetv://program/france-3_alex-hugo
 #EXTINF:-1 tvg-id="francetv-077baadf-226c-49d8-a9c5-eb1b55e5b4b7" tvg-logo="https://medias.france.tv/d6M6-W5NLEuyZANP83grLzYPIeQ/400x0/filters:quality(85)/6/s/9/php9jv9s6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Enquêtes en altitude",Meurtres à... — Meurtres dans le Jura
