@@ -2481,7 +2481,7 @@ http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
 # === Ajouts FR multi-sources : Divertissement ===
 #EXTINF:-1 tvg-id="CanalPlus.fr@SD" group-title="Divertissement - Divertissement",Canal+ (1080p)
-http://151.80.18.177:86/Canal+_HD/index.m3u8
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de
 
 # === Ajouts FR multi-sources : Family ===
 #EXTINF:-1 tvg-id="CanalPlusFamily.fr@SD" group-title="Family - Autres",Canal+ Family (720p)
@@ -8410,7 +8410,7 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mbxCkq5fYCGO/CazyVPZXNrECb.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4tglKWre0AB/PRWMNDA9lZua5P.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="France TV backup - Autres",France 24 Español (1080p) [kilirushi]
@@ -8627,7 +8627,7 @@ https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="TMC.fr@HD" group-title="France TV backup - Autres",TMC HD (1080p) [Geo-blocked] [iptv-org-fr]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mbxCkq5fYCGO/CazyVPZXNrECb.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/4tglKWre0AB/PRWMNDA9lZua5P.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
@@ -8723,7 +8723,15 @@ https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
 
 # === France TV backup (URLs alternatives — auto-multi-sources) ===
 #EXTINF:-1 tvg-id="France24.fr@French" group-title="France TV backup - Autres",France 24 (1080p) [iptv-org-fr]
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france-24.m3u8
+
+# === France TV backup (URLs alternatives — auto-multi-sources) ===
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="France TV backup - Autres",CGTN French (1080p) [iptv-org-fra]
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
+# === Ajouts FR multi-sources : Divertissement ===
+#EXTINF:-1 tvg-id="ComediePlus.fr@SD" group-title="Divertissement - Divertissement",Comedie+ (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b
 
 # ===== DOSSIERS MIX FR (import automatique de mixfr-dossiers.txt, ne pas editer ici) =====
 # --- dossier: Zone 18@ ---
