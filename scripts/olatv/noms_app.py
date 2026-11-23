@@ -85,6 +85,74 @@ def cle(nom):
     return RX_NON_ALNUM.sub("", s).replace("sports", "sport")
 
 
+# 2026-11-23 : CARTES DE L'ACCUEIL (meme regle que cle_carte() de vegetatv/refresh_vegetatv.py et
+#   cleCarte() de OlaTvProvider.kt). Les cartes de l'app cherchent une cle ECRITE EN DUR
+#   ("beinsports1") alors que cle() donne "beinsport1" -> carte vide. Et les variantes FR
+#   ("VIP: TF1", "BEIN SPORTS FR 1", "FR0: ...") avaient chacune leur case a cote de la carte.
+#   On range sous la cle de la carte tout ce qui lui correspond ; les marques FR ne sont
+#   retirees que si le resultat tombe sur une carte.
+_ALIAS_CARTES = {
+    "nationalgeo": "nationalgeographic", "nationalgeochannel": "nationalgeographic",
+    "bfmparis": "bfmparisidf",
+    "canalcinema": "canalpluscinema",
+    "canalseries": "canalplusseries",
+    "canalfamily": "canalplusfamily",
+    "canaldocs": "canalplusdocs",
+    "canalsport": "canalplussport",
+    "canalfoot": "canalplusfoot",
+    "canalgrandecran": "canalplusgrandecran",
+    "canalboxoffice": "canalplusboxoffice",
+    "cinepremier": "cinepluspremier",
+    "cinefrisson": "cineplusfrisson",
+    "cineemotion": "cineplusemotion",
+    "cinefamiz": "cineplusfamiz",
+    "cineclub": "cineplusclub",
+    "cineclassic": "cineplusclassic",
+    "cinepolar": "polarplus",
+    "cinepluspolar": "polarplus",
+    "cinepluspolarplus": "polarplus",
+    "rmcsportlive1": "rmcsport1",
+    "rmcsportlive2": "rmcsport2",
+    "rmcsportlive3": "rmcsport3",
+    "rmcsportlive4": "rmcsport4",
+    "beinfrench1": "beinsports1", "beinfrench2": "beinsports2", "beinfrench3": "beinsports3",
+}
+RX_MARQUE_FR_PREFIXE = re.compile(r"^[\W_]*(?:vip\s*[:|]\s*(?:fr[a0-9]?\s*[:|\-]\s*)?|(?:sp\s*[:|]\s*)?\^?\s*fr[a0-9]?\s*[:|\-]\s*)", _I)
+RX_MARQUE_FR_MOT = re.compile(r"\b(fr|french|francais|fran\u00e7ais)\b(?=\s*\d)", _I)
+_CARTES = None
+
+
+def _charger_cartes():
+    import os, io as _io
+    cartes = {}
+    chemin = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "vegetatv", "cartes_accueil.txt")
+    try:
+        with _io.open(chemin, encoding="utf-8") as f:
+            for ligne in f:
+                ligne = ligne.strip()
+                if not ligne or ligne.startswith("#") or "|" not in ligne:
+                    continue
+                k, n = ligne.split("|", 1)
+                for x in (k, cle(n), cle(k)):
+                    cartes.setdefault(x, k)
+    except Exception as e:
+        print("cartes_accueil.txt illisible : %s" % e)
+    for a, k in _ALIAS_CARTES.items():
+        cartes.setdefault(a, k)
+    return cartes
+
+
+def cle_carte(nom):
+    global _CARTES
+    if _CARTES is None:
+        _CARTES = _charger_cartes()
+    k = cle(nom)
+    if k in _CARTES:
+        return _CARTES[k]
+    k2 = cle(RX_MARQUE_FR_MOT.sub(" ", RX_MARQUE_FR_PREFIXE.sub("", nom)))
+    return _CARTES.get(k2, k)
+
+
 def nom_affiche(nom):
     s = RX_CROCHETS.sub(" ", nom)
     s = RX_PARENTHESES.sub(" ", s)
@@ -121,7 +189,7 @@ def regrouper(chaines_brutes, max_par_cle=100):
     for nom, sources in chaines_brutes.items():
         if not fr_compatible(nom):
             continue
-        k = cle(nom)
+        k = cle_carte(nom)
         if not k:
             continue
         v = variante(nom)

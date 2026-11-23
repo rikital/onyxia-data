@@ -9,7 +9,7 @@ JSON -> registre instantane, zero parse m3u.
 
 Format de sortie = celui de VegetaTvProvider.saveRegistryCache() (loadRegistryCache le lit).
 """
-import os, re, sys, json, time, unicodedata, threading
+import io, os, re, sys, json, time, unicodedata, threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
@@ -117,6 +117,73 @@ def norm(name):
     s = s.replace("+", "plus").replace("&", "and")
     s = re.sub(r"[^a-z0-9]", "", s).replace("sports", "sport")
     return _ALIAS.get(s, s)
+
+# 2026-11-23 : CARTES DE L'ACCUEIL. L'app cherche chaque carte (TF1, beIN Sports 1...) sous
+#   une cle ECRITE EN DUR (curatedChannels). Or norm() fait "sports" -> "sport" : la carte
+#   "beinsports1" ne trouvait jamais "beinsport1" (221 flux !). Et les variantes FR
+#   ("BEIN SPORTS FR 1", "SP: FR: Bein Sport 1", "FR0: BEIN SPORTS 1"...) avaient chacune
+#   leur case. cle_carte() range desormais tout ce qui correspond a une carte sous SA cle.
+#   Les marques FR ne sont retirees QUE si le resultat tombe sur une carte (sinon la cle
+#   reste celle de norm()) : pas de fusion hasardeuse hors des cartes.
+#   Liste des cartes : cartes_accueil.txt (copie de curatedChannels, a garder en phase).
+_ALIAS_CARTES = {
+    "nationalgeo": "nationalgeographic", "nationalgeochannel": "nationalgeographic",
+    "bfmparis": "bfmparisidf",
+    "canalcinema": "canalpluscinema",
+    "canalseries": "canalplusseries",
+    "canalfamily": "canalplusfamily",
+    "canaldocs": "canalplusdocs",
+    "canalsport": "canalplussport",
+    "canalfoot": "canalplusfoot",
+    "canalgrandecran": "canalplusgrandecran",
+    "canalboxoffice": "canalplusboxoffice",
+    "cinepremier": "cinepluspremier",
+    "cinefrisson": "cineplusfrisson",
+    "cineemotion": "cineplusemotion",
+    "cinefamiz": "cineplusfamiz",
+    "cineclub": "cineplusclub",
+    "cineclassic": "cineplusclassic",
+    "cinepolar": "polarplus",
+    "cinepluspolar": "polarplus",
+    "cinepluspolarplus": "polarplus",
+    "rmcsportlive1": "rmcsport1",
+    "rmcsportlive2": "rmcsport2",
+    "rmcsportlive3": "rmcsport3",
+    "rmcsportlive4": "rmcsport4",
+    "beinfrench1": "beinsports1", "beinfrench2": "beinsports2", "beinfrench3": "beinsports3",
+}
+_MARQUE_FR_PREFIXE = re.compile(r"(?i)^[\W_]*(?:vip\s*[:|]\s*(?:fr[a0-9]?\s*[:|\-]\s*)?|(?:sp\s*[:|]\s*)?\^?\s*fr[a0-9]?\s*[:|\-]\s*)")
+_MARQUE_FR_MOT = re.compile(r"(?i)\b(fr|french|francais|fran\u00e7ais)\b(?=\s*\d)")
+
+def _charger_cartes():
+    cartes = {}
+    chemin = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cartes_accueil.txt")
+    try:
+        with io.open(chemin, encoding="utf-8") as f:
+            for ligne in f:
+                ligne = ligne.strip()
+                if not ligne or ligne.startswith("#") or "|" not in ligne:
+                    continue
+                cle, nom = ligne.split("|", 1)
+                for x in (cle, norm(nom), norm(cle)):
+                    cartes.setdefault(x, cle)
+    except Exception as e:
+        print("cartes_accueil.txt illisible : %s" % e, file=sys.stderr)
+    for a, cle in _ALIAS_CARTES.items():
+        cartes.setdefault(a, cle)
+    return cartes
+
+_CARTES = None
+
+def cle_carte(cleaned):
+    global _CARTES
+    if _CARTES is None:
+        _CARTES = _charger_cartes()
+    k = norm(cleaned)
+    if k in _CARTES:
+        return _CARTES[k]
+    k2 = norm(_MARQUE_FR_MOT.sub(" ", _MARQUE_FR_PREFIXE.sub("", cleaned)))
+    return _CARTES.get(k2, k)
 
 def base_display(name):
     return re.sub(r"\s+", " ", re.sub(r"(?i)\b(fhd|uhd|4k|hd|sd|hevc|h265|vip)\b", "", name)).strip() or name
@@ -227,7 +294,7 @@ def ingest_server(srv, registry, lock):
             cleaned = re.sub(r"\s+", " ", cleaned).strip()
             if not cleaned:
                 continue
-            key = norm(cleaned)
+            key = cle_carte(cleaned)
             if not key:
                 continue
             with lock:
