@@ -859,6 +859,8 @@ francetv://program/franceinfo_a-suivre-avec-claire-elisabeth-beaufort
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_l-heure-des-outre-mer" tvg-logo="https://medias.france.tv/tiOt_wYlt2KRrjsg0hTUudaesP0/400x0/filters:quality(85)/b/n/0/php0vh0nb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer
 francetv://program/franceinfo_l-heure-des-outre-mer
+#EXTINF:-1 tvg-id="francetv-b9a7facf-9b0d-46ab-b3a1-d9f99c52f801" tvg-logo="https://medias.france.tv/lVr3r-6rcZfQtVLeal13I_kEp00/400x0/filters:quality(85)/5/b/3/9e8ca8e9b1ba441f88765216c0b9a3b5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
+francetv://b9a7facf-9b0d-46ab-b3a1-d9f99c52f801
 #EXTINF:-1 tvg-id="francetv-651a6f99-eee4-4788-bff6-8dff04540cf0" tvg-logo="https://medias.france.tv/Dcw1TdmgG8xG2TFI-NoAl8p7pNk/400x0/filters:quality(85)/2/1/4/67215713d3b54df283b23c3976582412.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du lundi 23 novembre 2026
 francetv://651a6f99-eee4-4788-bff6-8dff04540cf0
 #EXTINF:-1 tvg-id="francetv-1911fc11-2366-4e8a-a2a5-f11ae6f35dae" tvg-logo="https://medias.france.tv/5r8lZ-R6ptCr97kt9KkxPaA0NSI/400x0/filters:quality(85)/7/7/9/d89dc10f449c46db84d630d3b6f81977.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du lundi 23 novembre 2026
@@ -897,8 +899,6 @@ francetv://cf05f437-dae4-4106-8608-3b37072695c1
 francetv://6501831c-db44-4ca0-9639-6ccd7f510705
 #EXTINF:-1 tvg-id="francetv-6e54bf2c-de8e-4155-965f-318dec99369e" tvg-logo="https://medias.france.tv/0hh-2YftUv7N0rxk4J78U80uU3s/400x0/filters:quality(85)/7/9/4/43891d323c134574864129317b7f8497.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du dimanche 22 novembre 2026
 francetv://6e54bf2c-de8e-4155-965f-318dec99369e
-#EXTINF:-1 tvg-id="francetv-107715ae-9d1a-4509-913c-f4be3dd68016" tvg-logo="https://medias.france.tv/PRut06mc9rAaPTHF32BjjmiNtLs/400x0/filters:quality(85)/6/d/1/ff4ddbcabc6248aa9e11f8a99f1b71d6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer — La santé des femmes ultramarines
-francetv://107715ae-9d1a-4509-913c-f4be3dd68016
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
