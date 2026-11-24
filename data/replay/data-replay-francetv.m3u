@@ -11,7 +11,7 @@ francetv://program/la1ere_oro
 francetv://23efe40b-f525-40b1-8b8a-9b4e71270a05
 #EXTINF:-1 tvg-id="francetv-prog-france-2_un-dimanche-a-la-campagne" tvg-logo="https://medias.france.tv/M9vjq13B1deC7Gv2svor-JwXg7M/400x533/filters:quality(85)/v/8/j/phpuu6j8v.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Un dimanche à la campagne
 francetv://program/france-2_un-dimanche-a-la-campagne
-#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
+#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-7ca10466-89fb-46c8-9acb-a05b1e9fd728" tvg-logo="https://medias.france.tv/qutzejBRSimjk6Mh0UGxpc3wAuY/400x0/filters:quality(85)/0/e/b/fc193315daf84c4a932f1f852e118be0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Noir comme neige — Chute libre
 francetv://7ca10466-89fb-46c8-9acb-a05b1e9fd728
@@ -267,7 +267,7 @@ francetv://program/france-3_face-a-face
 francetv://program/france-3_meurtres-a
 #EXTINF:-1 tvg-id="francetv-prog-slash_filme-ton-quartier" tvg-logo="https://medias.france.tv/WGCoxiP4x5i7mOTRWvj_joipMR4/400x533/filters:quality(85)/w/2/j/php84ij2w.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Filme ton quartier
 francetv://program/slash_filme-ton-quartier
-#EXTINF:-1 tvg-id="francetv-080fcd4d-a977-4563-ae06-e1b83551f5c9" tvg-logo="https://medias.france.tv/gqnkc9keSv7lWDHQdMDU9Vi2bWo/400x533/filters:quality(85)/p/x/h/phpawkhxp.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Tomorrow UK Inch'Allah
+#EXTINF:-1 tvg-id="francetv-080fcd4d-a977-4563-ae06-e1b83551f5c9" tvg-logo="https://medias.france.tv/gqnkc9keSv7lWDHQdMDU9Vi2bWo/400x533/filters:quality(85)/p/x/h/phpawkhxp.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La France en Vrai - Hauts-de-France — Tomorrow UK Inch'Allah
 francetv://080fcd4d-a977-4563-ae06-e1b83551f5c9
 #EXTINF:-1 tvg-id="francetv-3926a940-263d-4ede-8dec-5a10d1a964cd" tvg-logo="https://medias.france.tv/B3lx3Qwpr8xlZFUFqQYvdeRFjGA/400x0/filters:quality(85)/9/9/2/8dcd5636c0ab44f5a8778084bda19299.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Vous n'aurez plus nos morts - La restitution des restes humains coloniaux
 francetv://3926a940-263d-4ede-8dec-5a10d1a964cd
@@ -861,14 +861,22 @@ francetv://program/franceinfo_a-suivre-avec-claire-elisabeth-beaufort
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_l-heure-des-outre-mer" tvg-logo="https://medias.france.tv/tiOt_wYlt2KRrjsg0hTUudaesP0/400x0/filters:quality(85)/b/n/0/php0vh0nb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer
 francetv://program/franceinfo_l-heure-des-outre-mer
+#EXTINF:-1 tvg-id="francetv-b286329a-d72e-4b3d-8308-cfcf7958305c" tvg-logo="https://medias.france.tv/9ujWx0g3wIUxBBMttHkntbW8VUg/400x0/filters:quality(85)/1/8/5/bf99e80b41954cdc8bf80a6a21256581.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du mardi 24 novembre 2026
+francetv://b286329a-d72e-4b3d-8308-cfcf7958305c
+#EXTINF:-1 tvg-id="francetv-14728dbe-b6e3-4aaa-a1ce-78687f4041a1" tvg-logo="https://medias.france.tv/F8cdj1VgjnE6ShZ7DD1abMAwD_I/400x0/filters:quality(85)/9/1/8/27013f4c7fbb4d9e9afd230a1ddcf819.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du mardi 24 novembre 2026
+francetv://14728dbe-b6e3-4aaa-a1ce-78687f4041a1
+#EXTINF:-1 tvg-id="francetv-ad13cb58-e821-11f1-96de-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/MwpL1n61FV1woC_rkqiYQxYp8VI/400x0/filters:quality(85)/f/5/a/8e931e48480645b48136fd5d79313a5f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 24/11/2026 - Le fil info après-midi
+francetv://ad13cb58-e821-11f1-96de-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-bb9f9d6a-e811-11f1-96de-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/QCu0UcWdAthIzIthdTmxBMGFG6Q/400x0/filters:quality(85)/f/8/1/ee3c3c53db43453195924b33bbcbc18f.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 24/11/2026 Le fil info 14H
 francetv://bb9f9d6a-e811-11f1-96de-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-4b67f2d2-8d35-41a6-a083-8a3bde2f5242" tvg-logo="https://medias.france.tv/qmllot9RhrXNy4V4dA4NK1ktdNc/400x0/filters:quality(85)/9/b/b/bd1b376c3a81459e9dcd856385518bb9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info après-midi — Émission du mardi 24 novembre 2026
+francetv://4b67f2d2-8d35-41a6-a083-8a3bde2f5242
 #EXTINF:-1 tvg-id="francetv-6ab1ef07-93b4-4ede-8cfe-1d5a7a6c583a" tvg-logo="https://medias.france.tv/4eErlzF0mh4-43LH0AdsmcgNJG0/400x0/filters:quality(85)/9/5/b/36f06764b12d41fa811d060c5c128b59.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du mardi 24 novembre 2026
 francetv://6ab1ef07-93b4-4ede-8cfe-1d5a7a6c583a
-#EXTINF:-1 tvg-id="francetv-8b1ecab5-118b-472b-ba77-b8ee2a08407d" tvg-logo="https://medias.france.tv/S72Vi3-km20tuHOMhF5AHjVNG2c/400x0/filters:quality(85)/7/0/0/0a553114e2014710bf9e6d662a429007.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du mardi 24 novembre 2026
-francetv://8b1ecab5-118b-472b-ba77-b8ee2a08407d
 #EXTINF:-1 tvg-id="francetv-f24312d8-e803-11f1-88fa-19616fa871f9" tvg-logo="https://medias.france.tv/NL6b7_jbw3ROhU020JHZSerUvjo/400x0/filters:quality(85)/d/f/9/8e58dfd18a374a2cabfc30d4825059fd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 24/11/2026 Le fil info 11h
 francetv://f24312d8-e803-11f1-88fa-19616fa871f9
+#EXTINF:-1 tvg-id="francetv-8b1ecab5-118b-472b-ba77-b8ee2a08407d" tvg-logo="https://medias.france.tv/S72Vi3-km20tuHOMhF5AHjVNG2c/400x0/filters:quality(85)/7/0/0/0a553114e2014710bf9e6d662a429007.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du mardi 24 novembre 2026
+francetv://8b1ecab5-118b-472b-ba77-b8ee2a08407d
 #EXTINF:-1 tvg-id="francetv-730789fc-e727-45c5-bf73-d02265e1318b" tvg-logo="https://medias.france.tv/TQU_r6iOpDeKb2tzjFei3jAXBY8/400x0/filters:quality(85)/a/8/8/e02581f0c27348ddb9989ea3b880588a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du mardi 24 novembre 2026
 francetv://730789fc-e727-45c5-bf73-d02265e1318b
 #EXTINF:-1 tvg-id="francetv-d84e295c-f43b-4fa0-bc98-98b22d3515be" tvg-logo="https://medias.france.tv/Y3kgoXUGSYc7DeaZwpzjqGVRKL8/400x0/filters:quality(85)/3/2/e/d7f5331f555e4d72b3e46fde04fffe23.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mardi 24 novembre 2026
@@ -893,14 +901,6 @@ francetv://fb269398-e745-11f1-8690-957ddefc544d
 francetv://86e0c2ec-9f88-452f-8bef-e77c459b65ff
 #EXTINF:-1 tvg-id="francetv-08a2e1b9-1111-467b-abac-1c67c7bf552d" tvg-logo="https://medias.france.tv/TlJNldQlgQcMxqfTs-fF4IpR0yw/400x0/filters:quality(85)/7/2/d/b41d566f8f69420d8fbf19dfe4394d27.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du lundi 23 novembre 2026
 francetv://08a2e1b9-1111-467b-abac-1c67c7bf552d
-#EXTINF:-1 tvg-id="francetv-93ec4706-e73e-11f1-88f5-19616fa871f9" tvg-logo="https://medias.france.tv/2mvAue6mJcKSdaMGnFfPhV2rUds/400x0/filters:quality(85)/0/b/7/b33b56ab6fe34ddd8170beea37c447b0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 23/11/2026 Le fil info 11H
-francetv://93ec4706-e73e-11f1-88f5-19616fa871f9
-#EXTINF:-1 tvg-id="francetv-9aa6ac13-a3cc-4411-8f74-3b8ea9806c8c" tvg-logo="https://medias.france.tv/JV_szY0QOeIeQmlIUjUE5DeehPM/400x0/filters:quality(85)/7/b/3/125263d311a94be38f288fb6ac5433b7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du lundi 23 novembre 2026
-francetv://9aa6ac13-a3cc-4411-8f74-3b8ea9806c8c
-#EXTINF:-1 tvg-id="francetv-beb4d47b-a6a7-4bf2-bd70-e1d6603dfbc7" tvg-logo="https://medias.france.tv/Ztcc2ChaEojyaYVQtkuX8SMcP98/400x0/filters:quality(85)/e/8/f/c02cdc91bc434ef889e31b9addca3f8e.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du lundi 23 novembre 2026
-francetv://beb4d47b-a6a7-4bf2-bd70-e1d6603dfbc7
-#EXTINF:-1 tvg-id="francetv-9a315cd6-53ec-4f48-8567-cefcd7868594" tvg-logo="https://medias.france.tv/betERAbME2Er20htIV1tqqb2oRA/400x0/filters:quality(85)/6/d/0/9831e4eff5f047bd981581408f8690d6.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du lundi 23 novembre 2026
-francetv://9a315cd6-53ec-4f48-8567-cefcd7868594
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
@@ -1431,7 +1431,7 @@ francetv://program/france-3_voyages-delices
 francetv://program/france-3_les-temoins-d-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-france-o_passion-outre-mer" tvg-logo="https://medias.france.tv/6V-Bb7cAb1buH1rC4gqi0TghgVA/400x0/filters:quality(85)/k/b/b/phpou0bbk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France Ô",Passion Outremer
 francetv://program/france-o_passion-outre-mer
-#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Astrid et Raphaëlle
+#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-b1450a7e-e05c-4ed2-98d7-881bfa2b47cf" tvg-logo="https://medias.france.tv/4LbOgZ2qxJN61fNW0DlYdzucHBQ/400x0/filters:quality(85)/1/f/d/59a818c5ea5241c4b01f30b4e20b9df1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Disparition inquiétante — Au Nom du Père
 francetv://b1450a7e-e05c-4ed2-98d7-881bfa2b47cf
@@ -1705,7 +1705,7 @@ francetv://program/france-2_capitaine-marleau
 francetv://program/france-2_l-art-du-crime
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alexandra-ehle" tvg-logo="https://medias.france.tv/E1mYlGvYQDMbAookSdvTENa2j5Y/400x0/filters:quality(85)/x/i/e/phpmnpeix.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Affaires à suivre ...",Alexandra Ehle
 francetv://program/france-3_alexandra-ehle
-#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/qj4mMVhVmiItwp6m4itZ7hFO_SI/400x0/filters:quality(85)/t/3/m/phpipqm3t.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Affaires à suivre ...",Astrid et Raphaëlle
+#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Affaires à suivre ...",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-prog-france-2_les-evapores" tvg-logo="https://medias.france.tv/9o5LH1b8dDrB5OBk9AZTzzs0MYA/400x533/filters:quality(85)/5/7/s/phpxl6s75.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Affaires à suivre ...",Les évaporés
 francetv://program/france-2_les-evapores
@@ -4335,12 +4335,10 @@ francetv://program/spectacles-et-culture_theatre-et-danse_cypher
 francetv://program/spectacles-et-culture_theatre-et-danse_la-ville-dansee
 #EXTINF:-1 tvg-id="francetv-749f5260-a987-4476-a116-0b4b04113210" tvg-logo="https://medias.france.tv/6lxXm4xoT2f7CXQ0HrNXegwsCbM/400x0/filters:quality(85)/k/2/w/phpgktw2k.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Alors, on danse ?",Le 47e Festival international du cirque de Monte-Carlo
 francetv://749f5260-a987-4476-a116-0b4b04113210
-#EXTINF:-1 tvg-id="francetv-a60177c0-04f0-4f74-8cd7-7d01a7664077" tvg-logo="https://medias.france.tv/ueX7lGV8JvYIbOz7Skpe-eoGLso/400x0/filters:quality(85)/j/l/o/php0vdolj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Bâtiment B - Ronisia et Juste Shani
-francetv://a60177c0-04f0-4f74-8cd7-7d01a7664077
-#EXTINF:-1 tvg-id="francetv-61a27e7a-24dd-417f-a87c-a5738b0ac5b8" tvg-logo="https://medias.france.tv/I4QwCl63G1UfhN99tOcogpgFzxc/400x0/filters:quality(85)/0/9/7/8777fa188eb743f1945fd012ad9e9790.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Golden Coast Festival — La Mano 1.9
-francetv://61a27e7a-24dd-417f-a87c-a5738b0ac5b8
 #EXTINF:-1 tvg-id="francetv-041c8d10-8be2-4746-b2a9-c7bee0e38da4" tvg-logo="https://medias.france.tv/gUsaF5eEFTYUcqgTw_I_0IapjSE/400x0/filters:quality(85)/e/b/7/4efd4ca5711e4e3d999270f193ac67be.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Fianso
 francetv://041c8d10-8be2-4746-b2a9-c7bee0e38da4
+#EXTINF:-1 tvg-id="francetv-61a27e7a-24dd-417f-a87c-a5738b0ac5b8" tvg-logo="https://medias.france.tv/I4QwCl63G1UfhN99tOcogpgFzxc/400x0/filters:quality(85)/0/9/7/8777fa188eb743f1945fd012ad9e9790.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Golden Coast Festival — La Mano 1.9
+francetv://61a27e7a-24dd-417f-a87c-a5738b0ac5b8
 #EXTINF:-1 tvg-id="francetv-62e05001-d5d1-4f1c-b709-c5ff30f17a52" tvg-logo="https://medias.france.tv/fPV5T43PgzjuBNBAz8fVWrDG490/400x0/filters:quality(85)/2/2/d/5763b195f9e741d9bf129b2fbc61dd22.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Vald x Vladimir Cauchemar x Todiefor
 francetv://62e05001-d5d1-4f1c-b709-c5ff30f17a52
 #EXTINF:-1 tvg-id="francetv-71fae220-8b1b-4873-bcea-0dc0fb3ab4fd" tvg-logo="https://medias.france.tv/s-C-HizhYgp--s9VAlq9DsowPhg/400x533/filters:quality(85)/5/m/v/phpi6rvm5.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Arts et spectacles - Hip hop et rap",Georgio
