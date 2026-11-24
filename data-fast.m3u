@@ -2021,18 +2021,6 @@ plex://6a1610bebdf296985fd95603-64a355697d24564fba37bab8
 plex://6a1610bebdf296985fd95603-630fa9e577ec3866def38fa2
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/46cbf60a-d787-4fd3-959c-8f44265adf9e/pitufotv_2000x3000_-_Jordan_Warkolrdx.jpg" group-title="Plex TV - France",Pitufo TV
 plex://6a1610bebdf296985fd95603-6a16eb29c699bd41112bb703
-#EXTINF:-1 group-title="Sony One",Sony One Hits Action
-https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sony One",Sony One Hits Comedie
-https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sony One",Sony One Series Comedie
-https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sony One",Sony One Favoris
-https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sony One",Sony One Series Thriller
-https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Sony One",Sony One Blacklist
-https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten TV",Banijay Mr Bean Animé (1080p)
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten TV",BBC Top Gear France (1080p)
@@ -2155,6 +2143,18 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten TV",Zylo ScreamIN (1080p)
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Hits Action
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Hits Comedie
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Series Comedie
+https://d1d95b9dbrm3cl.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Favoris
+https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Series Thriller
+https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Sony One",Sony One Blacklist
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_5.png" group-title="LG Channels - Autres",LG 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12782&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_fr&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2.png" group-title="LG Channels - Cinema",LG 1: Film
