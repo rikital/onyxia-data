@@ -869,10 +869,10 @@ francetv://893556f8-15d7-4313-9fc1-e777631a209d
 francetv://6a000431-b765-4976-b501-1cc997a8e364
 #EXTINF:-1 tvg-id="francetv-74a9fa0c-2de0-46b8-bdc1-f048228d6b5f" tvg-logo="https://medias.france.tv/cGFioxJi-icA1GIIXh_43SOZlRE/400x0/filters:quality(85)/2/d/3/07cb89b0388c432e98e6ff7c8912f3d2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mercredi 25 novembre 2026
 francetv://74a9fa0c-2de0-46b8-bdc1-f048228d6b5f
-#EXTINF:-1 tvg-id="francetv-65a25a85-a691-4a6b-958c-9971854a17d0" tvg-logo="https://medias.france.tv/PpH_ddXZptiXjH2atE4vNc13B1w/400x0/filters:quality(85)/d/2/2/cf970b9814d941f6941a72ba01fc922d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mercredi 25 novembre 2026
-francetv://65a25a85-a691-4a6b-958c-9971854a17d0
 #EXTINF:-1 tvg-id="francetv-995f4a7f-3ebe-4321-bcf0-a6e836b7016f" tvg-logo="https://medias.france.tv/3CsF4az_WwJdn_G2-54M_qXChD0/400x0/filters:quality(85)/0/4/8/5c3e186dd77240d39935ad7ed3c65840.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo — La matinale info semaine
 francetv://995f4a7f-3ebe-4321-bcf0-a6e836b7016f
+#EXTINF:-1 tvg-id="francetv-65a25a85-a691-4a6b-958c-9971854a17d0" tvg-logo="https://medias.france.tv/PpH_ddXZptiXjH2atE4vNc13B1w/400x0/filters:quality(85)/d/2/2/cf970b9814d941f6941a72ba01fc922d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du mercredi 25 novembre 2026
+francetv://65a25a85-a691-4a6b-958c-9971854a17d0
 #EXTINF:-1 tvg-id="francetv-49cee85e-9899-4d2d-9d89-7a9551484ac9" tvg-logo="https://medias.france.tv/wpl3iM161CxbSRs_8w5_t_32b2A/400x0/filters:quality(85)/4/8/0/169de7e78b2b46ab91b9abd29e705084.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
 francetv://49cee85e-9899-4d2d-9d89-7a9551484ac9
 #EXTINF:-1 tvg-id="francetv-a5f8fb13-c045-472d-a935-60f460330fa2" tvg-logo="https://medias.france.tv/9i_-sZ7pqK2jFsmKASovZNc2N-o/400x0/filters:quality(85)/3/e/b/76f8906926eb421599380a9dbecfebe3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du mardi 24 novembre 2026
@@ -913,8 +913,6 @@ francetv://program/franceinfo_c-est-toute-la-question
 francetv://program/info_meteo_c-quoi-l-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/Zw2eo_IxSxq54UQgSiGT8gxw7BY/400x0/filters:quality(85)/s/r/l/phpwo5lrs.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Ça commence aujourd'hui
 francetv://program/france-2_ca-commence-aujourd-hui
-#EXTINF:-1 tvg-id="francetv-prog-franceinfo_debrief" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Débrief
-francetv://program/franceinfo_debrief
 #EXTINF:-1 tvg-id="francetv-prog-france-2_edition-speciale" tvg-logo="https://medias.france.tv/8DTJvT961VI9ZgMA1rOyhu6VG08/400x0/filters:quality(85)/l/q/m/phphbemql.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Edition spéciale
 francetv://program/france-2_edition-speciale
 #EXTINF:-1 tvg-id="francetv-prog-france-2_edition-speciale-14-juillet" tvg-logo="https://medias.france.tv/MGvkssE1ZXVe2Bh3Nk8rfT1kXf8/400x0/filters:quality(85)/z/b/g/phpcpdgbz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Emission spéciale 14 juillet, le défilé
@@ -933,6 +931,8 @@ francetv://program/franceinfo_inattendu
 francetv://program/franceinfo_incassable
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_jeunesse-generation-sacrifiee" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Jeunesse : génération sacrifiée
 francetv://program/franceinfo_jeunesse-generation-sacrifiee
+#EXTINF:-1 tvg-id="francetv-prog-france-2_journal-13h00" tvg-logo="https://medias.france.tv/DZ1F8Rn5AeVFsz9LPpeuv4U7CTQ/400x0/filters:quality(85)/i/h/f/phpjhqfhi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Journal 13h00
+francetv://program/france-2_journal-13h00
 #EXTINF:-1 tvg-id="francetv-prog-slash_ballroom-danser-pour-exister" tvg-logo="https://medias.france.tv/2P_MxONphMHxrsHrm0iN0Ybq-9I/400x533/filters:quality(85)/m/p/f/phpdrcfpm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash",Ballroom, danser pour exister
 francetv://program/slash_ballroom-danser-pour-exister
 #EXTINF:-1 tvg-id="francetv-prog-france-2_drag-race-france" tvg-logo="https://medias.france.tv/FYTzUboG7ErKRghqfbvTeo68XgU/400x533/filters:quality(85)/p/0/i/php4aji0p.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Slash",Drag Race France
@@ -2323,8 +2323,6 @@ francetv://e7bb2eb0-f769-4e89-8b3e-c36d6ecd32d9
 francetv://4b5f4256-e6f2-4af0-aa83-04c5f20cb119
 #EXTINF:-1 tvg-id="francetv-319e503e-634c-4774-9ed9-26b9d5996538" tvg-logo="https://medias.france.tv/QCaoUunKxwyxPQw4c5_1vcEi1Bg/400x533/filters:quality(85)/7/f/c/0990079e1df647bf8c8aacd70ebf0cf7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Camelot, enquête sur le château du roi Arthur
 francetv://319e503e-634c-4774-9ed9-26b9d5996538
-#EXTINF:-1 tvg-id="francetv-prog-arte_enquetes-archeologiques" tvg-logo="https://medias.france.tv/vSdTgira5B_zar739Orc3DXtHDI/400x0/filters:quality(85)/2/0/8/f3833a82596b424d9f031dcb39e19802.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Enquêtes archéologiques
-francetv://program/arte_enquetes-archeologiques
 #EXTINF:-1 tvg-id="francetv-689a50d3-a3ed-4539-9521-80cb7eb0c933" tvg-logo="https://medias.france.tv/c6L-Idjh9Y_4fsWmNMbd0m4RT9E/400x533/filters:quality(85)/w/t/t/phpe3sttw.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Science grand format — Le grand puzzle de Pompéi
 francetv://689a50d3-a3ed-4539-9521-80cb7eb0c933
 #EXTINF:-1 tvg-id="francetv-eae001bd-5fb8-45c7-97e2-50785ab20e7a" tvg-logo="https://medias.france.tv/z6CgyZ31I4H5uGKU-wBIsbdhgzU/400x533/filters:quality(85)/1/f/f/84a1bd3591af4d3cbd3f484dd02bbff1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - À la recherche des temps perdus",Est-il vrai que... ? — Est-il vrai que nous étions des hommes des cavernes ?
@@ -2491,8 +2489,6 @@ francetv://cdd4272e-d93a-11ed-8028-51666bb397a4
 francetv://4ef2525c-dbbc-11ee-8d7c-a32b834a1ddb
 #EXTINF:-1 tvg-id="francetv-fb9b2196-f7fb-4bf0-a24e-e69e2cd1f817" tvg-logo="https://medias.france.tv/VVCQLznjDF9Loi2nkEbxkIJIHr4/400x0/filters:quality(85)/z/x/x/php7cexxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Dans l'œil du photographe",Littoral — Photographes du bout d'un monde
 francetv://fb9b2196-f7fb-4bf0-a24e-e69e2cd1f817
-#EXTINF:-1 tvg-id="francetv-prog-arte_meuh-l-epopee-des-cornes" tvg-logo="https://medias.france.tv/kNtsKTkOD2Giksuzm7hTAW-yjEE/400x0/filters:quality(85)/c/2/e/f27cf8f1fb614591be009ffb564f1e2c.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Meuh! L'épopée des cornes
-francetv://program/arte_meuh-l-epopee-des-cornes
 #EXTINF:-1 tvg-id="francetv-6fd3b540-61ae-4274-8507-ed688e1fc2b3" tvg-logo="https://medias.france.tv/4eDmBURfUAjENaVns__Sz6aD2AE/400x0/filters:quality(85)/5/9/b/5faac79851214f0496fad84c341e3b95.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Les herbiers marins - Précieuses sources de vie
 francetv://6fd3b540-61ae-4274-8507-ed688e1fc2b3
 #EXTINF:-1 tvg-id="francetv-a478196c-411c-4369-ba39-a922867ce248" tvg-logo="https://medias.france.tv/BkYedewRAi0zaDgTStAuPYSC8AI/400x0/filters:quality(85)/l/c/h/php2rahcl.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Voir l'automne, une saison en France
@@ -2521,8 +2517,6 @@ francetv://897c3ff5-84d0-4b95-ae3c-ac5d566f0b41
 francetv://5bd87213-36f5-41dc-bae1-8ab0b9686156
 #EXTINF:-1 tvg-id="francetv-560e7539-dc62-4846-be55-24e2b42a8753" tvg-logo="https://medias.france.tv/hYujOK_s8fUyTYcBylTn0Tuqr6I/400x0/filters:quality(85)/c/e/b/4c0fbed38600417e9ce3d33fa5f0cbec.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Super poulet
 francetv://560e7539-dc62-4846-be55-24e2b42a8753
-#EXTINF:-1 tvg-id="francetv-prog-arte_les-animaux-guerisseurs" tvg-logo="https://medias.france.tv/9BiX1gOiFhbjFpBIzKoYEHn4ePs/400x0/filters:quality(85)/6/7/c/6d012399a4f4441d8ad969eb3c8cdc76.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Les animaux guérisseurs
-francetv://program/arte_les-animaux-guerisseurs
 #EXTINF:-1 tvg-id="francetv-ac9e9289-682a-4711-9c37-ecb9e14c6393" tvg-logo="https://medias.france.tv/IdhQMQFLQf4fh4LvXuSCHbRGqgc/400x0/filters:quality(85)/6/2/0/9937f668713c4489a2bf82106a965026.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Marmottes, la guerre des clans
 francetv://ac9e9289-682a-4711-9c37-ecb9e14c6393
 #EXTINF:-1 tvg-id="francetv-9926dcf8-4554-409e-994b-fc7959a176f1" tvg-logo="https://medias.france.tv/6EI1fGnE4CVJYSOekM3o_jsbcIw/400x0/filters:quality(85)/6/6/5/a4e8c4fced194ec5aa76717f45090566.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Surprenante nature !",Des prairies sous-marines pour les lamantins
