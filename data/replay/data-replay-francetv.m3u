@@ -183,8 +183,6 @@ francetv://program/france-3_tom-et-lola
 francetv://7b5e62e7-60d0-4177-b19a-2a1bc58b9056
 #EXTINF:-1 tvg-id="francetv-74cf7d72-193d-43cb-9be4-bbc459c227c8" tvg-logo="https://medias.france.tv/-0moqPKjib8R6PhSRZyoyYcxGmY/400x0/filters:quality(85)/f/m/r/phpy4urmf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Les héros du patrimoine — Camargue, les gardiens du Delta
 francetv://74cf7d72-193d-43cb-9be4-bbc459c227c8
-#EXTINF:-1 tvg-id="francetv-f404b615-45d0-498b-91e0-51cf8782b8cb" tvg-logo="https://medias.france.tv/QfDC4jDtpF1KvkV4KMJXI_xNhrA/400x0/filters:quality(85)/y/s/4/phpzbi4sy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à... — Meurtres à Meaux
-francetv://f404b615-45d0-498b-91e0-51cf8782b8cb
 #EXTINF:-1 tvg-id="francetv-11c50a8d-f402-43bb-b893-ca6268b8d061" tvg-logo="https://medias.france.tv/peAHGwQFwxnrQKkvn9xr-cYJLHI/400x0/filters:quality(85)/q/g/o/phpizpogq.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Alain Souchon : Au nom du père
 francetv://11c50a8d-f402-43bb-b893-ca6268b8d061
 #EXTINF:-1 tvg-id="francetv-974232f8-a93a-49c4-bc0f-d8c91ff763ca" tvg-logo="https://medias.france.tv/XlUADdsFEQ8pYXrtOPalM3cNVoE/400x0/filters:quality(85)/9/n/z/phpkigzn9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",SPM Le Doc — Miquelon, face à l'océan
@@ -617,6 +615,8 @@ francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festiva
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival" tvg-logo="https://medias.france.tv/BVoLGIPZImlbwb4PpeajseBJCtg/400x0/filters:quality(85)/2/7/x/phpkmqx72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Golden Coast Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival
+#EXTINF:-1 tvg-id="francetv-prog-france-5_mysteres-du-systeme-solaire" tvg-logo="https://medias.france.tv/B-G2DFzQgpt8Sp-08JAOp9ZLfUI/400x0/filters:quality(85)/d/c/q/phpbuyqcd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Mystères du système solaire
+francetv://program/france-5_mysteres-du-systeme-solaire
 #EXTINF:-1 tvg-id="francetv-bc5f5aa7-60f9-40a8-b589-d6534c1a7aae" tvg-logo="https://medias.france.tv/MOI-RDtY-5GFeHBuCsFWEwpgp2A/400x0/filters:quality(85)/d/9/b/9238cc81708c4068ba1a4c30d9663b9d.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — Emission du mercredi 25 novembre 2026
 francetv://bc5f5aa7-60f9-40a8-b589-d6534c1a7aae
 #EXTINF:-1 tvg-id="francetv-prog-france-5_mecaniques-du-journalisme" tvg-logo="https://medias.france.tv/ATSrOI2WPnEuFx03WBAaC1qdkfw/1600x1200/filters:quality(85)/h/9/7/php3lf79h.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Mécaniques du journalisme
@@ -3337,30 +3337,30 @@ francetv://ac6d1292-aabc-11f1-8519-957ddefc544d
 francetv://80ae7580-8c24-11f1-9512-6dcd43e8ddfd
 #EXTINF:-1 tvg-id="francetv-c478740e-2839-11f1-835a-957ddefc544d" tvg-logo="https://medias.france.tv/2fP1wGstPaXhtCxLcQS-4je2jVs/400x0/filters:quality(85)/9/6/9/7e27f61b04594007aa89c17b1fd05969.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Cinéma - Découvrir un film","L'avenir" : Son mari lui fait une annonce difficile
 francetv://c478740e-2839-11f1-835a-957ddefc544d
-#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/f7-g4Tjv1m8jipswH20j17wyTPg/400x533/filters:quality(85)/s/u/f/phpqe7fus.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
-francetv://program/france-2_ca-commence-aujourd-hui
 #EXTINF:-1 tvg-id="francetv-prog-societe_le-mag-de-la-sante" tvg-logo="https://medias.france.tv/y6EHvtPZE85M8nHXcrDxTo8zmHY/400x533/filters:quality(85)/t/x/b/phptqsbxt.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le Mag de la santé
 francetv://program/societe_le-mag-de-la-sante
+#EXTINF:-1 tvg-id="francetv-9c50c8f0-7c4f-47fd-8548-3723af3f0cbb" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Intelligence artificielle - L’ultime invention humaine ?
+francetv://9c50c8f0-7c4f-47fd-8548-3723af3f0cbb
 #EXTINF:-1 tvg-id="francetv-3d77ebba-900f-4731-828f-ab04b2a8550e" tvg-logo="https://medias.france.tv/fbDie0nsMwV2ux9KQJqJ8sQZeEY/400x0/filters:quality(85)/8/x/7/phpgfl7x8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Le monde de Jamy — Climat : notre patrimoine en danger ?
 francetv://3d77ebba-900f-4731-828f-ab04b2a8550e
+#EXTINF:-1 tvg-id="francetv-prog-france-2_ca-commence-aujourd-hui" tvg-logo="https://medias.france.tv/f7-g4Tjv1m8jipswH20j17wyTPg/400x533/filters:quality(85)/s/u/f/phpqe7fus.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Ça commence aujourd'hui
+francetv://program/france-2_ca-commence-aujourd-hui
+#EXTINF:-1 tvg-id="francetv-9509c47c-1e23-4a03-893d-6d62fddbee47" tvg-logo="https://medias.france.tv/bc8r8K32wY9J_dje6eXdL3aUoUo/400x0/filters:quality(85)/1/h/f/php3itfh1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Nous la France
+francetv://9509c47c-1e23-4a03-893d-6d62fddbee47
 #EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-societe_vies-de-famille" tvg-logo="https://medias.france.tv/-4YgYlwx7cOBBVRAinmthZVnP94/400x533/filters:quality(85)/f/c/j/php6gvjcf.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Vies de famille
 francetv://program/documentaires_documentaires-societe_vies-de-famille
 #EXTINF:-1 tvg-id="francetv-0d9dcd58-e964-47f5-a89b-bcfe725ca476" tvg-logo="https://medias.france.tv/8iuWOpvzWPXXEDIl1XTgSMSJSSM/400x0/filters:quality(85)/j/d/j/phpg35jdj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",GTA, le jeu no limit
 francetv://0d9dcd58-e964-47f5-a89b-bcfe725ca476
+#EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
+francetv://d7c10dea-5f13-4b6b-af0e-034e2a2395b5
 #EXTINF:-1 tvg-id="francetv-prog-france-5_la-tragedie-du-sang-contamine" tvg-logo="https://medias.france.tv/RWNVftv3NuxswbUgAhtp2dm4_qg/400x0/filters:quality(85)/j/i/d/phpfmrdij.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",La tragédie du sang contaminé
 francetv://program/france-5_la-tragedie-du-sang-contamine
-#EXTINF:-1 tvg-id="francetv-9c50c8f0-7c4f-47fd-8548-3723af3f0cbb" tvg-logo="https://medias.france.tv/3Fizdile8H1ibLYxX5afWsoVtNQ/400x0/filters:quality(85)/1/3/3/a5e4e4698abc4921b7abd55b9bce4331.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Intelligence artificielle - L’ultime invention humaine ?
-francetv://9c50c8f0-7c4f-47fd-8548-3723af3f0cbb
 #EXTINF:-1 tvg-id="francetv-92872ab2-877d-42e3-af0e-449ac7621c2a" tvg-logo="https://medias.france.tv/5fLPl2bmDNfTmpq1EnRxOrsRP0A/400x0/filters:quality(85)/a/8/e/c554fe688d254f87a0a8a26d81533e8a.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",OnlyFans Managers, les nouveaux agents du X - Le documentaire
 francetv://92872ab2-877d-42e3-af0e-449ac7621c2a
 #EXTINF:-1 tvg-id="francetv-prog-france-5_c-a-vous" tvg-logo="https://medias.france.tv/U6GhamQOg_bXjga_RAT0oGTRfGA/400x0/filters:quality(85)/1/j/a/phpwgdaj1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",C à vous
 francetv://program/france-5_c-a-vous
-#EXTINF:-1 tvg-id="francetv-d7c10dea-5f13-4b6b-af0e-034e2a2395b5" tvg-logo="https://medias.france.tv/rzSr-dEUjwvdkeUkSLbNl72ybsQ/400x0/filters:quality(85)/s/c/h/phpvb2hcs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Cash Investigation — Mutuelles santé : pourquoi payons-nous toujours plus cher ?
-francetv://d7c10dea-5f13-4b6b-af0e-034e2a2395b5
 #EXTINF:-1 tvg-id="francetv-dd31dc2e-8db5-467a-95d3-8fbcd0a5b8b7" tvg-logo="https://medias.france.tv/f8BVBE3D79MoDPNQwxHmzEZIkZA/400x0/filters:quality(85)/m/q/e/phpgbneqm.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Instagram/TikTok, la guerre des réseaux
 francetv://dd31dc2e-8db5-467a-95d3-8fbcd0a5b8b7
-#EXTINF:-1 tvg-id="francetv-9509c47c-1e23-4a03-893d-6d62fddbee47" tvg-logo="https://medias.france.tv/bc8r8K32wY9J_dje6eXdL3aUoUo/400x0/filters:quality(85)/1/h/f/php3itfh1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Nous la France
-francetv://9509c47c-1e23-4a03-893d-6d62fddbee47
 #EXTINF:-1 tvg-id="francetv-e8c0f894-9822-4d1c-a19e-80ea826f95f1" tvg-logo="https://medias.france.tv/VdLnR7eM4YaZzuL8_TTWxHqjyXM/400x0/filters:quality(85)/c/w/u/phpakfuwc.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",En tension dans les blocus lycéens avec HugoDécrypte
 francetv://e8c0f894-9822-4d1c-a19e-80ea826f95f1
 #EXTINF:-1 tvg-id="francetv-951b8c01-1f7a-4789-9973-7cced32f066b" tvg-logo="https://medias.france.tv/HCeXprkt5Mb-1ojsTEVua_M1uRQ/400x0/filters:quality(85)/k/d/s/phpuezsdk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - Notre sélection",Enquête de santé — Migraine : la fin du casse-tête ?
@@ -3621,8 +3621,6 @@ francetv://program/arte_un-monde-nouveau
 francetv://program/arte_camarades
 #EXTINF:-1 tvg-id="francetv-prog-arte_fuck-la-planete-le-choix-du-rechauffement" tvg-logo="https://medias.france.tv/fXiM8hLq13TfWE6WKVnK8ZGG-Yc/400x0/filters:quality(85)/o/v/0/php4xn0vo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Fuck la planète
 francetv://program/arte_fuck-la-planete-le-choix-du-rechauffement
-#EXTINF:-1 tvg-id="francetv-prog-arte_faire-le-job" tvg-logo="https://medias.france.tv/clmRaEzOQCDVkOu-6hqNooINStw/400x0/filters:quality(85)/1/a/6/237c5b21cf0241958020f0064a89a6a1.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Faire le job
-francetv://program/arte_faire-le-job
 #EXTINF:-1 tvg-id="francetv-16d9919e-d49a-4f14-99b0-b2bdab3f9ff6" tvg-logo="https://medias.france.tv/I-hNBBNHIZ5XfhZMF6ZLGq7xjk8/400x533/filters:quality(85)/e/a/0/c9f1ae0ed99849deb0401c78fe4dc0ae.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Est-il vrai que... ? — Est-il vrai qu'on était sale au Moyen Âge ?
 francetv://16d9919e-d49a-4f14-99b0-b2bdab3f9ff6
 #EXTINF:-1 tvg-id="francetv-de9efcfe-0188-4a86-a025-20a19c6ddc10" tvg-logo="https://medias.france.tv/aaL3701ngAx-CJ2b_mjBN7ED3J8/400x533/filters:quality(85)/0/e/e/64f0a485746943a6a8f99eef79b3aee0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",42 - La réponse à presque tout — Émission du dimanche 3 mai 2026
@@ -3631,8 +3629,6 @@ francetv://de9efcfe-0188-4a86-a025-20a19c6ddc10
 francetv://94073804-228c-4df2-881d-e836f39bf3f3
 #EXTINF:-1 tvg-id="francetv-959dee9d-de2b-4761-b198-d76c1688eb42" tvg-logo="https://medias.france.tv/kAqQyahTEViRYAmS16QJXAjgUOE/400x533/filters:quality(85)/5/4/5/950cff10547d42d4b12b99503d5fd545.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Tu mourras moins bête - Saison 1 — A quoi servent les rêves ?
 francetv://959dee9d-de2b-4761-b198-d76c1688eb42
-#EXTINF:-1 tvg-id="francetv-prog-arte_money" tvg-logo="https://medias.france.tv/TMg0yckCvFGTxjgah9UvchUZxyQ/400x0/filters:quality(85)/8/5/1/22063612da8847ddb01161459331b158.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Money
-francetv://program/arte_money
 #EXTINF:-1 tvg-id="francetv-2a4955c4-285e-4315-88b2-fcd219404818" tvg-logo="https://medias.france.tv/T3btlJo_YMaCJ11YpLXqIWv-ZFg/400x533/filters:quality(85)/5/7/9/95d7408cb6374b1b8362bf1a1d8f9975.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Écolo mon cul ! — Smartphone neuf ou reconditionné ?
 francetv://2a4955c4-285e-4315-88b2-fcd219404818
 #EXTINF:-1 tvg-id="francetv-a395818e-bf00-4139-b1fd-a2df817bcc8d" tvg-logo="https://medias.france.tv/d-tM6WSEIK_GjidZ0Kb7Wb9Socw/400x0/filters:quality(85)/4/2/c/7df5bb08be044cbeb79033d2de4f6c24.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Société - A ne pas manquer sur Arte",Éclipse totale au-dessus de l’Europe
