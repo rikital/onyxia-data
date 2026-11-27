@@ -863,6 +863,8 @@ francetv://program/franceinfo_le-23h
 francetv://program/franceinfo_l-heure-des-outre-mer
 #EXTINF:-1 tvg-id="francetv-1aeeae04-ea52-11f1-96e4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/mgaV6V8VbL-ef959x5O4Fwspmmo/400x0/filters:quality(85)/0/b/f/0f1a9615696742bbae431ac79f09ffb0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 27/11/2026 Le fil info 11H
 francetv://1aeeae04-ea52-11f1-96e4-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-7cf987d4-ee80-43f3-bb2c-d6ebf6e2a4d0" tvg-logo="https://medias.france.tv/SkJKpBNIBmlOGI33K-Vx4ugmUNA/400x0/filters:quality(85)/2/4/b/08b03ebcb36349fbb401ac1fc9f0ab42.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le fil info matin — Émission du vendredi 27 novembre 2026
+francetv://7cf987d4-ee80-43f3-bb2c-d6ebf6e2a4d0
 #EXTINF:-1 tvg-id="francetv-06aab25c-3b4b-4e34-8151-50514236314e" tvg-logo="https://medias.france.tv/DcTsvRkwjKvbays9rNwjQDl3otY/400x0/filters:quality(85)/c/0/1/58ffb3df94ff41aba687e09e8466110c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du vendredi 27 novembre 2026
 francetv://06aab25c-3b4b-4e34-8151-50514236314e
 #EXTINF:-1 tvg-id="francetv-361f7b59-2d9d-454e-8584-448a7fb63543" tvg-logo="https://medias.france.tv/aY4d7B_diZmPM4vM_Ci94whkpCo/400x0/filters:quality(85)/3/c/9/76b71db1f0d842a5ab3fc86618abb9c3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — Émission du vendredi 27 novembre 2026
@@ -899,8 +901,6 @@ francetv://213a81dd-b7d0-422f-a784-bb1c654afb31
 francetv://71628700-8d95-4b5f-9af9-62dce3df8192
 #EXTINF:-1 tvg-id="francetv-65c3e62d-9eca-4c2f-b635-11be808897dc" tvg-logo="https://medias.france.tv/bqeUl9AQjoyqc8DPu6QoXAKEnMg/400x0/filters:quality(85)/a/8/d/7921364537b44130869093f2ea58dd8a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info semaine — Émission du jeudi 26 novembre 2026
 francetv://65c3e62d-9eca-4c2f-b635-11be808897dc
-#EXTINF:-1 tvg-id="francetv-20d6ffd1-5976-42d9-aa8e-d6b371db6ecd" tvg-logo="https://medias.france.tv/UVyKSwgJo4Iz51I5J7YCzBZwKpM/400x0/filters:quality(85)/1/8/b/a7da74fc7418403a9b70edc4d9b6bb81.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
-francetv://20d6ffd1-5976-42d9-aa8e-d6b371db6ecd
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
@@ -2373,8 +2373,8 @@ francetv://63b7bd51-e3dd-4e30-9e4d-82972754ed3a
 francetv://2ca18cb3-250d-469a-b600-8a57e3754d8c
 #EXTINF:-1 tvg-id="francetv-prog-france-5_les-plus-beaux-treks" tvg-logo="https://medias.france.tv/Q7_EDhH_UvUmE-X839eOWJLm5WY/400x0/filters:quality(85)/b/g/f/phphkafgb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Les plus beaux treks d'Outre-mer
 francetv://program/france-5_les-plus-beaux-treks
-#EXTINF:-1 tvg-id="francetv-aa1db5c0-5c03-58b9-a738-8d5e7d61c113" tvg-logo="https://medias.france.tv/X7UM0c1EvoLhpDt29HLwZRQo0VU/400x0/filters:quality(85)/8/l/p/phpdmdpl8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Les Canaries, éternel printemps
-francetv://aa1db5c0-5c03-58b9-a738-8d5e7d61c113
+#EXTINF:-1 tvg-id="francetv-13bbc9d5-fc63-4278-ba2f-81042f29c75b" tvg-logo="https://medias.france.tv/X7UM0c1EvoLhpDt29HLwZRQo0VU/400x0/filters:quality(85)/8/l/p/phpdmdpl8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Les Canaries, éternel printemps
+francetv://13bbc9d5-fc63-4278-ba2f-81042f29c75b
 #EXTINF:-1 tvg-id="francetv-1dbd1786-67dd-4a2a-8f35-20929c1a99a2" tvg-logo="https://medias.france.tv/umgBJtDb2JD-_ckXbcV7LkdnqiY/400x0/filters:quality(85)/d/3/f/fe7c0d1edc4144a0b51dc843611a544f10dffce1376105f22516514ac813df3d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Nus & culottés — Objectif Lot
 francetv://1dbd1786-67dd-4a2a-8f35-20929c1a99a2
 #EXTINF:-1 tvg-id="francetv-87beb674-b44a-40de-90c4-4fc59ea10cd8" tvg-logo="https://medias.france.tv/lK-OXYSkf2otUJiaqfg-vns6R9w/400x0/filters:quality(85)/u/j/9/phpymf9ju.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Belize, la perle des Caraïbes
