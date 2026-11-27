@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="francetv-b4f0ceeb-c59c-4c77-9699-eb8da7b40b32" tvg-logo="https://medias.france.tv/1uPAhZET_Zqtcw_3_X2XKRCjxuc/400x0/filters:quality(85)/m/q/p/phpxggpqm.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les rencontres du Papotin — Jamel Debbouze
+francetv://b4f0ceeb-c59c-4c77-9699-eb8da7b40b32
 #EXTINF:-1 tvg-id="francetv-6b43d7a1-94fc-489d-8078-dfe9b8d9d418" tvg-logo="https://medias.france.tv/fjlMDYfDPr7BG6vpmGGl5qpwvTs/400x0/filters:quality(85)/c/9/b/e5da6a77e9d04af0b1ac87789fb52b9c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Complément d'enquête — Interpol : une police hors de contrôle ?
 francetv://6b43d7a1-94fc-489d-8078-dfe9b8d9d418
-#EXTINF:-1 tvg-id="francetv-563c0602-07f2-4206-8d2d-6f368fffb839" tvg-logo="https://medias.france.tv/J-ZlG0I3IeTXBYyi2-8eB5s21ME/400x0/filters:quality(85)/7/1/5/550528984acb46db999b0fa1756dc517.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial — Émission du jeudi 26 novembre 2026
-francetv://563c0602-07f2-4206-8d2d-6f368fffb839
 #EXTINF:-1 tvg-id="francetv-d1e69f6f-b0ca-4f7e-a0ec-a4ff699d7bf7" tvg-logo="https://medias.france.tv/jXLUD-q2UPEDsyYPKb2wFJLQXPQ/400x0/filters:quality(85)/h/v/p/phpccupvh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le Consentement
 francetv://d1e69f6f-b0ca-4f7e-a0ec-a4ff699d7bf7
 #EXTINF:-1 tvg-id="francetv-37dae58a-5c9c-46f7-9523-fcfe6a11257e" tvg-logo="https://medias.france.tv/K9_B9fjPUHAe0U1GKu2R5BwH8lk/400x0/filters:quality(85)/0/e/5/4c2bbf66bdca44f8b865cb3489ce75e0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Capitaine Marleau à Saint-Tropez
 francetv://37dae58a-5c9c-46f7-9523-fcfe6a11257e
+#EXTINF:-1 tvg-id="francetv-prog-france-2_envoye-special" tvg-logo="https://medias.france.tv/xuuezLcNC5bgVSd9pkzQ9PvHx2k/400x0/filters:quality(85)/f/x/4/phprcy4xf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial
+francetv://program/france-2_envoye-special
+#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
+francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-d705c429-c1bc-4945-9c25-f93e5ee4a4a9" tvg-logo="https://medias.france.tv/n9Kg1KLkUJgtKUxjNPcmdLAORtU/400x0/filters:quality(85)/v/m/a/php2rsamv.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Le plus beau pays du monde opus 4 — Le plus beau pays du monde, Opus 4
 francetv://d705c429-c1bc-4945-9c25-f93e5ee4a4a9
 #EXTINF:-1 tvg-id="francetv-d2a41eb9-8b27-46d4-972f-a66bcd957a89" tvg-logo="https://medias.france.tv/gebiPYAWteM_ZFEu1ImDa15wsrk/400x0/filters:quality(85)/c/k/h/phpyo6hkc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Consentement : l'onde de choc
@@ -19,34 +23,12 @@ francetv://program/la1ere_oro
 francetv://6c154a66-4b55-4df1-8605-b4e195cd759d
 #EXTINF:-1 tvg-id="francetv-22c558a7-8466-4338-b155-4bc5766f693a" tvg-logo="https://medias.france.tv/hASNPbIsTvldm3G1Xwl9O22ybZg/400x0/filters:quality(85)/e/g/s/phpj9xsge.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",N'avoue jamais
 francetv://22c558a7-8466-4338-b155-4bc5766f693a
-#EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Astrid et Raphaëlle
-francetv://program/france-2_astrid-et-raphaelle
 #EXTINF:-1 tvg-id="francetv-7ca10466-89fb-46c8-9acb-a05b1e9fd728" tvg-logo="https://medias.france.tv/qutzejBRSimjk6Mh0UGxpc3wAuY/400x0/filters:quality(85)/0/e/b/fc193315daf84c4a932f1f852e118be0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Noir comme neige — Chute libre
 francetv://7ca10466-89fb-46c8-9acb-a05b1e9fd728
-#EXTINF:-1 tvg-id="francetv-a1e07a75-9ce4-4ae7-9cac-01cb2eb6b282" tvg-logo="https://medias.france.tv/LeiUrkYQPJUPM4CkPg7DPi6Jq0Y/400x0/filters:quality(85)/q/k/g/phpbd7gkq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",L'heure de vérité — Avec Gabriel Attal
-francetv://a1e07a75-9ce4-4ae7-9cac-01cb2eb6b282
-#EXTINF:-1 tvg-id="francetv-aa6501b4-eafe-4e1f-ba87-5faf5d836b85" tvg-logo="https://medias.france.tv/Si02p2LxoaKZuMaxCwZdfCH2mIY/400x0/filters:quality(85)/2/y/b/phpzajby2.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Taratata — Emission du vendredi 20 novembre 2026
-francetv://aa6501b4-eafe-4e1f-ba87-5faf5d836b85
-#EXTINF:-1 tvg-id="francetv-dbcd2326-c690-4c85-96b1-14d60da2adaf" tvg-logo="https://medias.france.tv/U9kpaqb_X8zhQCWj_nWLISOwosc/400x0/filters:quality(85)/m/0/t/phphtlt0m.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Signalements
-francetv://dbcd2326-c690-4c85-96b1-14d60da2adaf
 #EXTINF:-1 tvg-id="francetv-prog-france-2_immeuble-partage" tvg-logo="https://medias.france.tv/8om2zfDJuHpJSwf_-GzH4hkwcA4/400x533/filters:quality(85)/e/v/7/phphgl7ve.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Immeuble partagé
 francetv://program/france-2_immeuble-partage
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_series-drame_les-disparus-des-argonnes" tvg-logo="https://medias.france.tv/OxnTOqA6arPHcYmXBqClhaCoWO0/400x0/filters:quality(85)/r/7/n/phpepqn7r.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Les disparus des Argonnes
 francetv://program/series-et-fictions_series-drame_les-disparus-des-argonnes
-#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/rphRNJC4Epta3xqIyWtGVzSI8gI/400x0/filters:quality(85)/x/y/d/phpco9dyx.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde
-francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
-#EXTINF:-1 tvg-id="francetv-d155e1f1-be54-4ff4-b483-05794be6accc" tvg-logo="https://medias.france.tv/8Gw864Ghlw-OVfQsBNgE-5qvA74/400x0/filters:quality(85)/9/x/v/phpvn8vx9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — L'Everest des mers
-francetv://d155e1f1-be54-4ff4-b483-05794be6accc
-#EXTINF:-1 tvg-id="francetv-cc380b8d-39df-4b7c-a93b-146169588e4a" tvg-logo="https://medias.france.tv/Z1sijnNLdZd7V6BWaQxCz5Tdnug/400x0/filters:quality(85)/j/q/8/phpcf78qj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — A pleine vitesse
-francetv://cc380b8d-39df-4b7c-a93b-146169588e4a
-#EXTINF:-1 tvg-id="francetv-7a8ca6d9-5466-440a-964f-98eb3570ba98" tvg-logo="https://medias.france.tv/TVglpKkIXoiZYzqLMYeM5OyS-Oc/400x0/filters:quality(85)/c/z/y/phpgrnyzc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — L'heure des choix
-francetv://7a8ca6d9-5466-440a-964f-98eb3570ba98
-#EXTINF:-1 tvg-id="francetv-b2c54498-ea0e-433e-bf71-9bc974681db0" tvg-logo="https://medias.france.tv/HRNPuM9_LOfsBCsaB8NRY3jxGlQ/400x0/filters:quality(85)/q/l/e/phpgh7elq.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — Du rêve au cauchemar
-francetv://b2c54498-ea0e-433e-bf71-9bc974681db0
-#EXTINF:-1 tvg-id="francetv-48cc274b-ee84-42f3-9712-21cc6ed3e700" tvg-logo="https://medias.france.tv/KqrwU9ckxW8IaXnxRL08grWW_iU/400x0/filters:quality(85)/c/7/d/phpykcd7c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — Affronter ses démons
-francetv://48cc274b-ee84-42f3-9712-21cc6ed3e700
-#EXTINF:-1 tvg-id="francetv-c1f9842d-a973-4c24-a7be-813666a899f4" tvg-logo="https://medias.france.tv/rmMB6nbaBhXTbbuxVNJbID8aTJc/400x0/filters:quality(85)/u/z/l/phptzjlzu.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde — Entrer dans la légende
-francetv://c1f9842d-a973-4c24-a7be-813666a899f4
 #EXTINF:-1 tvg-id="francetv-prog-france-2_noir-comme-neige" tvg-logo="https://medias.france.tv/t8fnFG-GysTsmEGOUV8XKKWjmTc/400x0/filters:quality(85)/f/s/t/php5oatsf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Noir comme neige
 francetv://program/france-2_noir-comme-neige
 #EXTINF:-1 tvg-id="francetv-08e3db78-74c3-4b24-b99c-aef89a91c7d7" tvg-logo="https://medias.france.tv/Qm1iwB5FYKwz55jYRGhXOxWHPLQ/400x0/filters:quality(85)/w/v/c/phpdg4cvw.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Harceleurs
@@ -105,6 +87,8 @@ francetv://program/france-2_affaires-sensibles
 francetv://program/france-2_au-bout-de-l-enquete-la-fin-du-crime-parfait
 #EXTINF:-1 tvg-id="francetv-d1d8f2e0-553b-4b15-a654-5e67061257a2" tvg-logo="https://medias.france.tv/5lciH3BpXZjU5K1GnPGZ0n9QS9o/400x0/filters:quality(85)/i/6/a/phpa90a6i.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",La foil histoire de la Route du Rhum
 francetv://d1d8f2e0-553b-4b15-a654-5e67061257a2
+#EXTINF:-1 tvg-id="francetv-prog-documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde" tvg-logo="https://medias.france.tv/Lm-Pss-5QetmpPMm2HHddoT8FBE/1600x1200/filters:quality(85)/j/b/u/phpdrzubj.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Vendée Globe, Seuls autour du monde
+francetv://program/documentaires_documentaires-sport_vendee-globe-seuls-autour-du-monde
 #EXTINF:-1 tvg-id="francetv-4e53b5f2-4970-4730-a910-32af845927cb" tvg-logo="https://medias.france.tv/--Ht68arjm_qnmsNrphyjSCW7d0/400x0/filters:quality(85)/h/h/f/phpv83fhh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",25 nuances de doc — De plomb et de charbon
 francetv://4e53b5f2-4970-4730-a910-32af845927cb
 #EXTINF:-1 tvg-id="francetv-6ad17a64-66d3-47fa-8645-e02a30572822" tvg-logo="https://medias.france.tv/py_faLAC1ZPQ0NqeUI1h23dnGpQ/400x0/filters:quality(85)/y/j/z/phpw3yzjy.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",25 nuances de doc — Replica
@@ -133,8 +117,6 @@ francetv://program/documentaires_documentaires-science_destination-lune-la-nouve
 francetv://8d7f2918-2690-460c-8bb3-678c94e32025
 #EXTINF:-1 tvg-id="francetv-6a12c85c-1d82-4dad-84ae-3b28c3c20bee" tvg-logo="https://medias.france.tv/Nb7MHuO4h4wylfWm4Lnkiu_c8UI/400x0/filters:quality(85)/o/e/m/phproemeo.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Infrarouge — À la hauteur
 francetv://6a12c85c-1d82-4dad-84ae-3b28c3c20bee
-#EXTINF:-1 tvg-id="francetv-prog-france-2_envoye-special" tvg-logo="https://medias.france.tv/xuuezLcNC5bgVSd9pkzQ9PvHx2k/400x0/filters:quality(85)/f/x/4/phprcy4xf.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Envoyé spécial
-francetv://program/france-2_envoye-special
 #EXTINF:-1 tvg-id="francetv-prog-france-2_complement-d-enquete" tvg-logo="https://medias.france.tv/g0Vkc7IUeECQYRLRvQgTIN2e44k/400x533/filters:quality(85)/i/g/b/phpl9ybgi.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Complément d'enquête
 francetv://program/france-2_complement-d-enquete
 #EXTINF:-1 tvg-id="francetv-prog-france-2_franc-jeu" tvg-logo="https://medias.france.tv/79LGEN8rd9aXWucMdDf4kCcElpo/400x0/filters:quality(85)/u/s/x/php7ckxsu.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 2",Franc-jeu
@@ -187,6 +169,8 @@ francetv://program/documentaires_documentaires-societe_zones-d-ombre
 francetv://591e0587-437b-4247-8a8c-450fe16e1a74
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Alex Hugo
 francetv://program/france-3_alex-hugo
+#EXTINF:-1 tvg-id="francetv-85f7252c-d670-4c2e-8341-bfed031d5ad1" tvg-logo="https://medias.france.tv/KoqMVVYzQCPOlm6eeMoxJ5gSYPM/400x0/filters:quality(85)/1/c/e/a4943f99d6eb4c53a2e1d7ec82d95ec1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La télé sans filtre, 30 ans d'impertinence
+francetv://85f7252c-d670-4c2e-8341-bfed031d5ad1
 #EXTINF:-1 tvg-id="francetv-prog-france-3_bourgogne-franche-comte_la-conspiration-du-silence" tvg-logo="https://medias.france.tv/lZlv6NarNkrZlheUMhyc_052O1Q/400x533/filters:quality(85)/c/d/g/phpqj2gdc.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La conspiration du silence
 francetv://program/france-3_bourgogne-franche-comte_la-conspiration-du-silence
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_saint-pierre" tvg-logo="https://medias.france.tv/WZcXp2xtUMdrPuJiQBJZMsWAW70/400x0/filters:quality(85)/g/c/u/php9vhucg.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Saint-Pierre
@@ -625,6 +609,8 @@ francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_yardland-festiva
 francetv://program/spectacles-et-culture_jazz-a-vienne
 #EXTINF:-1 tvg-id="francetv-prog-spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival" tvg-logo="https://medias.france.tv/BVoLGIPZImlbwb4PpeajseBJCtg/400x0/filters:quality(85)/2/7/x/phpkmqx72.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 4",Golden Coast Festival
 francetv://program/spectacles-et-culture_musique-hip-hop-et-rap_golden-coast-festival
+#EXTINF:-1 tvg-id="francetv-6d8b7ae5-8248-42d7-94c9-39d8ae65a0dc" tvg-logo="https://medias.france.tv/pUk0mtHFjxTQMUeWDOMZf9_noas/400x0/filters:quality(85)/m/4/w/phppyvw4m.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Il était une fois... le triomphe de la Fantasy
+francetv://6d8b7ae5-8248-42d7-94c9-39d8ae65a0dc
 #EXTINF:-1 tvg-id="francetv-prog-france-5_mysteres-du-systeme-solaire" tvg-logo="https://medias.france.tv/B-G2DFzQgpt8Sp-08JAOp9ZLfUI/400x0/filters:quality(85)/d/c/q/phpbuyqcd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",Mystères du système solaire
 francetv://program/france-5_mysteres-du-systeme-solaire
 #EXTINF:-1 tvg-id="francetv-bc5f5aa7-60f9-40a8-b589-d6534c1a7aae" tvg-logo="https://medias.france.tv/esMMzs1F8uqZWRyR9X8CCWDzfyI/400x0/filters:quality(85)/1/a/d/811910cea2ab47d687fad269fa104da1.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 5",La grande librairie — Jérôme Garcin, Salomé Saqué, Baptiste Beaulieu, Fleur Breteau, Laurence Huc
@@ -1437,30 +1423,30 @@ francetv://program/france-3_voyages-delices
 francetv://program/france-3_les-temoins-d-outre-mer
 #EXTINF:-1 tvg-id="francetv-prog-france-o_passion-outre-mer" tvg-logo="https://medias.france.tv/6V-Bb7cAb1buH1rC4gqi0TghgVA/400x0/filters:quality(85)/k/b/b/phpou0bbk.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France Ô",Passion Outremer
 francetv://program/france-o_passion-outre-mer
-#EXTINF:-1 tvg-id="francetv-37dae58a-5c9c-46f7-9523-fcfe6a11257e" tvg-logo="https://medias.france.tv/K9_B9fjPUHAe0U1GKu2R5BwH8lk/400x0/filters:quality(85)/0/e/5/4c2bbf66bdca44f8b865cb3489ce75e0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau à Saint-Tropez
-francetv://37dae58a-5c9c-46f7-9523-fcfe6a11257e
 #EXTINF:-1 tvg-id="francetv-prog-france-2_astrid-et-raphaelle" tvg-logo="https://medias.france.tv/mwh6heJQbq4Z0zb9IwH_vnNWShM/400x0/filters:quality(85)/5/6/b/php9jrb65.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Astrid et Raphaëlle
 francetv://program/france-2_astrid-et-raphaelle
+#EXTINF:-1 tvg-id="francetv-37dae58a-5c9c-46f7-9523-fcfe6a11257e" tvg-logo="https://medias.france.tv/K9_B9fjPUHAe0U1GKu2R5BwH8lk/400x0/filters:quality(85)/0/e/5/4c2bbf66bdca44f8b865cb3489ce75e0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Capitaine Marleau à Saint-Tropez
+francetv://37dae58a-5c9c-46f7-9523-fcfe6a11257e
+#EXTINF:-1 tvg-id="francetv-prog-france-3_tom-et-lola" tvg-logo="https://medias.france.tv/Rpa0p_14G4ONTmnms18w_rxZw2Q/400x533/filters:quality(85)/e/c/w/phptl2wce.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Tom et Lola
+francetv://program/france-3_tom-et-lola
 #EXTINF:-1 tvg-id="francetv-591e0587-437b-4247-8a8c-450fe16e1a74" tvg-logo="https://medias.france.tv/drb7dXbvhnk9myc3L_c87gViVYE/400x0/filters:quality(85)/o/l/6/phpqg96lo.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Meurtres à... — Meurtres à Nancy
 francetv://591e0587-437b-4247-8a8c-450fe16e1a74
 #EXTINF:-1 tvg-id="francetv-prog-france-2_l-affaire-laura-stern" tvg-logo="https://medias.france.tv/LOtitqJT4PG8FAgceP919rgz6Fs/400x0/filters:quality(85)/d/f/p/phpsrppfd.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",L'affaire Laura Stern
 francetv://program/france-2_l-affaire-laura-stern
-#EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_saint-pierre" tvg-logo="https://medias.france.tv/WZcXp2xtUMdrPuJiQBJZMsWAW70/400x0/filters:quality(85)/g/c/u/php9vhucg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Saint-Pierre
-francetv://program/series-et-fictions_saint-pierre
 #EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_series-drame_les-disparus-des-argonnes" tvg-logo="https://medias.france.tv/OxnTOqA6arPHcYmXBqClhaCoWO0/400x0/filters:quality(85)/r/7/n/phpepqn7r.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Les disparus des Argonnes
 francetv://program/series-et-fictions_series-drame_les-disparus-des-argonnes
+#EXTINF:-1 tvg-id="francetv-prog-series-et-fictions_saint-pierre" tvg-logo="https://medias.france.tv/WZcXp2xtUMdrPuJiQBJZMsWAW70/400x0/filters:quality(85)/g/c/u/php9vhucg.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Saint-Pierre
+francetv://program/series-et-fictions_saint-pierre
 #EXTINF:-1 tvg-id="francetv-7ca10466-89fb-46c8-9acb-a05b1e9fd728" tvg-logo="https://medias.france.tv/qutzejBRSimjk6Mh0UGxpc3wAuY/400x0/filters:quality(85)/0/e/b/fc193315daf84c4a932f1f852e118be0.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Noir comme neige — Chute libre
 francetv://7ca10466-89fb-46c8-9acb-a05b1e9fd728
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Alex Hugo
 francetv://program/france-3_alex-hugo
 #EXTINF:-1 tvg-id="francetv-prog-arte_beforeigners" tvg-logo="https://medias.france.tv/b5qdiFlfcSxn-duuRDcf9acdjZo/400x0/filters:quality(85)/e/4/e/1669dbedcafd4093aaf1115aef5cbe4e.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Beforeigners
 francetv://program/arte_beforeigners
-#EXTINF:-1 tvg-id="francetv-prog-france-2_soeurs" tvg-logo="https://medias.france.tv/cbSsO3MQhfYQFXveQa5cp_sQo9Y/1600x1200/filters:quality(85)/u/9/l/php1bvl9u.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",Sœurs
-francetv://program/france-2_soeurs
-#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/Xw78McF3jB6Lhhm-_fXoXxrmjko/1600x1200/filters:quality(85)/r/p/z/phpi2wzpr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",'Oro
-francetv://program/la1ere_oro
 #EXTINF:-1 tvg-id="francetv-prog-slash_p-tain-de-soiree" tvg-logo="https://medias.france.tv/5gn2yJtnxOev-fNu3pZlQ2BU-FQ/400x533/filters:quality(85)/u/g/d/phpnqqdgu.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",P*tain de soirée
 francetv://program/slash_p-tain-de-soiree
+#EXTINF:-1 tvg-id="francetv-prog-la1ere_oro" tvg-logo="https://medias.france.tv/Xw78McF3jB6Lhhm-_fXoXxrmjko/1600x1200/filters:quality(85)/r/p/z/phpi2wzpr.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Notre sélection",'Oro
+francetv://program/la1ere_oro
 #EXTINF:-1 tvg-id="francetv-prog-france-3_un-si-grand-soleil" tvg-logo="https://medias.france.tv/JiZEYyX78I1QlbE9OFU7E4hkfTE/400x0/filters:quality(85)/7/j/b/phpspcbj7.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil
 francetv://program/france-3_un-si-grand-soleil
 #EXTINF:-1 tvg-id="francetv-23907d06-aeeb-4398-bc0a-4a608a8d6b87" tvg-logo="https://medias.france.tv/ijq1l6ReoZV2gb0HpqKzwKEmtkA/400x0/filters:quality(85)/j/f/1/phpawv1fj.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du lundi 23 novembre 2026
@@ -1473,12 +1459,6 @@ francetv://b197e514-a596-4517-bffd-e5d78b993307
 francetv://0c1a3a36-6b19-4f1f-a596-de40b17d0c1c
 #EXTINF:-1 tvg-id="francetv-64b0f04a-d994-4c7e-9043-d27696a8169f" tvg-logo="https://medias.france.tv/nxCdttqjrX7OSuHGgynsn_rWQ0M/400x0/filters:quality(85)/6/e/e/phpaldee6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Une si longue avance",Un si grand soleil — Épisode du vendredi 27 novembre 2026
 francetv://64b0f04a-d994-4c7e-9043-d27696a8169f
-#EXTINF:-1 tvg-id="francetv-df2cf7dd-8121-47b7-9987-6bd164988973" tvg-logo="https://medias.france.tv/ZVUULPqeBrwDzoqNctjzjFd_-kk/400x0/filters:quality(85)/s/h/g/phpp8eghs.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",L'art du crime — Le cri du vampire
-francetv://df2cf7dd-8121-47b7-9987-6bd164988973
-#EXTINF:-1 tvg-id="francetv-4e910469-ea8a-4d09-9474-bb4ec07a9d39" tvg-logo="https://medias.france.tv/mBZgydVW9ki-LocjNl3nWt19uqc/400x0/filters:quality(85)/8/b/g/phpgttgb8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",L'art du crime — La nouvelle Olympia
-francetv://4e910469-ea8a-4d09-9474-bb4ec07a9d39
-#EXTINF:-1 tvg-id="francetv-adf569aa-8a0e-4063-b960-1c11d9db1b17" tvg-logo="https://medias.france.tv/HAWTVRNUkGQN3_39jeJn7F3-hJE/400x0/filters:quality(85)/k/q/9/phpdtn9qk.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Maudits
-francetv://adf569aa-8a0e-4063-b960-1c11d9db1b17
 #EXTINF:-1 tvg-id="francetv-c3fd9083-a040-40b1-b1c6-00a1bd380caf" tvg-logo="https://medias.france.tv/p6H8lrfQzBtxzEl445DR_PwjsiQ/400x0/filters:quality(85)/r/o/h/php2oxhor.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",L'art du crime — La deuxième odalisque
 francetv://c3fd9083-a040-40b1-b1c6-00a1bd380caf
 #EXTINF:-1 tvg-id="francetv-48c36981-214c-43f9-9c10-f3d635e45126" tvg-logo="https://medias.france.tv/EyJM3LpGEpDeghEzb5vBGHQ3PVM/400x0/filters:quality(85)/i/s/u/phpalgusi.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Disparition inquiétante — Lorsque l'enfant paraît
@@ -1511,6 +1491,8 @@ francetv://program/arte_brigade-mobile
 francetv://program/arte_le-complot-caravaggio
 #EXTINF:-1 tvg-id="francetv-b31bf1b2-1d9f-481d-a1b7-ff5c11e1d3d7" tvg-logo="https://medias.france.tv/f-Vk6EHov57m6kVf3pr3Tb9vx1c/400x0/filters:quality(85)/n/1/4/phptri41n.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Meurtres à... — Meurtres à Colmar
 francetv://b31bf1b2-1d9f-481d-a1b7-ff5c11e1d3d7
+#EXTINF:-1 tvg-id="francetv-prog-france-2_surface" tvg-logo="https://medias.france.tv/H56ZnHzMnwl4DTADNrIYQzlrFeA/400x533/filters:quality(85)/o/d/0/phpega0do.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Plus que quelques jours...",Surface
+francetv://program/france-2_surface
 #EXTINF:-1 tvg-id="francetv-prog-france-3_alex-hugo" tvg-logo="https://medias.france.tv/H9jY2X2Tkkkr-APK4jSeVGevN3g/400x533/filters:quality(85)/z/x/r/phpgzqrxz.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Enquêtes en altitude",Alex Hugo
 francetv://program/france-3_alex-hugo
 #EXTINF:-1 tvg-id="francetv-077baadf-226c-49d8-a9c5-eb1b55e5b4b7" tvg-logo="https://medias.france.tv/d6M6-W5NLEuyZANP83grLzYPIeQ/400x0/filters:quality(85)/6/s/9/php9jv9s6.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Séries et fictions - Enquêtes en altitude",Meurtres à... — Meurtres dans le Jura
