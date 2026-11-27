@@ -263,6 +263,8 @@ francetv://program/france-3_grantchester
 francetv://program/france-3_face-a-face
 #EXTINF:-1 tvg-id="francetv-prog-france-3_meurtres-a" tvg-logo="https://medias.france.tv/OGh5UX-rpdqLeliCRCxjbAYpiCU/400x533/filters:quality(85)/h/e/q/phpp0iqeh.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Meurtres à...
 francetv://program/france-3_meurtres-a
+#EXTINF:-1 tvg-id="francetv-prog-france-3_bourgogne-franche-comte_a-vif-lutter-contre-les-violences-conjugales" tvg-logo="https://medias.france.tv/XcF4lzMWb3R4Bxo0_qMJVqDnbjc/400x533/filters:quality(85)/i/m/t/phpndutmi.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",À VIF ! dans l'urgence des Violences Intra-Familiales
+francetv://program/france-3_bourgogne-franche-comte_a-vif-lutter-contre-les-violences-conjugales
 #EXTINF:-1 tvg-id="francetv-prog-slash_filme-ton-quartier" tvg-logo="https://medias.france.tv/WGCoxiP4x5i7mOTRWvj_joipMR4/400x533/filters:quality(85)/w/2/j/php84ij2w.jpg" tvg-country="FR" tvg-type="series" group-title="Replay France 3",Filme ton quartier
 francetv://program/slash_filme-ton-quartier
 #EXTINF:-1 tvg-id="francetv-080fcd4d-a977-4563-ae06-e1b83551f5c9" tvg-logo="https://medias.france.tv/gqnkc9keSv7lWDHQdMDU9Vi2bWo/400x533/filters:quality(85)/p/x/h/phpawkhxp.png" tvg-country="FR" tvg-type="series" group-title="Replay France 3",La France en Vrai - Hauts-de-France — Tomorrow UK Inch'Allah
@@ -859,13 +861,17 @@ francetv://program/franceinfo_a-suivre-avec-claire-elisabeth-beaufort
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_l-heure-des-outre-mer" tvg-logo="https://medias.france.tv/tiOt_wYlt2KRrjsg0hTUudaesP0/400x0/filters:quality(85)/b/n/0/php0vh0nb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer
 francetv://program/franceinfo_l-heure-des-outre-mer
+#EXTINF:-1 tvg-id="francetv-1aeeae04-ea52-11f1-96e4-6dcd43e8ddfd" tvg-logo="https://medias.france.tv/mgaV6V8VbL-ef959x5O4Fwspmmo/400x0/filters:quality(85)/0/b/f/0f1a9615696742bbae431ac79f09ffb0.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le JT en LSF — JT en LSF - 27/11/2026 Le fil info 11H
+francetv://1aeeae04-ea52-11f1-96e4-6dcd43e8ddfd
+#EXTINF:-1 tvg-id="francetv-06aab25c-3b4b-4e34-8151-50514236314e" tvg-logo="https://medias.france.tv/DcTsvRkwjKvbays9rNwjQDl3otY/400x0/filters:quality(85)/c/0/1/58ffb3df94ff41aba687e09e8466110c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du vendredi 27 novembre 2026
+francetv://06aab25c-3b4b-4e34-8151-50514236314e
 #EXTINF:-1 tvg-id="francetv-361f7b59-2d9d-454e-8584-448a7fb63543" tvg-logo="https://medias.france.tv/aY4d7B_diZmPM4vM_Ci94whkpCo/400x0/filters:quality(85)/3/c/9/76b71db1f0d842a5ab3fc86618abb9c3.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — Émission du vendredi 27 novembre 2026
 francetv://361f7b59-2d9d-454e-8584-448a7fb63543
 #EXTINF:-1 tvg-id="francetv-004edb95-9a91-4914-b600-2da916df9913" tvg-logo="https://medias.france.tv/z5C67bx-YeYIzp8tu2HwuZ31LS8/400x0/filters:quality(85)/4/2/2/3cad411c75604f2687152fe14f23b224.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo
 francetv://004edb95-9a91-4914-b600-2da916df9913
 #EXTINF:-1 tvg-id="francetv-22b1d860-5eab-41ae-90a7-dd7e0c72560b" tvg-logo="https://medias.france.tv/ojcmiqEDASep0U1uq1n0iMU2Oy4/400x0/filters:quality(85)/8/8/b/4e1f7129c2524307a02684196042cb88.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — Émission du vendredi 27 novembre 2026
 francetv://22b1d860-5eab-41ae-90a7-dd7e0c72560b
-#EXTINF:-1 tvg-id="francetv-c4bb594f-a245-44de-939a-f804c16a8f72" tvg-logo="https://medias.france.tv/jQjeXHdvUai0LW63GPX1p_ObcUA/400x0/filters:quality(85)/c/2/6/ec5e203b946f4922959eb7a6f5ea862c.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
+#EXTINF:-1 tvg-id="francetv-c4bb594f-a245-44de-939a-f804c16a8f72" tvg-logo="https://medias.france.tv/ObURIrZHr7GL9C6kABu0KBjE7Yg/400x0/filters:quality(85)/c/a/b/75be3cabcec943d3b8c6819e8ddc9bac.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
 francetv://c4bb594f-a245-44de-939a-f804c16a8f72
 #EXTINF:-1 tvg-id="francetv-6324d5f2-b9df-4106-8f78-7f6bcacbd8a5" tvg-logo="https://medias.france.tv/dgQwKybh8attOoZAtCMD6hz0b80/400x0/filters:quality(85)/a/4/9/c57e22d0300c4dd2a0bba9d63e7c294a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du jeudi 26 novembre 2026
 francetv://6324d5f2-b9df-4106-8f78-7f6bcacbd8a5
@@ -895,10 +901,6 @@ francetv://71628700-8d95-4b5f-9af9-62dce3df8192
 francetv://65c3e62d-9eca-4c2f-b635-11be808897dc
 #EXTINF:-1 tvg-id="francetv-20d6ffd1-5976-42d9-aa8e-d6b371db6ecd" tvg-logo="https://medias.france.tv/UVyKSwgJo4Iz51I5J7YCzBZwKpM/400x0/filters:quality(85)/1/8/b/a7da74fc7418403a9b70edc4d9b6bb81.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 23h info
 francetv://20d6ffd1-5976-42d9-aa8e-d6b371db6ecd
-#EXTINF:-1 tvg-id="francetv-71e7dfc0-3125-4241-b9b8-98e083193377" tvg-logo="https://medias.france.tv/GKRk1mbLfid2q4iCh6e-pIJRiZI/400x0/filters:quality(85)/7/a/7/3d5fee432c2f4c349671a943a498a7a7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du mercredi 25 novembre 2026
-francetv://71e7dfc0-3125-4241-b9b8-98e083193377
-#EXTINF:-1 tvg-id="francetv-9a16ae23-adbc-4569-ba00-23a986008210" tvg-logo="https://medias.france.tv/rLBDLXvI9C3GyYZU0mA7vUQPpp8/400x0/filters:quality(85)/7/e/8/769a2012bdd34c1ca7ee8f579e13f8e7.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du mercredi 25 novembre 2026
-francetv://9a16ae23-adbc-4569-ba00-23a986008210
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
