@@ -867,6 +867,10 @@ francetv://program/franceinfo_a-suivre-avec-claire-elisabeth-beaufort
 francetv://program/franceinfo_le-23h
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_l-heure-des-outre-mer" tvg-logo="https://medias.france.tv/tiOt_wYlt2KRrjsg0hTUudaesP0/400x0/filters:quality(85)/b/n/0/php0vh0nb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'heure des Outre-mer
 francetv://program/franceinfo_l-heure-des-outre-mer
+#EXTINF:-1 tvg-id="francetv-7fd0de94-7925-4005-85e2-4f06a991df4f" tvg-logo="https://medias.france.tv/QT_6p23LbzAI2Fd3eo9V6GQX8h8/400x0/filters:quality(85)/8/6/b/1a3d706b02704aa2af412c07376a0b68.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",L'info s'éclaire — Émission du samedi 28 novembre 2026
+francetv://7fd0de94-7925-4005-85e2-4f06a991df4f
+#EXTINF:-1 tvg-id="francetv-4bf34528-9df6-4c8b-9144-33d382f5d63b" tvg-logo="https://medias.france.tv/t0fjk7xkmqly2ZKTvxZxEChzYLA/400x0/filters:quality(85)/d/b/b/054e0bf4a24c4778a2b9d26ae2c9ebbd.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — La matinale
+francetv://4bf34528-9df6-4c8b-9144-33d382f5d63b
 #EXTINF:-1 tvg-id="francetv-382d8084-2b2b-4b07-b77d-8dae5b8fc57f" tvg-logo="https://medias.france.tv/dibVCb2xgjgaaueCtQFxI_Zqe2Q/400x0/filters:quality(85)/a/1/7/3455850615e7454792db401b6383471a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le 7.40 franceinfo — Le 7.40
 francetv://382d8084-2b2b-4b07-b77d-8dae5b8fc57f
 #EXTINF:-1 tvg-id="francetv-9820eba2-30cd-41d3-986b-2179b93c9b0d" tvg-logo="https://medias.france.tv/hU0RSyssYPVsfOs1eW0dRrrsMPk/400x0/filters:quality(85)/a/f/7/8507fc4784454c468651b0932b6297fa.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",La matinale info week-end — La matinale
@@ -903,10 +907,6 @@ francetv://22b1d860-5eab-41ae-90a7-dd7e0c72560b
 francetv://c4bb594f-a245-44de-939a-f804c16a8f72
 #EXTINF:-1 tvg-id="francetv-6324d5f2-b9df-4106-8f78-7f6bcacbd8a5" tvg-logo="https://medias.france.tv/dgQwKybh8attOoZAtCMD6hz0b80/400x0/filters:quality(85)/a/4/9/c57e22d0300c4dd2a0bba9d63e7c294a.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A Suivre avec Loïc de La Mornais — Émission du jeudi 26 novembre 2026
 francetv://6324d5f2-b9df-4106-8f78-7f6bcacbd8a5
-#EXTINF:-1 tvg-id="francetv-405bded3-ce40-494c-92ac-59e732d8935f" tvg-logo="https://medias.france.tv/C1CUP0cMMRGe3ZlHmAZY740vWfM/400x0/filters:quality(85)/9/a/2/ff0a3bea3d93464fa88c3730014b42a9.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Avant le 20h — Émission du jeudi 26 novembre 2026
-francetv://405bded3-ce40-494c-92ac-59e732d8935f
-#EXTINF:-1 tvg-id="francetv-7c162493-6c3d-4509-b638-26295332b019" tvg-logo="https://medias.france.tv/R1NkYO5wpR6qMk8KMaunw2cjE-Q/400x0/filters:quality(85)/b/c/7/f403a24d2aec491993564d78e9eb37cb.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",Le Scan info — Émission du jeudi 26 novembre 2026
-francetv://7c162493-6c3d-4509-b638-26295332b019
 #EXTINF:-1 tvg-id="francetv-prog-franceinfo_23h-info" tvg-logo="https://medias.france.tv/JAy_FcYcn8ebyeEKceOXVngduyM/400x0/filters:quality(85)/5/p/d/phpshrdp5.jpg" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",23h info
 francetv://program/franceinfo_23h-info
 #EXTINF:-1 tvg-id="francetv-prog-france-2_a-l-origine" tvg-logo="https://medias.france.tv/-hG3bIIpBUA2WgtmYLRD3dspYfQ/400x0/filters:quality(85)/b/u/m/phpgupmub.png" tvg-country="FR" tvg-type="series" group-title="Replay Franceinfo",A l'origine
@@ -2389,8 +2389,8 @@ francetv://63b7bd51-e3dd-4e30-9e4d-82972754ed3a
 francetv://2ca18cb3-250d-469a-b600-8a57e3754d8c
 #EXTINF:-1 tvg-id="francetv-prog-france-5_les-plus-beaux-treks" tvg-logo="https://medias.france.tv/Q7_EDhH_UvUmE-X839eOWJLm5WY/400x0/filters:quality(85)/b/g/f/phphkafgb.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Les plus beaux treks d'Outre-mer
 francetv://program/france-5_les-plus-beaux-treks
-#EXTINF:-1 tvg-id="francetv-13bbc9d5-fc63-4278-ba2f-81042f29c75b" tvg-logo="https://medias.france.tv/X7UM0c1EvoLhpDt29HLwZRQo0VU/400x0/filters:quality(85)/8/l/p/phpdmdpl8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Les Canaries, éternel printemps
-francetv://13bbc9d5-fc63-4278-ba2f-81042f29c75b
+#EXTINF:-1 tvg-id="francetv-52f4b5d5-051c-503d-a963-9c034c030375" tvg-logo="https://medias.france.tv/X7UM0c1EvoLhpDt29HLwZRQo0VU/400x0/filters:quality(85)/8/l/p/phpdmdpl8.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Les Canaries, éternel printemps
+francetv://52f4b5d5-051c-503d-a963-9c034c030375
 #EXTINF:-1 tvg-id="francetv-1dbd1786-67dd-4a2a-8f35-20929c1a99a2" tvg-logo="https://medias.france.tv/umgBJtDb2JD-_ckXbcV7LkdnqiY/400x0/filters:quality(85)/d/3/f/fe7c0d1edc4144a0b51dc843611a544f10dffce1376105f22516514ac813df3d.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Nus & culottés — Objectif Lot
 francetv://1dbd1786-67dd-4a2a-8f35-20929c1a99a2
 #EXTINF:-1 tvg-id="francetv-87beb674-b44a-40de-90c4-4fc59ea10cd8" tvg-logo="https://medias.france.tv/lK-OXYSkf2otUJiaqfg-vns6R9w/400x0/filters:quality(85)/u/j/9/phpymf9ju.jpg" tvg-country="FR" tvg-type="series" group-title="Thématique France TV - Documentaires - Besoin de vitamine D ?",Échappées belles — Belize, la perle des Caraïbes
